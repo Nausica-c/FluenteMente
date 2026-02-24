@@ -9,7 +9,7 @@ permalink: /hub-lingue/
     <p style="text-align: center; color: var(--text-light); max-width: 600px; margin: 0 auto 40px;">Seleziona una delle lingue qui sotto per scoprire le migliori risorse, app, metodi di studio e guide passo-passo per iniziare o perfezionare il tuo livello.</p>
 
     <div class="language-grid">
-        <a href="#" class="lang-card">
+        <a href="{{ '/inglese/' | relative_url }}" class="lang-card">
             <span class="lang-flag">🇬🇧</span>
             <h2 class="lang-name">Inglese</h2>
             <p class="lang-desc">Imprescindibile per il lavoro e i viaggi.</p>
@@ -19,7 +19,7 @@ permalink: /hub-lingue/
             <h2 class="lang-name">Spagnolo</h2>
             <p class="lang-desc">La seconda lingua madre più parlata al mondo.</p>
         </a>
-        <a href="#" class="lang-card">
+        <a href="{{ '/francese/' | relative_url }}" class="lang-card">
             <span class="lang-flag">🇫🇷</span>
             <h2 class="lang-name">Francese</h2>
             <p class="lang-desc">La lingua della diplomazia e della cultura.</p>
