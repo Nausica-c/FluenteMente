@@ -5,8 +5,6 @@ permalink: /parole-inglesi-intraducibili/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se attivi un piano di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te. 
-
 Una delle cose più affascinanti dello studio delle lingue è scoprire che il vocabolario non è solo un elenco di etichette per le cose, ma un modo diverso di guardare il mondo. 
 
 Se frequenti la nostra [Hub Lingue]({{ '/hub-lingue/' | relative_url }}), sai che la traduzione letterale è il nemico numero uno della fluidità. Ci sono concetti, sensazioni e situazioni per cui l'italiano ha bisogno di intere frasi, mentre l'inglese riesce a riassumerli in **una singola, perfetta parola**. 
