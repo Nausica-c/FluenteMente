@@ -111,3 +111,33 @@ ul { list-style: none; }
     .post-title { font-size: 2rem; }
     .author-box { flex-direction: column; text-align: center; }
 }
+.disclaimer-inline {
+    display: flex;
+    align-items: flex-start;
+    background-color: #f8fafc; /* Grigio molto chiaro */
+    border-left: 3px solid var(--primary-color); /* Linea arancione */
+    padding: 12px 16px;
+    margin-bottom: 30px;
+    border-radius: 0 6px 6px 0;
+}
+
+.disclaimer-icon {
+    margin-right: 12px;
+    font-size: 1rem;
+}
+
+.disclaimer-text {
+    margin: 0 !important; /* Rimuove i margini del paragrafo */
+    font-size: 0.85rem !important; /* Più piccolo del testo normale */
+    line-height: 1.4 !important;
+    color: var(--text-light) !important;
+    font-style: italic;
+}
+
+.disclaimer-text strong {
+    font-style: normal;
+    color: var(--text-main);
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+        }
