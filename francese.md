@@ -5,7 +5,6 @@ permalink: /francese/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se decidi di iniziare il tuo percorso di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te.
 
 *Bienvenue!* Se sei atterrato qui, hai scelto di studiare una delle lingue più affascinanti, eleganti e strategicamente utili del pianeta. 
 
