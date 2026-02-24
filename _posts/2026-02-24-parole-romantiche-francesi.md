@@ -5,8 +5,6 @@ permalink: /parole-romantiche-francesi/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se attivi un piano di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te. 
-
 Se hai letto il nostro articolo sulle [parole inglesi intraducibili]({{ '/parole-inglesi-intraducibili/' | relative_url }}), sai quanto il vocabolario di una lingua riveli la cultura del suo popolo. 
 
 Quando si tratta di romanticismo, fascino ed eleganza, il francese non ha rivali. Ci sono concetti legati all'amore e ai sentimenti che in italiano richiederebbero intere e goffe perifrasi, ma che in francese si risolvono in un suono morbido e perfetto.
