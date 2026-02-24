@@ -29,6 +29,11 @@ permalink: /hub-lingue/
             <h2 class="lang-name">Tedesco</h2>
             <p class="lang-desc">Fondamentale per il business in Europa.</p>
         </a>
+        <a href="#" class="lang-card">
+            <span class="lang-flag">🇵🇹</span>
+            <h2 class="lang-name">Portoghese</h2>
+            <p class="lang-desc">Dal fascino di Lisbona all'energia del Brasile.</p>
+        </a>
     </div>
 </div>
 
