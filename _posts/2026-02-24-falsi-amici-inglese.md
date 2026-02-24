@@ -5,7 +5,6 @@ permalink: /falsi-amici-inglese-italiano/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se decidi di iniziare il tuo percorso di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te.
 
 Ti è mai capitato di dire a un madrelingua inglese che sei "molto educato" usando la parola *educated*, per poi ricevere un'occhiata perplessa? 
 
