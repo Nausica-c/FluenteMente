@@ -1,0 +1,15 @@
+title: FluenteMente
+description: Strategie pratiche per imparare le lingue + risorse consigliate (Babbel incluso).
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Link esterni (metti i tuoi)
+social:
+  pinterest: "https://www.pinterest.com/TUO_PROFILO"
+  x: "https://x.com/TUO_PROFILO"
+
+# Link Babbel (metti il tuo link/affiliazione)
+babbel_url: "https://www.babbel.com/"
