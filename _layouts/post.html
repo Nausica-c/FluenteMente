@@ -1,50 +1,37 @@
 ---
 layout: default
 ---
-<article class="post">
-  <!-- Affiliate disclosure: SEMPRE visibile all'inizio -->
-  <div class="affiliate-disclosure" role="note">
-    <strong>Affiliate disclosure:</strong> questo articolo contiene link affiliati.
-    Se acquisti tramite questi link potrei ricevere una commissione senza costi aggiuntivi per te.
-  </div>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="wrapper post-wrapper">
+        
+        <header class="post-header">
+            <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+            <p class="post-meta">
+                <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                    {{ page.date | date: "%d/%m/%Y" }}
+                </time>
+                {%- if page.author -%}
+                    <span class="meta-separator">•</span>
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span class="p-author h-card" itemprop="name">Di {{ page.author }}</span>
+                    </span>
+                {%- endif -%}
+            </p>
+        </header>
 
-  <header class="post-hero">
-    <p class="kicker">{{ page.kicker | default: "Imparare lingue" }}</p>
-    <h1 class="post-title">{{ page.title }}</h1>
-    <div class="post-meta">
-      <span>{{ page.date | date: "%d %b %Y" }}</span>
-      {% if page.reading %}<span class="dot">•</span><span>{{ page.reading }}</span>{% endif %}
-      {% if page.level %}<span class="dot">•</span><span>Livello: {{ page.level }}</span>{% endif %}
-    </div>
-    {% if page.tags %}
-      <div class="tags">
-        {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
-      </div>
-    {% endif %}
-  </header>
+        <div class="post-content e-content" itemprop="articleBody">
+            {{ content }}
+        </div>
 
-  <section class="cta">
-    <div class="cta__text">
-      <h2 class="cta__title">Vuoi un percorso guidato?</h2>
-      <p class="cta__subtitle">Se hai poco tempo, una struttura pronta ti aiuta a restare costante.</p>
-    </div>
-    <div class="cta__actions">
-      <a class="btn" href="{{ site.babbel_url }}" target="_blank" rel="noopener sponsored">Prova Babbel</a>
-      <a class="btn btn-ghost" href="{{ '/risorse/' | relative_url }}">Risorse</a>
-    </div>
-  </section>
+        <hr class="section-divider">
 
-  <div class="prose">
-    {{ content }}
-  </div>
+        <div class="author-box">
+            <div class="author-avatar-placeholder">✍️</div>
+            <div class="author-info">
+                <h3 class="author-name">{{ page.author | default: site.author }}</h3>
+                <p class="author-bio">Appassionato di lingue e poliglotta. Su <strong>{{ site.title }}</strong> condivido metodi e risorse per aiutarti a studiare in autonomia, ottimizzando tempo e motivazione.</p>
+            </div>
+        </div>
 
-  <section class="cta cta--bottom">
-    <div class="cta__text">
-      <h2 class="cta__title">Prossimo passo</h2>
-      <p class="cta__subtitle">Scegli una routine semplice e un percorso progressivo: ti farà andare lontano.</p>
     </div>
-    <div class="cta__actions">
-      <a class="btn" href="{{ site.babbel_url }}" target="_blank" rel="noopener sponsored">Prova Babbel</a>
-    </div>
-  </section>
 </article>
