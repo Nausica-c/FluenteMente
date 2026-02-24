@@ -5,8 +5,6 @@ permalink: /falsi-amici-francese-italiano/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se decidi di iniziare il tuo percorso di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te.
-
 Molti italiani affrontano lo studio del francese con troppa leggerezza, convinti che basti prendere una parola italiana, tagliarle l'ultima vocale e pronunciarla con la *r* moscia. 
 
 Come abbiamo visto nella nostra guida sui [5 Errori Fatali nell'apprendimento]({{ '/5-errori-imparare-lingua/' | relative_url }}), tradurre letteralmente è il modo più veloce per bloccare la tua fluidità. In francese, questo approccio è particolarmente letale a causa dei **Falsi Amici** (*Faux amis*): parole che sembrano identiche all'italiano, ma che hanno significati completamente diversi.
