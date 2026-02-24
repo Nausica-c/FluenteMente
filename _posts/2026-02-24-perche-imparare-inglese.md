@@ -5,7 +5,6 @@ permalink: /perche-imparare-inglese/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se attivi un piano di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te.
 
 "L'inglese lo sanno tutti, ormai non fa più la differenza". Quante volte hai sentito (o pensato) questa frase? 
 
