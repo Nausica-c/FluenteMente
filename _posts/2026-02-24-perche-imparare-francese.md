@@ -5,7 +5,6 @@ permalink: /perche-imparare-francese/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se attivi un piano di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te. Questo ci permette di mantenere il sito gratuito.
 
 Quando pensiamo al francese, la mente corre subito a Parigi, alla Torre Eiffel illuminata, a un *croissant* caldo e a un'atmosfera incredibilmente romantica. Non è un caso che abbiamo dedicato un intero articolo alle [20 parole romantiche francesi intraducibili]({{ '/parole-romantiche-francesi/' | relative_url }}).
 
