@@ -5,7 +5,6 @@ permalink: /inglese/
 author: "La Redazione"
 ---
 
-> **Nota di trasparenza:** Questo articolo contiene link affiliati. Se decidi di iniziare il tuo percorso di studio tramite i link presenti, potrei ricevere una commissione senza alcun costo aggiuntivo per te.
 
 Benvenuto nell'Hub dedicato alla lingua più importante del mondo. Se vuoi imparare l'inglese da zero, o se lo studi da anni ma ti blocchi non appena devi parlare con un madrelingua, sei nel posto giusto.
 
