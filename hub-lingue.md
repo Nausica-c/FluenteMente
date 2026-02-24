@@ -14,7 +14,7 @@ permalink: /hub-lingue/
             <h2 class="lang-name">Inglese</h2>
             <p class="lang-desc">Imprescindibile per il lavoro e i viaggi.</p>
         </a>
-        <a href="#" class="lang-card">
+        <a href="{{ '/spagnolo/' | relative_url }}" class="lang-card">
             <span class="lang-flag">🇪🇸</span>
             <h2 class="lang-name">Spagnolo</h2>
             <p class="lang-desc">La seconda lingua madre più parlata al mondo.</p>
@@ -24,16 +24,16 @@ permalink: /hub-lingue/
             <h2 class="lang-name">Francese</h2>
             <p class="lang-desc">La lingua della diplomazia e della cultura.</p>
         </a>
-        <a href="#" class="lang-card">
+        <a href="{{ '/tedesco/' | relative_url }}" class="lang-card">
             <span class="lang-flag">🇩🇪</span>
             <h2 class="lang-name">Tedesco</h2>
             <p class="lang-desc">Fondamentale per il business in Europa.</p>
         </a>
-        <a href="#" class="lang-card">
-            <span class="lang-flag">🇵🇹</span>
-            <h2 class="lang-name">Portoghese</h2>
-            <p class="lang-desc">Dal fascino di Lisbona all'energia del Brasile.</p>
-        </a>
+        <a href="{{ '/portoghese/' | relative_url }}" class="lang-card">
+    <span class="lang-flag">🇵🇹</span>
+    <h2 class="lang-name">Portoghese</h2>
+    <p class="lang-desc">Dal fascino di Lisbona all'energia del Brasile. Scopri guide e curiosità.</p>
+</a>    </a>
     </div>
 </div>
 
