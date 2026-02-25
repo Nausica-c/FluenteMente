@@ -17,7 +17,9 @@ Siamo onesti: il web è pieno di app che promettono di farti parlare una lingua 
 
 Se hai letto il nostro **[Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})**, sai che non crediamo nei miracoli, ma in **sistemi strutturati, costanza e ripetizione intelligente**.
 
+
 {% include promo-babbel.html variant="educativo" %}
+
 
 Dopo aver testato diverse piattaforme, oggi analizziamo **Babbel**: è davvero lo strumento migliore per un adulto che vuole imparare una lingua da zero (o sbloccarsi), o è solo marketing?
 
@@ -50,6 +52,8 @@ Ecco la nostra recensione senza filtri.
 
 
 {% include promo-babbel.html variant="recensione" %}
+
+
 ---
 
 ## 🛠️ Come Funziona (e perché rispetta il Metodo FluenteMente)
