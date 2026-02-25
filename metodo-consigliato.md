@@ -77,10 +77,11 @@ Dimentica le sessioni di studio estenuanti. Non ti servono 2 ore al giorno. L'ap
 
 Molti cercano di imparare mettendo insieme frammenti gratuiti trovati online. Funziona? Raramente. Ecco perché:
 
-| Approccio | Caratteristiche | Risultato Finale |
+| Approccio | Caratteristiche | | Approccio | Metodo di Studio | Risultato Finale |
 | :--- | :--- | :--- |
-| **Materiali Sparsi / Fai-da-te** | Uso di blog, video YouTube casuali, PDF scollegati. Alto carico cognitivo per organizzare lo studio. | **Confusione e stallo.** Mancanza di una direzione chiara che porta all'abbandono. |
-| **Percorso Strutturato** | Lezioni sequenziali, ripasso automatizzato, tracciamento dei progressi. | **Miglioramenti misurabili.** Sviluppo omogeneo di lettura, ascolto, scrittura e parlato. |
+| ❌ **Fai-da-te** | Materiali sparsi (video e PDF casuali) | Confusione e abbandono |
+| ✅ **Strutturato** | Percorso guidato e ripasso automatico | Progressi misurabili |
+
 
 Passare a un approccio strutturato non significa dover spendere migliaia di euro in corsi privati. Significa semplicemente adottare **un sistema coerente che lavori per te, non contro di te**.
 
