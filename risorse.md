@@ -22,45 +22,93 @@ Troverai una **strategia chiara e sostenibile** per imparare davvero.
 ---
 
 # 📍 Da Dove Iniziare?
+# 📍 Da Dove Iniziare?
 
-Dipende dalla tua situazione.
+Non esiste un punto di partenza universale.
+
+Il modo giusto di iniziare dipende da:
+- il tuo livello attuale
+- il tempo che hai a disposizione
+- il tuo obiettivo (lavoro, viaggio, trasferimento, crescita personale)
+
+Per questo ti facciamo una domanda semplice:
+
+**In quale di queste situazioni ti riconosci di più?**
 
 ---
 
-## 🟢 Se Parti da Zero
+## 🟢 1. Parti completamente da zero
 
-Il primo errore è studiare a caso.
+Se:
+- non sai costruire frasi semplici
+- hai solo basi scolastiche lontane
+- ti senti intimidito dall’idea di parlare
 
-Ti serve una progressione logica:
-- basi
-- frasi quotidiane
-- ascolto
-- ripetizione
+Allora il tuo obiettivo non è la perfezione.
+
+È costruire fondamenta solide.
+
+Devi partire da:
+- frasi quotidiane essenziali
+- pronuncia fin da subito
+- routine breve ma costante
 
 👉 Inizia da qui:  
 **[Inglese da Zero: guida passo passo]({{ '/inglese-da-zero/' | relative_url }})**
 
 ---
 
-## 🟡 Se Studi ma Non Parli
+## 🟡 2. Studi ma non riesci a parlare
 
-Se capisci scritto ma ti blocchi quando devi parlare, il problema non è la grammatica.
+Se:
+- capisci scritto ma non parlato
+- ti blocchi quando devi rispondere
+- sai la grammatica ma non la usi
 
-È il metodo.
+Il problema non è la conoscenza.
 
-👉 Leggi qui:  
+È l’organizzazione.
+
+Ti serve:
+- più ascolto reale
+- dialoghi contestualizzati
+- ripetizione strategica
+- meno studio casuale
+
+👉 Vai qui:  
 **[Il Metodo Consigliato per imparare una lingua]({{ '/metodo-consigliato/' | relative_url }})**
 
 ---
 
-## 🔵 Se Vuoi Scegliere la Tua Lingua
+## 🔵 3. Sai cosa vuoi, ma non sai quale strumento scegliere
 
-Ogni lingua ha difficoltà e percorsi diversi.
+Se sei confuso tra:
+- app gratuite
+- corsi online
+- lezioni private
+- materiale sparso
 
-👉 Vai all’Hub dedicato:  
-**[Scegli la tua lingua]({{ '/hub-lingue/' | relative_url }})**
+Prima di scegliere lo strumento, devi capire il metodo.
+
+👉 Qui trovi la panoramica completa:  
+**[Confronto tra le migliori app per le lingue]({{ '/migliori-app-lingue-2026/' | relative_url }})**
 
 ---
+
+## 🧭 4. Non sei sicuro della lingua da scegliere
+
+Magari vuoi imparare una lingua,
+ma non hai ancora deciso quale.
+
+In questo caso, parti dall’Hub:
+
+👉 **[Scegli la tua lingua]({{ '/hub-lingue/' | relative_url }})**
+
+---
+
+La cosa più importante non è partire.
+
+È partire nella direzione giusta.
 
 # I 4 Pilastri del Metodo FluenteMente
 
