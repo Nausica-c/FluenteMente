@@ -1,117 +1,82 @@
 ---
-layout: default
-title: Home
-description: "Metodo pratico per imparare una lingua anche con 15 minuti al giorno. Percorso guidato, strumenti testati e strategie sostenibili."
+layout: home
+title: "FluenteMente | Imparare le Lingue Senza Studiare a Caso"
+seo_title: "FluenteMente: Metodo e Risorse per Imparare le Lingue da Autodidatta"
+description: "Scopri il Metodo FluenteMente: strategie, routine e strumenti per imparare una nuova lingua da zero, con costanza e senza il caos delle app."
+permalink: /
 ---
 
-<div class="hero-section">
-  <div class="wrapper hero-content">
-    <h1 class="hero-title">Imparare una lingua non deve essere complicato.</h1>
-    <p class="hero-subtitle">
-      Metodo strutturato, routine sostenibile e strumenti testati.
-      Anche se hai solo 15 minuti al giorno.
-    </p>
-    <div class="hero-buttons">
-      <a href="{{ '/inglese/inglese-da-zero/' | relative_url }}" class="btn-primary hero-btn">
-        Inizia da Inglese da Zero
-      </a>
-      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-secondary hero-btn">
-        Scopri il Metodo
-      </a>
-    </div>
-  </div>
+<div style="text-align: center; padding: 40px 0;">
+  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Imparare una lingua non deve essere un caos.</h1>
+  <p style="font-size: 1.2em; color: #555; margin-bottom: 30px;"><strong>Metodo chiaro. Routine sostenibile. Risultati reali.</strong></p>
+  
+  <a href="/FluenteMente/risorse/" style="background-color: #ff7a59; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin: 10px;">Inizia da qui 👉</a>
+  
+  <a href="/FluenteMente/hub-lingue/" style="background-color: #333; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin: 10px;">Scegli una lingua 🌍</a>
 </div>
 
-<!-- SEZIONE COME FUNZIONA -->
+---
 
-<div class="wrapper" style="padding: 70px 20px;">
-  <h2 style="text-align:center; margin-bottom:50px; border:none;">
-    Il percorso FluenteMente
-  </h2>
+## Perché FluenteMente è Diverso?
 
-  <div class="home-grid">
+Internet è pieno di promesse assurde sulle lingue. Noi abbiamo deciso di fare il contrario: dire la verità.
 
-    <a href="{{ '/inglese/inglese-da-zero/' | relative_url }}" class="home-card">
-      <div class="card-icon">🇬🇧</div>
-      <h3>1️⃣ Parti da Zero</h3>
-      <p>Costruisci le basi corrette, evita gli errori comuni e segui un ordine logico.</p>
-      <span class="card-link">Inizia qui →</span>
-    </a>
+❌ **Niente miracoli:** Non ti promettiamo che diventerai bilingue in 7 giorni dormendo con le cuffie.
+❌ **Niente "motivazione fake":** La motivazione finisce dopo due settimane. È la disciplina che ti fa raggiungere il traguardo.
+✅ **Sistema e costanza:** Crediamo in routine di 15 minuti al giorno, in strumenti strutturati e in un percorso che non ti faccia mai chiedere *"e oggi cosa studio?"*.
 
-    <a href="{{ '/inglese/routine-15-minuti/' | relative_url }}" class="home-card">
-      <div class="card-icon">⏱</div>
-      <h3>2️⃣ Crea una Routine</h3>
-      <p>15 minuti al giorno bastano, se usati nel modo giusto.</p>
-      <span class="card-link">Scopri il piano →</span>
-    </a>
+---
 
-    <a href="{{ '/metodo-consigliato/' | relative_url }}" class="home-card">
-      <div class="card-icon">🧭</div>
-      <h3>3️⃣ Segui un Metodo</h3>
-      <p>Smetti di studiare a caso. Percorso strutturato e progressivo.</p>
-      <span class="card-link">Vedi il metodo →</span>
-    </a>
+## Da Dove Vuoi Iniziare?
 
-  </div>
-</div>
+Scegli il percorso più adatto alla tua situazione attuale:
 
-<!-- HUB LINGUE -->
+### 🧠 1. Voglio capire come studiare
+Sei stanco di saltare da un'app all'altra senza risultati? Scopri i 4 pilastri per costruire una routine che funziona davvero.
+👉 **[Scopri il Metodo Consigliato](/FluenteMente/metodo-consigliato/)**
 
-<div class="wrapper" style="padding: 40px 20px; border-top: 1px solid var(--border-color);">
+### 🌍 2. So già quale lingua voglio imparare
+Vuoi buttarti direttamente sulla pratica? Vai al nostro hub, seleziona la tua lingua target e segui le nostre guide specifiche.
+👉 **[Vai all'Hub Lingue](/FluenteMente/hub-lingue/)**
 
-  <h2 style="text-align:center; margin-bottom:30px; border:none;">
-    Scegli la lingua che vuoi imparare
-  </h2>
+### ⭐ 3. Cerco lo strumento giusto
+Abbiamo testato decine di risorse. Scopri quale app rispetta davvero i principi dell'apprendimento per adulti senza farti perdere tempo.
+👉 **[Leggi la Recensione di Babbel](/FluenteMente/recensione-babbel/)**
 
-  <div style="text-align:center;">
-    <a href="{{ '/hub-lingue/' | relative_url }}" class="btn-outline">
-      Vai all'Hub Lingue
-    </a>
-  </div>
+---
 
-</div>
+## Le Guide Fondamentali
 
-<!-- METODO CONSIGLIATO SECTION -->
+Le letture obbligatorie per smettere di essere un "eterno principiante":
 
-<div class="wrapper" style="padding: 70px 20px; text-align:center;">
+* 🇬🇧 **[Inglese da Zero: I primi passi per iniziare (o ricominciare)](/FluenteMente/inglese-da-zero/)**
+* 🧭 **[Come imparare una lingua da zero: La Roadmap](/FluenteMente/come-imparare-lingua-da-zero/)**
+* ⏳ **[La Routine Perfetta: 15 minuti al giorno per diventare fluenti](/FluenteMente/routine-15-minuti/)**
+* 🧱 **[Perché capisco tutto ma non riesco a parlare? I blocchi psicologici](/FluenteMente/perche-non-riesco-parlare-lingua/)**
 
-  <h2 style="margin-bottom:20px; border:none;">
-    Il metodo che consigliamo per fare progressi reali
-  </h2>
+---
 
-  <p style="max-width:600px; margin:0 auto 30px; color:var(--text-light);">
-    Se vuoi evitare dispersione e avere un percorso già organizzato,
-    abbiamo analizzato diversi strumenti e selezionato quello più completo
-    per adulti con poco tempo.
-  </p>
+## Ultimi Articoli dal Blog
 
-  <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-primary">
-    Scopri il Metodo Consigliato
-  </a>
+*(Qui sotto appariranno automaticamente i tuoi articoli più recenti)*
 
-</div>
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li style="margin-bottom: 10px;">
+      <a href="{{ post.url | relative_url }}" style="font-weight: bold; font-size: 1.1em;">{{ post.title }}</a><br>
+      <span style="color: #777; font-size: 0.9em;">Pubblicato il: {{ post.date | date: "%d/%m/%Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
 
-<!-- ULTIMI ARTICOLI -->
+---
 
-<div class="wrapper recent-posts-section" style="padding: 40px 20px 60px; border-top: 1px solid var(--border-color);">
+## La Nostra Missione
 
-  <h2 style="margin-bottom: 30px; border:none;">
-    Ultimi articoli pubblicati
-  </h2>
+In FluenteMente crediamo in una regola semplicissima: **la struttura batte il talento**. 
 
-  <ul class="post-list">
-    {% for post in site.posts limit:4 %}
-      <li style="margin-bottom: 15px;">
-        <span class="post-meta" style="color: var(--text-light); font-size: 0.9em;">
-          {{ post.date | date: "%d/%m/%Y" }}
-        </span>
-        <h3 style="margin: 5px 0 0; font-size: 1.1rem;">
-          <a href="{{ post.url | relative_url }}" style="color:#1a202c;">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
+Non hai bisogno di un QI superiore alla media o del fantomatico "gene delle lingue" per ordinare una cena a Parigi, chiudere un affare in inglese o parlare con i tuoi amici in spagnolo. Hai solo bisogno di smettere di studiare a caso.
 
-</div>
+Pronto a trasformare le tue buone intenzioni in risultati misurabili?
+
+👉 **[Scopri il nostro Metodo Consigliato e inizia oggi](/FluenteMente/metodo-consigliato/)**
