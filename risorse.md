@@ -7,8 +7,6 @@ permalink: /risorse/
 author: "La Redazione"
 ---
 
-# Come Imparare una Lingua nel 2026 (Guida Completa)
-
 Se vuoi imparare una lingua ma ti senti:
 
 - bloccato
