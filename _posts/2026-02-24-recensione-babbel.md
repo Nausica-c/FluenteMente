@@ -25,12 +25,26 @@ Ecco la nostra recensione senza filtri.
 
 ## ⚖️ Babbel in Sintesi: Pro e Contro
 
-Se hai poco tempo, ecco il verdetto | ✅ Vantaggi (Pro) | ❌ Svantaggi (Contro) |
-| :--- | :--- |
-| **Percorso chiaro:** sai sempre cosa studiare. | **Limite avanzati:** ideale fino al livello C1. |
-| **Lezioni brevi:** perfette per chi ha poco tempo (10-15 min). | **Meno "gioco":** richiede un minimo di attenzione. |
-| **Ripasso intelligente:** non dimentichi i vocaboli. | **Non è gratuito:** serve un abbonamento per l'accesso completo. |
-| **Uso reale:** grammatica spiegata con frasi utili. | |
+<div class="procon-wrap">
+  <div class="procon-card pro">
+    <h3>✅ Vantaggi (Pro)</h3>
+    <ul>
+      <li><strong>Percorso strutturato:</strong> sai sempre cosa studiare.</li>
+      <li><strong>Lezioni brevi:</strong> perfette se hai poco tempo (10–15 min).</li>
+      <li><strong>Ripasso intelligente:</strong> ripassi prima di dimenticare.</li>
+      <li><strong>Uso reale:</strong> grammatica spiegata con frasi utili.</li>
+    </ul>
+  </div>
+
+  <div class="procon-card con">
+    <h3>❌ Svantaggi (Contro)</h3>
+    <ul>
+      <li><strong>Limite avanzati:</strong> ideale fino a B2 / primo C1, poi serve pratica libera.</li>
+      <li><strong>Meno “gioco”:</strong> richiede più attenzione (ma impari di più).</li>
+      <li><strong>Non è gratuita:</strong> serve un piano per l’accesso completo.</li>
+    </ul>
+  </div>
+</div>
 
 
 {% include promo-babbel.html variant=page.promo_variant %}
