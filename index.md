@@ -1,66 +1,142 @@
 ---
-layout: home
-title: "FluenteMente | Imparare le Lingue Senza Studiare a Caso"
-seo_title: "FluenteMente: Metodo e Risorse per Imparare le Lingue da Autodidatta"
-description: "Scopri il Metodo FluenteMente: strategie, routine e strumenti per imparare una nuova lingua da zero, con costanza e senza il caos delle app."
-permalink: /
+layout: default
+title: Home
+description: "Metodo pratico per imparare una lingua anche con 15 minuti al giorno. Percorsi guidati, risorse testate e strategia sostenibile."
 ---
 
-<div align="center">
-  <h1>🌍 Imparare una lingua non deve essere un caos.</h1>
-  <h3><em>Metodo chiaro. Routine sostenibile. Risultati reali.</em></h3>
-  <br>
-  👉 <a href="{{ '/risorse/' | relative_url }}"><strong>Inizia dalla Guida Completa</strong></a> &nbsp; | &nbsp; 🎯 <a href="{{ '/hub-lingue/' | relative_url }}"><strong>Scegli la tua Lingua</strong></a>
-  <br><br>
-</div>
+<!-- HERO -->
+<section class="hero-clean">
+  <div class="wrapper hero-clean__inner">
+    <h1 class="hero-clean__title">Imparare una lingua non deve essere un caos.</h1>
+    <p class="hero-clean__subtitle">
+      Metodo chiaro, routine sostenibile e strumenti testati.
+      Anche se hai solo 15 minuti al giorno.
+    </p>
 
----
+    <div class="hero-clean__actions">
+      <a href="{{ '/risorse/' | relative_url }}" class="btn-primary">Inizia da qui</a>
+      <a href="{{ '/hub-lingue/' | relative_url }}" class="btn-outline">Scegli una lingua</a>
+    </div>
 
-## 🛑 Perché Sei Bloccato? (E Come Sbloccarsi)
+    <div class="hero-clean__meta">
+      <span class="hero-pill">⏱ 15 min/giorno</span>
+      <span class="hero-pill">🧠 Metodo in 4 pilastri</span>
+      <span class="hero-pill">🚀 Percorso guidato</span>
+    </div>
+  </div>
+</section>
 
-Internet è pieno di promesse assurde. Diventare bilingue in 7 giorni? *Falso.* Imparare ascoltando podcast mentre dormi? *Falso.* Il 90% degli autodidatti fallisce per tre motivi:
-1. **Studia a caso** (salta da un'app all'altra senza una direzione).
-2. **Fa troppa teoria** (sa tutte le regole ma non sa ordinare un caffè).
-3. **Molla dopo due settimane** (perché la "motivazione" svanisce).
+<!-- PROBLEMA / SOLUZIONE -->
+<section class="section-soft">
+  <div class="wrapper">
+    <h2 class="section-title">Perché non diventi fluente (anche se “studi”)</h2>
+    <p class="section-subtitle">
+      Il problema quasi sempre non è la mancanza di impegno. È la mancanza di un sistema.
+    </p>
 
-> **La Soluzione FluenteMente:** > Non crediamo nel talento innato o nelle maratone di studio domenicali. Crediamo in **routine brevi (15 min/giorno)**, strumenti strutturati e un percorso che non ti faccia mai chiedere: *"E oggi cosa studio?"*.
+    <div class="bullet-grid">
+      <div class="bullet-card">
+        <h3>📚 Troppa teoria</h3>
+        <p>Conosci le regole, ma non sai ordinare un caffè.</p>
+      </div>
 
----
+      <div class="bullet-card">
+        <h3>🔁 Pochi ripassi</h3>
+        <p>Impari oggi, dimentichi domani perché manca ripetizione intelligente.</p>
+      </div>
 
-## 🗺️ Da Dove Vuoi Iniziare?
+      <div class="bullet-card">
+        <h3>😵 Studio casuale</h3>
+        <p>Ogni giorno decidi da zero cosa fare. Risultato: molli.</p>
+      </div>
+    </div>
 
-| 🧠 Il Metodo | 🌍 La Pratica | ⭐ Gli Strumenti |
-| :--- | :--- | :--- |
-| Stanco di studiare a caso? Scopri i 4 pilastri per costruire una routine che funziona. | Sai già quale lingua vuoi imparare? Vai all'Hub e segui le nostre guide specifiche. | Quale app funziona davvero per gli adulti? Abbiamo testato il mercato per te. |
-| 👉 **[Scopri il Metodo]({{ '/metodo-consigliato/' | relative_url }})** | 👉 **[Vai all'Hub Lingue]({{ '/hub-lingue/' | relative_url }})** | 👉 **[Recensione Babbel]({{ '/recensione-babbel/' | relative_url }})** |
+    <div class="solution-box">
+      <h3>✅ La soluzione FluenteMente</h3>
+      <p>
+        Routine brevi (15 min/giorno), strumenti strutturati e una progressione che non ti faccia mai chiedere:
+        <em>“E oggi cosa studio?”</em>
+      </p>
+    </div>
+  </div>
+</section>
 
----
+<!-- START HERE -->
+<section class="section-alt">
+  <div class="wrapper">
+    <h2 class="section-title">🗺️ Da dove vuoi iniziare?</h2>
+    <p class="section-subtitle">Scegli il percorso più adatto alla tua situazione.</p>
 
-## 📚 Le Guide Fondamentali
+    <div class="start-grid">
+      <div class="start-card start-card-highlight">
+        <div class="start-icon">🧠</div>
+        <h3>Il Metodo</h3>
+        <p>Scopri i 4 pilastri per imparare davvero e costruire una routine che dura.</p>
+        <a href="{{ '/metodo-consigliato/' | relative_url }}" class="card-link">👉 Scopri il Metodo</a>
+      </div>
 
-Queste sono le letture obbligatorie per smettere di essere un "eterno principiante" e iniziare a parlare sul serio:
+      <div class="start-card">
+        <div class="start-icon">🌍</div>
+        <h3>La Pratica</h3>
+        <p>Scegli la lingua e segui un percorso completo: pronuncia, vocaboli, routine.</p>
+        <a href="{{ '/hub-lingue/' | relative_url }}" class="card-link">👉 Vai all’Hub Lingue</a>
+      </div>
 
-* 🇬🇧 **[Inglese da Zero: I primi passi per iniziare (o ricominciare)]({{ '/inglese-da-zero/' | relative_url }})**
-* 🧭 **[Come imparare una lingua da zero: La Roadmap Definitiva]({{ '/come-imparare-lingua-da-zero/' | relative_url }})**
-* ⏳ **[La Routine Perfetta: 15 minuti al giorno per diventare fluenti]({{ '/routine-15-minuti/' | relative_url }})**
-* 🧱 **[Perché capisco tutto ma non riesco a parlare? I 3 blocchi psicologici]({{ '/perche-non-riesco-parlare-lingua/' | relative_url }})**
+      <div class="start-card">
+        <div class="start-icon">⭐</div>
+        <h3>Gli Strumenti</h3>
+        <p>Quale app funziona davvero per adulti? Qui trovi la nostra scelta.</p>
+        <a href="{{ '/recensione-babbel/' | relative_url }}" class="card-link">👉 Recensione Babbel</a>
+      </div>
+    </div>
+  </div>
+</section>
 
----
+<!-- GUIDE FONDAMENTALI -->
+<section class="section-soft">
+  <div class="wrapper">
+    <h2 class="section-title">📚 Le guide fondamentali</h2>
+    <p class="section-subtitle">
+      Le letture obbligatorie per smettere di essere un “eterno principiante” e iniziare a parlare sul serio.
+    </p>
 
-## 🗞️ Ultimi Articoli dal Blog
+    <div class="guide-list">
+      <a href="{{ '/inglese/inglese-da-zero/' | relative_url }}" class="guide-link">
+        🇬🇧 Inglese da Zero: i primi passi per iniziare (o ricominciare)
+      </a>
 
-Rimani aggiornato con le ultime strategie, analisi e risorse pubblicate dalla nostra redazione:
+      <a href="{{ '/come-imparare-lingua-da-zero/' | relative_url }}" class="guide-link">
+        🧭 Come imparare una lingua da zero: la roadmap definitiva
+      </a>
 
-{% for post in site.posts limit:5 %}
-* 📅 *{{ post.date | date: "%d/%m/%Y" }}* — **[{{ post.title }}]({{ post.url | relative_url }})**
-{% endfor %}
+      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="guide-link">
+        🧠 Il Metodo Consigliato: progressione, contesto, ripasso, routine
+      </a>
+    </div>
 
----
+    <div class="category-links">
+      <a class="chip" href="{{ '/inglese/' | relative_url }}">🇬🇧 Inglese</a>
+      <a class="chip" href="{{ '/spagnolo/' | relative_url }}">🇪🇸 Spagnolo</a>
+      <a class="chip" href="{{ '/francese/' | relative_url }}">🇫🇷 Francese</a>
+      <a class="chip" href="{{ '/tedesco/' | relative_url }}">🇩🇪 Tedesco</a>
+      <a class="chip" href="{{ '/portoghese/' | relative_url }}">🇵🇹 Portoghese</a>
+    </div>
+  </div>
+</section>
 
-<div align="center">
-  <h2>La Nostra Missione</h2>
-  <p>In FluenteMente crediamo in una regola semplicissima: <strong>la struttura batte il talento</strong>.</p>
-  <p>Non hai bisogno di un QI superiore alla media o del fantomatico "gene delle lingue" per chiudere un affare in inglese, viaggiare in scioltezza o parlare con i tuoi amici in spagnolo. Hai solo bisogno di smettere di studiare a caso.</p>
-  <br>
-  👉 <strong><a href="{{ '/metodo-consigliato/' | relative_url }}">Scopri il nostro Metodo Consigliato e inizia oggi</a></strong> 🚀
-</div>
+<!-- ULTIMI ARTICOLI -->
+<section class="section-alt">
+  <div class="wrapper">
+    <h2 class="section-title">📰 Ultimi articoli</h2>
+    <p class="section-subtitle">Aggiornamenti, guide e strategie pratiche.</p>
+
+    <ul class="post-list">
+      {% for post in site.posts limit:6 %}
+        <li class="post-row">
+          <span class="post-row__date">{{ post.date | date: "%d/%m/%Y" }}</span>
+          <a class="post-row__title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
