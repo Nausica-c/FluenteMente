@@ -64,19 +64,67 @@ Ogni lingua ha difficoltà e percorsi diversi.
 
 # I 4 Pilastri del Metodo FluenteMente
 
-Indipendentemente dalla lingua, il sistema è sempre questo:
-
 ## 1️⃣ Progressione chiara
 Sapere cosa studiare e in che ordine.
+
+Molti studenti saltano tra argomenti scollegati: un giorno il past simple, il giorno dopo 50 vocaboli, poi un podcast troppo avanzato.
+
+Un buon metodo segue una sequenza logica:
+- basi essenziali
+- frasi quotidiane
+- strutture grammaticali fondamentali
+- dialoghi realistici
+- revisione periodica
+
+La chiarezza riduce frustrazione e aumenta la costanza.
+
+---
 
 ## 2️⃣ Contesto reale
 Frasi utili, non teoria sterile.
 
+Memorizzare parole isolate funziona poco.  
+Il cervello ricorda meglio quando le informazioni sono legate a situazioni concrete.
+
+Meglio imparare:
+- “Can I pay by card?”
+- “I’m looking for…”
+- “How long does it take?”
+
+Invece di liste astratte che non userai mai.
+
+Il contesto trasforma lo studio in competenza comunicativa.
+
+---
+
 ## 3️⃣ Ripetizione intelligente
 Consolidare prima di dimenticare.
 
+Il cervello dimentica velocemente ciò che non ripassa.  
+La chiave non è ripetere tutto ogni giorno, ma rivedere nel momento giusto.
+
+Un sistema efficace:
+- ripropone vocaboli dopo alcuni giorni
+- rinforza ciò che sbagli più spesso
+- riduce il tempo perso su ciò che già sai
+
+Questo è ciò che trasforma lo studio in memoria a lungo termine.
+
+---
+
 ## 4️⃣ Routine breve ma costante
 15 minuti al giorno battono 2 ore sporadiche.
+
+La costanza conta più dell’intensità.
+
+Sessioni brevi:
+- riducono la fatica mentale
+- mantengono alta la motivazione
+- creano abitudine
+
+Lo studio diventa parte della giornata, non un sacrificio straordinario.
+
+Nel lungo periodo, è questo che fa la differenza.
 
 ---
 
