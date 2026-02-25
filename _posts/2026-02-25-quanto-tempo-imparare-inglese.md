@@ -26,7 +26,7 @@ In questa guida analizziamo i dati reali e ti forniamo una roadmap basata sulla 
 
 ## 🎯 Se Parti da Zero (Livello A1)
 
-Se non ricordi nulla dai tempi della scuola o parti completamente da zero, ecco cosa aspettarti se segui una [routine costante di 15 minuti al giorno](../routine-15-minuti/):
+Se non ricordi nulla dai tempi della scuola o parti completamente da zero, ecco cosa aspettarti se segui una [routine costante di 15 minuti al giorno](/routine-15-minuti/):
 
 * **📅 1 mese:** Conosci le frasi base (saluti, presentazioni) e inizi a capire semplici domande.
 * **📅 3 mesi:** Riesci a gestire conversazioni molto basilari (ordinare cibo, chiedere indicazioni).
