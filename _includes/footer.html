@@ -1,31 +1,50 @@
 <footer class="site-footer">
-    <div class="wrapper">
-        <div class="footer-col-wrapper">
-            
-            <div class="footer-col info-col">
-                <p class="footer-heading">{{ site.title }}</p>
-                <p>{{ site.description }}</p>
-            </div>
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
 
-            <div class="footer-col link-col">
-                <p class="footer-heading">Navigazione</p>
-                <ul class="footer-links">
-                    <li><a href="{{ '/about/' | relative_url }}">Chi Siamo (About)</a></li>
-                    <li><a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></li>
-                    <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer Affiliazioni</a></li>
-                </ul>
-            </div>
+      <div class="footer-col info-col">
+        <p class="footer-heading">{{ site.title }}</p>
+        <p>{{ site.description }}</p>
+        <p style="margin-top:12px; color:#94a3b8; font-size:.95rem;">
+          Routine brevi, strategie pratiche e un metodo consigliato per imparare con costanza.
+        </p>
+      </div>
 
-            <div class="footer-col social-col">
-                <p class="footer-heading">Seguici su</p>
-                <ul class="social-links">
-                    <li><a href="https://it.pinterest.com/Nausicac/" target="_blank" rel="noopener">📌 Pinterest</a></li>
-                </ul>
-            </div>
-            
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
-        </div>
+      <div class="footer-col link-col">
+        <p class="footer-heading">Navigazione</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/metodo-consigliato/' | relative_url }}">Metodo consigliato</a></li>
+          <li><a href="{{ '/routine/' | relative_url }}">Routine</a></li>
+          <li><a href="{{ '/risorse/' | relative_url }}">Risorse</a></li>
+          <li><a href="{{ '/hub-lingue/' | relative_url }}">Hub Lingue</a></li>
+          <li><a href="{{ '/recensione-babbel/' | relative_url }}">Recensione Babbel</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col link-col">
+        <p class="footer-heading">Info</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/about/' | relative_url }}">Chi Siamo (About)</a></li>
+          <li><a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer Affiliazioni</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col social-col">
+        <p class="footer-heading">Seguici su</p>
+        <ul class="social-links">
+          <li><a href="https://it.pinterest.com/Nausicac/" target="_blank" rel="noopener">📌 Pinterest</a></li>
+        </ul>
+        <p style="margin-top:12px; color:#94a3b8; font-size:.9rem;">
+          <strong>Trasparenza:</strong> alcuni link possono essere affiliati (senza costi extra per te).
+        </p>
+      </div>
+
     </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
+    </div>
+  </div>
 </footer>
