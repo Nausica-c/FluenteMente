@@ -18,4 +18,4 @@ Il portoghese possiede una profondità emotiva unica, racchiusa in termini che n
 9. **Apaixonar:** In italiano diciamo "innamorarsi", ma *apaixonar* descrive l'atto dinamico di cadere in preda alla passione.
 10. **Oxalá:** Derivato dall'arabo, significa "magari" o "voglia Dio", esprime una speranza profonda.
 
-{% include promo-babbel.html %}
+{% include promo-clean.html %}
