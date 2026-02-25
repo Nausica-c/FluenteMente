@@ -49,8 +49,7 @@ Ecco la nostra recensione senza filtri.
 </div>
 
 
-{% include promo-babbel.html variant=page.promo_variant %}
-
+{% include promo-babbel.html variant="recensione" %}
 ---
 
 ## 🛠️ Come Funziona (e perché rispetta il Metodo FluenteMente)
