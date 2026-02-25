@@ -25,14 +25,13 @@ Ecco la nostra recensione senza filtri.
 
 ## ⚖️ Babbel in Sintesi: Pro e Contro
 
-Se hai poco tempo, ecco il verdetto riassunto:
-
-| Vantaggi (Pro) | Svantaggi (Contro) |
+Se hai poco tempo, ecco il verdetto | ✅ Vantaggi (Pro) | ❌ Svantaggi (Contro) |
 | :--- | :--- |
-| **Percorso strutturato:** non devi mai chiederti “cosa studio oggi?”. | **Non ti porta da sola al livello C2:** ideale fino al B2 (e spesso un buon B2/C1), poi serve pratica libera. |
-| **Lezioni brevi (10-15 min):** perfette per chi lavora e ha poco tempo. | **Meno “giocosa” di altre app:** richiede un minimo di focus (ma impari di più). |
-| **Ripasso intelligente (Spaced Repetition):** ripassi prima di dimenticare. | **A pagamento:** non esiste una versione completa gratuita per sempre. |
-| **Grammatica chiara e contestualizzata:** impari le regole usandole, non a memoria. | |
+| **Percorso chiaro:** sai sempre cosa studiare. | **Limite avanzati:** ideale fino al livello C1. |
+| **Lezioni brevi:** perfette per chi ha poco tempo (10-15 min). | **Meno "gioco":** richiede un minimo di attenzione. |
+| **Ripasso intelligente:** non dimentichi i vocaboli. | **Non è gratuito:** serve un abbonamento per l'accesso completo. |
+| **Uso reale:** grammatica spiegata con frasi utili. | |
+
 
 {% include promo-babbel.html variant=page.promo_variant %}
 
