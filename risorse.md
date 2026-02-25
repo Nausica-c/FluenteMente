@@ -21,7 +21,7 @@ Troverai una **strategia chiara e sostenibile** per imparare davvero.
 
 ---
 
-# 📍 Da Dove Iniziare?
+
 # 📍 Da Dove Iniziare?
 
 Non esiste un punto di partenza universale.
