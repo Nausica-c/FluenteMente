@@ -42,7 +42,7 @@ Il primo errore è cadere nelle solite scuse: *"Non sono portato"* o *"Sono trop
 | Liste di vocaboli isolati | Frasi reali in contesti d'uso |
 | Studio casuale (YouTube/App varie) | Percorso guidato e lineare |
 
-👉 **Approfondisci:** [I 5 errori fatali che bloccano il tuo apprendimento](/5-errori/)
+👉 **Approfondisci:** [I 5 errori fatali che bloccano il tuo apprendimento](../5-errori/)
 
 ---
 
