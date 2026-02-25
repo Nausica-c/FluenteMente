@@ -3,7 +3,7 @@ layout: post
 title: "La Guida Definitiva per Imparare le Lingue da Autodidatta (Metodo FluenteMente)"
 seo_title: "Metodo FluenteMente: Guida Definitiva per Imparare una Lingua da Autodidatta"
 description: "Metodo passo-passo per imparare una lingua da autodidatta: mindset, strumenti, routine e strategia sostenibile."
-permalink: /risorse/
+permalink: //metodo-consigliato/
 author: "La Redazione"
 affiliate: true
 show_promo: true
