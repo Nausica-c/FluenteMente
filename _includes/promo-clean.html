@@ -1,0 +1,70 @@
+{% assign topic = include.variant | default: "generale" %}
+
+{% case topic %}
+
+{% when "educativo" %}
+  {% assign title = "🧠 Prima di continuare, una cosa importante" %}
+  {% assign text = "Imparare una lingua non è questione di talento, ma di struttura. Senza progressione e ripetizione nel tempo, anche l’impegno si disperde." %}
+  {% assign bullets = "✓ Progressione chiara|✓ Contesto reale|✓ Ripetizione intelligente|✓ Routine sostenibile" | split: "|" %}
+{% when "pronuncia" %}
+  {% assign title = "🎧 Vuoi migliorare davvero la pronuncia?" %}
+  {% assign text = "Leggere regole non basta. Serve ascolto attivo, ripetizione e frasi reali. Un percorso strutturato accelera moltissimo i progressi." %}
+  {% assign bullets = "✓ Audio madrelingua|✓ Riconoscimento vocale|✓ Dialoghi realistici" | split: "|" %}
+
+{% when "vocaboli" %}
+  {% assign title = "🧠 Il problema non è imparare parole. È ricordarle." %}
+  {% assign text = "Senza ripetizione intelligente i vocaboli spariscono in pochi giorni. Un metodo guidato ti fa ripassare al momento giusto." %}
+  {% assign bullets = "✓ Ripasso automatico|✓ Parole in contesto|✓ Progressi stabili" | split: "|" %}
+
+{% when "routine" %}
+  {% assign title = "⏱ Hai poco tempo? Punta sulla costanza." %}
+  {% assign text = "15 minuti al giorno con una struttura chiara valgono più di 2 ore sporadiche senza direzione." %}
+  {% assign bullets = "✓ Lezioni brevi|✓ Progressione chiara|✓ Zero caos" | split: "|" %}
+
+{% when "metodo" %}
+  {% assign title = "🧭 Vuoi un percorso chiaro dall'inizio alla fine?" %}
+  {% assign text = "Studiare senza struttura porta solo frustrazione. Serve progressione, contesto reale e ripetizione intelligente." %}
+  {% assign bullets = "✓ Percorso guidato|✓ Dialoghi reali|✓ Routine sostenibile" | split: "|" %}
+
+{% when "recensione" %}
+  {% assign title = "🚀 Pronto a iniziare concretamente?" %}
+  {% assign text = "Se dopo questa analisi vuoi testare il metodo, puoi partire dalla prima lezione gratuita." %}
+  {% assign bullets = "✓ Tutte le lingue|✓ Metodo strutturato|✓ Prova gratuita" | split: "|" %}
+
+{% else %}
+  {% assign title = "🚀 Vuoi un metodo più strutturato?" %}
+  {% assign text = "Studiare in autonomia funziona solo se hai una direzione chiara e strumenti giusti." %}
+  {% assign bullets = "✓ Più costanza|✓ Meno confusione|✓ Progressi reali" | split: "|" %}
+{% endcase %}
+
+<div class="promo-clean {% if topic == 'educativo' %}educativo{% endif %}">
+  <div class="promo-clean__content">
+
+    <h3 class="promo-clean__title">{{ title }}</h3>
+    <p class="promo-clean__text">{{ text }}</p>
+
+    <ul class="promo-clean__list">
+      {% for b in bullets %}
+        <li>{{ b }}</li>
+      {% endfor %}
+    </ul>
+
+    <div class="promo-clean__actions">
+      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-outline">
+        Scopri il metodo
+      </a>
+
+      <a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref="
+         class="btn-primary"
+         target="_blank"
+         rel="noopener sponsored">
+        Buttati. Impara una nuova lingua con Babbel
+      </a>
+    </div>
+
+    <span class="promo-clean__note">
+      Prima lezione gratis · Garanzia 20 giorni
+    </span>
+
+  </div>
+</div>
