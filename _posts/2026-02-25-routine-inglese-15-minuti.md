@@ -20,7 +20,7 @@ La verità è che **il tuo cervello non è progettato per le maratone sporadiche
 
 ---
 
-{% include promo-babbel.html variant="educativo" %}
+{% include promo-clean.html variant="educativo" %}
 
 ---
 
@@ -84,7 +84,7 @@ Ne parliamo approfonditamente nel prossimo articolo: [Quanto tempo serve per imp
 
 ---
 
-{% include promo-babbel.html variant="routine" %}
+{% include promo-clean.html variant="routine" %}
 
 ---
 
