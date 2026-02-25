@@ -4,168 +4,111 @@ title: Home
 ---
 
 <div class="hero-section">
-    <div class="wrapper hero-content">
-        <h1 class="hero-title">Imparare una lingua non deve essere un'impresa impossibile.</h1>
-        <p class="hero-subtitle">Scopri metodi pratici, strumenti testati e strategie basate sulla scienza per imparare a parlare davvero, anche se hai solo 15 minuti al giorno.</p>
-        <div class="hero-buttons">
-            <a href="{{ '/risorse/' | relative_url }}" class="btn-primary hero-btn">Inizia dalla Guida Definitiva</a>
-            <a href="{{ '/hub-lingue/' | relative_url }}" class="btn-secondary hero-btn">Scegli una Lingua</a>
-        </div>
+  <div class="wrapper hero-content">
+    <h1 class="hero-title">Imparare una lingua non deve essere un’impresa impossibile.</h1>
+    <p class="hero-subtitle">
+      Metodi pratici, routine brevi e strategie basate sulla scienza per parlare davvero,
+      anche se hai solo 15 minuti al giorno.
+    </p>
+
+    <div class="hero-buttons">
+      <a href="{{ '/routine/' | relative_url }}" class="btn-primary hero-btn">Inizia da una routine (15 min)</a>
+      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-secondary hero-btn">Vedi il metodo consigliato</a>
     </div>
+
+    <p class="hero-note">
+      Sei arrivato/a da Pinterest? Parti dalle routine: sono pensate per essere applicate subito.
+    </p>
+  </div>
 </div>
 
-<div class="wrapper" style="padding: 60px 20px;">
-    <h2 style="text-align: center; margin-bottom: 40px; border: none;">Le guide fondamentali di FluenteMente</h2>
-    
-    <div class="home-grid">
-        
-        <a href="{{ '/5-errori-imparare-lingua/' | relative_url }}" class="home-card">
-            <div class="card-icon">🛑</div>
-            <h3>I 5 Errori Fatali</h3>
-            <p>Studi la grammatica ma non riesci a parlare? Scopri cosa ti blocca e come sbloccarti oggi stesso.</p>
-            <span class="card-link">Leggi l'articolo →</span>
-        </a>
+<div class="wrapper" style="padding: 50px 20px 10px;">
+  <h2 style="text-align: center; margin-bottom: 18px; border: none;">Inizia da qui</h2>
+  <p style="text-align:center; color: var(--text-light); max-width: 780px; margin: 0 auto 28px;">
+    Scegli il percorso più adatto al tuo momento: routine semplice, pagina ponte (metodo) o recensione completa.
+  </p>
 
-        <a href="{{ '/migliori-app-lingue-2026/' | relative_url }}" class="home-card">
-            <div class="card-icon">📱</div>
-            <h3>Le 3 Migliori App del 2026</h3>
-            <p>Abbiamo testato Duolingo, Rosetta Stone e Babbel. Scopri quale funziona davvero per gli adulti.</p>
-            <span class="card-link">Confronta le app →</span>
-        </a>
+  <div class="start-grid">
+    <a href="{{ '/routine/' | relative_url }}" class="start-card">
+      <div class="start-icon">🗓️</div>
+      <h3>Routine & piani</h3>
+      <p>Routine da 15 minuti, piani 7/30 giorni e studio sostenibile per non mollare.</p>
+      <span class="card-link">Vai alle routine →</span>
+    </a>
 
-        <a href="{{ '/recensione-babbel/' | relative_url }}" class="home-card">
-            <div class="card-icon">⭐</div>
-            <h3>Recensione Babbel</h3>
-            <p>Analisi completa del metodo, dei costi e del perché il piano Lifetime è l'investimento più intelligente.</p>
-            <span class="card-link">Leggi la recensione →</span>
-        </a>
+    <a href="{{ '/metodo-consigliato/' | relative_url }}" class="start-card start-card-highlight">
+      <div class="start-icon">🧭</div>
+      <h3>Metodo consigliato</h3>
+      <p>Pagina ponte: criteri chiari + il metodo che consiglio per fare progressi con costanza.</p>
+      <span class="card-link">Scopri il metodo →</span>
+    </a>
 
-    </div>
+    <a href="{{ '/recensione-babbel/' | relative_url }}" class="start-card">
+      <div class="start-icon">⭐</div>
+      <h3>Recensione Babbel</h3>
+      <p>Analisi completa: pro/contro, prezzi e come usarlo nel modo più efficace.</p>
+      <span class="card-link">Leggi la recensione →</span>
+    </a>
+  </div>
+</div>
+
+<div class="wrapper" style="padding: 40px 20px 60px;">
+  <h2 style="text-align: center; margin-bottom: 40px; border: none;">Le guide fondamentali di FluenteMente</h2>
+
+  <div class="home-grid">
+    <a href="{{ '/5-errori-imparare-lingua/' | relative_url }}" class="home-card">
+      <div class="card-icon">🛑</div>
+      <h3>I 5 Errori Fatali</h3>
+      <p>Studi la grammatica ma non riesci a parlare? Scopri cosa ti blocca e come sbloccarti oggi stesso.</p>
+      <span class="card-link">Leggi l'articolo →</span>
+    </a>
+
+    <a href="{{ '/risorse/' | relative_url }}" class="home-card">
+      <div class="card-icon">🧰</div>
+      <h3>Risorse (Guida Definitiva)</h3>
+      <p>Una raccolta ordinata: cosa studiare, come farlo e quali strumenti usare senza perdere tempo.</p>
+      <span class="card-link">Apri la guida →</span>
+    </a>
+
+    <a href="{{ '/recensione-babbel/' | relative_url }}" class="home-card">
+      <div class="card-icon">⭐</div>
+      <h3>Recensione Babbel</h3>
+      <p>Metodo, costi, pro/contro e consigli pratici per integrarlo in una routine da 15 minuti.</p>
+      <span class="card-link">Leggi la recensione →</span>
+    </a>
+  </div>
+
+  <div class="category-links">
+    <a class="chip" href="{{ '/routine/' | relative_url }}">Routine</a>
+    <a class="chip" href="{{ '/pronuncia/' | relative_url }}">Pronuncia</a>
+    <a class="chip" href="{{ '/vocaboli/' | relative_url }}">Vocaboli</a>
+    <a class="chip" href="{{ '/listening/' | relative_url }}">Listening</a>
+    <a class="chip" href="{{ '/hub-lingue/' | relative_url }}">Hub Lingue</a>
+  </div>
 </div>
 
 <div class="wrapper recent-posts-section" style="padding: 20px 20px 60px; border-top: 1px solid var(--border-color);">
-    <h2 style="margin-bottom: 30px; border: none;">Ultimi articoli pubblicati</h2>
-    <ul class="post-list">
-        {% for post in site.posts limit:4 %}
-        <li style="margin-bottom: 15px;">
-            <span class="post-meta" style="color: var(--text-light); font-size: 0.9em;">{{ post.date | date: "%d/%m/%Y" }}</span>
-            <h3 style="margin: 5px 0 0; font-size: 1.2rem;">
-                <a href="{{ post.url | relative_url }}" style="color: #1a202c;">{{ post.title | escape }}</a>
-            </h3>
-        </li>
-        {% endfor %}
-    </ul>
+  <h2 style="margin-bottom: 30px; border: none;">Ultimi articoli pubblicati</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit:4 %}
+    <li style="margin-bottom: 15px;">
+      <span class="post-meta" style="color: var(--text-light); font-size: 0.9em;">{{ post.date | date: "%d/%m/%Y" }}</span>
+      <h3 style="margin: 5px 0 0; font-size: 1.2rem;">
+        <a href="{{ post.url | relative_url }}" style="color: #1a202c;">{{ post.title | escape }}</a>
+      </h3>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
 
 <style>
-.hero-section {
-    background-color: #1a202c; /* Sfondo scuro per far risaltare il testo */
-    color: #ffffff;
-    padding: 80px 20px;
-    text-align: center;
+/* HERO (Light + Pinterest-friendly) */
+.hero-section{
+  background: linear-gradient(180deg, #f8fafc 0%, #ffffff 80%);
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-main);
+  padding: 70px 20px 55px;
+  text-align: center;
 }
-
-.hero-content {
-    max-width: 800px;
-}
-
-.hero-title {
-    font-size: 3rem;
-    color: #ffffff;
-    line-height: 1.2;
-    margin-bottom: 20px;
-}
-
-.hero-subtitle {
-    font-size: 1.25rem;
-    color: #cbd5e1;
-    margin-bottom: 40px;
-}
-
-.hero-buttons {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.hero-btn {
-    margin-top: 0;
-}
-
-.btn-secondary {
-    display: inline-block;
-    background-color: transparent;
-    color: #ffffff;
-    padding: 15px 35px;
-    font-size: 1.1rem;
-    font-weight: bold;
-    border-radius: 50px;
-    text-decoration: none;
-    border: 2px solid #ffffff;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.btn-secondary:hover {
-    background-color: #ffffff;
-    color: #1a202c;
-    text-decoration: none;
-}
-
-.home-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 30px;
-}
-
-.home-card {
-    background: #ffffff;
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    padding: 30px;
-    text-decoration: none;
-    color: var(--text-main);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-    display: flex;
-    flex-direction: column;
-}
-
-.home-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
-    border-color: var(--primary-color);
-    text-decoration: none;
-}
-
-.card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-}
-
-.home-card h3 {
-    color: #1a202c;
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 1.3rem;
-}
-
-.home-card p {
-    font-size: 0.95rem;
-    color: var(--text-light);
-    flex-grow: 1;
-}
-
-.card-link {
-    color: var(--primary-color);
-    font-weight: bold;
-    font-size: 0.9rem;
-    margin-top: 15px;
-}
-
-/* Adattamenti per mobile */
-@media screen and (max-width: 600px) {
-    .hero-title { font-size: 2.2rem; }
-    .hero-buttons { flex-direction: column; }
-    .hero-btn { width: 100%; text-align: center; }
-}
-</style>
+.hero-content{ max-width: 900px; }
+.hero
