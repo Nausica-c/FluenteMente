@@ -1,183 +1,50 @@
 ---
-layout: default
-title: Hub Lingue
-seo_title: "Scegli la Lingua da Imparare | Guide e Metodo FluenteMente"
-description: "Scegli la lingua che vuoi imparare: guide complete, routine, consigli pratici e metodo consigliato."
+layout: post
+title: "Scegli la Lingua che Vuoi Imparare | Hub Lingue"
+seo_title: "Hub Lingue: Guide Pratiche per Imparare Inglese, Spagnolo e Altro"
+description: "Seleziona la lingua che vuoi imparare per accedere a guide, routine, vocabolario e strategie specifiche basate sul Metodo FluenteMente."
 permalink: /hub-lingue/
+author: "La Redazione"
+categories: [hub, lingue]
 ---
 
-<div class="wrapper hub-wrapper">
+# Scegli la Lingua che Vuoi Imparare
 
-  <header class="hub-header">
-    <h1>Quale lingua vuoi imparare?</h1>
-    <p>
-      Scegli una lingua e troverai:
-      guide pratiche, errori comuni, vocaboli essenziali,
-      piani di studio da 15 minuti e il metodo che consigliamo per fare progressi reali.
-    </p>
-  </header>
+Benvenuto nell'Hub Lingue di FluenteMente. Qui il nostro metodo generale si trasforma in pratica specifica.
 
-  <div class="language-grid">
+Ogni lingua ha le sue regole, le sue eccezioni e le sue sfide uniche (i *falsi amici* in inglese non sono gli stessi del francese, e la pronuncia del tedesco richiede un approccio molto diverso dallo spagnolo).
 
-    <!-- INGLESE -->
-    <a href="{{ '/inglese/' | relative_url }}" class="lang-card">
-      <div class="lang-emoji">🇬🇧</div>
-      <h2>Inglese</h2>
-      <p>La lingua globale: lavoro, viaggi e comunicazione internazionale.</p>
-      <span class="lang-cta">Scopri il percorso →</span>
-    </a>
+In queste sezioni troverai un percorso completo dedicato all'idioma che hai scelto: guide passo-passo, trucchi per la pronuncia, liste di vocaboli realmente utili e routine mirate. Il Metodo FluenteMente, applicato esattamente alla lingua che ti serve.
 
-    <!-- SPAGNOLO -->
-    <a href="{{ '/spagnolo/' | relative_url }}" class="lang-card">
-      <div class="lang-emoji">🇪🇸</div>
-      <h2>Spagnolo</h2>
-      <p>Perfetto per viaggiare e comunicare in mezzo mondo.</p>
-      <span class="lang-cta">Scopri il percorso →</span>
-    </a>
+Scegli la tua destinazione qui sotto.
 
-    <!-- FRANCESE -->
-    <a href="{{ '/francese/' | relative_url }}" class="lang-card">
-      <div class="lang-emoji">🇫🇷</div>
-      <h2>Francese</h2>
-      <p>Cultura, diplomazia e opportunità internazionali.</p>
-      <span class="lang-cta">Scopri il percorso →</span>
-    </a>
+---
 
-    <!-- TEDESCO -->
-    <a href="{{ '/tedesco/' | relative_url }}" class="lang-card">
-      <div class="lang-emoji">🇩🇪</div>
-      <h2>Tedesco</h2>
-      <p>Fondamentale per business e carriera in Europa.</p>
-      <span class="lang-cta">Scopri il percorso →</span>
-    </a>
+## 🇬🇧 Inglese
+La lingua universale per eccellenza. Che ti serva per fare carriera, viaggiare o goderti serie TV e podcast in lingua originale, qui troverai tutto il necessario per sbloccare la tua pronuncia e superare il livello scolastico.
+👉 **[Inizia il tuo percorso di Inglese](/FluenteMente/inglese/)**
 
-    <!-- PORTOGHESE -->
-    <a href="{{ '/portoghese/' | relative_url }}" class="lang-card">
-      <div class="lang-emoji">🇵🇹</div>
-      <h2>Portoghese</h2>
-      <p>Dall’Europa al Brasile: una lingua in forte crescita.</p>
-      <span class="lang-cta">Scopri il percorso →</span>
-    </a>
+## 🇪🇸 Spagnolo
+Sembra facilissimo per noi italiani, ma nasconde molte insidie. Scopri come evitare il temuto "itañol" e imparare a padroneggiare i tempi verbali e il vocabolario reale, dall'Europa all'America Latina.
+👉 **[Inizia il tuo percorso di Spagnolo](/FluenteMente/spagnolo/)**
 
-  </div>
+## 🇫🇷 Francese
+Affascinante e complessa, soprattutto nella pronuncia e nell'ortografia. Le nostre risorse ti aiuteranno a decifrare i suoni nasali e a costruire frasi eleganti e corrette senza impazzire con la grammatica.
+👉 **[Inizia il tuo percorso di Francese](/FluenteMente/francese/)**
 
-  <!-- Sezione Metodo -->
-  <section class="hub-method">
-    <h2>Non sai da dove iniziare?</h2>
-    <p>
-      Prima ancora di scegliere la lingua, assicurati di avere
-      un metodo strutturato e sostenibile.
-    </p>
-    <div class="hub-buttons">
-      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-outline">
-        Vedi il metodo consigliato
-      </a>
-      <a href="{{ '/recensione-babbel/' | relative_url }}" class="btn-primary">
-        Leggi la recensione Babbel
-      </a>
-    </div>
-  </section>
+## 🇩🇪 Tedesco
+Spaventa molti, ma è una lingua incredibilmente logica. Se approcciata con il giusto metodo, la sua struttura si rivela come un puzzle affascinante e superabile. Qui ti diamo gli strumenti per affrontarlo senza paura.
+👉 **[Inizia il tuo percorso di Tedesco](/FluenteMente/tedesco/)**
 
-</div>
+## 🇵🇹/🇧🇷 Portoghese
+Una lingua musicale e in continua espansione. Che tu sia attratto dalla variante europea o dalla vibrante cadenza brasiliana, ti guidiamo passo dopo passo per immergerti in questa bellissima cultura.
+👉 **[Inizia il tuo percorso di Portoghese](/FluenteMente/portoghese/)**
 
-<style>
-.hub-wrapper {
-  padding: 50px 20px 60px;
-}
+---
 
-.hub-header {
-  text-align: center;
-  max-width: 750px;
-  margin: 0 auto 50px;
-}
+## Non sai quale scegliere?
 
-.hub-header h1 {
-  font-size: 2.6rem;
-  margin-bottom: 15px;
-}
+Sei indeciso su quale lingua faccia al caso tuo? O forse vuoi prima capire come approcciarti allo studio da autodidatta prima di buttarti a capofitto in un idioma specifico?
 
-.hub-header p {
-  color: var(--text-light);
-  font-size: 1.1rem;
-}
-
-.language-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 24px;
-  margin-bottom: 60px;
-}
-
-.lang-card {
-  background: #fff;
-  border: 1px solid var(--border-color);
-  border-radius: 14px;
-  padding: 28px 22px;
-  text-align: center;
-  text-decoration: none;
-  color: var(--text-main);
-  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
-}
-
-.lang-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 25px rgba(0,0,0,0.05);
-  border-color: var(--primary-color);
-  text-decoration: none;
-}
-
-.lang-emoji {
-  font-size: 3rem;
-  margin-bottom: 14px;
-}
-
-.lang-card h2 {
-  margin: 0 0 10px;
-  font-size: 1.4rem;
-  border: none;
-  color: #1a202c;
-}
-
-.lang-card p {
-  color: var(--text-light);
-  font-size: 0.95rem;
-  margin-bottom: 14px;
-}
-
-.lang-cta {
-  color: var(--primary-color);
-  font-weight: 700;
-  font-size: .9rem;
-}
-
-.hub-method {
-  text-align: center;
-  background: #ffffff;
-  border: 1px solid var(--border-color);
-  padding: 40px;
-  border-radius: 16px;
-}
-
-.hub-method h2 {
-  margin-bottom: 10px;
-  border: none;
-}
-
-.hub-method p {
-  color: var(--text-light);
-  margin-bottom: 20px;
-}
-
-.hub-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-  flex-wrap: wrap;
-}
-
-@media (max-width: 600px) {
-  .hub-header h1 {
-    font-size: 2rem;
-  }
-}
-</style>
+Nessun problema. Fai un passo indietro e parti dalle basi del nostro metodo universale:
+👉 **[Come imparare una lingua da zero: La Guida Iniziale](/FluenteMente/come-imparare-lingua-da-zero/)**
