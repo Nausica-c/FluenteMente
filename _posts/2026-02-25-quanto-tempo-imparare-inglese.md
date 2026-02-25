@@ -50,7 +50,7 @@ Se questo è il tuo caso, il problema non è la grammatica, è la mancanza di **
 * **📅 3 mesi:** La conversazione diventa naturale e meno faticosa.
 * **📅 6 mesi:** Raggiungi un livello B2 stabile, capace di discutere di temi complessi.
 
-🔗 *Approfondimento:* [Perché capisco ma non riesco a parlare?](../perche-non-riesco-parlare-lingua/)
+🔗 *Approfondimento:* [Perché capisco ma non riesco a parlare?](/perche-non-riesco-parlare-lingua/)
 
 ---
 
@@ -74,7 +74,7 @@ Tradotto in pratica, quanto tempo ci metterai sul calendario?
 
 ## 📌 La Variabile Più Importante: Il Metodo
 
-Puoi studiare un'ora al giorno "male" (leggendo solo liste di vocaboli) o **15 minuti al giorno "bene"**. La differenza la fa il [metodo strutturato](../metodo-consigliato/):
+Puoi studiare un'ora al giorno "male" (leggendo solo liste di vocaboli) o **15 minuti al giorno "bene"**. La differenza la fa il [metodo strutturato](/metodo-consigliato/):
 
 1.  **Progressione chiara:** Sapere cosa studiare oggi e domani.
 2.  **Dialoghi realistici:** Imparare frasi che userai davvero.
@@ -141,4 +141,4 @@ Non serve un miracolo, serve un sistema. Se sei pronto a smettere di contare i g
 ---
 
 **Vuoi passare dalla teoria alla pratica?**
-👉 Scopri la nostra [guida per imparare l'inglese da zero](../inglese/inglese-da-zero/) o leggi come configurare la tua [routine quotidiana ideale](../routine-15-minuti/).
+👉 Scopri la nostra [guida per imparare l'inglese da zero](/inglese/inglese-da-zero/) o leggi come configurare la tua [routine quotidiana ideale](/routine-15-minuti/).
