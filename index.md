@@ -6,117 +6,61 @@ description: "Scopri il Metodo FluenteMente: strategie, routine e strumenti per 
 permalink: /
 ---
 
-# Imparare una lingua non deve essere un caos.
-
-**Metodo chiaro. Routine sostenibile. Risultati reali.**
-
-FluenteMente è il punto di riferimento per chi vuole imparare una lingua da autodidatta senza saltare da un’app all’altra.
-
-👉 **[Inizia dalla Guida Completa]({{ '/risorse/' | relative_url }})**  
-🌍 **[Scegli la tua lingua]({{ '/hub-lingue/' | relative_url }})**
-
----
-
-## Per Chi È FluenteMente?
-
-Questo sito è per te se:
-
-- Studi da anni ma non riesci a parlare davvero
-- Parti da zero e non sai da dove iniziare
-- Hai poco tempo e vuoi una routine sostenibile
-- Sei stanco di promesse tipo “fluente in 30 giorni”
-
-Non promettiamo miracoli.  
-Promettiamo **struttura**.
+<div align="center">
+  <h1>🌍 Imparare una lingua non deve essere un caos.</h1>
+  <h3><em>Metodo chiaro. Routine sostenibile. Risultati reali.</em></h3>
+  <br>
+  👉 <a href="{{ '/risorse/' | relative_url }}"><strong>Inizia dalla Guida Completa</strong></a> &nbsp; | &nbsp; 🎯 <a href="{{ '/hub-lingue/' | relative_url }}"><strong>Scegli la tua Lingua</strong></a>
+  <br><br>
+</div>
 
 ---
 
-## Perché FluenteMente è Diverso?
+## 🛑 Perché Sei Bloccato? (E Come Sbloccarsi)
 
-Internet è pieno di promesse assurde sulle lingue. Noi abbiamo scelto un approccio diverso.
+Internet è pieno di promesse assurde. Diventare bilingue in 7 giorni? *Falso.* Imparare ascoltando podcast mentre dormi? *Falso.* Il 90% degli autodidatti fallisce per tre motivi:
+1. **Studia a caso** (salta da un'app all'altra senza una direzione).
+2. **Fa troppa teoria** (sa tutte le regole ma non sa ordinare un caffè).
+3. **Molla dopo due settimane** (perché la "motivazione" svanisce).
 
-* ❌ Niente scorciatoie magiche
-* ❌ Niente “motivazione finta”
-* ❌ Niente caos tra 20 risorse diverse
-* ✅ Metodo progressivo
-* ✅ Routine breve e costante
-* ✅ Strumenti strutturati
-
-La differenza non è studiare di più.  
-È studiare nel modo giusto.
+> **La Soluzione FluenteMente:** > Non crediamo nel talento innato o nelle maratone di studio domenicali. Crediamo in **routine brevi (15 min/giorno)**, strumenti strutturati e un percorso che non ti faccia mai chiedere: *"E oggi cosa studio?"*.
 
 ---
 
-## Da Dove Vuoi Iniziare?
+## 🗺️ Da Dove Vuoi Iniziare?
 
-Scegli il percorso più adatto alla tua situazione.
-
----
-
-### 🧠 1. Voglio capire come studiare
-
-Vuoi smettere di improvvisare e costruire un sistema che funzioni sul lungo periodo?
-
-👉 **[Scopri il Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})**
+| 🧠 Il Metodo | 🌍 La Pratica | ⭐ Gli Strumenti |
+| :--- | :--- | :--- |
+| Stanco di studiare a caso? Scopri i 4 pilastri per costruire una routine che funziona. | Sai già quale lingua vuoi imparare? Vai all'Hub e segui le nostre guide specifiche. | Quale app funziona davvero per gli adulti? Abbiamo testato il mercato per te. |
+| 👉 **[Scopri il Metodo]({{ '/metodo-consigliato/' | relative_url }})** | 👉 **[Vai all'Hub Lingue]({{ '/hub-lingue/' | relative_url }})** | 👉 **[Recensione Babbel]({{ '/recensione-babbel/' | relative_url }})** |
 
 ---
 
-### 🌍 2. So già quale lingua voglio imparare
+## 📚 Le Guide Fondamentali
 
-Vai direttamente alla pratica. Ogni lingua ha un percorso strutturato completo.
+Queste sono le letture obbligatorie per smettere di essere un "eterno principiante" e iniziare a parlare sul serio:
 
-👉 **[Vai all'Hub Lingue]({{ '/hub-lingue/' | relative_url }})**
-
----
-
-### ⭐ 3. Cerco lo strumento giusto
-
-Non tutte le app sono uguali. Abbiamo testato le più popolari per capire quali rispettano davvero i principi dell’apprendimento per adulti.
-
-👉 **[Leggi la Recensione di Babbel]({{ '/recensione-babbel/' | relative_url }})**
+* 🇬🇧 **[Inglese da Zero: I primi passi per iniziare (o ricominciare)]({{ '/inglese-da-zero/' | relative_url }})**
+* 🧭 **[Come imparare una lingua da zero: La Roadmap Definitiva]({{ '/come-imparare-lingua-da-zero/' | relative_url }})**
+* ⏳ **[La Routine Perfetta: 15 minuti al giorno per diventare fluenti]({{ '/routine-15-minuti/' | relative_url }})**
+* 🧱 **[Perché capisco tutto ma non riesco a parlare? I 3 blocchi psicologici]({{ '/perche-non-riesco-parlare-lingua/' | relative_url }})**
 
 ---
 
-## Le Guide Fondamentali
+## 🗞️ Ultimi Articoli dal Blog
 
-Se vuoi evitare di diventare un “eterno principiante”, parti da qui:
-
-* 🇬🇧 **[Inglese da Zero: Come Iniziare nel Modo Giusto]({{ '/inglese/inglese-da-zero/' | relative_url }})**
-* 🧭 **[Come Imparare una Lingua da Zero: La Roadmap]({{ '/come-imparare-lingua-da-zero/' | relative_url }})**
-* ⏳ **[La Routine da 15 Minuti al Giorno]({{ '/routine-studio-lingua/' | relative_url }})**
-* 🧱 **[Perché Capisci Tutto ma Non Riesci a Parlare?]({{ '/perche-non-riesco-parlare-lingua/' | relative_url }})**
-
----
-
-## Il Percorso FluenteMente in 3 Step
-
-1️⃣ Capisci il metodo  
-2️⃣ Scegli la lingua  
-3️⃣ Applica una routine costante  
-
-Il resto è solo ripetizione intelligente.
-
-👉 **[Inizia dalla Guida Completa]({{ '/risorse/' | relative_url }})**
-
----
-
-## Ultimi Articoli Pubblicati
+Rimani aggiornato con le ultime strategie, analisi e risorse pubblicate dalla nostra redazione:
 
 {% for post in site.posts limit:5 %}
-* **[{{ post.title }}]({{ post.url | relative_url }})** — *{{ post.date | date: "%d/%m/%Y" }}*
+* 📅 *{{ post.date | date: "%d/%m/%Y" }}* — **[{{ post.title }}]({{ post.url | relative_url }})**
 {% endfor %}
 
 ---
 
-## La Nostra Missione
-
-Crediamo in una regola semplice:
-
-> La struttura batte il talento.
-
-Non hai bisogno del “gene delle lingue”.  
-Hai bisogno di smettere di studiare a caso.
-
-Se sei pronto a trasformare le buone intenzioni in risultati misurabili:
-
-👉 **[Scopri il Metodo Consigliato e inizia oggi]({{ '/metodo-consigliato/' | relative_url }})**
+<div align="center">
+  <h2>La Nostra Missione</h2>
+  <p>In FluenteMente crediamo in una regola semplicissima: <strong>la struttura batte il talento</strong>.</p>
+  <p>Non hai bisogno di un QI superiore alla media o del fantomatico "gene delle lingue" per chiudere un affare in inglese, viaggiare in scioltezza o parlare con i tuoi amici in spagnolo. Hai solo bisogno di smettere di studiare a caso.</p>
+  <br>
+  👉 <strong><a href="{{ '/metodo-consigliato/' | relative_url }}">Scopri il nostro Metodo Consigliato e inizia oggi</a></strong> 🚀
+</div>
