@@ -702,3 +702,13 @@ ul { list-style: none; }
     grid-template-columns: 1fr;
   }
   }
+/* Variante educativa (più neutra e meno commerciale) */
+.promo-clean.educativo .promo-clean__content{
+  background: #f8fafc;
+  border: 1px solid var(--border-color);
+  box-shadow: none;
+}
+
+.promo-clean.educativo .btn-primary{
+  display: none; /* Nasconde il bottone affiliato nella versione educativa */
+}
