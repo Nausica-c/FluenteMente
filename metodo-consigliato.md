@@ -10,7 +10,7 @@ show_promo: true
 promo_variant: metodo
 ---
 
-# Il Metodo FluenteMente: come imparare una lingua da autodidatta
+
 
 Se hai deciso di imparare una nuova lingua da zero — o sei bloccato a un livello intermedio da anni — questa è la pagina più importante del sito.
 
