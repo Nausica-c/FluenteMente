@@ -42,7 +42,7 @@ Il primo errore è cadere nelle solite scuse: *"Non sono portato"* o *"Sono trop
 | Liste di vocaboli isolati | Frasi reali in contesti d'uso |
 | Studio casuale (YouTube/App varie) | Percorso guidato e lineare |
 
-👉 **Approfondisci:** [I 5 errori fatali che bloccano il tuo apprendimento](/5-errori-imparare-lingua/)
+👉 **Approfondisci:** [I 5 errori fatali che bloccano il tuo apprendimento](/5-errori/)
 
 ---
 
@@ -72,7 +72,7 @@ Qui è dove la maggior parte delle persone molla. Per evitare di fermarti, devi 
 * **Routine 15 minuti:** 5 min ripasso + 5 min nuova lezione + 3 min ascolto + 2 min parlato.
 * **Esposizione:** Inizia a guardare video corti o ascoltare podcast per principianti. L'obiettivo non è capire tutto, ma abituarsi alla "melodia" della lingua.
 
-👉 **Scopri di più:** [La routine perfetta da 15 minuti al giorno](/routine-15-minuti/)
+👉 **Scopri di più:** [La routine perfetta da 15 minuti al giorno](../routine-15-minuti/)
 
 ---
 
@@ -85,7 +85,7 @@ Qui è dove la maggior parte delle persone molla. Per evitare di fermarti, devi 
 * **Accetta l'errore:** La comunicazione vince sulla grammatica. Parla subito, anche male.
 * **Listening Quotidiano:** Radio, musica, serie TV (con sottotitoli nella lingua originale, mai in italiano!).
 
-🔗 **Articolo consigliato:** [Perché capisco ma non riesco a parlare?](/perche-non-riesco-parlare-lingua/)
+🔗 **Articolo consigliato:** [Perché capisco ma non riesco a parlare?](../perche-non-riesco-parlare-lingua/)
 
 ---
 
@@ -110,7 +110,7 @@ Siamo realistici. Con una routine costante di **15 minuti al giorno**:
 
 Ti serve uno strumento che garantisca **progressione chiara** e **ripetizione automatizzata**. Dopo aver analizzato le opzioni del 2026, la nostra raccomandazione rimane un sistema strutturato come **Babbel**.
 
-🔗 **Leggi il confronto:** [Le migliori app per studiare lingue nel 2026](/migliori-app-studiare-lingue/)
+🔗 **Leggi il confronto:** [Le migliori app per studiare lingue nel 2026](../migliori-app-studiare-lingue/)
 
 ---
 
@@ -123,5 +123,5 @@ Non serve studiare di più. Serve studiare meglio. La motivazione ti fa iniziare
 
 ---
 *Vuoi approfondire una lingua specifica?*
-👉 [Come imparare l'inglese da zero](/inglese/inglese-da-zero/)
-👉 [La routine inglese da 15 minuti](/inglese/routine-inglese-15-minuti/)
+👉 [Come imparare l'inglese da zero](../inglese/inglese-da-zero/)
+👉 [La routine inglese da 15 minuti](../inglese/routine-inglese-15-minuti/)
