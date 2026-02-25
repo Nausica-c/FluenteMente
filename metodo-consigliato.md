@@ -11,7 +11,6 @@ show_promo: true
 promo_variant: metodo
 ---
 
-# Il Metodo Consigliato per Imparare una Lingua (Senza Studiare a Caso)
 
 Se stai dedicando tempo ed energie allo studio di una nuova lingua ma ti sembra di essere bloccato allo stesso punto, sappi che la tua frustrazione è assolutamente comprensibile. È facile pensare di non essere "portati" per le lingue, ma quasi sempre il problema non è la tua motivazione o il tuo talento. 
 
