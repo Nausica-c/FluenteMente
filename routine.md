@@ -3,12 +3,11 @@ layout: post
 title: "La Routine Perfetta per Imparare una Lingua (Solo 15 Minuti al Giorno)"
 seo_title: "Routine Studio Lingue: Il Metodo da 15 Minuti al Giorno"
 description: "Non hai tempo per studiare? Scopri la routine da 15 minuti al giorno in 4 blocchi per imparare una lingua straniera con costanza e senza stress."
-permalink: /routine/
+permalink: /routine-15-minuti/
 author: "La Redazione"
 categories: [routine, metodo]
 ---
 
-# La Routine Perfetta per Imparare una Lingua (Solo 15 Minuti al Giorno)
 
 "Non ho tempo". 
 
@@ -22,10 +21,8 @@ Oggi ti mostriamo come soli **15 minuti al giorno**, se strutturati con metodo, 
 
 ---
 
-<div style="background-color: #e8f4fd; border-left: 5px solid #007bff; padding: 20px; margin: 30px 0; border-radius: 4px;">
-  <h3 style="margin-top: 0; color: #0056b3;">🧠 La Legge dell'Esposizione Quotidiana</h3>
-  <p>Il cervello umano non impara le lingue "a blocchi", ma per <strong>esposizione continua</strong>. Immagina di dover innaffiare una pianta: versare un intero secchio d'acqua una volta al mese farà marcire le radici. Dargli un bicchiere d'acqua ogni giorno la farà fiorire. Lo stesso vale per la tua memoria: piccoli input quotidiani segnalano al cervello che quell'informazione è "vitale" e va conservata.</p>
-</div>
+{% include promo-clean.html variant="educativo" %}
+
 ---
 
 ## Perché 15 minuti funzionano meglio di 2 ore
@@ -59,16 +56,8 @@ Gli ultimi due minuti sono di "Output". Prendi 3-4 frasi chiave che hai appena i
 
 ---
 
-<div style="background-color: #fdf5e6; border: 2px dashed #f39c12; padding: 25px; margin: 30px 0; border-radius: 8px; text-align: center;">
-  <h2 style="margin-top: 0; color: #d35400;">⏱️ Snapshot: La Routine da 15 Minuti</h2>
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em; text-align: left; display: inline-block;">
-    <li style="margin-bottom: 10px;"><strong>00:00 - 05:00</strong> 👉 Ripasso (Spaced Repetition)</li>
-    <li style="margin-bottom: 10px;"><strong>05:00 - 10:00</strong> 👉 Nuova Lezione (Nuovo Contesto)</li>
-    <li style="margin-bottom: 10px;"><strong>10:00 - 13:00</strong> 👉 Ascolto (Dialogo Madrelingua)</li>
-    <li style="margin-bottom: 10px;"><strong>13:00 - 15:00</strong> 👉 Parla (Ripeti ad alta voce)</li>
-  </ul>
-  <p style="margin-top: 15px; font-weight: bold;"><em>Fallo per 30 giorni e diventerà un'abitudine d'acciaio.</em></p>
-</div>
+{% include promo-clean.html variant="routine" %}
+
 ---
 
 ## Esempio Pratico: La Tua Giornata Tipo
@@ -109,4 +98,5 @@ Agganciando la nuova abitudine a una vecchia, il tuo cervello eliminerà lo sfor
 
 Vuoi iniziare subito ad applicare questa routine, ma ti manca uno strumento che ti fornisca lezioni da 15 minuti pronte all'uso e un algoritmo di ripasso automatico? 
 
-👉 **Vai a leggere la nostra [Recensione sulle migliori App / Strumenti strutturati](/FluenteMente/recensione-babbel/) per scoprire quale software si sposa alla perfezione con questo metodo.** Vuoi che passiamo a sviluppare il prossimo articolo del piano editoriale (es. il confronto sulle migliori App per le lingue)?
+👉 **Vai a leggere la nostra [Recensione sulle migliori App / Strumenti strutturati](/FluenteMente/recensione-babbel/) per scoprire quale software si sposa alla perfezione con questo metodo.**
+
