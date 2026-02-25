@@ -77,7 +77,7 @@ Cerchi risorse online, scarichi PDF gratuiti, guardi video su YouTube e usi le v
 * **Flessibilità totale.**
 
 ### ❌ Gli Svantaggi
-* **Il caos cognitivo:** È il motivo per cui il 90% delle persone fallisce. Senza un percorso guidato (un *Syllabus*), impari nozioni slegate. Oggi studi i verbi al passato, domani i nomi degli animali. Non essendoci progressione, [il cervello dimentica quasi tutto](/FluenteMente/perche-non-riesco-parlare-lingua/).
+* **Il caos cognitivo:** È il motivo per cui il 90% delle persone fallisce. Senza un percorso guidato (un *Syllabus*), impari nozioni slegate. Oggi studi i verbi al passato, domani i nomi degli animali. Non essendoci progressione, [il cervello dimentica quasi tutto](../perche-non-riesco-parlare-lingua/).
 
 **Il Verdetto:** Sconsigliato. Stai pagando con il tuo tempo e la tua frustrazione la mancanza di un sistema.
 
@@ -106,7 +106,7 @@ Se hai letto con attenzione, avrai notato un filo conduttore: per un adulto che 
 
 Ecco la roadmap definitiva che ti consigliamo:
 
-1.  **Fase Iniziale (Da Zero a Intermedio - B1):** Usa il metodo dell'**Autodidatta Strutturato**. Affidati a un'ottima app (come Babbel) che ti dia il vocabolario base, la grammatica strutturata e ti abitui alla pronuncia. Impara in autonomia e a basso costo. [Scopri di più sulla nostra recensione.](/FluenteMente/recensione-babbel/)
+1.  **Fase Iniziale (Da Zero a Intermedio - B1):** Usa il metodo dell'**Autodidatta Strutturato**. Affidati a un'ottima app (come Babbel) che ti dia il vocabolario base, la grammatica strutturata e ti abitui alla pronuncia. Impara in autonomia e a basso costo. [Scopri di più sulla nostra recensione.](../recensione-babbel/)
 2.  **Fase Intermedia (Da B1 a C1):** Inizia ad affiancare all'app le lezioni con un **Tutor Privato** (magari una o due volte al mese) per sciogliere la lingua e fare conversazione attiva, affiancate a tanta immersione casalinga (Netflix, podcast).
 3.  **Fase Avanzata (Verso la padronanza):** Ora sei pronto per **l'Immersione Totale**. Viaggia, fai scambi linguistici, vivi la lingua sul campo.
 
