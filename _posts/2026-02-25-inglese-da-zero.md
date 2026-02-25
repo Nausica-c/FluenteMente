@@ -3,7 +3,7 @@ layout: post
 title: "Inglese da Zero: Come Iniziare nel Modo Giusto (Guida Completa per Principianti)"
 seo_title: "Inglese da Zero per Principianti: Come Iniziare nel 2026"
 description: "Guida completa per imparare inglese da zero: cosa studiare, in che ordine, errori da evitare e metodo consigliato."
-permalink: /inglese-da-zero/
+permalink: /inglese/inglese-da-zero/
 author: "La Redazione"
 categories: [inglese]
 affiliate: true
