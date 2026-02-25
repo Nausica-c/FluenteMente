@@ -86,7 +86,7 @@ Babbel offre diversi piani. I prezzi cambiano in base alle offerte del momento, 
 
 > **Ne vale la pena?** In molti casi un mese di Babbel costa meno di un’ora di ripetizioni private. La differenza è che qui hai un percorso completo, già organizzato.
 
-{% include promo-babbel.html variant=page.promo_variant %}
+
 
 ---
 
