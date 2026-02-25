@@ -37,8 +37,8 @@ Dimentica frasi come *"non sono portato per le lingue"* o *"sono troppo vecchio"
 ### Storie di progressi reali
 Chi ce la fa non è chi studia 5 ore al giorno, ma chi impara a gestire l'imbarazzo di fare errori. La fluidità nasce dalla capacità di comunicare nonostante le lacune grammaticali.
 
-👉 **Approfondisci:** [Perché non riesco a parlare? I blocchi psicologici](/perche-non-riesco-parlare-lingua/)
-👉 **Guida Base:** [Come imparare una lingua da zero](/come-imparare-lingua-da-zero/)
+👉 **Approfondisci:** [Perché non riesco a parlare? I blocchi psicologici](../perche-non-riesco-parlare-lingua/)
+👉 **Guida Base:** [Come imparare una lingua da zero](../come-imparare-lingua-da-zero/)
 
 ---
 
@@ -47,7 +47,7 @@ Chi ce la fa non è chi studia 5 ore al giorno, ma chi impara a gestire l'imbara
 ### App basate sulla ripetizione intelligente (SRS)
 Non tutte le app sono uguali. Molte sono solo videogiochi travestiti da studio. Per imparare davvero, hai bisogno di uno strumento che utilizzi algoritmi di **ripetizione spaziata**. Questi sistemi ti interrogano su una parola esattamente un attimo prima che il tuo cervello la dimentichi.
 
-👉 **Confronto:** [Le migliori app per studiare lingue nel 2026](/migliori-app-studiare-lingue/)
+👉 **Confronto:** [Le migliori app per studiare lingue nel 2026](../migliori-app-studiare-lingue/)
 
 ### Quando usare uno strumento e quando evitarlo
 Un'app è un fantastico "insegnante virtuale" per i livelli da A1 a B2. Ti dà la struttura. Tuttavia, non può sostituire l'immersione reale. Usala come base, ma non farla diventare l'unico modo in cui entri in contatto con la lingua.
@@ -79,12 +79,12 @@ La costanza è il motore di tutto. 15 minuti al giorno, ogni giorno, creano una 
 ### Come costruire il tuo vocabolario velocemente
 Non imparare liste di parole a memoria. Impara i **chunks** (blocchi di linguaggio). Invece di imparare "Coffee" e "Order", impara la frase "I'd like to order a coffee". Il tuo cervello memorizzerà il suono intero, rendendo la conversazione automatica.
 
-👉 **Risorsa:** [I 500 vocaboli inglesi di base](/vocabolario-inglese-base/)
+👉 **Risorsa:** [I 500 vocaboli inglesi di base](../vocabolario-inglese-base/)
 
 ### Pronuncia che funziona
 La pronuncia non serve per avere un accento perfetto, ma per essere capito. Molti errori di pronuncia derivano dal voler leggere la lingua straniera con le regole dell'italiano.
 
-👉 **Focus Pronuncia:** [Gli errori di pronuncia inglese più comuni per gli italiani](/inglese/pronuncia-errori-italiani/)
+👉 **Focus Pronuncia:** [Gli errori di pronuncia inglese più comuni per gli italiani](../inglese/pronuncia-errori-italiani/)
 
 ---
 
@@ -92,10 +92,10 @@ La pronuncia non serve per avere un accento perfetto, ma per essere capito. Molt
 
 Non cercare di fare tutto subito. Segui questo ordine logico:
 
-* [ ] **[Il Metodo Consigliato](/metodo-consigliato/)**: Leggi la nostra filosofia completa.
-* [ ] **[Migliori App](/migliori-app-studiare-lingue/)**: Scegli il tuo strumento principale.
-* [ ] **[Inglese da Zero](/inglese/inglese-da-zero/)**: Se parti dall'inglese, questa è la tua roadmap.
-* [ ] **[Quanto tempo serve?](/inglese/quanto-tempo-imparare-inglese/)**: Imposta aspettative realistiche.
+* [ ] **[Il Metodo Consigliato](../metodo-consigliato/)**: Leggi la nostra filosofia completa.
+* [ ] **[Migliori App](../migliori-app-studiare-lingue/)**: Scegli il tuo strumento principale.
+* [ ] **[Inglese da Zero](../inglese/inglese-da-zero/)**: Se parti dall'inglese, questa è la tua roadmap.
+* [ ] **[Quanto tempo serve?](../inglese/quanto-tempo-imparare-inglese/)**: Imposta aspettative realistiche.
 
 ---
 
@@ -117,6 +117,7 @@ Le versioni gratuite sono ottime per "assaggiare" una lingua. Tuttavia, se vuoi 
 Imparare una lingua da autodidatta nel 2026 non è più una sfida impossibile tra libri polverosi. Con il giusto mindset, gli strumenti corretti e una routine di soli 15 minuti, puoi raggiungere risultati che non avresti mai immaginato. 
 
 Smetti di studiare a caso. Inizia a costruire il tuo sistema oggi stesso.
+
 
 {% include promo-clean.html variant="metodo" %}
 
