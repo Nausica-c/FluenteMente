@@ -81,7 +81,7 @@ Il segreto della sostenibilità non è la forza di volontà, ma l'ambiente.
 
 Per seguire questo schema in modo automatico, hai bisogno di uno strumento che gestisca per te la progressione e i ripassi. 
 
-Come abbiamo analizzato nel nostro [confronto sulle migliori app](/migliori-app-studiare-lingue/), l'ideale è un software che integri nativamente la ripetizione spaziata e lezioni da 10-15 minuti. Questo ti permette di aprire l'app e iniziare subito, eliminando la "fatica decisionale" di dover scegliere cosa studiare.
+Come abbiamo analizzato nel nostro [confronto sulle migliori app](../migliori-app-studiare-lingue/), l'ideale è un software che integri nativamente la ripetizione spaziata e lezioni da 10-15 minuti. Questo ti permette di aprire l'app e iniziare subito, eliminando la "fatica decisionale" di dover scegliere cosa studiare.
 
 ---
 
