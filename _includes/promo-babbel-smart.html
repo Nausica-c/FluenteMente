@@ -1,0 +1,66 @@
+{% assign v = include.variant | default: "generico" %}
+
+{% if v == "routine" %}
+  {% assign title = "📅 Vuoi rendere questa routine davvero sostenibile?" %}
+  {% assign text = "Il punto non è studiare tanto: è avere un percorso guidato che ti fa praticare ogni giorno senza stress. Un metodo strutturato con lezioni brevi e ripetizione intelligente rende questa routine molto più semplice da seguire." %}
+  {% assign bullets = "✓ Lezioni da 10–15 minuti|✓ Percorso progressivo (zero caos)|✓ Ripetizione intelligente" | split: "|" %}
+
+{% elsif v == "pronuncia" %}
+  {% assign title = "🎧 Per migliorare la pronuncia serve pratica reale" %}
+  {% assign text = "Leggere regole non basta: devi ascoltare, ripetere e usare frasi quotidiane. Un metodo guidato con dialoghi realistici ti aiuta a migliorare pronuncia e listening con costanza." %}
+  {% assign bullets = "✓ Dialoghi realistici|✓ Allenamento costante|✓ Listening più efficace" | split: "|" %}
+
+{% elsif v == "vocaboli" %}
+  {% assign title = "🧠 Memorizzare parole è facile. Ricordarle è il vero problema." %}
+  {% assign text = "La differenza la fa la ripetizione nel tempo e il contesto. Un percorso strutturato ti aiuta a rivedere le parole al momento giusto e usarle in frasi reali (senza dimenticarle dopo 2 giorni)." %}
+  {% assign bullets = "✓ Ripasso al momento giusto|✓ Vocaboli in contesto|✓ Progressi più stabili" | split: "|" %}
+
+{% elsif v == "lavoro" %}
+  {% assign title = "⏳ Hai poco tempo? Micro-sessioni + metodo guidato" %}
+  {% assign text = "Se lavori tutto il giorno, la chiave è studiare poco ma spesso. Un percorso già organizzato ti evita di perdere tempo a decidere cosa fare e ti aiuta a mantenere costanza." %}
+  {% assign bullets = "✓ Studio breve e sostenibile|✓ Percorso pronto|✓ Zero decision fatigue" | split: "|" %}
+
+{% elsif v == "metodo" %}
+  {% assign title = "🧭 Vuoi vedere come funziona il metodo nel dettaglio?" %}
+  {% assign text = "Se vuoi un percorso chiaro invece di studiare a caso, passa dalla pagina “Metodo consigliato” e poi alla recensione completa: pro/contro, prezzi e consigli d’uso pratici." %}
+  {% assign bullets = "✓ Criteri chiari|✓ Per chi è / per chi non è|✓ Guida completa + prezzi" | split: "|" %}
+
+{% else %}
+  {% assign title = "🚀 Vuoi un metodo più strutturato per fare progressi reali?" %}
+  {% assign text = "Se ti perdi tra troppe risorse, un percorso guidato può aiutarti a studiare con costanza e migliorare conversazione e ascolto in modo più efficace." %}
+  {% assign bullets = "✓ Più costanza|✓ Più pratica|✓ Meno caos" | split: "|" %}
+{% endif %}
+
+<div class="promo-box">
+  <div class="promo-content">
+    <h3 class="promo-title">{{ title }}</h3>
+    <p>{{ text }}</p>
+
+    <ul class="promo-benefits">
+      {% for b in bullets %}
+        <li>{{ b }}</li>
+      {% endfor %}
+    </ul>
+
+    <div class="promo-actions">
+      <a href="{{ '/metodo-consigliato/' | relative_url }}" class="btn-outline">
+        Vedi il metodo consigliato
+      </a>
+
+      <a
+        href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
+        class="btn-primary"
+        target="_blank"
+        rel="noopener sponsored"
+      >
+        Scopri l’offerta Babbel
+      </a>
+    </div>
+
+    <span class="promo-guarantee">
+      Prima lezione di ogni lingua gratis · Garanzia 20 giorni “soddisfatti o rimborsati”
+    </span>
+
+    {% include disclaimer-affiliazione.html %}
+  </div>
+</div>
