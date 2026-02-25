@@ -48,4 +48,4 @@ Se Duolingo è un gioco e Rosetta Stone è un'immersione senza salvagente, Babbe
 
 Se il tuo obiettivo è parlare davvero la lingua durante il tuo prossimo viaggio, capire le regole grammaticali senza impazzire e avere uno strumento creato da veri esperti di didattica, Babbel è indiscutibilmente la scelta migliore sul mercato.
 
-{% include promo-babbel.html %}
+{% include promo-clean.html %}
