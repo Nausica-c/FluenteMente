@@ -31,7 +31,7 @@ Ecco i parametri fondamentali che abbiamo usato per il nostro test:
 * **Contesto reale:** Le frasi che impari sono utili per ordinare un caffè o ti fanno tradurre *"il pinguino mangia la mela"*?
 * **Ripetizione intelligente:** L'algoritmo ti fa ripassare i vocaboli prima che tu li dimentichi (Spaced Repetition)?
 * **Speaking e Ascolto:** Ci sono audio di veri madrelingua e un sistema per farti parlare ad alta voce?
-* **Compatibilità con la routine:** Le lezioni si possono completare in una [routine di studio di 15 minuti](/FluenteMente/routine/)?
+* **Compatibilità con la routine:** Le lezioni si possono completare in una [routine di studio di 15 minuti](/FluenteMente/routine-15-minuti/)?
 * **Costo e modello:** Analisi onesta del rapporto qualità/prezzo (abbonamento vs base gratuita).
 
 👉 *Vuoi scoprire la teoria dietro questi criteri? Leggi il nostro [Metodo Consigliato per imparare una lingua](/FluenteMente/metodo-consigliato/).*
@@ -76,7 +76,7 @@ Perfetta per i **principianti assoluti** che fanno fatica a creare un'abitudine 
 * **Poca conversazione:** Allena molto la traduzione scritta, ma non ti sblocca nel parlato.
 * **Progressione lenta:** L'enfasi sul gioco a volte rallenta l'effettivo apprendimento grammaticale.
 
-👉 *Scopri di più nell'approfondimento su [come usare le App per imparare le lingue](/FluenteMente/app-imparare-lingue/).*
+👉 *Scopri di più nell'approfondimento su [come usare le App per imparare le lingue](../migliori-app-studiare-lingue/).*
 
 ---
 
@@ -136,7 +136,7 @@ Non esiste l'app perfetta per tutti, ma esiste l'app perfetta per i *tuoi* obiet
 **Link utili per approfondire:**
 👉 [Il Metodo FluenteMente Consigliato](/FluenteMente/metodo-consigliato/)
 👉 [La Guida Definitiva alle Risorse](/FluenteMente/risorse/)
-👉 [Come Integrare le App nello Studio](/FluenteMente/app-imparare-lingue/)
+👉 [Come Integrare le App nello Studio](../migliori-app-studiare-lingue/)
 
 ---
 
@@ -149,7 +149,7 @@ Se parti completamente da zero e vuoi capire subito come formare le frasi, Babbe
 Sì, ma con cautela. Il nostro consiglio pratico è di usare **una sola app principale per la struttura** (es. Babbel per il 80% del tuo tempo di studio) e **un'app secondaria per il ripasso passivo** (es. guardare qualche video su Memrise mentre sei in autobus per il restante 20%). Troppe app creano solo confusione.
 
 **Quanto tempo al giorno devo usarle?**
-L'ideale è impostare una **[routine quotidiana di 15 minuti](/FluenteMente/routine-studio-lingua/)**. La costanza batte sempre le maratone di studio. È molto meglio usare l'app 15 minuti al giorno per 7 giorni, piuttosto che 2 ore tutte la domenica.
+L'ideale è impostare una **[routine quotidiana di 15 minuti](/FluenteMente/routine-15-minuti/)**. La costanza batte sempre le maratone di studio. È molto meglio usare l'app 15 minuti al giorno per 7 giorni, piuttosto che 2 ore tutte la domenica.
 
 ---
 
