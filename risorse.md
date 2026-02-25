@@ -69,8 +69,8 @@ La costanza è il motore di tutto. 15 minuti al giorno, ogni giorno, creano una 
 * **Pausa Pranzo (5 min):** Una nuova micro-lezione.
 * **Sera (5 min):** Ascolto passivo o parlato ad alta voce.
 
-👉 **Leggi la guida:** [Come creare la tua routine di studio](/routine-15-minuti/)
-👉 **Focus Inglese:** [Routine inglese 15 minuti al giorno](/inglese/routine-inglese-15-minuti/)
+👉 **Leggi la guida:** [Come creare la tua routine di studio](../routine-15-minuti/)
+👉 **Focus Inglese:** [Routine inglese 15 minuti al giorno](../inglese/routine-inglese-15-minuti/)
 
 ---
 
