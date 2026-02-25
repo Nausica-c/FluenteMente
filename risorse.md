@@ -121,5 +121,3 @@ Smetti di studiare a caso. Inizia a costruire il tuo sistema oggi stesso.
 {% include promo-clean.html variant="metodo" %}
 
 ---
-
-
