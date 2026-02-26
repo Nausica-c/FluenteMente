@@ -43,7 +43,53 @@ layout: default
           Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
         </p>
       </div>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: page.subtitle | default: site.description | jsonify }},
+  "author": {
+    "@type":"Organization",
+    "name": {{ site.title | jsonify }}
+  },
+  "publisher": {
+    "@type":"Organization",
+    "name": {{ site.title | jsonify }}
+  },
+  "mainEntityOfPage": {
+    "@type":"WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  }
+}
+</script>
 
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"{{ site.url }}{{ site.baseurl }}/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"Curiosità Inglese",
+      "item":"{{ site.url }}{{ site.baseurl }}{{ '/curiosita-inglese/' | relative_url }}"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "name": {{ page.title | jsonify }},
+      "item":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+  ]
+}
+</script>
     </article>
   </div>
 </main>
