@@ -17,34 +17,41 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
 
   <div class="lang-hub__grid">
 
-    <a class="lang-card lang-card--active" href="{{ '/inglese/da-zero/' | relative_url }}">
+    <!-- INGLESE (attivo) -->
+    <div class="lang-card lang-card--active">
       <div class="lang-card__top">
         <div class="lang-card__flag">🇬🇧</div>
         <span class="lang-card__badge">Attiva</span>
       </div>
+
       <h2 class="lang-card__title">Imparare Inglese</h2>
       <p class="lang-card__desc">
         Percorso completo per adulti principianti: basi solide, frasi quotidiane, errori comuni e pronuncia.
       </p>
-      <div class="lang-card__links">
-        <span class="lang-pill">Da zero</span>
-        <span class="lang-pill">Frasi utili</span>
-        <span class="lang-pill">Errori comuni</span>
-        <span class="lang-pill">Pronuncia</span>
-        <span class="lang-pill">Curiosità</span>
-      </div>
-      <div class="lang-card__cta">Inizia il percorso →</div>
-    </a>
 
-    <a class="lang-card" href="{{ '/spagnolo/da-zero/' | relative_url }}">
+      <div class="lang-card__links">
+        <a class="lang-pill" href="{{ '/inglese/da-zero/' | relative_url }}">Da zero</a>
+        <a class="lang-pill" href="{{ '/inglese/frasi-utili/' | relative_url }}">Frasi utili</a>
+        <a class="lang-pill" href="{{ '/inglese/errori-comuni/' | relative_url }}">Errori comuni</a>
+        <a class="lang-pill" href="{{ '/inglese/pronuncia/' | relative_url }}">Pronuncia</a>
+        <a class="lang-pill" href="{{ '/inglese/curiosita/' | relative_url }}">Curiosità</a>
+      </div>
+
+      <a class="lang-card__cta" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia il percorso →</a>
+    </div>
+
+    <!-- SPAGNOLO (in arrivo) -->
+    <div class="lang-card is-disabled" aria-disabled="true">
       <div class="lang-card__top">
         <div class="lang-card__flag">🇪🇸</div>
         <span class="lang-card__badge is-soon">In arrivo</span>
       </div>
+
       <h2 class="lang-card__title">Imparare Spagnolo</h2>
       <p class="lang-card__desc">
-        Struttura pronta: dalle basi alle frasi per viaggiare e comunicare con sicurezza.
+        Struttura pronta: dalle basi alle frasi per viaggiare e comunicare con sicurezza (contenuti in arrivo).
       </p>
+
       <div class="lang-card__links">
         <span class="lang-pill">Da zero</span>
         <span class="lang-pill">Frasi utili</span>
@@ -52,18 +59,22 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
         <span class="lang-pill">Pronuncia</span>
         <span class="lang-pill">Curiosità</span>
       </div>
-      <div class="lang-card__cta">Scopri il percorso →</div>
-    </a>
 
-    <a class="lang-card" href="{{ '/portoghese/da-zero/' | relative_url }}">
+      <div class="lang-card__cta">Disponibile a breve</div>
+    </div>
+
+    <!-- PORTOGHESE (in arrivo) -->
+    <div class="lang-card is-disabled" aria-disabled="true">
       <div class="lang-card__top">
         <div class="lang-card__flag">🇵🇹</div>
         <span class="lang-card__badge is-soon">In arrivo</span>
       </div>
+
       <h2 class="lang-card__title">Imparare Portoghese</h2>
       <p class="lang-card__desc">
-        Percorso pratico per iniziare da zero: basi, frasi utili e differenze tra portoghese europeo e brasiliano.
+        Percorso pratico per iniziare da zero: basi, frasi utili e differenze tra portoghese europeo e brasiliano (contenuti in arrivo).
       </p>
+
       <div class="lang-card__links">
         <span class="lang-pill">Da zero</span>
         <span class="lang-pill">Frasi utili</span>
@@ -71,18 +82,22 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
         <span class="lang-pill">Pronuncia</span>
         <span class="lang-pill">Curiosità</span>
       </div>
-      <div class="lang-card__cta">Scopri il percorso →</div>
-    </a>
 
-    <a class="lang-card" href="{{ '/francese/da-zero/' | relative_url }}">
+      <div class="lang-card__cta">Disponibile a breve</div>
+    </div>
+
+    <!-- FRANCESE (in arrivo) -->
+    <div class="lang-card is-disabled" aria-disabled="true">
       <div class="lang-card__top">
         <div class="lang-card__flag">🇫🇷</div>
         <span class="lang-card__badge is-soon">In arrivo</span>
       </div>
+
       <h2 class="lang-card__title">Imparare Francese</h2>
       <p class="lang-card__desc">
-        Percorso strutturato per principianti: basi grammaticali, pronuncia e frasi reali.
+        Percorso strutturato per principianti: basi grammaticali, pronuncia e frasi reali (contenuti in arrivo).
       </p>
+
       <div class="lang-card__links">
         <span class="lang-pill">Da zero</span>
         <span class="lang-pill">Frasi utili</span>
@@ -90,18 +105,22 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
         <span class="lang-pill">Pronuncia</span>
         <span class="lang-pill">Curiosità</span>
       </div>
-      <div class="lang-card__cta">Scopri la struttura →</div>
-    </a>
 
-    <a class="lang-card" href="{{ '/tedesco/da-zero/' | relative_url }}">
+      <div class="lang-card__cta">Disponibile a breve</div>
+    </div>
+
+    <!-- TEDESCO (in arrivo) -->
+    <div class="lang-card is-disabled" aria-disabled="true">
       <div class="lang-card__top">
         <div class="lang-card__flag">🇩🇪</div>
         <span class="lang-card__badge is-soon">In arrivo</span>
       </div>
+
       <h2 class="lang-card__title">Imparare Tedesco</h2>
       <p class="lang-card__desc">
-        Guida pratica per iniziare da zero senza sentirsi sopraffatti.
+        Guida pratica per iniziare da zero senza sentirsi sopraffatti (contenuti in arrivo).
       </p>
+
       <div class="lang-card__links">
         <span class="lang-pill">Da zero</span>
         <span class="lang-pill">Frasi utili</span>
@@ -109,8 +128,9 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
         <span class="lang-pill">Pronuncia</span>
         <span class="lang-pill">Curiosità</span>
       </div>
-      <div class="lang-card__cta">Vedi struttura →</div>
-    </a>
+
+      <div class="lang-card__cta">Disponibile a breve</div>
+    </div>
 
   </div>
 
@@ -127,7 +147,7 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
         Lezioni brevi, dialoghi realistici e focus sulla conversazione.
         Ideale per chi studia 10–15 minuti al giorno.
       </p>
-      <a class="btn-primary" href="/consigli/babbel/">Scopri perché lo consigliamo →</a>
+      <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">Scopri perché lo consigliamo →</a>
     </div>
   </div>
 
