@@ -4,7 +4,7 @@ title: "Parole inglesi ingannevoli che non significano quello che pensi"
 subtitle: "Oltre i false friends: errori sottili ma comuni."
 description: "Scopri le parole inglesi più ingannevoli che creano confusione anche a chi studia da tempo."
 keywords: parole inglesi ingannevoli, false friends avanzati, errori sottili inglese
-permalink: /parole-inglesi-ingannevoli/
+permalink: /inglese/errori/parole-inglesi-ingannevoli/
 bridge_title: "Vuoi evitare questi errori sottili?"
 bridge_text: "Le sfumature linguistiche non si imparano con la traduzione, ma con esposizione e pratica costante."
 bridge_cta1: "Costruisci le basi"
