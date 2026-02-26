@@ -1,0 +1,49 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col info-col">
+        <p class="footer-heading">{{ site.title }}</p>
+        <p>{{ site.description }}</p>
+        <p style="margin-top:12px; color:#94a3b8; font-size:.95rem;">
+          Inglese da adulti, routine brevi e un metodo consigliato (senza caos).
+        </p>
+      </div>
+
+      <div class="footer-col link-col">
+        <p class="footer-heading">Navigazione</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/inglese-da-zero/' | relative_url }}">Inizia</a></li>
+          <li><a href="{{ '/routine/' | relative_url }}">Routine</a></li>
+          <li><a href="{{ '/metodo-consigliato/' | relative_url }}">Metodo</a></li>
+          <li><a href="{{ '/recensione-babbel/' | relative_url }}">Recensione</a></li>
+          <li><a href="{{ '/archivio/' | relative_url }}">Archivio</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col link-col">
+        <p class="footer-heading">Info</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer Affiliazioni</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col social-col">
+        <p class="footer-heading">Seguici</p>
+        <ul class="social-links">
+          <li><a href="https://it.pinterest.com/Nausicac/" target="_blank" rel="noopener">📌 Pinterest</a></li>
+        </ul>
+        <p style="margin-top:12px; color:#94a3b8; font-size:.9rem;">
+          <strong>Nota:</strong> alcuni link possono essere affiliati (senza costi extra per te).
+        </p>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
+    </div>
+  </div>
+</footer>
