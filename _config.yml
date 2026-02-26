@@ -1,5 +1,5 @@
 title: "FluenteMente"
-description: "Viaggio nel mondo delle lingue, ma con metodo: inglese da adulti, routine brevi e strumenti testati."
+description: "Viaggio nel mondo delle lingue, ma con metodo: routine brevi e strumenti testati."
 url: "https://nausica-c.github.io"
 baseurl: "/FluenteMente"
 permalink: pretty
@@ -16,5 +16,4 @@ defaults:
       path: ""
     values:
       layout: "default"
-      plugins:
-  - jekyll-redirect-from
+ 
