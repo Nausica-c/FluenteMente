@@ -32,16 +32,21 @@ Non è solo “mancanza”.
 
 ---
 
+### 🇪🇸 Sobremesa (Spagnolo)
+Il tempo che si passa a tavola a parlare dopo aver finito di mangiare.
 
-
-### 🇫🇮 Sisu (Finlandese)
-Forza interiore, determinazione profonda nei momenti difficili.
-
-Non è solo coraggio.  
-È resistenza mentale.
+Non è semplicemente “chiacchierare”.  
+È un momento sociale importante nella cultura spagnola.
 
 ---
 
+### 🇫🇷 Retrouvailles (Francese)
+La gioia di ritrovarsi dopo tanto tempo.
+
+Non è solo “incontro”.  
+È l’emozione del ricongiungimento.
+
+---
 ## ⚠️ False friends (falsi amici)
 
 Parole che sembrano italiane… ma non lo sono.
