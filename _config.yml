@@ -1,9 +1,0 @@
-title: FluenteMente
-description: "Guide, metodi e risorse pratiche per imparare le lingue straniere da autodidatta."
-url: "https://Nausica-c.github.io" # Cambialo col tuo dominio o con username.github.io
-author: "FluenteMente"
-permalink: /:year/:month/:title/
-
-# Impostazioni per GitHub Pages
-plugins:
-  - jekyll-seo-tag
