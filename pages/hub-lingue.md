@@ -7,7 +7,7 @@ permalink: /hub-lingue/
 <section class="lang-hub">
 
   <div class="lang-hub__head">
-    <h1 class="lang-hub__title">Hub Lingue</h1>
+    
     <p class="lang-hub__subtitle">
       Scegli una lingua e inizia da un percorso guidato: da zero, frasi utili, errori comuni, pronuncia e curiosità.
     </p>
