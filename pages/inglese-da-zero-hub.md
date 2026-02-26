@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Inglese da Zero"
-permalink: /inglese/da-zero/
+permalink: /inglese/da-zero/hub
 ---
 
 # 📘 Inglese da Zero
