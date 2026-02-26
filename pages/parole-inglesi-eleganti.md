@@ -5,8 +5,6 @@ subtitle: "Vocaboli raffinati che ti fanno sembrare più fluente."
 description: "Scopri 15 parole inglesi eleganti con spiegazione ed esempio pratico. Amplia il tuo vocabolario e migliora il tuo inglese parlato."
 keywords: parole inglesi eleganti, vocaboli inglesi avanzati, parole raffinate inglese
 permalink: /inglese/frasi/parole-inglesi-eleganti/
-redirect_from:
-  - /parole-inglesi-eleganti/
 bridge_title: "Vuoi usare queste parole con naturalezza?"
 bridge_text: "La fluidità non nasce da parole difficili, ma dall’uso costante nel contesto giusto."
 bridge_cta1: "Costruisci le basi"
