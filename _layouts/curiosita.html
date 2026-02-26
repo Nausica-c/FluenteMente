@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<main class="page-content">
+  <div class="wrapper">
+    <article class="post-wrapper">
+
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+          <p class="post-meta">{{ page.subtitle }}</p>
+        {% endif %}
+      </header>
+
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+      <!-- AUTO: Bridge box su tutte le pagine curiosità -->
+      <div class="post-content">
+        {% include bridge-box.html
+          title=page.bridge_title
+          text=page.bridge_text
+          cta1=page.bridge_cta1
+          url1=page.bridge_url1
+          cta2=page.bridge_cta2
+          url2=page.bridge_url2
+          micro=page.bridge_micro
+          microlink=page.bridge_microlink
+          microanchor=page.bridge_microanchor
+        %}
+      </div>
+
+      <hr class="section-divider" />
+
+      <div class="disclaimer-inline" role="note">
+        <div class="disclaimer-icon">ℹ️</div>
+        <p class="disclaimer-text">
+          <strong>Nota</strong> — Alcuni link in questo sito possono essere affiliati.
+          Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
+        </p>
+      </div>
+
+    </article>
+  </div>
+</main>
+
+{% include footer.html %}
