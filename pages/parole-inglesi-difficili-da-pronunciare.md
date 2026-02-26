@@ -3,7 +3,7 @@ layout: curiosita
 title: "15 parole inglesi difficili da pronunciare (con guida)"
 subtitle: "Pronuncia corretta e errori comuni degli italiani."
 description: "Scopri 15 parole inglesi difficili da pronunciare con spiegazione semplice e consigli pratici."
-permalink: /parole-inglesi-difficili-da-pronunciare/
+permalink: /inglese/pronuncia/parole-inglesi-difficili-da-pronunciare/
 ---
 
 
