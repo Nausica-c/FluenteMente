@@ -7,7 +7,7 @@ keywords: pensare in inglese, smettere di tradurre mentalmente, parlare inglese 
 permalink: /inglese/da-zero/come-pensare-in-inglese-senza-tradurre/
 ---
 
-# Come pensare in inglese senza tradurre mentalmente
+# Il vero passaggio dalla teoria alla fluidità.# 
 
 Il vero blocco degli italiani non è la grammatica.
 
