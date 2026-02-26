@@ -76,7 +76,7 @@ Perfetta per i **principianti assoluti** che fanno fatica a creare un'abitudine 
 * **Poca conversazione:** Allena molto la traduzione scritta, ma non ti sblocca nel parlato.
 * **Progressione lenta:** L'enfasi sul gioco a volte rallenta l'effettivo apprendimento grammaticale.
 
-👉 *Scopri di più nell'approfondimento su [come usare le App per imparare le lingue](../migliori-app-studiare-lingue/).*
+👉 *Scopri di più nell'approfondimento su [come usare le App per imparare le lingue](../come-usare-app-imparare-lingue/)
 
 ---
 
@@ -136,7 +136,7 @@ Non esiste l'app perfetta per tutti, ma esiste l'app perfetta per i *tuoi* obiet
 **Link utili per approfondire:**
 👉 [Il Metodo FluenteMente Consigliato](/FluenteMente/metodo-consigliato/)
 👉 [La Guida Definitiva alle Risorse](/FluenteMente/risorse/)
-👉 [Come Integrare le App nello Studio](../migliori-app-studiare-lingue/)
+👉 [Come Integrare le App nello Studio](../come-usare-app-imparare-lingue/)
 
 ---
 
