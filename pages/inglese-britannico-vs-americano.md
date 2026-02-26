@@ -4,7 +4,7 @@ title: "Inglese britannico vs americano: differenze principali"
 subtitle: "Pronuncia, vocabolario e ortografia a confronto."
 description: "Scopri le differenze tra inglese britannico e americano: pronuncia, ortografia e parole diverse con esempi pratici."
 keywords: inglese britannico vs americano, differenza british american english, parole diverse uk usa
-permalink: /inglese-britannico-vs-americano/
+permalink: inglese/curiosita/inglese-britannico-vs-americano/
 bridge_title: "Non sai quale variante studiare?"
 bridge_text: "La cosa più importante non è scegliere la variante perfetta, ma costruire basi solide e coerenza nel tempo."
 bridge_cta1: "Costruisci le basi"
