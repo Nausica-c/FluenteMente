@@ -1,137 +1,96 @@
 ---
 layout: page
-title: "Hub – Imparare Inglese da Adulti"
-subtitle: "Guide, metodo, recensioni e risorse selezionate."
-description: "Hub completo per imparare inglese da adulti: guide, routine, metodo strutturato, recensioni e confronti."
+title: "Archivio"
 permalink: /archivio/
 ---
 
-# Hub – Imparare Inglese da Adulti
+<div class="archive-head">
+  <h1 class="archive-title">📚 Archivio</h1>
+  <p class="archive-subtitle">
+    Scegli una lingua e poi un percorso. Le guide si aggiornano automaticamente quando aggiungi nuove pagine.
+  </p>
+</div>
 
-Benvenuto nel centro del percorso.
+{% assign languages = "inglese,spagnolo,francese,tedesco" | split: "," %}
+{% assign sections = "da-zero,frasi,errori,pronuncia,curiosita" | split: "," %}
 
-Qui trovi tutte le guide organizzate in modo chiaro, così puoi partire dal punto più adatto a te.
+{% for lang in languages %}
+  {% assign lang_root = '/' | append: lang | append: '/' %}
+  {% assign lang_pages = site.pages | where_exp: "p", "p.url contains lang_root" %}
 
-Se ti senti perso, inizia da qui.
+  {% if lang_pages.size > 0 %}
+  <section class="archive-lang">
+    <div class="archive-lang__header">
+      <h2 class="archive-lang__title">🌍 {{ lang | capitalize }}</h2>
+      <p class="archive-lang__meta">{{ lang_pages.size }} risorse</p>
+    </div>
 
----
+    <div class="archive-grid">
+      {% for section in sections %}
+        {% assign section_root = '/' | append: lang | append: '/' | append: section | append: '/' %}
+        {% assign section_pages = site.pages | where_exp: "p", "p.url contains section_root" %}
+        {% assign section_pages_sorted = section_pages | sort: "title" %}
 
-## 🔰 1. Parti dalle basi
+        {% if section_pages.size > 0 %}
+          <article class="archive-card">
+            <div class="archive-card__top">
+              <span class="archive-card__badge">
+                {% case section %}
+                  {% when "da-zero" %}📘 Da zero
+                  {% when "frasi" %}💬 Frasi
+                  {% when "errori" %}⚠️ Errori
+                  {% when "pronuncia" %}🔊 Pronuncia
+                  {% when "curiosita" %}🌍 Curiosità
+                  {% else %}📌 {{ section | capitalize }}
+                {% endcase %}
+              </span>
+              <span class="archive-card__count">{{ section_pages.size }}</span>
+            </div>
 
-### 👉 [Inglese da Zero]({{ '/inglese-da-zero/' | relative_url }})
+            <h3 class="archive-card__title">
+              {% case section %}
+                {% when "da-zero" %}Inizia dalle basi
+                {% when "frasi" %}Parla più naturale
+                {% when "errori" %}Evita gli errori tipici
+                {% when "pronuncia" %}Migliora l’accento
+                {% when "curiosita" %}Inglese reale & sfumature
+                {% else %}{{ section | replace:"-"," " | capitalize }}
+              {% endcase %}
+            </h3>
 
-Guida completa per adulti principianti.  
-Spiega come iniziare senza caos e costruire progressione.
+            <p class="archive-card__desc">
+              {% case section %}
+                {% when "da-zero" %}Guide per costruire fondamenta solide, anche se riparti da adulto.
+                {% when "frasi" %}Espressioni utili, blocchi pronti e frasi che usano i madrelingua.
+                {% when "errori" %}False friends, parole ingannevoli e trappole tipiche.
+                {% when "pronuncia" %}Suoni difficili, parole problematiche e consigli pratici.
+                {% when "curiosita" %}Idiomi, differenze culturali, britannico vs americano e altro.
+                {% else %}Raccolta di risorse per questa sezione.
+              {% endcase %}
+            </p>
 
----
+            <ul class="archive-card__list">
+              {% assign shown = 0 %}
+              {% for p in section_pages_sorted %}
+                {% if p.title and p.url != page.url %}
+                  <li class="archive-card__item">
+                    <a class="archive-card__link" href="{{ p.url | relative_url }}">{{ p.title }}</a>
+                  </li>
+                  {% assign shown = shown | plus: 1 %}
+                {% endif %}
+                {% if shown == 6 %}{% break %}{% endif %}
+              {% endfor %}
+            </ul>
 
-### 👉 [Routine 15 minuti al giorno]({{ '/routine/' | relative_url }})
-
-Schema pratico quotidiano per migliorare anche con poco tempo.
-
-Ideale se lavori o studi.
-
----
-
-## 🔓 2. Se ti senti bloccato
-
-### 👉 [Capisco l’inglese ma non riesco a parlarlo]({{ '/capisco-ma-non-parlo/' | relative_url }})
-
-La pagina più letta da chi studia ma si blocca.
-
-Spiega perché succede e come sbloccarsi.
-
----
-
-## 🧭 3. Se cerchi una struttura chiara
-
-### 👉 [Metodo consigliato]({{ '/metodo-consigliato/' | relative_url }})
-
-Percorso organizzato per adulti che vogliono progressione e continuità.
-
----
-
-## 🔍 4. Se stai valutando Babbel
-
-### 👉 [Recensione completa Babbel]({{ '/recensione-babbel/' | relative_url }})
-
-Pro, contro e valutazione reale.
-
----
-
-### 👉 [Babbel vs Duolingo]({{ '/babbel-vs-duolingo/' | relative_url }})
-
-Confronto diretto per scegliere con consapevolezza.
-
----
-
-### 👉 [Babbel opinioni negative]({{ '/babbel-opinioni-negative/' | relative_url }})
-
-Analisi delle critiche più comuni: cosa è vero e cosa no.
-
----
-
-## 🧰 5. Strumenti utili
-
-### 👉 [Risorse consigliate]({{ '/risorse/' | relative_url }})
-
-Strumenti selezionati per adulti che vogliono studiare con metodo.
-
----
-
-## 🎯 Percorso suggerito (se non sai da dove iniziare)
-
-1. Parti da 👉 Inglese da Zero  
-2. Applica la 👉 Routine 15 minuti  
-3. Sblocca il parlato  
-4. Valuta il 👉 Metodo strutturato  
-5. Approfondisci recensione e confronto  
-
----
-
-Il viaggio nel mondo delle lingue non è complicato.
-
-Diventa complicato quando manca una direzione.
-
-Questo hub serve proprio a dartela.
-
----
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "ItemList",
- "itemListElement": [
-   {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Inglese da Zero",
-     "url": "https://nausica-c.github.io/FluenteMente/inglese-da-zero/"
-   },
-   {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Routine 15 minuti",
-     "url": "https://nausica-c.github.io/FluenteMente/routine/"
-   },
-   {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Capisco ma non parlo",
-     "url": "https://nausica-c.github.io/FluenteMente/capisco-ma-non-parlo/"
-   },
-   {
-     "@type": "ListItem",
-     "position": 4,
-     "name": "Metodo consigliato",
-     "url": "https://nausica-c.github.io/FluenteMente/metodo-consigliato/"
-   },
-   {
-     "@type": "ListItem",
-     "position": 5,
-     "name": "Recensione Babbel",
-     "url": "https://nausica-c.github.io/FluenteMente/recensione-babbel/"
-   }
- ]
-}
-</script>
+            <div class="archive-card__actions">
+              <a class="archive-card__btn" href="{{ section_root | relative_url }}">
+                Vedi tutto
+              </a>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}
