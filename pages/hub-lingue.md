@@ -30,8 +30,8 @@ description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, 
       </p>
 
       <div class="lang-card__links">
-        <a class="lang-pill" href="{{ '/inglese/da-zero/' | relative_url }}">Da zero</a>
-        <a class="lang-pill" href="{{ '/inglese/frasi-utili/' | relative_url }}">Frasi utili</a>
+        <a class="lang-pill" href="{{ '/inglese/da-zero/hub' | relative_url }}">Da zero</a>
+        <a class="lang-pill" href="{{ '/inglese/frasi/' | relative_url }}">Frasi utili</a>
         <a class="lang-pill" href="{{ '/inglese/errori-comuni/' | relative_url }}">Errori comuni</a>
         <a class="lang-pill" href="{{ '/inglese/pronuncia/' | relative_url }}">Pronuncia</a>
         <a class="lang-pill" href="{{ '/inglese/curiosita/' | relative_url }}">Curiosità</a>
