@@ -423,3 +423,41 @@ ul{ list-style:none; }
   gap: 12px;
   flex-wrap: wrap;
 }
+/* Bridge box: Curiosità -> Percorso */
+.bridge-box{
+  margin: 44px 0;
+  padding: 26px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,128,0,.35);
+  background: linear-gradient(180deg, rgba(255,128,0,.06), #ffffff 60%);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+}
+
+.bridge-box h3{
+  margin: 0 0 10px;
+  font-size: 1.25rem;
+  color:#1a202c;
+}
+
+.bridge-box__text{
+  margin: 0 0 16px;
+  color: var(--text-main);
+  font-size: 1.02rem;
+  max-width: 70ch;
+}
+
+.bridge-box__actions{
+  display:flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.bridge-box__micro{
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--text-light);
+}
+.bridge-box__micro a{
+  font-weight: 800;
+}
