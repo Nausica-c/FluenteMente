@@ -5,8 +5,6 @@ subtitle: "Espressioni naturali con traduzione ed esempio reale."
 description: "30 frasi inglesi naturali con traduzione e mini esempi per sembrare più fluente fin da subito."
 keywords: frasi inglesi per sembrare fluente, espressioni inglese naturali, inglese parlato reale
 permalink: /inglese/frasi/30-frasi-per-sembrare-fluente/
-redirect_from:
-  - /30-frasi-inglesi-per-sembrare-fluente/
 ---
 
 
