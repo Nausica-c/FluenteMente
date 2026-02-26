@@ -4,7 +4,7 @@ title: "Come pensare in inglese senza tradurre mentalmente"
 subtitle: "Il vero passaggio dalla teoria alla fluidità."
 description: "Scopri come smettere di tradurre mentalmente e iniziare a pensare direttamente in inglese con esercizi pratici."
 keywords: pensare in inglese, smettere di tradurre mentalmente, parlare inglese fluente
-permalink: /come-pensare-in-inglese-senza-tradurre/
+permalink: /inglese/da-zero//come-pensare-in-inglese-senza-tradurre/
 ---
 
 
