@@ -4,7 +4,7 @@ title: "Mini guida alla pronuncia inglese per italiani"
 subtitle: "I suoni che fanno davvero la differenza."
 description: "Mini guida pratica alla pronuncia inglese per italiani: suoni difficili, errori comuni e consigli concreti."
 keywords: pronuncia inglese italiani, difficoltà pronuncia inglese, suoni inglesi difficili
-permalink: /guida-pronuncia-inglese-italiani/
+permalink: /inglese/pronuncia/guida-pronuncia-inglese-italiani/
 bridge_title: "Vuoi migliorare davvero la tua pronuncia?"
 bridge_text: "La pronuncia non migliora studiando regole, ma ascoltando, ripetendo e praticando con costanza."
 bridge_cta1: "Riparti dalle basi"
