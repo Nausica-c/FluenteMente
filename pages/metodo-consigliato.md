@@ -6,7 +6,6 @@ description: "Metodo consigliato per imparare inglese da adulti: lezioni brevi, 
 permalink: /metodo-consigliato/
 ---
 
-# Metodo consigliato per imparare inglese (senza caos)
 
 Se sei arrivato su questa pagina, probabilmente hai già capito una cosa fondamentale:
 
@@ -114,7 +113,7 @@ Se vuoi iniziare con un metodo già organizzato, pensato per adulti che hanno po
 </p>
 
 <a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Buttati. Impara una nuova lingua con Babbel
+La prima Lezione è gratis 
 </a>
 
 <p style="margin-top:12px; font-size:0.95rem; color:var(--text-light);">
@@ -194,3 +193,24 @@ Oppure torna a:
 - 👉 [Capisco ma non parlo]({{ '/capisco-ma-non-parlo/' | relative_url }})
 
 Il viaggio nel mondo delle lingue diventa semplice quando hai una direzione.
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "Metodo per imparare inglese da adulti",
+ "step": [
+   {
+     "@type": "HowToStep",
+     "name": "Seguire una progressione chiara"
+   },
+   {
+     "@type": "HowToStep",
+     "name": "Studiare con lezioni brevi"
+   },
+   {
+     "@type": "HowToStep",
+     "name": "Usare il ripasso intelligente"
+   }
+ ]
+}
+</script>
