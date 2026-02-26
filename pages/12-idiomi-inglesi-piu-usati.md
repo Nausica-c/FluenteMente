@@ -4,7 +4,7 @@ title: "12 idiomi inglesi più usati nella conversazione"
 subtitle: "Espressioni comuni che non puoi tradurre parola per parola."
 description: "Scopri 12 idiomi inglesi molto usati nella conversazione quotidiana con spiegazione chiara ed esempi pratici."
 keywords: idiomi inglesi, espressioni inglesi comuni, frasi inglesi con significato
-permalink: /12-idiomi-inglesi-piu-usati/
+permalink: inglese/curiosita/12-idiomi-inglesi-piu-usati/
 bridge_title: "Vuoi usare davvero questi idiomi parlando?"
 bridge_text: "Gli idiomi non si memorizzano. Si assorbono con ascolto e pratica guidata nel tempo."
 bridge_cta1: "Costruisci le basi"
