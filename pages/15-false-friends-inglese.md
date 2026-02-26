@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: curiosita
 title: "15 false friends inglese che ti fanno fare brutta figura"
 subtitle: "Gli errori più comuni tra italiani."
 description: "Scopri 15 false friends inglese pericolosi che confondono gli italiani. Evita errori comuni e migliora il tuo inglese."
