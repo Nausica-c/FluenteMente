@@ -3,7 +3,7 @@ layout: page
 title: "Curiosità sull’inglese: parole, idiomi ed errori comuni"
 subtitle: "Il lato affascinante della lingua inglese."
 description: "Scopri false friends, idiomi inglesi, parole intraducibili e errori comuni degli italiani. Un viaggio nel lato nascosto dell’inglese."
-permalink: /curiosita-inglese/
+permalink: inglese/curiosita
 ---
 
 # Curiosità sull’inglese
