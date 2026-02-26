@@ -1,0 +1,26 @@
+<!-- _includes/bridge-box.html -->
+{% assign title = include.title | default: "Se vuoi trasformare curiosità in inglese reale" %}
+{% assign text  = include.text  | default: "Le parole affascinano. La pratica costruisce automatismi. Se vuoi passare dal “capisco” al “parlo”, parti da un percorso semplice e ripetibile." %}
+{% assign cta1  = include.cta1  | default: "Inizia da zero" %}
+{% assign url1  = include.url1  | default: "/inglese-da-zero/" %}
+{% assign cta2  = include.cta2  | default: "Scopri il metodo" %}
+{% assign url2  = include.url2  | default: "/metodo-consigliato/" %}
+{% assign micro = include.micro | default: "Consiglio: aggiungi anche la Routine 15 minuti per restare costante." %}
+{% assign microlink = include.microlink | default: "/routine/" %}
+{% assign microanchor = include.microanchor | default: "Routine 15 minuti" %}
+
+<div class="bridge-box" role="note" aria-label="Percorso consigliato">
+  <h3>{{ title }}</h3>
+
+  <p class="bridge-box__text">{{ text }}</p>
+
+  <div class="bridge-box__actions">
+    <a class="btn-outline" href="{{ url1 | relative_url }}">{{ cta1 }}</a>
+    <a class="btn-primary" href="{{ url2 | relative_url }}">{{ cta2 }}</a>
+  </div>
+
+  <p class="bridge-box__micro">
+    {{ micro }}
+    <a href="{{ microlink | relative_url }}">{{ microanchor }}</a>.
+  </p>
+</div>
