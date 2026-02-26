@@ -1,108 +1,132 @@
-<!-- =========================
-HOME (index.html)
-Collegata a Hub Lingue + Lingue (cluster)
-========================= -->
-
 ---
 layout: default
-title: "FluenteMente | Impara le lingue con percorsi guidati"
-description: "Percorsi pratici per imparare le lingue da zero: inglese, spagnolo, francese, tedesco e portoghese. Metodo semplice, frasi utili, pronuncia ed errori comuni."
+title: "FluenteMente | Impara le lingue con un metodo semplice"
+description: "Percorsi guidati per imparare inglese e altre lingue da zero. Frasi utili, errori comuni, pronuncia e metodo pratico."
 ---
 
 <main class="home">
 
   <!-- HERO -->
   <section class="home-hero">
-    <h1>Impara una lingua con un percorso guidato</h1>
-    <p>
-      Risorse pratiche per adulti: parti da zero, usa frasi reali, evita gli errori comuni e migliora la pronuncia.
-      Scegli la lingua e inizia oggi.
-    </p>
-
-    <div class="home-hero__cta">
-      <a class="btn-primary" href="{{ '/hub-lingue/' | relative_url }}">Vai all’Hub Lingue →</a>
-      <a class="btn-secondary" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia con l’Inglese →</a>
-    </div>
-  </section>
-
-  <!-- LINGUE (link diretti ai cluster) -->
-  <section class="home-languages">
-    <h2>Percorsi per lingua</h2>
-    <p>Seleziona la lingua: trovi sezioni “da zero”, frasi utili, errori comuni, pronuncia e curiosità.</p>
-
-    <div class="home-lang-grid">
-
-      <a class="home-lang-card is-active" href="{{ '/inglese/' | relative_url }}">
-        <div class="home-lang-card__top">
-          <span class="home-lang-card__flag">🇬🇧</span>
-          <span class="home-lang-card__badge">Attiva</span>
-        </div>
-        <h3>Inglese</h3>
-        <p>Percorso completo per adulti: basi, frasi reali, errori e pronuncia.</p>
-        <span class="home-lang-card__cta">Vai al percorso →</span>
-      </a>
-
-      <a class="home-lang-card" href="{{ '/spagnolo/da-zero/' | relative_url }}">
-        <div class="home-lang-card__top">
-          <span class="home-lang-card__flag">🇪🇸</span>
-          <span class="home-lang-card__badge is-soon">In arrivo</span>
-        </div>
-        <h3>Spagnolo</h3>
-        <p>Struttura pronta: pagine base già disponibili (contenuti in arrivo).</p>
-        <span class="home-lang-card__cta">Vedi struttura →</span>
-      </a>
-
-      <a class="home-lang-card" href="{{ '/portoghese/da-zero/' | relative_url }}">
-        <div class="home-lang-card__top">
-          <span class="home-lang-card__flag">🇵🇹</span>
-          <span class="home-lang-card__badge is-soon">In arrivo</span>
-        </div>
-        <h3>Portoghese</h3>
-        <p>Basi + frasi utili e differenze tra PT-PT e PT-BR (in arrivo).</p>
-        <span class="home-lang-card__cta">Vedi struttura →</span>
-      </a>
-
-      <a class="home-lang-card" href="{{ '/francese/da-zero/' | relative_url }}">
-        <div class="home-lang-card__top">
-          <span class="home-lang-card__flag">🇫🇷</span>
-          <span class="home-lang-card__badge is-soon">In arrivo</span>
-        </div>
-        <h3>Francese</h3>
-        <p>Pagine base pronte: pronuncia, frasi e errori comuni (in arrivo).</p>
-        <span class="home-lang-card__cta">Vedi struttura →</span>
-      </a>
-
-      <a class="home-lang-card" href="{{ '/tedesco/da-zero/' | relative_url }}">
-        <div class="home-lang-card__top">
-          <span class="home-lang-card__flag">🇩🇪</span>
-          <span class="home-lang-card__badge is-soon">In arrivo</span>
-        </div>
-        <h3>Tedesco</h3>
-        <p>Struttura pronta per principianti: da zero, frasi, errori e pronuncia.</p>
-        <span class="home-lang-card__cta">Vedi struttura →</span>
-      </a>
-
-    </div>
-
-    <div class="home-languages__more">
-      <a href="{{ '/hub-lingue/' | relative_url }}">Vedi tutte le lingue nell’Hub →</a>
-    </div>
-  </section>
-
-  <!-- METODO + AFFILIATE (soft) -->
-  <section class="home-method">
-    <h2>Vuoi accelerare i risultati?</h2>
-    <p>
-      Se oltre alle risorse gratuite vuoi una pratica quotidiana guidata, ecco lo strumento che consigliamo più spesso.
-    </p>
-
-    <div class="affiliate-box">
-      <strong>Strumento consigliato:</strong> Babbel
+    <div class="container">
+      <h1>Impara una lingua con un percorso guidato</h1>
       <p>
-        Lezioni brevi, dialoghi realistici e focus sulla conversazione.
-        Ideale per chi studia 10–15 minuti al giorno.
+        Niente confusione, niente teoria infinita.
+        Parti da zero, usa frasi reali, evita errori comuni e migliora la pronuncia passo dopo passo.
       </p>
-      <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">Scopri perché lo consigliamo →</a>
+
+      <div class="hero-cta">
+        <a class="btn-primary" href="{{ '/hub-lingue/' | relative_url }}">
+          Vai all’Hub Lingue →
+        </a>
+
+        <a class="btn-secondary" href="{{ '/inglese/' | relative_url }}">
+          Inizia con l’Inglese →
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- LINGUE -->
+  <section class="home-languages">
+    <div class="container">
+
+      <h2>Scegli la tua lingua</h2>
+      <p>
+        Ogni lingua ha un percorso strutturato: da zero, frasi utili, errori comuni, pronuncia e curiosità.
+      </p>
+
+      <div class="lang-grid">
+
+        <!-- INGLESE -->
+        <a class="lang-card is-active" href="{{ '/inglese/' | relative_url }}">
+          <div class="lang-card__top">
+            <span class="flag">🇬🇧</span>
+            <span class="badge">Attiva</span>
+          </div>
+          <h3>Inglese</h3>
+          <p>Percorso completo per adulti principianti.</p>
+          <span class="lang-card__cta">Vai al percorso →</span>
+        </a>
+
+        <!-- SPAGNOLO -->
+        <a class="lang-card" href="{{ '/spagnolo/da-zero/' | relative_url }}">
+          <div class="lang-card__top">
+            <span class="flag">🇪🇸</span>
+            <span class="badge is-soon">In arrivo</span>
+          </div>
+          <h3>Spagnolo</h3>
+          <p>Struttura pronta, contenuti in arrivo.</p>
+          <span class="lang-card__cta">Vedi struttura →</span>
+        </a>
+
+        <!-- PORTOGHESE -->
+        <a class="lang-card" href="{{ '/portoghese/da-zero/' | relative_url }}">
+          <div class="lang-card__top">
+            <span class="flag">🇵🇹</span>
+            <span class="badge is-soon">In arrivo</span>
+          </div>
+          <h3>Portoghese</h3>
+          <p>Basi, frasi utili e differenze PT-PT / PT-BR.</p>
+          <span class="lang-card__cta">Vedi struttura →</span>
+        </a>
+
+        <!-- FRANCESE -->
+        <a class="lang-card" href="{{ '/francese/da-zero/' | relative_url }}">
+          <div class="lang-card__top">
+            <span class="flag">🇫🇷</span>
+            <span class="badge is-soon">In arrivo</span>
+          </div>
+          <h3>Francese</h3>
+          <p>Pagine base già pronte.</p>
+          <span class="lang-card__cta">Vedi struttura →</span>
+        </a>
+
+        <!-- TEDESCO -->
+        <a class="lang-card" href="{{ '/tedesco/da-zero/' | relative_url }}">
+          <div class="lang-card__top">
+            <span class="flag">🇩🇪</span>
+            <span class="badge is-soon">In arrivo</span>
+          </div>
+          <h3>Tedesco</h3>
+          <p>Percorso per principianti in costruzione.</p>
+          <span class="lang-card__cta">Vedi struttura →</span>
+        </a>
+
+      </div>
+
+      <div class="all-languages-link">
+        <a href="{{ '/hub-lingue/' | relative_url }}">
+          Esplora tutte le lingue →
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- METODO -->
+  <section class="home-method">
+    <div class="container">
+
+      <h2>Vuoi accelerare i risultati?</h2>
+      <p>
+        Oltre ai percorsi gratuiti, puoi usare uno strumento strutturato
+        per fare pratica quotidiana e migliorare più velocemente.
+      </p>
+
+      <div class="affiliate-box">
+        <strong>Strumento consigliato:</strong> Babbel
+        <p>
+          Lezioni brevi, dialoghi realistici e focus sulla conversazione.
+          Ideale per chi studia 10–15 minuti al giorno.
+        </p>
+        <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">
+          Scopri perché lo consigliamo →
+        </a>
+      </div>
+
     </div>
   </section>
 
