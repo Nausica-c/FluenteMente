@@ -4,7 +4,7 @@ title: "Perché gli italiani fanno sempre gli stessi errori in inglese"
 subtitle: "Analisi linguistica delle difficoltà più comuni."
 description: "Scopri perché gli italiani commettono sempre gli stessi errori in inglese e come superarli in modo efficace."
 keywords: perché italiani sbagliano inglese, difficoltà inglese italiani, errori inglese cause
-permalink: /perche-italiani-sbagliano-inglese/
+permalink: /inglese/errori/perche-italiani-sbagliano-inglese/
 bridge_title: "Vuoi spezzare questo schema mentale?"
 bridge_text: "Finché pensi in italiano, parlerai in inglese con struttura italiana. Serve un cambio di approccio."
 bridge_cta1: "Riparti dalle basi"
