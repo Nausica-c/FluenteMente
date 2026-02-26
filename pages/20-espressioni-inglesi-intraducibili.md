@@ -5,8 +5,6 @@ subtitle: "Frasi che non puoi tradurre parola per parola."
 description: "Scopri 20 espressioni inglesi intraducibili che non funzionano con la traduzione letterale. Migliora il tuo inglese parlato."
 keywords: espressioni inglesi intraducibili, idiomi inglese, frasi inglesi particolari
 permalink: /inglese/frasi/20-espressioni-inglesi-intraducibili/
-redirect_from:
-  - /20-espressioni-inglesi-intraducibili/
 bridge_title: "Vuoi usare queste espressioni in modo naturale?"
 bridge_text: "Le espressioni non si memorizzano. Si interiorizzano con pratica, ascolto e ripetizione nel tempo."
 bridge_cta1: "Inizia dalle basi"
