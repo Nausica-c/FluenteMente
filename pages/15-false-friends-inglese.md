@@ -1,9 +1,19 @@
 ---
 layout: curiosita
 title: "15 false friends inglese che ti fanno fare brutta figura"
-subtitle: "Gli errori più comuni tra italiani."
-description: "Scopri 15 false friends inglese pericolosi che confondono gli italiani. Evita errori comuni e migliora il tuo inglese."
+subtitle: "Gli errori più comuni tra italiani che studiano inglese."
+description: "Scopri 15 false friends inglese pericolosi che confondono gli italiani. Evita errori comuni e migliora il tuo inglese parlato."
+keywords: false friends inglese, errori comuni inglese, parole inglesi confondono italiani
 permalink: /15-false-friends-inglese/
+bridge_title: "Vuoi evitare errori e parlare con più sicurezza?"
+bridge_text: "I false friends creano insicurezza nel parlato. Con una base solida e un percorso chiaro puoi eliminarli definitivamente."
+bridge_cta1: "Riparti dalle basi"
+bridge_url1: "/inglese-da-zero/"
+bridge_cta2: "Scopri il metodo"
+bridge_url2: "/metodo-consigliato/"
+bridge_micro: "Per restare costante aggiungi anche la"
+bridge_microlink: "/routine/"
+bridge_microanchor: "Routine 15 minuti"
 ---
 
 
@@ -11,7 +21,7 @@ Ci sono parole inglesi che sembrano italiane.
 
 Ma non lo sono.
 
-E possono metterti in difficoltà in una conversazione.
+E possono creare fraintendimenti imbarazzanti quando parli.
 
 Ecco i 15 false friends più pericolosi per chi studia inglese.
 
@@ -20,126 +30,167 @@ Ecco i 15 false friends più pericolosi per chi studia inglese.
 ## 1️⃣ Actually ❌
 
 Non significa “attualmente”.  
-Significa “in realtà”.
+Significa **“in realtà”**.
+
+❌ Actually I live in Milan.  
+(se intendi “attualmente”)
+
+✅ I currently live in Milan.  
+✅ Actually, I don’t agree.
+
+👉 “Attualmente” = *currently*, *at the moment*.
 
 ---
 
 ## 2️⃣ Library ❌
 
 Non è “libreria”.  
-È “biblioteca”.
+È **biblioteca**.
+
+❌ I bought this book at the library.  
+✅ I bought this book at the bookstore.
+
+👉 Libreria = *bookstore*.
 
 ---
 
 ## 3️⃣ Parent ❌
 
 Non è “parente”.  
-È “genitore”.
+È **genitore**.
+
+❌ My parent lives in Rome.  
+(se intendi parente)
+
+✅ My relative lives in Rome.
+
+👉 “Parente” = *relative*.
 
 ---
 
 ## 4️⃣ Argument ❌
 
 Non è “argomento”.  
-È “discussione”.
+È **discussione (litigio)**.
+
+❌ We had an interesting argument about politics.  
+(se intendi “argomento”)
+
+✅ We had an interesting discussion.
+
+👉 “Argomento” = *topic*, *subject*.
 
 ---
 
 ## 5️⃣ Eventually ❌
 
-Non è “eventualmente”.  
-Significa “alla fine”.
+Non significa “eventualmente”.  
+Significa **“alla fine”**, “prima o poi”.
+
+❌ Eventually we can go out.  
+(se intendi “eventualmente”)
+
+✅ Maybe we can go out.  
+✅ Eventually, he agreed.
 
 ---
 
 ## 6️⃣ Sympathetic ❌
 
-Non vuol dire “simpatico”.  
-Significa “comprensivo”.
+Non significa “simpatico”.  
+Significa **comprensivo**.
+
+❌ She’s very sympathetic. (vuoi dire simpatica)
+
+✅ She’s very friendly.
+
+👉 Simpatico = *friendly*, *nice*.
 
 ---
 
 ## 7️⃣ Fabric ❌
 
-Non significa “fabbrica”.  
-È “tessuto”.
+Non è “fabbrica”.  
+È **tessuto**.
+
+❌ I work in a fabric.  
+✅ I work in a factory.
 
 ---
 
 ## 8️⃣ College ❌
 
 Non è “collegio”.  
-È università o istituto superiore.
+Spesso indica **università** (USA).
 
 ---
 
 ## 9️⃣ Camera ❌
 
 Non è “camera da letto”.  
-È “macchina fotografica”.
+È **macchina fotografica**.
+
+❌ I’m in my camera.  
+✅ I’m in my bedroom.
 
 ---
 
 ## 🔟 Realize ❌
 
-Non è “realizzare” nel senso di creare.  
-Significa “rendersi conto”.
+Non significa “realizzare” nel senso di costruire.  
+Significa **rendersi conto**.
+
+❌ I realized a project.  
+✅ I carried out a project.  
+✅ I realized I was wrong.
 
 ---
 
 ## 1️⃣1️⃣ Sensible ❌
 
 Non è “sensibile”.  
-È “ragionevole”.
+È **ragionevole**.
+
+👉 Sensibile = *sensitive*.
 
 ---
 
 ## 1️⃣2️⃣ Resume ❌
 
 Non è “riassumere”.  
-È curriculum vitae.
+È **curriculum vitae**.
+
+👉 Riassunto = *summary*.
 
 ---
 
 ## 1️⃣3️⃣ Pretend ❌
 
-Non è “pretendere”.  
-È “far finta”.
+Non significa “pretendere”.  
+Significa **far finta**.
+
+❌ I pretend a refund.  
+✅ I expect a refund.
 
 ---
 
 ## 1️⃣4️⃣ Comprehend ❌
 
-Non è “comprendere” in senso italiano diretto.  
-È capire pienamente.
+È più formale di “understand”.
+
+Nella conversazione quotidiana si usa molto più spesso:
+
+👉 *understand*.
 
 ---
 
 ## 1️⃣5️⃣ Attend ❌
 
-Non è “attendere”.  
-Significa “partecipare”.
+Non significa “attendere”.  
+Significa **partecipare**.
+
+❌ I attend you.  
+✅ I’m waiting for you.  
+✅ I will attend the meeting.
 
 ---
-
-## Perché questi errori bloccano il parlato?
-
-Perché creano insicurezza.
-
-Se temi di sbagliare, parli meno.
-
-Se vuoi costruire basi solide:
-
-👉 [Inglese da Zero]({{ '/inglese-da-zero/' | relative_url }})  
-👉 [Routine 15 minuti]({{ '/routine/' | relative_url }})
-
----
-
-<div class="cta-soft-box">
-<h3>Vuoi evitare errori e parlare con sicurezza?</h3>
-<a class="btn-primary"
-href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref="
-target="_blank" rel="sponsored nofollow">
-Buttati. Impara una nuova lingua con Babbel
-</a>
-</div>
