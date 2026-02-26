@@ -601,3 +601,129 @@ ul{ list-style:none; }
     align-items:flex-start;
   }
 }
+/* =========================
+   HUB LINGUE (cards)
+========================= */
+.lang-hub__head{
+  text-align:center;
+  max-width: 72ch;
+  margin: 0 auto 22px;
+}
+.lang-hub__title{
+  font-size: 2.2rem;
+  line-height: 1.15;
+  margin-bottom: 10px;
+  color:#1a202c;
+}
+.lang-hub__subtitle{
+  margin:0;
+  color: var(--text-light);
+  font-size: 1.05rem;
+}
+
+.lang-hub__grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.lang-card{
+  background:#ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: 18px;
+  padding: 18px;
+  text-decoration:none;
+  color: var(--text-main);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  position: relative;
+}
+.lang-card:hover{
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: rgba(255,128,0,.55);
+  text-decoration:none;
+}
+
+.lang-card__top{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom: 10px;
+}
+.lang-card__flag{
+  font-size: 1.8rem;
+}
+
+.lang-card__badge{
+  display:inline-flex;
+  align-items:center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(255,128,0,0.10);
+  border: 1px solid rgba(255,128,0,0.25);
+  color:#1a202c;
+  font-weight: 900;
+  font-size: .85rem;
+}
+.lang-card__badge.is-soon{
+  background: #f1f5f9;
+  border-color: var(--border-color);
+  color: #475569;
+}
+
+.lang-card__title{
+  margin: 0 0 6px;
+  font-size: 1.25rem;
+  color:#1a202c;
+}
+.lang-card__desc{
+  margin: 0 0 12px;
+  color: var(--text-light);
+  font-size: .95rem;
+}
+
+.lang-card__links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-bottom: 12px;
+}
+.lang-pill{
+  display:inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border-color);
+  background:#ffffff;
+  font-weight: 800;
+  color:#1a202c;
+  font-size: .85rem;
+}
+
+.lang-card__cta{
+  font-weight: 900;
+  color: var(--primary-color);
+}
+
+.lang-card--active{
+  border-color: rgba(255,128,0,.35);
+  background: linear-gradient(180deg, rgba(255,128,0,.06), #ffffff 60%);
+}
+
+.lang-hub__note{
+  margin-top: 22px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: #f8fafc;
+  border: 1px solid var(--border-color);
+  color: var(--text-light);
+}
+.lang-hub__note a{
+  font-weight: 900;
+}
+
+@media (max-width: 600px){
+  .lang-hub__title{ font-size: 2rem; }
+}
