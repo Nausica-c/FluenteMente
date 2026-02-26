@@ -5,8 +5,6 @@ subtitle: "Gli sbagli più frequenti (e come evitarli)."
 description: "Scopri i 10 errori più comuni che fanno gli italiani in inglese parlato e imparare a evitarli con esempi pratici."
 keywords: errori comuni inglese italiani, sbagli inglese parlato, inglese errori frequenti
 permalink: /inglese/errori/10-errori-comuni-italiani-inglese/
-redirect_from:
-  - /10-errori-comuni-italiani-inglese/
 bridge_title: "Vuoi smettere di fare questi errori?"
 bridge_text: "Gli errori non si eliminano memorizzando regole isolate. Servono struttura, ripetizione e pratica guidata."
 bridge_cta1: "Riparti dalle basi"
