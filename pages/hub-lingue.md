@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hub Lingue | Percorsi per imparare le lingue da zero"
+title: "Hub Lingue"
 permalink: /hub-lingue/
 description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, francese, tedesco e portoghese. Da zero, frasi utili, errori comuni e pronuncia."
 ---
