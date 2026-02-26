@@ -3,7 +3,7 @@ layout: page
 title: "Capisco l’inglese ma non riesco a parlarlo: perché succede (e come sbloccarti)"
 subtitle: "Il blocco più comune tra gli adulti che studiano inglese."
 description: "Capisci l’inglese ma non riesci a parlarlo? Scopri perché succede e come sbloccarti con una strategia pratica e strutturata."
-permalink: /capisco-ma-non-parlo/
+permalink: /inglese/da-zero//capisco-ma-non-parlo/
 ---
 
 # Capisco l’inglese ma non riesco a parlarlo: perché succede (e come sbloccarti)
