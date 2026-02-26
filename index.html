@@ -1,133 +1,148 @@
 ---
 layout: default
-title: "FluenteMente | Impara le lingue con un metodo semplice"
-description: "Percorsi guidati per imparare inglese e altre lingue da zero. Frasi utili, errori comuni, pronuncia e metodo pratico."
+title: "FluenteMente — Viaggio nel mondo delle lingue (ma con metodo)"
+description: "Impara lingue da adulto con poco tempo: roadmap chiare, routine brevi e strumenti testati. Inizia dall’inglese o scegli una lingua nell’Hub."
 ---
 
-<main class="home">
+{% include header.html %}
 
-  <!-- HERO -->
-  <section class="home-hero">
-    <div class="container">
-      <h1>Impara una lingua con un percorso guidato</h1>
-      <p>
-        Niente confusione, niente teoria infinita.
-        Parti da zero, usa frasi reali, evita errori comuni e migliora la pronuncia passo dopo passo.
+<main class="page-content">
+
+  <section class="hero-clean">
+    <div class="wrapper hero-clean__inner">
+      <h1 class="hero-clean__title">
+        🌍 Viaggio nel mondo delle lingue.<br />
+        Ma con un metodo semplice (da adulti).
+      </h1>
+
+      <p class="hero-clean__subtitle">
+        Se vuoi imparare una lingua con poco tempo e senza caos, qui trovi roadmap chiare,
+        routine brevi e strumenti testati. Anche se hai solo <strong>15 minuti al giorno</strong>.
       </p>
 
-      <div class="hero-cta">
-        <a class="btn-primary" href="{{ '/hub-lingue/' | relative_url }}">
-          Vai all’Hub Lingue →
+      <div class="hero-clean__actions">
+        <a class="btn-primary" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia con l’Inglese da zero</a>
+        <a class="btn-outline" href="{{ '/hub-lingue/' | relative_url }}">Scegli una lingua (Hub) →</a>
+      </div>
+
+      <div class="hero-clean__meta" aria-label="Punti chiave">
+        <span class="hero-pill">⏱ 15 min/giorno</span>
+        <span class="hero-pill">🧠 Sistema anti-caos</span>
+        <span class="hero-pill">🗣️ Focus conversazione</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-alt">
+    <div class="wrapper">
+      <h2 class="section-title">Perché non diventi fluente (anche se “studi”)</h2>
+      <p class="section-subtitle">Il problema quasi mai è l’impegno. È la mancanza di un sistema ripetibile.</p>
+
+      <div class="bullet-grid">
+        <div class="bullet-card">
+          <h3>📚 Troppa teoria</h3>
+          <p>Sai le regole, ma quando devi parlare ti blocchi.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>🔁 Pochi ripassi</h3>
+          <p>Impari oggi, dimentichi domani: manca ripetizione intelligente.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>🎲 Studio casuale</h3>
+          <p>Ogni giorno riparti da zero → perdi motivazione.</p>
+        </div>
+      </div>
+
+      <div class="solution-box">
+        <h3>✅ La soluzione FluenteMente</h3>
+        <p>Routine brevi (15 min/giorno), progressione chiara e strumenti strutturati.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-soft">
+    <div class="wrapper">
+      <h2 class="section-title">Da dove vuoi iniziare?</h2>
+      <p class="section-subtitle">Scegli l’ingresso più adatto (senza dispersione).</p>
+
+      <div class="start-grid">
+        <a class="start-card start-card-highlight" href="{{ '/inglese/da-zero/' | relative_url }}">
+          <div class="start-icon">🚀</div>
+          <h3>Inglese da zero</h3>
+          <p>Guida completa per partire bene (o ricominciare).</p>
         </a>
 
-        <a class="btn-secondary" href="{{ '/inglese/' | relative_url }}">
-          Inizia con l’Inglese →
+        <a class="start-card" href="{{ '/inglese/' | relative_url }}">
+          <div class="start-icon">🧭</div>
+          <h3>Percorso Inglese (Hub)</h3>
+          <p>Tutte le sezioni: da zero, frasi utili, errori comuni, pronuncia, curiosità.</p>
+        </a>
+
+        <a class="start-card" href="{{ '/hub-lingue/' | relative_url }}">
+          <div class="start-icon">🌍</div>
+          <h3>Hub Lingue</h3>
+          <p>Scegli una lingua e segui un percorso guidato (strutture già pronte).</p>
+        </a>
+
+        <a class="start-card" href="{{ '/consigli/babbel/' | relative_url }}">
+          <div class="start-icon">⭐</div>
+          <h3>Strumento consigliato</h3>
+          <p>Babbel: per chi conviene davvero (senza hype).</p>
         </a>
       </div>
     </div>
   </section>
 
+  <section class="section-alt">
+    <div class="wrapper">
+      <h2 class="section-title">Percorso Inglese: scegli la sezione</h2>
+      <p class="section-subtitle">Vai dritto al punto: clicca la sezione che ti serve.</p>
 
-  <!-- LINGUE -->
-  <section class="home-languages">
-    <div class="container">
-
-      <h2>Scegli la tua lingua</h2>
-      <p>
-        Ogni lingua ha un percorso strutturato: da zero, frasi utili, errori comuni, pronuncia e curiosità.
-      </p>
-
-      <div class="lang-grid">
-
-        <!-- INGLESE -->
-        <a class="lang-card is-active" href="{{ '/inglese/' | relative_url }}">
-          <div class="lang-card__top">
-            <span class="flag">🇬🇧</span>
-            <span class="badge">Attiva</span>
-          </div>
-          <h3>Inglese</h3>
-          <p>Percorso completo per adulti principianti.</p>
-          <span class="lang-card__cta">Vai al percorso →</span>
+      <div class="start-grid">
+        <a class="start-card" href="{{ '/inglese/da-zero/' | relative_url }}">
+          <div class="start-icon">🧱</div>
+          <h3>Da zero</h3>
+          <p>Fondamenta essenziali e progressione semplice.</p>
         </a>
 
-        <!-- SPAGNOLO -->
-        <a class="lang-card" href="{{ '/spagnolo/da-zero/' | relative_url }}">
-          <div class="lang-card__top">
-            <span class="flag">🇪🇸</span>
-            <span class="badge is-soon">In arrivo</span>
-          </div>
-          <h3>Spagnolo</h3>
-          <p>Struttura pronta, contenuti in arrivo.</p>
-          <span class="lang-card__cta">Vedi struttura →</span>
+        <a class="start-card" href="{{ '/inglese/frasi-utili/' | relative_url }}">
+          <div class="start-icon">🗣️</div>
+          <h3>Frasi utili</h3>
+          <p>Le frasi più comuni per vita reale e viaggi.</p>
         </a>
 
-        <!-- PORTOGHESE -->
-        <a class="lang-card" href="{{ '/portoghese/da-zero/' | relative_url }}">
-          <div class="lang-card__top">
-            <span class="flag">🇵🇹</span>
-            <span class="badge is-soon">In arrivo</span>
-          </div>
-          <h3>Portoghese</h3>
-          <p>Basi, frasi utili e differenze PT-PT / PT-BR.</p>
-          <span class="lang-card__cta">Vedi struttura →</span>
+        <a class="start-card" href="{{ '/inglese/errori-comuni/' | relative_url }}">
+          <div class="start-icon">🚫</div>
+          <h3>Errori comuni</h3>
+          <p>Gli errori tipici degli italiani (e come evitarli).</p>
         </a>
 
-        <!-- FRANCESE -->
-        <a class="lang-card" href="{{ '/francese/da-zero/' | relative_url }}">
-          <div class="lang-card__top">
-            <span class="flag">🇫🇷</span>
-            <span class="badge is-soon">In arrivo</span>
-          </div>
-          <h3>Francese</h3>
-          <p>Pagine base già pronte.</p>
-          <span class="lang-card__cta">Vedi struttura →</span>
-        </a>
-
-        <!-- TEDESCO -->
-        <a class="lang-card" href="{{ '/tedesco/da-zero/' | relative_url }}">
-          <div class="lang-card__top">
-            <span class="flag">🇩🇪</span>
-            <span class="badge is-soon">In arrivo</span>
-          </div>
-          <h3>Tedesco</h3>
-          <p>Percorso per principianti in costruzione.</p>
-          <span class="lang-card__cta">Vedi struttura →</span>
-        </a>
-
-      </div>
-
-      <div class="all-languages-link">
-        <a href="{{ '/hub-lingue/' | relative_url }}">
-          Esplora tutte le lingue →
+        <a class="start-card" href="{{ '/inglese/pronuncia/' | relative_url }}">
+          <div class="start-icon">🎧</div>
+          <h3>Pronuncia</h3>
+          <p>Suoni difficili, ritmo, esercizi pratici.</p>
         </a>
       </div>
 
+      <div class="solution-box" style="margin-top: 18px;">
+        <h3>👉 Vuoi vedere tutte le sezioni in un’unica pagina?</h3>
+        <p><a class="btn-outline" href="{{ '/inglese/' | relative_url }}">Apri il percorso Inglese completo →</a></p>
+      </div>
     </div>
   </section>
 
-
-  <!-- METODO -->
-  <section class="home-method">
-    <div class="container">
-
-      <h2>Vuoi accelerare i risultati?</h2>
-      <p>
-        Oltre ai percorsi gratuiti, puoi usare uno strumento strutturato
-        per fare pratica quotidiana e migliorare più velocemente.
-      </p>
-
-      <div class="affiliate-box">
-        <strong>Strumento consigliato:</strong> Babbel
-        <p>
-          Lezioni brevi, dialoghi realistici e focus sulla conversazione.
-          Ideale per chi studia 10–15 minuti al giorno.
+  <section class="section-soft">
+    <div class="wrapper">
+      <div class="disclaimer-inline" role="note" aria-label="Nota affiliazioni">
+        <div class="disclaimer-icon">ℹ️</div>
+        <p class="disclaimer-text">
+          <strong>Nota</strong> — Alcuni link in questo sito possono essere affiliati.
+          Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
         </p>
-        <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">
-          Scopri perché lo consigliamo →
-        </a>
       </div>
-
     </div>
   </section>
 
 </main>
+
+{% include footer.html %}
