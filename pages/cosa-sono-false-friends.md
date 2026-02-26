@@ -4,7 +4,7 @@ title: "Cosa sono i false friends in inglese (guida completa)"
 subtitle: "Definizione, esempi ed errori comuni degli italiani."
 description: "Scopri cosa sono i false friends in inglese, perché confondono gli italiani e come evitarli con esempi pratici."
 keywords: cosa sono false friends, false friends inglese significato, falsi amici inglese spiegazione
-permalink: /cosa-sono-false-friends/
+permalink: /inglese/errori/cosa-sono-false-friends/
 bridge_title: "Vuoi eliminare definitivamente i false friends?"
 bridge_text: "Capire il problema è il primo passo. Automatizzare le strutture corrette è quello che fa la differenza."
 bridge_cta1: "Riparti dalle basi"
