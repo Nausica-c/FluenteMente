@@ -3,7 +3,7 @@ layout: page
 title: "Come imparare inglese da zero da adulti (guida completa)"
 subtitle: "Routine da 15 minuti, metodo semplice e progressione chiara per principianti."
 description: "Guida pratica per imparare inglese da zero da adulti: metodo efficace, routine quotidiana e percorso strutturato per chi ha poco tempo."
-permalink: /inglese-da-zero/
+permalink: /inglese/da-zero/
 ---
 
 
