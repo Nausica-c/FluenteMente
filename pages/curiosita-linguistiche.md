@@ -72,15 +72,6 @@ Non è “parente”.
 Se vuoi evitare questi errori comuni:  
 👉 [Inglese da Zero]({{ '/inglese-da-zero/' | relative_url }})
 
----
-
-## 🧠 Curiosità sorprendenti
-
-- In tedesco puoi unire parole per creare termini lunghissimi.
-- In giapponese esistono diversi livelli di formalità.
-- In islandese vengono inventate parole nuove invece di prendere anglicismi.
-
-Le lingue riflettono mentalità e storia.
 
 ---
 
