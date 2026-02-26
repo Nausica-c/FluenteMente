@@ -256,7 +256,8 @@ Oggi può essere quella.
       }
     },
     {
-      "@type": "Question",
+
+"@type": "Question",
       "name": "Posso imparare inglese con 15 minuti al giorno?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -273,4 +274,19 @@ Oggi può essere quella.
     }
   ]
 }
+  <script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "Come imparare inglese da zero da adulti",
+ "author": {
+   "@type": "Organization",
+   "name": "FluenteMente"
+ },
+ "publisher": {
+   "@type": "Organization",
+   "name": "FluenteMente"
+ }
+}
+</script>
 </script>
