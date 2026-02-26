@@ -4,7 +4,7 @@ title: "Differenza tra idiomi, phrasal verbs ed espressioni inglesi"
 subtitle: "Guida chiara per non fare confusione."
 description: "Scopri la differenza tra idiomi, phrasal verbs ed espressioni inglesi con esempi semplici e spiegazioni pratiche."
 keywords: differenza idiomi phrasal verbs, cosa sono phrasal verbs, cosa sono idiomi inglese
-permalink: /differenza-idiomi-phrasal-verbs-espressioni/
+permalink: inglese/curiosita/differenza-idiomi-phrasal-verbs-espressioni/
 bridge_title: "Vuoi smettere di fare confusione tra queste strutture?"
 bridge_text: "La chiarezza grammaticale ti dà sicurezza. L’uso costante ti dà fluidità."
 bridge_cta1: "Costruisci le basi"
