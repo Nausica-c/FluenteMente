@@ -5,8 +5,6 @@ subtitle: "Espressioni reali usate nella vita quotidiana."
 description: "Scopri 25 frasi inglesi davvero utili nella conversazione quotidiana. Espressioni naturali che non trovi nei libri di grammatica."
 keywords: frasi inglesi utili, inglese parlato reale, espressioni inglese quotidiane
 permalink: /inglese/frasi/25-frasi-inglesi-utili/
-redirect_from:
-  - /25-frasi-inglesi-utili/
 bridge_title: "Vuoi parlare così in modo naturale?"
 bridge_text: "Le frasi reali si interiorizzano con ascolto, ripetizione e pratica costante nel tempo."
 bridge_cta1: "Inizia da zero"
