@@ -6,7 +6,6 @@ description: "Guida pratica per imparare inglese da zero da adulti: metodo effic
 permalink: /inglese-da-zero/
 ---
 
-# Come imparare inglese da zero da adulti (anche con poco tempo)
 
 Se vuoi imparare inglese da zero da adulto, probabilmente ti senti in una di queste situazioni:
 
@@ -288,5 +287,4 @@ Oggi può essere quella.
    "name": "FluenteMente"
  }
 }
-</script>
 </script>
