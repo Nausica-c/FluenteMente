@@ -4,7 +4,7 @@ title: "15 false friends inglese che ti fanno fare brutta figura"
 subtitle: "Gli errori più comuni tra italiani che studiano inglese."
 description: "Scopri 15 false friends inglese pericolosi che confondono gli italiani. Evita errori comuni e migliora il tuo inglese parlato."
 keywords: false friends inglese, errori comuni inglese, parole inglesi confondono italiani
-permalink: /15-false-friends-inglese/
+permalink: /inglese/errori/15-false-friends-inglese/
 bridge_title: "Vuoi evitare errori e parlare con più sicurezza?"
 bridge_text: "I false friends creano insicurezza nel parlato. Con una base solida e un percorso chiaro puoi eliminarli definitivamente."
 bridge_cta1: "Riparti dalle basi"
