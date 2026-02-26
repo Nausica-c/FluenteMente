@@ -4,7 +4,7 @@ title: "10 parole inglesi intraducibili in italiano"
 subtitle: "Termini che esistono in inglese ma non hanno una traduzione perfetta."
 description: "Scopri 10 parole inglesi intraducibili con spiegazione ed esempio pratico. Amplia il tuo vocabolario in modo naturale."
 keywords: parole inglesi intraducibili, parole inglesi senza traduzione, vocaboli inglese particolari
-permalink: /10-parole-intraducibili-inglese/
+permalink: inglese/curiosita/10-parole-intraducibili-inglese/
 bridge_title: "Vuoi usare davvero queste parole nel parlato?"
 bridge_text: "Conoscere una parola è l'inizio. Saperla usare in contesto è ciò che crea fluidità."
 bridge_cta1: "Costruisci le basi"
