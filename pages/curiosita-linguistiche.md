@@ -32,12 +32,7 @@ Non è solo “mancanza”.
 
 ---
 
-### 🇯🇵 Komorebi (Giapponese)
-La luce del sole che filtra tra le foglie degli alberi.
 
-Una parola che descrive un momento poetico preciso.
-
----
 
 ### 🇫🇮 Sisu (Finlandese)
 Forza interiore, determinazione profonda nei momenti difficili.
