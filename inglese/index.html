@@ -1,86 +1,174 @@
-<!-- =========================
-PAGINA CLUSTER /inglese/  (inglese/index.html)
-Hub della lingua con link alle categorie
-========================= -->
-
 ---
-layout: page
-title: "Imparare Inglese | Percorso guidato da zero"
+layout: default
+title: "Imparare Inglese — Percorso guidato da zero (FluenteMente)"
+description: "Percorso pratico per imparare inglese da adulto: da zero, frasi utili, errori comuni, pronuncia e curiosità. Roadmap chiara e routine brevi."
 permalink: /inglese/
-description: "Percorso per imparare inglese da zero: basi, frasi utili, errori comuni, pronuncia e curiosità. Metodo pratico per adulti."
 ---
 
-<section class="lang-cluster">
+{% include header.html %}
 
-  <nav class="breadcrumb">
-    <a href="{{ '/' | relative_url }}">Home</a> →
-    <a href="{{ '/hub-lingue/' | relative_url }}">Hub Lingue</a> →
-    <span>Inglese</span>
-  </nav>
+<main class="page-content">
 
-  <header class="lang-cluster__head">
-    <h1>Imparare Inglese: percorso guidato</h1>
-    <p>
-      Se parti da zero (o ti senti bloccato), qui trovi un percorso semplice e pratico:
-      basi essenziali, frasi reali, errori tipici degli italiani e pronuncia.
-    </p>
+  <!-- HERO -->
+  <section class="hero-clean">
+    <div class="wrapper hero-clean__inner">
+      <h1 class="hero-clean__title">
+        🇬🇧 Imparare Inglese.<br />
+        Da zero, ma con un metodo semplice (da adulti).
+      </h1>
 
-    <div class="lang-cluster__cta">
-      <a class="btn-primary" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia da zero →</a>
-      <a class="btn-secondary" href="{{ '/consigli/babbel/' | relative_url }}">Strumento consigliato →</a>
+      <p class="hero-clean__subtitle">
+        Qui trovi un percorso guidato per costruire basi solide, parlare con più sicurezza e smettere di “studiare a caso”.
+        Scegli una sezione e vai dritto al punto, anche se hai solo <strong>15 minuti al giorno</strong>.
+      </p>
+
+      <div class="hero-clean__actions">
+        <a class="btn-primary" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia da “Da zero”</a>
+        <a class="btn-outline" href="{{ '/hub-lingue/' | relative_url }}">Torna all’Hub Lingue</a>
+      </div>
+
+      <div class="hero-clean__meta" aria-label="Punti chiave">
+        <span class="hero-pill">🧱 Basi solide</span>
+        <span class="hero-pill">🗣️ Frasi reali</span>
+        <span class="hero-pill">🎧 Pronuncia</span>
+      </div>
     </div>
-  </header>
-
-  <div class="lang-cluster__grid">
-
-    <article class="cluster-card">
-      <h2><a href="{{ '/inglese/da-zero/' | relative_url }}">Da zero</a></h2>
-      <p>Le fondamenta: pronome, verbo, frase base. Parti senza confusione.</p>
-      <a class="cluster-card__cta" href="{{ '/inglese/da-zero/' | relative_url }}">Apri “Da zero” →</a>
-    </article>
-
-    <article class="cluster-card">
-      <h2><a href="{{ '/inglese/frasi-utili/' | relative_url }}">Frasi utili</a></h2>
-      <p>Le frasi più comuni per viaggiare, lavorare e parlare nella vita reale.</p>
-      <a class="cluster-card__cta" href="{{ '/inglese/frasi-utili/' | relative_url }}">Apri “Frasi utili” →</a>
-    </article>
-
-    <article class="cluster-card">
-      <h2><a href="{{ '/inglese/errori-comuni/' | relative_url }}">Errori comuni</a></h2>
-      <p>Gli errori tipici (e come evitarli) per migliorare più velocemente.</p>
-      <a class="cluster-card__cta" href="{{ '/inglese/errori-comuni/' | relative_url }}">Apri “Errori comuni” →</a>
-    </article>
-
-    <article class="cluster-card">
-      <h2><a href="{{ '/inglese/pronuncia/' | relative_url }}">Pronuncia</a></h2>
-      <p>Suoni difficili, accento, ritmo: esercizi semplici e pratici.</p>
-      <a class="cluster-card__cta" href="{{ '/inglese/pronuncia/' | relative_url }}">Apri “Pronuncia” →</a>
-    </article>
-
-    <article class="cluster-card">
-      <h2><a href="{{ '/inglese/curiosita/' | relative_url }}">Curiosità</a></h2>
-      <p>Falsi amici, differenze UK/US e piccoli dettagli che aiutano davvero.</p>
-      <a class="cluster-card__cta" href="{{ '/inglese/curiosita/' | relative_url }}">Apri “Curiosità” →</a>
-    </article>
-
-  </div>
-
-  <section class="lang-cluster__next">
-    <h2>Consiglio per progredire (senza mollare)</h2>
-    <p>
-      Punta alla costanza: 10–15 minuti al giorno, ripetizione intelligente e frasi utili.
-      Se vuoi una pratica guidata oltre ai contenuti gratuiti:
-    </p>
-
-    <div class="affiliate-box">
-      <strong>Strumento consigliato:</strong> Babbel
-      <p>Lezioni brevi e progressive con dialoghi reali. Ottimo se vuoi un percorso strutturato.</p>
-      <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">Scopri Babbel →</a>
-    </div>
-
-    <p class="lang-cluster__back">
-      <a href="{{ '/hub-lingue/' | relative_url }}">← Torna all’Hub Lingue</a>
-    </p>
   </section>
 
-</section>
+  <!-- PROBLEMI COMUNI -->
+  <section class="section-alt">
+    <div class="wrapper">
+      <h2 class="section-title">I 3 blocchi più comuni (e come li risolvi)</h2>
+      <p class="section-subtitle">Quasi sempre non manca motivazione: manca una progressione chiara.</p>
+
+      <div class="bullet-grid">
+        <div class="bullet-card">
+          <h3>📚 Capisci ma non parli</h3>
+          <p>Hai studiato regole e vocaboli, ma quando devi parlare ti blocchi.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>🔁 Dimentichi in fretta</h3>
+          <p>Senza ripasso intelligente l’inglese “scivola via” dopo pochi giorni.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>🎲 Studi senza direzione</h3>
+          <p>Video, app, esercizi sparsi: fai tanto ma i progressi sembrano lenti.</p>
+        </div>
+      </div>
+
+      <div class="solution-box">
+        <h3>✅ La soluzione del percorso</h3>
+        <p>Vai per sezioni: fondamenta → frasi → correzioni → pronuncia. Poco tempo, ma ogni giorno nella direzione giusta.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEZIONI DEL PERCORSO -->
+  <section class="section-soft">
+    <div class="wrapper">
+      <h2 class="section-title">Scegli la sezione (senza dispersione)</h2>
+      <p class="section-subtitle">Clicca dove ti serve adesso: puoi seguire il percorso o saltare direttamente al tuo problema.</p>
+
+      <div class="start-grid">
+        <a class="start-card start-card-highlight" href="{{ '/inglese/da-zero/' | relative_url }}">
+          <div class="start-icon">🧱</div>
+          <h3>Da zero</h3>
+          <p>Le fondamenta: frase base, verbi essenziali, costruzione semplice.</p>
+        </a>
+
+        <a class="start-card" href="{{ '/inglese/frasi-utili/' | relative_url }}">
+          <div class="start-icon">🗣️</div>
+          <h3>Frasi utili</h3>
+          <p>Le frasi più comuni per vita reale, lavoro e viaggi.</p>
+        </a>
+
+        <a class="start-card" href="{{ '/inglese/errori-comuni/' | relative_url }}">
+          <div class="start-icon">🚫</div>
+          <h3>Errori comuni</h3>
+          <p>Gli errori tipici degli italiani (e come evitarli subito).</p>
+        </a>
+
+        <a class="start-card" href="{{ '/inglese/pronuncia/' | relative_url }}">
+          <div class="start-icon">🎧</div>
+          <h3>Pronuncia</h3>
+          <p>Suoni difficili, ritmo, esercizi pratici per farti capire meglio.</p>
+        </a>
+
+        <a class="start-card" href="{{ '/inglese/curiosita/' | relative_url }}">
+          <div class="start-icon">✨</div>
+          <h3>Curiosità</h3>
+          <p>Falsi amici, differenze UK/US e dettagli che sbloccano comprensione.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ROADMAP (SEMPLICE) -->
+  <section class="section-alt">
+    <div class="wrapper">
+      <h2 class="section-title">Roadmap semplice (se vuoi seguire l’ordine)</h2>
+      <p class="section-subtitle">Un percorso consigliato per non perderti: puoi sempre adattarlo al tuo tempo.</p>
+
+      <div class="bullet-grid">
+        <div class="bullet-card">
+          <h3>1) Fondamenta</h3>
+          <p><a href="{{ '/inglese/da-zero/hub/' | relative_url }}">Da zero</a> → costruisci frase base + verbi essenziali.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>2) Parlato utile</h3>
+          <p><a href="{{ '/inglese/frasi-/' | relative_url }}">Frasi utili</a> → frasi pronte e modificabili.</p>
+        </div>
+        <div class="bullet-card">
+          <h3>3) Precisione</h3>
+          <p><a href="{{ '/inglese/errori/' | relative_url }}">Errori comuni</a> → correggi i pattern sbagliati.</p>
+        </div>
+      </div>
+
+      <div class="solution-box">
+        <h3>💡 Mini routine (15 minuti)</h3>
+        <p>
+          5 min ripasso • 5 min frasi • 5 min pronuncia.
+          Se vuoi una guida strutturata oltre ai contenuti gratuiti, trovi un metodo consigliato sotto.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- METODO + AFFILIATE (SOFT) -->
+  <section class="section-soft">
+    <div class="wrapper">
+      <h2 class="section-title">Vuoi accelerare i risultati?</h2>
+      <p class="section-subtitle">
+        Se oltre alle guide gratuite vuoi una pratica quotidiana guidata, ecco lo strumento che consigliamo più spesso.
+      </p>
+
+      <div class="solution-box">
+        <h3>⭐ Strumento consigliato: Babbel</h3>
+        <p>
+          Lezioni brevi, dialoghi realistici e focus sulla conversazione.
+          Ideale se vuoi un percorso strutturato e costante.
+        </p>
+        <div class="hero-clean__actions" style="margin-top: 12px;">
+          <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">Scopri perché lo consigliamo →</a>
+          <a class="btn-outline" href="{{ '/inglese/da-zero/' | relative_url }}">Continua con “Da zero” →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- AFFILIATE NOTE -->
+  <section class="section-soft">
+    <div class="wrapper">
+      <div class="disclaimer-inline" role="note" aria-label="Nota affiliazioni">
+        <div class="disclaimer-icon">ℹ️</div>
+        <p class="disclaimer-text">
+          <strong>Nota</strong> — Alcuni link in questo sito possono essere affiliati.
+          Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+{% include footer.html %}
