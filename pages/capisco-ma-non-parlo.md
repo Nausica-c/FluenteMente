@@ -1,198 +1,102 @@
 ---
 layout: page
-title: "Capisco l’inglese ma non riesco a parlarlo: perché succede (e come sbloccarti)"
-subtitle: "Il blocco più comune tra gli adulti che studiano inglese."
-description: "Capisci l’inglese ma non riesci a parlarlo? Scopri perché succede e come sbloccarti con una strategia pratica e strutturata."
-permalink: /inglese/da-zero//capisco-ma-non-parlo/
+title: '"Capisco l’inglese ma non lo parlo": Come sbloccarti definitivamente'
+subtitle: "Perché il tuo cervello va in tilt quando devi aprire bocca e i 3 step pratici per iniziare a conversare senza ansia."
+description: "Capisci l'inglese scritto e parlato ma ti blocchi quando devi rispondere? Scopri le cause psicologiche e pratiche e come sbloccare la tua lingua oggi stesso."
+permalink: /inglese/da-zero/capisco-ma-non-parlo/
 ---
 
+Ti trovi all'estero, o magari in una riunione di lavoro. Qualcuno ti fa una domanda in inglese. Tu capisci perfettamente ogni singola parola. Sai esattamente cosa vorresti rispondere in italiano. 
 
+Ma quando apri la bocca... il vuoto. Le parole non escono, inizi a balbettare, sudi freddo e finisci per rispondere con un misero *"Yes, okay"*.
 
-Se ti riconosci in questa frase:
+> **"Perché capisco tutto ma non riesco a parlare?"**
 
-> “Capisco quasi tutto… ma quando devo parlare mi blocco.”
+Se questa situazione ti è familiare, fai un respiro profondo: **non hai un problema di memoria e non sei negato per le lingue.** Sei semplicemente vittima di un meccanismo cerebrale normalissimo e del modo sbagliato in cui ci hanno insegnato l'inglese a scuola.
 
-Non sei il solo.
-
-È il problema più comune tra gli adulti che studiano inglese.
-
-Non significa che sei incapace.  
-Non significa che non hai studiato abbastanza.
-
-Significa che stai allenando la parte sbagliata.
+In questa guida smonteremo questo blocco e vedremo come riattivare la tua lingua.
 
 ---
 
-## Perché capisci ma non riesci a parlare?
+## Il motivo scientifico: Vocabolario Passivo vs Attivo
 
-Ci sono 4 motivi principali.
+Per capire come sbloccarti, devi capire come funziona il tuo cervello. Noi possediamo due "cassetti" separati per le parole:
 
-### 1️⃣ Hai allenato solo la comprensione
+1. **Il Vocabolario Passivo (Lettura e Ascolto):** È enorme. Quando leggi o ascolti, il tuo cervello deve solo *riconoscere* una parola. È un'azione facile, richiede poca energia.
+2. **Il Vocabolario Attivo (Parlato e Scritto):** È molto più piccolo. Quando parli, il cervello deve pescare la parola dal vuoto, coniugarla, inserirla nella frase e inviare un segnale fisico ai muscoli della bocca per pronunciarla. 
 
-Molti adulti:
-
-- Guardano serie
-- Fanno esercizi scritti
-- Leggono testi
-
-Questo sviluppa comprensione.
-
-Ma parlare è un’altra abilità.
-
-È produzione attiva.
+Il tuo vocabolario passivo sarà **sempre** più grande di quello attivo (succede anche in italiano!). Il blocco avviene perché cerchi di usare parole che riconosci, ma che il tuo cervello non si è mai allenato a "produrre" fisicamente.
 
 ---
 
-### 2️⃣ Paura di sbagliare
+## I 3 Passi per sbloccare la conversazione
 
-Da adulti vogliamo essere corretti.
+Come si trasferiscono le parole dal cassetto "passivo" a quello "attivo"? Non guardando serie TV, ma agendo. Ecco i tre step da applicare oggi stesso.
 
-Perfetti.
+### Step 1: Accetta la "Fase Tarzan"
+Il più grande nemico di un adulto che impara l'inglese è il **perfezionismo**. Noi italiani siamo terrorizzati all'idea di sbagliare la grammatica o di avere un brutto accento.
+Inoltre, da adulti facciamo pensieri complessi in italiano (es. *"Nonostante io creda che la situazione sia complessa, riterrei opportuno..."*). Quando provi a tradurre questa complessità in inglese in tempo reale, il cervello va in cortocircuito e ti blocchi.
 
-Il cervello blocca l’output perché vuole evitare errore.
+* **La Soluzione:** Devi accettare di parlare come un bambino di 5 anni all'inizio (la fase Tarzan). Usa frasi base: **Soggetto + Verbo + Oggetto**. (*"I think this is difficult. But we can do it."*). Nessuno ti giudicherà, l'importante è passare il messaggio.
 
-Ma la fluidità nasce da errori ripetuti.
+### Step 2: La pratica dello "Shadowing" (Fisica, non mentale)
+Parlare è un'attività fisica, come andare in bicicletta. Se leggi un manuale su come si pedala per dieci anni, ma non sali mai in sella, cadrai al primo tentativo.
+I muscoli della tua bocca e della tua lingua sono abituati ai suoni italiani. Devi allenarli fisicamente.
 
----
+* **La Soluzione:** Usa la tecnica dello *Shadowing* (fare ombra). Ascolta una breve frase in inglese detta da un madrelingua, metti in pausa, e **ripetila ad alta voce** cercando di imitare l'intonazione e la pronuncia. Fallo da solo, in camera tua o in macchina. Abituati a sentire la tua voce che parla in inglese. 
 
-### 3️⃣ Traduzione mentale
+### Step 3: Smetti di consumare, inizia a produrre
+Se passi 3 ore a guardare Netflix in inglese con i sottotitoli, stai allenando solo il vocabolario passivo. Non stai imparando a parlare, stai imparando ad ascoltare.
 
-Se mentre parli:
-
-Italiano → traduzione → inglese
-
-Il tuo cervello va in sovraccarico.
-
-La soluzione?  
-Allenare frasi intere, non singole parole.
+* **La Soluzione:** Dedica i tuoi [15 minuti di studio quotidiano]({{ '/metodo-consigliato/' | relative_url }}) a un'attività "attiva". Usa strumenti che ti facciano domande a cui devi rispondere ad alta voce, forzando il cervello a pescare dal vocabolario attivo.
 
 ---
 
-### 4️⃣ Mancanza di automatismi
+<div class="procon-wrap">
 
-Capire non significa saper usare.
+<div class="procon-card">
+<h3>✅ Cosa devi iniziare a fare</h3>
+<ul>
+<li>Semplificare le frasi prima di dirle.</li>
+<li>Ripetere le parole ad alta voce (da solo).</li>
+<li>Accettare che farai errori grammaticali (è normale!).</li>
+<li>Focalizzarti sulle 1000 parole più comuni.</li>
+</ul>
+</div>
 
-La lingua deve diventare semi-automatica.
-
-Questo avviene solo con:
-
-- Ripetizione ad alta voce
-- Frasi contestualizzate
-- Progressione graduale
-
----
-
-## Il mito che ti sta bloccando
-
-Molti credono:
-
-“Quando capirò meglio, inizierò a parlare.”
-
-È il contrario.
-
-Inizi a parlare → migliori nella comprensione → sblocchi fluidità.
-
----
-
-## Come sbloccarti davvero
-
-Qui serve strategia, non motivazione.
-
-### 🔹 1. Mini-sessioni di output
-
-Ogni giorno:
-
-- 5 minuti ripetizione ad alta voce
-- 5 minuti dialoghi simulati
-
-Parlare anche da solo è già allenamento.
-
----
-
-### 🔹 2. Frasi complete
-
-Non studiare solo parole.
-
-Studia:
-
-“I think that…”  
-“In my opinion…”  
-“I agree but…”
-
-Il cervello inizia a costruire strutture automatiche.
-
----
-
-### 🔹 3. Sistema progressivo
-
-Questo è il punto chiave.
-
-Se studi in modo frammentato, non costruisci continuità.
-
-Serve una progressione chiara.
-
----
-
-## Perché molti si sbloccano quando hanno struttura
-
-Quando sai sempre:
-
-- Cosa ripassare
-- Cosa dire
-- Qual è il livello successivo
-
-La mente si rilassa.
-
-E la fluidità aumenta.
-
-Se vuoi vedere un esempio di percorso organizzato pensato proprio per adulti che si bloccano nel parlare:
-
-👉 [Metodo consigliato per sbloccarti]({{ '/metodo-consigliato/' | relative_url }})
-
----
-
-<div class="cta-soft-box">
-
-<h3>🎯 Vuoi superare il blocco?</h3>
-
-<p>
-Se il tuo problema non è la comprensione ma la produzione, avere una struttura può fare la differenza.
-</p>
-
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Buttati. Impara una nuova lingua con Babbel
-</a>
-
-<p style="margin-top:12px; font-size:0.95rem; color:var(--text-light);">
-Nota: il link è affiliato. Potrei ricevere una commissione senza costi extra per te.
-</p>
+<div class="procon-card">
+<h3>❌ Cosa devi smettere di fare</h3>
+<ul>
+<li>Tradurre parola per parola dall'italiano.</li>
+<li>Avere paura del tuo accento (il "British perfetto" non serve).</li>
+<li>Studiare solo leggendo libri o guardando video passivamente.</li>
+</ul>
+</div>
 
 </div>
 
 ---
 
-## Domande frequenti
+## Lo strumento per superare il blocco
 
-### È normale capire ma non parlare?
-Sì, è uno stadio molto comune.
+Come abbiamo visto nello Step 3, per sbloccarti devi costringere il cervello a "produrre" la lingua. Non puoi farlo da solo, specialmente se hai paura di fare errori di pronuncia.
 
-### Quanto tempo serve per sbloccarsi?
-Con allenamento quotidiano, spesso 4–6 settimane.
+Il modo migliore per superare questa fase senza ansia è usare un'applicazione che simuli una conversazione, facendoti ascoltare la frase e obbligandoti a **ripeterla al microfono del telefono**, correggendoti in tempo reale.
 
-### Devo fare conversazione con madrelingua?
-È utile, ma prima serve costruire sicurezza interna.
+<div class="cta-soft-box" style="margin-top: 30px;">
+<h3>🎯 Allenati a parlare fin dal giorno 1</h3>
+<p>Invece di fare infiniti test a crocette, usa l'app progettata per farti pronunciare dialoghi di vita reale. Il loro sistema di riconoscimento vocale è severo, ma è l'unico modo per superare la paura di parlare.</p>
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
+Fai un test gratuito e prova la pronuncia al microfono
+</a>
+</div>
 
 ---
 
-## Conclusione
+## Risorse utili per sbloccarti
 
-Non sei bloccato.
+Sei pronto a rompere il ghiaccio? Ecco i prossimi articoli che ti consigliamo per continuare il tuo percorso:
 
-Sei solo allenato a metà.
-
-La comprensione è già sviluppata.  
-Ora devi allenare produzione e automatismi.
-
-Il viaggio nel mondo delle lingue non si sblocca con più teoria.
-
-Si sblocca con struttura e pratica attiva.
+* 👉 **[I 15 Falsi Amici in inglese]({{ '/inglese/errori/15-false-friends-inglese/' | relative_url }})**: Le parole che ti ingannano quando provi a parlare.
+* 👉 **[La nostra Recensione su Babbel]({{ '/recensione-babbel/' | relative_url }})**: Scopri perché lo riteniamo lo strumento migliore per sbloccare la conversazione.
+* 👉 **[Inglese da Zero: La guida base]({{ '/inglese-da-zero/' | relative_url }})**: Torna alle fondamenta e ricostruisci il tuo inglese in modo pratico.
