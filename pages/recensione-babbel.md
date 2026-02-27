@@ -6,7 +6,6 @@ description: "Babbel funziona? Recensione completa per adulti: pro, contro reali
 permalink: /recensione-babbel/
 ---
 
-# Babbel funziona davvero? Recensione completa e onesta
 
 Se stai leggendo questa pagina probabilmente ti stai chiedendo:
 
