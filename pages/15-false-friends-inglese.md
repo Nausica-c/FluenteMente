@@ -1,196 +1,139 @@
 ---
-layout: curiosita
-title: "15 false friends inglese che ti fanno fare brutta figura"
-subtitle: "Gli errori più comuni tra italiani che studiano inglese."
-description: "Scopri 15 false friends inglese pericolosi che confondono gli italiani. Evita errori comuni e migliora il tuo inglese parlato."
-keywords: false friends inglese, errori comuni inglese, parole inglesi confondono italiani
+layout: page
+title: "I 15 Falsi Amici in Inglese (che ti fanno fare brutte figure)"
+subtitle: "Le parole che sembrano italiane ma significano tutt'altro. Ecco le trappole da evitare assolutamente."
+description: "Cosa sono i False Friends in inglese? Scopri la lista dei 15 falsi amici più comuni e pericolosi per gli italiani: da Actually a Pretend."
 permalink: /inglese/errori/15-false-friends-inglese/
-bridge_title: "Vuoi evitare errori e parlare con più sicurezza?"
-bridge_text: "I false friends creano insicurezza nel parlato. Con una base solida e un percorso chiaro puoi eliminarli definitivamente."
-bridge_cta1: "Riparti dalle basi"
-bridge_url1: "/inglese-da-zero/"
-bridge_cta2: "Scopri il metodo"
-bridge_url2: "/metodo-consigliato/"
-bridge_micro: "Per restare costante aggiungi anche la"
-bridge_microlink: "/routine/"
-bridge_microanchor: "Routine 15 minuti"
 ---
 
+Immagina la scena: sei a un pranzo di lavoro a Londra. Vuoi fare un complimento al tuo collega dicendo che è una persona molto "educata". Così, con un gran sorriso, gli dici: *"You are very educated!"*. 
 
-Ci sono parole inglesi che sembrano italiane.
+Lui ti guarda un po' confuso. Perché non gli hai appena detto che ha delle buone maniere, ma gli hai detto che... *ha studiato molto*.
 
-Ma non lo sono.
+Benvenuto nel magico, infido mondo dei **Falsi Amici (False Friends)**.
 
-E possono creare fraintendimenti imbarazzanti quando parli.
+Essendo l'inglese pieno di vocaboli di origine latina, molte parole assomigliano in modo impressionante all'italiano. Il nostro cervello, per risparmiare energia, fa l'associazione automatica. Ed è proprio lì che scatta la trappola.
 
-Ecco i 15 false friends più pericolosi per chi studia inglese.
+Ecco i 15 Falsi Amici più comuni e letali che devi disinnescare per smettere di tradurre letteralmente (e salvarti da situazioni parecchio imbarazzanti).
 
 ---
 
-## 1️⃣ Actually ❌
+### 1. Actually
+* ❌ **Cosa pensi che significhi:** Attualmente.
+* ✅ **Cosa significa davvero:** In realtà / A dire il vero.
+* 💡 *Come si dice "attualmente"?* Si dice **Currently**.
 
-Non significa “attualmente”.  
-Significa **“in realtà”**.
+### 2. Pretend
+* ❌ **Cosa pensi che significhi:** Pretendere.
+* ✅ **Cosa significa davvero:** Fingere. (*"He is pretending to be asleep"* = Sta fingendo di dormire).
+* 💡 *Come si dice "pretendere"?* Si dice **Expect** o **Demand**.
 
-❌ Actually I live in Milan.  
-(se intendi “attualmente”)
+### 3. Educated
+* ❌ **Cosa pensi che significhi:** Educato (con buone maniere).
+* ✅ **Cosa significa davvero:** Istruito / Colto.
+* 💡 *Come si dice "educato"?* Si dice **Polite**.
 
-✅ I currently live in Milan.  
-✅ Actually, I don’t agree.
+### 4. Parents
+* ❌ **Cosa pensi che significhi:** Parenti (zii, cugini, nipoti).
+* ✅ **Cosa significa davvero:** Genitori (solo mamma e papà).
+* 💡 *Come si dice "parenti"?* Si dice **Relatives**.
 
-👉 “Attualmente” = *currently*, *at the moment*.
+### 5. Sensible
+* ❌ **Cosa pensi che significhi:** Sensibile (che si emoziona facilmente).
+* ✅ **Cosa significa davvero:** Ragionevole / Assennato. 
+* 💡 *Come si dice "sensibile"?* Si dice **Sensitive** (sì, si incrociano!).
 
----
+### 6. Argument
+* ❌ **Cosa pensi che significhi:** Argomento (di cui parlare).
+* ✅ **Cosa significa davvero:** Litigio / Discussione accesa. (*"We had a huge argument"* = Abbiamo fatto una grossa litigata).
+* 💡 *Come si dice "argomento"?* Si dice **Topic** o **Subject**.
 
-## 2️⃣ Library ❌
+### 7. Brave
+* ❌ **Cosa pensi che significhi:** Bravo / Capace.
+* ✅ **Cosa significa davvero:** Coraggioso.
+* 💡 *Come si dice "bravo"?* Si dice **Good at** o **Skilled**.
 
-Non è “libreria”.  
-È **biblioteca**.
+### 8. Library
+* ❌ **Cosa pensi che significhi:** Libreria (negozio dove si comprano i libri).
+* ✅ **Cosa significa davvero:** Biblioteca (dove si prendono in prestito).
+* 💡 *Come si dice "libreria"?* Si dice **Bookshop** o **Bookstore**.
 
-❌ I bought this book at the library.  
-✅ I bought this book at the bookstore.
+### 9. Terrific
+* ❌ **Cosa pensi che significhi:** Terrificante / Spaventoso.
+* ✅ **Cosa significa davvero:** Fantastico / Formidabile. (*"You did a terrific job!"* = Hai fatto un lavoro fantastico!).
+* 💡 *Come si dice "terrificante"?* Si dice **Terrifying**.
 
-👉 Libreria = *bookstore*.
+### 10. Camera
+* ❌ **Cosa pensi che significhi:** Camera (la stanza).
+* ✅ **Cosa significa davvero:** Macchina fotografica / Videocamera.
+* 💡 *Come si dice "camera"?* Si dice **Room** o **Bedroom**.
 
----
+### 11. Annoy
+* ❌ **Cosa pensi che significhi:** Annoiare.
+* ✅ **Cosa significa davvero:** Infastidire / Irritare. (*"Stop annoying me!"* = Smettila di infastidirmi!).
+* 💡 *Come si dice "annoiare"?* Si dice **Bore**.
 
-## 3️⃣ Parent ❌
+### 12. Delusion
+* ❌ **Cosa pensi che significhi:** Delusione (tristezza per un'aspettativa mancata).
+* ✅ **Cosa significa davvero:** Illusione / Allucinazione. 
+* 💡 *Come si dice "delusione"?* Si dice **Disappointment**.
 
-Non è “parente”.  
-È **genitore**.
+### 13. Factory
+* ❌ **Cosa pensi che significhi:** Fattoria.
+* ✅ **Cosa significa davvero:** Fabbrica.
+* 💡 *Come si dice "fattoria"?* Si dice **Farm**.
 
-❌ My parent lives in Rome.  
-(se intendi parente)
+### 14. Rumour
+* ❌ **Cosa pensi che significhi:** Rumore (suono fastidioso).
+* ✅ **Cosa significa davvero:** Pettegolezzo / Voce di corridoio.
+* 💡 *Come si dice "rumore"?* Si dice **Noise**.
 
-✅ My relative lives in Rome.
-
-👉 “Parente” = *relative*.
-
----
-
-## 4️⃣ Argument ❌
-
-Non è “argomento”.  
-È **discussione (litigio)**.
-
-❌ We had an interesting argument about politics.  
-(se intendi “argomento”)
-
-✅ We had an interesting discussion.
-
-👉 “Argomento” = *topic*, *subject*.
-
----
-
-## 5️⃣ Eventually ❌
-
-Non significa “eventualmente”.  
-Significa **“alla fine”**, “prima o poi”.
-
-❌ Eventually we can go out.  
-(se intendi “eventualmente”)
-
-✅ Maybe we can go out.  
-✅ Eventually, he agreed.
-
----
-
-## 6️⃣ Sympathetic ❌
-
-Non significa “simpatico”.  
-Significa **comprensivo**.
-
-❌ She’s very sympathetic. (vuoi dire simpatica)
-
-✅ She’s very friendly.
-
-👉 Simpatico = *friendly*, *nice*.
+### 15. Comprehensive
+* ❌ **Cosa pensi che significhi:** Comprensivo (empatico, che capisce gli altri).
+* ✅ **Cosa significa davvero:** Completo / Esaustivo. (*"A comprehensive guide"* = Una guida completa).
+* 💡 *Come si dice "comprensivo"?* Si dice **Understanding**.
 
 ---
 
-## 7️⃣ Fabric ❌
+## Come smettere di cadere in queste trappole
 
-Non è “fabbrica”.  
-È **tessuto**.
+I Falsi Amici sono l'esempio perfetto del perché [tradurre mentalmente dall'italiano all'inglese]({{ '/inglese/da-zero/capisco-ma-non-parlo/' | relative_url }}) sia una strategia destinata a fallire. Se pensi alla parola in italiano e cerchi l'equivalente inglese, il tuo cervello sceglierà sempre la parola che "suona" in modo simile.
 
-❌ I work in a fabric.  
-✅ I work in a factory.
+Per disinnescare i Falsi Amici devi smettere di imparare le parole in liste isolate e **iniziare a impararle all'interno di un contesto**.
 
----
+<div class="procon-wrap">
 
-## 8️⃣ College ❌
+<div class="procon-card">
+<h3>✅ Il Metodo Giusto</h3>
+<ul>
+<li>Impara le parole tramite dialoghi reali.</li>
+<li>Ascolta come i madrelingua usano queste parole.</li>
+<li>Accetta di sbagliare: la figuraccia è il miglior modo per non scordare mai più un termine!</li>
+</ul>
+</div>
 
-Non è “collegio”.  
-Spesso indica **università** (USA).
+<div class="procon-card">
+<h3>❌ Il Metodo Sbagliato</h3>
+<ul>
+<li>Imparare la lista a memoria.</li>
+<li>Fidarsi del proprio "intuito" italiano.</li>
+<li>Usare il traduttore automatico parola per parola.</li>
+</ul>
+</div>
 
----
+</div>
 
-## 9️⃣ Camera ❌
-
-Non è “camera da letto”.  
-È **macchina fotografica**.
-
-❌ I’m in my camera.  
-✅ I’m in my bedroom.
-
----
-
-## 🔟 Realize ❌
-
-Non significa “realizzare” nel senso di costruire.  
-Significa **rendersi conto**.
-
-❌ I realized a project.  
-✅ I carried out a project.  
-✅ I realized I was wrong.
-
----
-
-## 1️⃣1️⃣ Sensible ❌
-
-Non è “sensibile”.  
-È **ragionevole**.
-
-👉 Sensibile = *sensitive*.
+<div class="cta-soft-box" style="margin-top: 30px;">
+<h3>🎯 Impara a pensare in Inglese</h3>
+<p>Se vuoi smettere di tradurre e assorbire il vocabolario direttamente nel suo contesto corretto, hai bisogno di un percorso strutturato. Scopri l'app che ti guida passo dopo passo (e che corregge i tuoi errori).</p>
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
+Fai il test e prova la prima lezione gratuitamente
+</a>
+</div>
 
 ---
 
-## 1️⃣2️⃣ Resume ❌
-
-Non è “riassumere”.  
-È **curriculum vitae**.
-
-👉 Riassunto = *summary*.
-
----
-
-## 1️⃣3️⃣ Pretend ❌
-
-Non significa “pretendere”.  
-Significa **far finta**.
-
-❌ I pretend a refund.  
-✅ I expect a refund.
-
----
-
-## 1️⃣4️⃣ Comprehend ❌
-
-È più formale di “understand”.
-
-Nella conversazione quotidiana si usa molto più spesso:
-
-👉 *understand*.
-
----
-
-## 1️⃣5️⃣ Attend ❌
-
-Non significa “attendere”.  
-Significa **partecipare**.
-
-❌ I attend you.  
-✅ I’m waiting for you.  
-✅ I will attend the meeting.
-
----
+**Vuoi approfondire e sbloccarti definitivamente?**
+* 👉 Scopri la guida essenziale: **[Inglese da Zero: Come ricominciare da adulti]({{ '/inglese-da-zero/' | relative_url }})**.
+* 👉 Esplora il nostro **[Hub dell'Inglese]({{ '/inglese/' | relative_url }})** per trovare tutte le altre guide sulla grammatica e sulla pronuncia.
+* 👉 Leggi il nostro **[Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})** per studiare in soli 15 minuti al giorno.
