@@ -1,79 +1,69 @@
 ---
 layout: page
 title: "FluenteMente: Imparare le lingue da adulti (senza tornare a scuola)"
-subtitle: "Il metodo pratico, gli strumenti testati e le guide senza fuffa per iniziare a parlare davvero."
-description: "Benvenuto su FluenteMente. Il sito dedicato agli adulti che vogliono imparare inglese, spagnolo, francese o tedesco. Scopri il metodo e le migliori app."
+subtitle: "Il metodo pratico e gli strumenti testati per sbloccarti e iniziare a parlare davvero."
+description: "Benvenuto su FluenteMente. Il blog dedicato agli adulti che vogliono imparare una lingua straniera: niente fuffa, solo metodi testati e recensioni oneste."
 permalink: /
 ---
 
-Se sei arrivato fin qui, probabilmente hai un obiettivo chiaro: **vuoi imparare una nuova lingua.**
+## Hai studiato per anni, ma fai ancora scena muta?
 
-Magari hai già provato in passato. Hai scaricato un'app gratuita con il gufetto verde, hai giocato per un paio di settimane accumulando punti, ma poi, al momento di chiedere un'informazione in viaggio o rispondere a una mail di lavoro... scena muta.
+Non sei il solo. La maggior parte di noi ha passato anni a scuola a memorizzare verbi irregolari e noiose tabelle grammaticali, per poi bloccarsi completamente al momento di ordinare una cena all'estero o rispondere a una call di lavoro.
 
-> *Non è colpa della tua memoria e non sei "negato" per le lingue. Il problema è che stai usando metodi pensati per i bambini, o vecchi manuali scolastici noiosi.*
+> *Il problema non è la tua memoria. Il problema è che le app a premi e i vecchi manuali scolastici non sono fatti per la mente di un adulto.*
 
-Su **FluenteMente** non troverai promesse miracolose ("Impara l'inglese in 7 giorni!"), ma un approccio pragmatico, pensato per adulti che lavorano, hanno poco tempo e vogliono risultati concreti. 
-
-Ecco la roadmap esatta per costruire il tuo percorso linguistico partendo da zero.
+Benvenuto su **FluenteMente**. Il nostro obiettivo è semplice: aiutarti a smettere di "studiare" la grammatica in modo passivo e iniziare finalmente a **comunicare**. Niente promesse magiche da "impara in 7 giorni", solo costanza e gli strumenti giusti.
 
 ---
 
-## Passo 1: Mindset e Organizzazione (Il Metodo)
+## 🏆 Le 3 Guide Fondamentali da leggere subito
 
-Il segreto non è studiare 4 ore la domenica (il tuo cervello lo odierebbe), ma creare un'abitudine solida e inattaccabile. Prima di tuffarti nei vocaboli, devi capire *come* studiare in modo ottimizzato.
+Se hai solo 10 minuti di tempo oggi, usali per leggere questi tre articoli. Cambieranno completamente il tuo modo di approcciare lo studio delle lingue:
 
-* 👉 **[Il Metodo Consigliato: Come studiare e ottenere risultati reali]({{ '/metodo-consigliato/' | relative_url }})**
-* 👉 **[Costruire la tua Routine: Come trovare il tempo per studiare ogni giorno]({{ '/routine/' | relative_url }})**
-
----
-
-## Passo 2: Scegliere lo strumento giusto 
-
-La motivazione iniziale svanisce in fretta: ti serve un percorso strutturato. Sul mercato ci sono decine di app, ma pochissime sono adatte a chi vuole imparare a comunicare sul serio. Abbiamo analizzato le piattaforme mettendole a confronto senza filtri:
-
-* 👉 **[Recensione Babbel 2026: Funziona davvero per gli adulti?]({{ '/recensione-babbel/' | relative_url }})**
-* 👉 **[Babbel Opinioni Negative: Cosa non funziona e per chi NON è adatto]({{ '/babbel-opinioni-negative/' | relative_url }})**
-* 👉 **[Babbel vs Duolingo: Il confronto definitivo. Quale scegliere?]({{ '/babbel-vs-duolingo/' | relative_url }})**
+1. 👉 **[Il Metodo Consigliato: Come imparare una lingua in 15 minuti al giorno]({{ '/metodo-consigliato/' | relative_url }})**
+2. 👉 **[Inglese da Zero: La guida pratica per ricominciare (senza stress)]({{ '/inglese-da-zero/' | relative_url }})**
+3. 👉 **[Recensione Babbel 2026: È davvero la migliore app per adulti?]({{ '/recensione-babbel/' | relative_url }})**
 
 ---
 
-## Passo 3: Scegli la tua lingua e inizia
+## 🧭 Il tuo percorso linguistico completo
 
-Hai il metodo e hai scelto l'app. Ora scegli la tua destinazione. Abbiamo creato degli "Hub" specifici per le lingue più richieste, raccogliendo guide, trucchi di pronuncia ed errori tipici da evitare.
+Vuoi una mappa passo dopo passo per capire da dove iniziare, quale strumento scaricare e come affrontare la lingua che hai scelto? 
 
-### 🇬🇧 [Inglese]({{ '/inglese/' | relative_url }})
-La lingua fondamentale. Esci dalla fase del *"Capisco ma non parlo"*, correggi i tuoi errori storici e impara a pensare in inglese senza tradurre mentalmente.
+Abbiamo creato un "Hub" centrale che raccoglie l'intero percorso logico, diviso per lingue (Inglese, Spagnolo, Francese, Tedesco e Portoghese).
 
-### 🇪🇸 [Spagnolo]({{ '/spagnolo/' | relative_url }})
-Smettila di parlare in "itagnolo" e scopri i *falsi amici* che ti fanno fare brutta figura in viaggio o sul lavoro.
-
-### 🇫🇷 [Francese]({{ '/francese/' | relative_url }})
-La lingua dell'eleganza non si legge come si scrive! Domina la pronuncia, le "liaisons" e impara i vocaboli di sopravvivenza essenziali.
-
-### 🇩🇪 [Tedesco]({{ '/tedesco/' | relative_url }})
-Sfata il mito della lingua impossibile: impara a gestire i casi (accusativo, dativo) e la logica ferrea della grammatica tedesca partendo da zero.
-
-### 🇵🇹 [Portoghese]({{ '/portoghese/' | relative_url }})
-Scopri le differenze enormi tra Brasile e Portogallo, impara a gestire i suoni nasali e le frasi per iniziare a comunicare.
+👉 **[Vai all'Hub delle Lingue: La Roadmap Definitiva per iniziare a studiare]({{ '/hub-lingue/' | relative_url }})**
 
 ---
 
-## 📌 Ultimi articoli dal Blog
+## ⚖️ Le nostre Recensioni Oneste
 
-Esplora le nostre guide più recenti per migliorare il tuo studio quotidiano:
+Prima di abbonarti a un corso o scaricare un'app, leggi le nostre analisi. Mettiamo a confronto le piattaforme sul mercato evidenziando i veri difetti (che le aziende non ti dicono).
+
+* 🟠 **[Babbel vs Duolingo: Quale scegliere quest'anno?]({{ '/babbel-vs-duolingo/' | relative_url }})**
+* 🔴 **[Babbel Opinioni Negative: I veri limiti dell'app]({{ '/babbel-opinioni-negative/' | relative_url }})**
+
+---
+
+## 📝 Ultimi articoli dal Blog
+
+Non perderti i nostri ultimi approfondimenti su pronuncia, errori comuni e falsi amici:
 
 <ul>
 {% for post in site.posts limit:5 %}
-  <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong> <span style="color:var(--text-light); font-size: 0.9em;">- {{ post.date | date: "%d/%m/%Y" }}</span></li>
+  <li style="margin-bottom: 10px;">
+    <strong><a href="{{ post.url | relative_url }}" style="font-size: 1.1em;">{{ post.title }}</a></strong><br>
+    <span style="color:var(--text-light); font-size: 0.85em;">{{ post.excerpt | strip_html | truncatewords: 20 }}</span>
+  </li>
 {% endfor %}
 </ul>
 
 ---
 
 <div class="cta-soft-box" style="margin-top: 40px;">
-<h3>🎯 Pronto a fare il primo passo?</h3>
-<p>Il tempo passa lo stesso: tra un anno potresti pentirti di non aver iniziato oggi. Se vuoi mettere subito in pratica il nostro metodo con uno strumento strutturato, puoi iniziare da qui:</p>
+<h3>🎯 Il momento migliore per iniziare era ieri. Il secondo è oggi.</h3>
+<p>Tra un anno potresti pentirti di non aver iniziato oggi. Metti subito in pratica il nostro metodo con l'app che ha già aiutato milioni di adulti a sbloccarsi.</p>
 <a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Prova la tua prima lezione gratuita
+Fai il test e prova la tua prima lezione gratuita
 </a>
 </div>
