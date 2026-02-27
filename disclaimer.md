@@ -39,7 +39,7 @@ Il cuore di FluenteMente è l'autenticità. La nostra filosofia è semplice:
 
 Attualmente, FluenteMente partecipa (tra gli altri) a:
 * **Programma Affiliazione Babbel:** Uno degli strumenti che riteniamo più validi per l'apprendimento degli adulti.
-* **Programma Affiliazione Amazon:** Per i libri, i Kindle e le letture graduate che consigliamo nella sezione [Risorse]({{ '/risorse/' | relative_url }}).
+
 
 ---
 
