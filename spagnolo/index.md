@@ -8,8 +8,7 @@ permalink: /spagnolo/
 
 Molti italiani pensano che per parlare spagnolo basti aggiungere una "S" alla fine delle parole italiane. Niente di più sbagliato (e pericoloso!). 
 
-Lo spagnolo è una lingua bellissima e apparentemente accessibile, ma è piena di insidie, *falsi amici* e regole grammaticali sottili (come la differenza tra *ser* ed *estar*, o *por* e *para*). 
-In questo hub raccogliamo tutte le guide per aiutarti a passare dal finto "itagnolo" allo spagnolo reale, che tu voglia viaggiare a Madrid o trasferirti in Sud America.
+Lo spagnolo è una lingua bellissima e apparentemente accessibile, ma è piena di insidie, *falsi amici* e regole grammaticali sottili. In questo hub raccogliamo automaticamente tutte le nostre guide per aiutarti a passare dal finto "itagnolo" allo spagnolo reale.
 
 ---
 
@@ -17,36 +16,67 @@ In questo hub raccogliamo tutte le guide per aiutarti a passare dal finto "itagn
 
 Iniziare col piede giusto significa accettare che lo spagnolo è una lingua a sé stante, non un dialetto dell'italiano.
 
-* 👉 **[In arrivo: Spagnolo da Zero: I primi passi per adulti]({{ '/spagnolo/da-zero/' | relative_url }})**
-* 👉 **[In arrivo: Perché l'Itagnolo è il tuo peggior nemico]({{ '/spagnolo/errori/perche-evitare-itagnolo/' | relative_url }})**
+<ul>
+{% assign basi_posts = site.categories['spagnolo'] | where_exp: "item", "item.tags contains 'basi'" %}
+{% if basi_posts.size > 0 %}
+  {% for post in basi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo preparando le guide per questa sezione.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 2. I Falsi Amici (False Friends in Spagnolo)
+## 2. I Falsi Amici ed Errori Comuni
 
 Se chiedi del "burro" in Spagna ti daranno un asino, e se dici che sei "embarazada" non sei imbarazzata, ma incinta! Scopri le parole da evitare assolutamente.
 
-* 👉 **[In arrivo: I 20 Falsi Amici Spagnolo-Italiano più imbarazzanti]({{ '/spagnolo/errori/falsi-amici-spagnolo/' | relative_url }})**
-* 👉 **[In arrivo: Ser o Estar? Come non sbagliare mai più]({{ '/spagnolo/grammatica/ser-estar/' | relative_url }})**
-* 👉 **[In arrivo: Por o Para? La regola definitiva]({{ '/spagnolo/grammatica/por-para/' | relative_url }})**
+<ul>
+{% assign errori_posts = site.categories['spagnolo'] | where_exp: "item", "item.tags contains 'errori'" %}
+{% if errori_posts.size > 0 %}
+  {% for post in errori_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Torna presto per scoprire i falsi amici.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 3. Pronuncia e Varianti (Spagna vs America Latina)
+## 3. Pronuncia e Varianti
 
-Non esiste un solo spagnolo. La pronuncia cambia drasticamente se ti trovi in Andalusia, a Città del Messico o a Buenos Aires.
+La pronuncia cambia drasticamente se ti trovi in Andalusia, a Città del Messico o a Buenos Aires.
 
-* 👉 **[In arrivo: Quale spagnolo studiare? Spagna vs America Latina]({{ '/spagnolo/curiosita/varianti-spagnolo/' | relative_url }})**
-* 👉 **[In arrivo: Guida alla pronuncia: la J, la C e la doppia L]({{ '/spagnolo/pronuncia/guida-pronuncia-spagnola/' | relative_url }})**
+<ul>
+{% assign pronuncia_posts = site.categories['spagnolo'] | where_exp: "item", "item.tags contains 'pronuncia'" %}
+{% if pronuncia_posts.size > 0 %}
+  {% for post in pronuncia_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo registrando gli audio per la pronuncia.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 4. Vocabolario di Viaggio e Vita Reale
+## 4. Vocabolario di Viaggio e Frasi
 
-Le frasi essenziali per ordinare delle tapas, chiedere indicazioni o presentarsi senza sembrare un libro di testo stampato.
+Le frasi essenziali per ordinare delle tapas o presentarsi senza sembrare un libro di testo.
 
-* 👉 **[In arrivo: 30 Frasi spagnole indispensabili per il tuo prossimo viaggio]({{ '/spagnolo/frasi/frasi-viaggio-spagna/' | relative_url }})**
-* 👉 **[In arrivo: Idiomi ed espressioni colloquiali (come parlare come un local)]({{ '/spagnolo/curiosita/idiomi-spagnoli/' | relative_url }})**
+<ul>
+{% assign frasi_posts = site.categories['spagnolo'] | where_exp: "item", "item.tags contains 'frasi'" %}
+{% if frasi_posts.size > 0 %}
+  {% for post in frasi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo raccogliendo le migliori frasi per te.</em></li>
+{% endif %}
+</ul>
 
 ---
 
