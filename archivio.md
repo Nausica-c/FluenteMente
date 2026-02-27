@@ -1,96 +1,51 @@
 ---
 layout: page
-title: "Archivio"
+title: "Archivio completo degli articoli"
+subtitle: "Tutte le nostre guide, le recensioni e i trucchi per imparare le lingue, dal più recente al più vecchio."
+description: "Esplora l'archivio completo di FluenteMente. Trova tutte le guide su inglese, spagnolo, metodo di studio e recensioni delle app."
 permalink: /archivio/
 ---
 
-<div class="archive-head">
-  <h1 class="archive-title">📚 Archivio</h1>
-  <p class="archive-subtitle">
-    Scegli una lingua e poi un percorso. Le guide si aggiornano automaticamente quando aggiungi nuove pagine.
-  </p>
-</div>
+Benvenuto nella libreria completa di **FluenteMente**. 
 
-{% assign languages = "inglese,spagnolo,francese,tedesco" | split: "," %}
-{% assign sections = "da-zero,frasi,errori,pronuncia,curiosita" | split: "," %}
+Qui trovi tutti gli articoli, le guide grammaticali, le analisi sui falsi amici e le recensioni che abbiamo pubblicato nel corso del tempo. Se stai cercando qualcosa di specifico per la lingua che stai studiando, ti consigliamo di visitare prima i nostri **[Hub dedicati]({{ '/hub-lingue/' | relative_url }})**.
 
-{% for lang in languages %}
-  {% assign lang_root = '/' | append: lang | append: '/' %}
-  {% assign lang_pages = site.pages | where_exp: "p", "p.url contains lang_root" %}
+Se invece vuoi curiosare tra le nostre ultime pubblicazioni, ecco l'elenco completo in ordine cronologico.
 
-  {% if lang_pages.size > 0 %}
-  <section class="archive-lang">
-    <div class="archive-lang__header">
-      <h2 class="archive-lang__title">🌍 {{ lang | capitalize }}</h2>
-      <p class="archive-lang__meta">{{ lang_pages.size }} risorse</p>
-    </div>
+---
 
-    <div class="archive-grid">
-      {% for section in sections %}
-        {% assign section_root = '/' | append: lang | append: '/' | append: section | append: '/' %}
-        {% assign section_pages = site.pages | where_exp: "p", "p.url contains section_root" %}
-        {% assign section_pages_sorted = section_pages | sort: "title" %}
+## Tutti gli articoli pubblicati
 
-        {% if section_pages.size > 0 %}
-          <article class="archive-card">
-            <div class="archive-card__top">
-              <span class="archive-card__badge">
-                {% case section %}
-                  {% when "da-zero" %}📘 Da zero
-                  {% when "frasi" %}💬 Frasi
-                  {% when "errori" %}⚠️ Errori
-                  {% when "pronuncia" %}🔊 Pronuncia
-                  {% when "curiosita" %}🌍 Curiosità
-                  {% else %}📌 {{ section | capitalize }}
-                {% endcase %}
-              </span>
-              <span class="archive-card__count">{{ section_pages.size }}</span>
-            </div>
+{% for post in site.posts %}
+  {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if current_year != previous_year %}
+    {% unless forloop.first %}
+      </ul>
+    {% endunless %}
+    <h3 style="margin-top: 30px; border-bottom: 2px solid var(--text-light); padding-bottom: 5px;">{{ current_year }}</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+    {% capture previous_year %}{{ current_year }}{% endcapture %}
+  {% endif %}
+  
+  <li style="margin-bottom: 15px; display: flex; align-items: baseline;">
+    <span style="color: var(--text-light); font-size: 0.9em; min-width: 60px; font-family: monospace;">{{ post.date | date: "%d/%m" }}</span>
+    <span>
+      👉 <strong><a href="{{ post.url | relative_url }}" style="font-size: 1.1em;">{{ post.title }}</a></strong>
+      {% if post.subtitle %}<br><span style="font-size: 0.9em; color: var(--text-light);">{{ post.subtitle }}</span>{% endif %}
+    </span>
+  </li>
 
-            <h3 class="archive-card__title">
-              {% case section %}
-                {% when "da-zero" %}Inizia dalle basi
-                {% when "frasi" %}Parla più naturale
-                {% when "errori" %}Evita gli errori tipici
-                {% when "pronuncia" %}Migliora l’accento
-                {% when "curiosita" %}Inglese reale & sfumature
-                {% else %}{{ section | replace:"-"," " | capitalize }}
-              {% endcase %}
-            </h3>
-
-            <p class="archive-card__desc">
-              {% case section %}
-                {% when "da-zero" %}Guide per costruire fondamenta solide, anche se riparti da adulto.
-                {% when "frasi" %}Espressioni utili, blocchi pronti e frasi che usano i madrelingua.
-                {% when "errori" %}False friends, parole ingannevoli e trappole tipiche.
-                {% when "pronuncia" %}Suoni difficili, parole problematiche e consigli pratici.
-                {% when "curiosita" %}Idiomi, differenze culturali, britannico vs americano e altro.
-                {% else %}Raccolta di risorse per questa sezione.
-              {% endcase %}
-            </p>
-
-            <ul class="archive-card__list">
-              {% assign shown = 0 %}
-              {% for p in section_pages_sorted %}
-                {% if p.title and p.url != page.url %}
-                  <li class="archive-card__item">
-                    <a class="archive-card__link" href="{{ p.url | relative_url }}">{{ p.title }}</a>
-                  </li>
-                  {% assign shown = shown | plus: 1 %}
-                {% endif %}
-                {% if shown == 6 %}{% break %}{% endif %}
-              {% endfor %}
-            </ul>
-
-            <div class="archive-card__actions">
-              <a class="archive-card__btn" href="{{ section_root | relative_url }}">
-                Vedi tutto
-              </a>
-            </div>
-          </article>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </section>
+  {% if forloop.last %}
+    </ul>
   {% endif %}
 {% endfor %}
+
+---
+
+<div class="cta-soft-box" style="margin-top: 40px;">
+<h3>🎯 Non sai da dove cominciare?</h3>
+<p>Troppi articoli da leggere? Inizia dalle basi assolute applicando il nostro metodo con l'app più strutturata per gli adulti.</p>
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
+Prova la tua prima lezione gratuita
+</a>
+</div>
