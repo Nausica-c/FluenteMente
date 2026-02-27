@@ -1,154 +1,73 @@
 ---
 layout: page
-title: "Hub Lingue"
+title: "Come imparare una lingua straniera: Metodo, Strumenti e Risorse"
+subtitle: "La guida definitiva per adulti. Scopri da dove partire, quali app funzionano davvero e scegli la tua lingua."
+description: "L'hub principale di FluenteMente: metodo di studio per adulti, recensioni delle migliori app e percorsi completi per Inglese, Spagnolo, Francese, Tedesco e Portoghese."
 permalink: /hub-lingue/
-description: "Scegli una lingua e segui un percorso guidato: inglese, spagnolo, francese, tedesco e portoghese. Da zero, frasi utili, errori comuni e pronuncia."
 ---
 
-<section class="lang-hub">
+Sei un adulto, hai una vita piena di impegni e il tuo tempo libero scarseggia. Ma hai un obiettivo: **vuoi imparare a parlare una nuova lingua.**
 
-  <div class="lang-hub__head">
-    <h1 class="lang-hub__title">Impara una lingua da zero (con metodo)</h1>
-    <p class="lang-hub__subtitle">
-      Qui trovi percorsi guidati per adulti che vogliono imparare una lingua in modo pratico e sostenibile.
-      Niente teoria infinita: basi solide, frasi reali e metodo chiaro.
-    </p>
-  </div>
+Se in passato ti sei arreso perché i libri di grammatica ti sembravano un ritorno ai banchi di scuola, o se le app gratuite si sono rivelate solo giochini mangia-tempo, sei nel posto giusto. Questa pagina è il tuo punto di partenza per resettare il tuo modo di studiare e iniziare a fare progressi reali, misurabili e utili nella vita di tutti i giorni.
 
-  <div class="lang-hub__grid">
+Ecco la roadmap completa per costruire il tuo percorso linguistico.
 
-    <!-- INGLESE (attivo) -->
-    <div class="lang-card lang-card--active">
-      <div class="lang-card__top">
-        <div class="lang-card__flag">🇬🇧</div>
-        <span class="lang-card__badge">Attiva</span>
-      </div>
+---
 
-      <h2 class="lang-card__title">Imparare Inglese</h2>
-      <p class="lang-card__desc">
-        Percorso completo per adulti principianti: basi solide, frasi quotidiane, errori comuni e pronuncia.
-      </p>
+## Passo 1: Mindset e Organizzazione (Il Metodo)
 
-      <div class="lang-card__links">
-        <a class="lang-pill" href="{{ '/inglese/da-zero/hub' | relative_url }}">Da zero</a>
-        <a class="lang-pill" href="{{ '/inglese/frasi/' | relative_url }}">Frasi utili</a>
-        <a class="lang-pill" href="{{ '/inglese/errori/' | relative_url }}">Errori comuni</a>
-        <a class="lang-pill" href="{{ '/inglese/pronuncia/' | relative_url }}">Pronuncia</a>
-        <a class="lang-pill" href="{{ '/inglese/curiosita/' | relative_url }}">Curiosità</a>
-      </div>
+Il segreto non è studiare 4 ore la domenica (il tuo cervello non lo sopporterebbe), ma creare un'abitudine solida e inattaccabile. Prima di tuffarti nei vocaboli, devi capire *come* studiare in modo ottimizzato per la mente di un adulto.
 
-      <a class="lang-card__cta" href="{{ '/inglese/da-zero/' | relative_url }}">Inizia il percorso →</a>
-    </div>
+* 👉 **[Il Metodo Consigliato: Come studiare e ottenere risultati reali]({{ '/metodo-consigliato/' | relative_url }})**
+* 👉 **[Costruire la tua Routine: Come trovare il tempo per studiare ogni giorno]({{ '/routine/' | relative_url }})**
 
-    <!-- SPAGNOLO (in arrivo) -->
-    <div class="lang-card is-disabled" aria-disabled="true">
-      <div class="lang-card__top">
-        <div class="lang-card__flag">🇪🇸</div>
-        <span class="lang-card__badge is-soon">In arrivo</span>
-      </div>
+---
 
-      <h2 class="lang-card__title">Imparare Spagnolo</h2>
-      <p class="lang-card__desc">
-        Struttura pronta: dalle basi alle frasi per viaggiare e comunicare con sicurezza (contenuti in arrivo).
-      </p>
+## Passo 2: Scegliere lo strumento giusto (Senza sprecare soldi)
 
-      <div class="lang-card__links">
-        <span class="lang-pill">Da zero</span>
-        <span class="lang-pill">Frasi utili</span>
-        <span class="lang-pill">Errori comuni</span>
-        <span class="lang-pill">Pronuncia</span>
-        <span class="lang-pill">Curiosità</span>
-      </div>
+La motivazione iniziale svanisce in fretta: per questo ti serve un percorso strutturato. Sul mercato ci sono decine di app, ma pochissime sono adatte a chi vuole imparare a comunicare sul serio in ambito lavorativo o in viaggio. 
 
-      <div class="lang-card__cta">Disponibile a breve</div>
-    </div>
+Abbiamo analizzato a fondo le migliori piattaforme sul mercato, mettendole a confronto senza filtri:
 
-    <!-- PORTOGHESE (in arrivo) -->
-    <div class="lang-card is-disabled" aria-disabled="true">
-      <div class="lang-card__top">
-        <div class="lang-card__flag">🇵🇹</div>
-        <span class="lang-card__badge is-soon">In arrivo</span>
-      </div>
+* 👉 **[Recensione Babbel 2026: Funziona davvero per gli adulti?]({{ '/recensione-babbel/' | relative_url }})**
+* 👉 **[Babbel Opinioni Negative: Cosa non funziona e per chi NON è adatto]({{ '/babbel-opinioni-negative/' | relative_url }})**
+* 👉 **[Babbel vs Duolingo: Il confronto definitivo. Quale scegliere?]({{ '/babbel-vs-duolingo/' | relative_url }})**
+* 👉 **[Le nostre Risorse Consigliate per accelerare l'apprendimento]({{ '/risorse/' | relative_url }})**
 
-      <h2 class="lang-card__title">Imparare Portoghese</h2>
-      <p class="lang-card__desc">
-        Percorso pratico per iniziare da zero: basi, frasi utili e differenze tra portoghese europeo e brasiliano (contenuti in arrivo).
-      </p>
+---
 
-      <div class="lang-card__links">
-        <span class="lang-pill">Da zero</span>
-        <span class="lang-pill">Frasi utili</span>
-        <span class="lang-pill">Errori comuni</span>
-        <span class="lang-pill">Pronuncia</span>
-        <span class="lang-pill">Curiosità</span>
-      </div>
+## Passo 3: Scegli la tua lingua e inizia il percorso
 
-      <div class="lang-card__cta">Disponibile a breve</div>
-    </div>
+Hai il metodo e hai scelto l'app. Ora devi passare all'azione pratica. Abbiamo creato degli hub dedicati per le lingue più richieste, raccogliendo guide, trucchi di pronuncia ed errori tipici da evitare. 
 
-    <!-- FRANCESE (in arrivo) -->
-    <div class="lang-card is-disabled" aria-disabled="true">
-      <div class="lang-card__top">
-        <div class="lang-card__flag">🇫🇷</div>
-        <span class="lang-card__badge is-soon">In arrivo</span>
-      </div>
+Scegli la tua destinazione:
 
-      <h2 class="lang-card__title">Imparare Francese</h2>
-      <p class="lang-card__desc">
-        Percorso strutturato per principianti: basi grammaticali, pronuncia e frasi reali (contenuti in arrivo).
-      </p>
+### 🇬🇧 Inglese
+La lingua fondamentale per il lavoro, i viaggi e l'intrattenimento. Scopri come superare i traumi scolastici e iniziare finalmente a capire e parlare (senza tradurre tutto mentalmente).
+👉 **[Vai all'Hub Inglese: la libreria completa]({{ '/inglese/' | relative_url }})**
 
-      <div class="lang-card__links">
-        <span class="lang-pill">Da zero</span>
-        <span class="lang-pill">Frasi utili</span>
-        <span class="lang-pill">Errori comuni</span>
-        <span class="lang-pill">Pronuncia</span>
-        <span class="lang-pill">Curiosità</span>
-      </div>
+### 🇪🇸 Spagnolo
+Spesso crediamo sia "facile" perché assomiglia all'italiano. In realtà, è pieno di *falsi amici* pronti a farti fare brutta figura. Scopri come parlarlo correttamente evitando l'effetto "itagnolo".
+👉 **[Vai all'Hub Spagnolo: vocabolario, insidie e risorse]({{ '/spagnolo/' | relative_url }})**
 
-      <div class="lang-card__cta">Disponibile a breve</div>
-    </div>
+### 🇫🇷 Francese
+La lingua dell'eleganza ha un difetto enorme: non si legge come si scrive! Qui troverai le guide per dominare i suoni nasali, la pronuncia e le frasi di sopravvivenza essenziali.
+👉 **[Vai all'Hub Francese: pronuncia, regole e guide pratiche]({{ '/francese/' | relative_url }})**
 
-    <!-- TEDESCO (in arrivo) -->
-    <div class="lang-card is-disabled" aria-disabled="true">
-      <div class="lang-card__top">
-        <div class="lang-card__flag">🇩🇪</div>
-        <span class="lang-card__badge is-soon">In arrivo</span>
-      </div>
+### 🇩🇪 Tedesco
+Grammatica complessa, parole chilometriche e declinazioni spaventose. Ma c'è un trucco: affrontato con la giusta logica e un metodo strutturato, il tedesco diventa un puzzle affascinante.
+👉 **[Vai all'Hub Tedesco: come domare la grammatica partendo da zero]({{ '/tedesco/' | relative_url }})**
 
-      <h2 class="lang-card__title">Imparare Tedesco</h2>
-      <p class="lang-card__desc">
-        Guida pratica per iniziare da zero senza sentirsi sopraffatti (contenuti in arrivo).
-      </p>
+### 🇵🇹 Portoghese
+Una lingua musicale e in fortissima espansione. Sia che ti interessi il portoghese europeo o la variante brasiliana, qui trovi le basi per iniziare con il ritmo giusto.
+👉 **[Vai all'Hub Portoghese: differenze, pronuncia e primi passi]({{ '/portoghese/' | relative_url }})**
 
-      <div class="lang-card__links">
-        <span class="lang-pill">Da zero</span>
-        <span class="lang-pill">Frasi utili</span>
-        <span class="lang-pill">Errori comuni</span>
-        <span class="lang-pill">Pronuncia</span>
-        <span class="lang-pill">Curiosità</span>
-      </div>
+---
 
-      <div class="lang-card__cta">Disponibile a breve</div>
-    </div>
-
-  </div>
-
-  <div class="lang-hub__method">
-    <h2>Vuoi accelerare i risultati?</h2>
-    <p>
-      Oltre ai nostri percorsi gratuiti, consigliamo uno strumento strutturato per chi vuole
-      pratica quotidiana guidata e progressi costanti.
-    </p>
-
-    <div class="affiliate-box">
-      <strong>Strumento consigliato:</strong> Babbel
-      <p>
-        Lezioni brevi, dialoghi realistici e focus sulla conversazione.
-        Ideale per chi studia 10–15 minuti al giorno.
-      </p>
-      <a class="btn-primary" href="{{ '/consigli/babbel/' | relative_url }}">Scopri perché lo consigliamo →</a>
-    </div>
-  </div>
-
-</section>
+<div class="cta-soft-box" style="margin-top: 40px;">
+<h3>🎯 Pronto a fare sul serio?</h3>
+<p>Se hai letto il metodo e scelto la tua lingua, è il momento di testare lo strumento che consigliamo maggiormente agli adulti per strutturare lo studio in soli 15 minuti al giorno.</p>
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
+Fai il test e inizia la tua prima lezione gratis
+</a>
+</div>
