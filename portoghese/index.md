@@ -1,55 +1,89 @@
 ---
 layout: page
-title: "Imparare il Portoghese: Brasile, Portogallo e Prime Frasi"
-subtitle: "Scopri il ritmo e la grammatica della sesta lingua più parlata al mondo."
-description: "L'hub per studiare il portoghese: differenze tra europeo e brasiliano, pronuncia, risorse per italiani ed errori comuni."
+title: "Imparare il Portoghese: Guida, Varianti e Risorse per Italiani"
+subtitle: "Dal Portogallo al Brasile: scopri la lingua più musicale del mondo e come parlarla da adulto."
+description: "L'hub definitivo per imparare il portoghese. Differenze tra portoghese europeo e brasiliano, pronuncia, falsi amici e frasi utili."
 permalink: /portoghese/
 ---
 
-Il portoghese è una lingua estremamente musicale, calda e in continua espansione economica e culturale (grazie soprattutto al Brasile). 
+Il portoghese è una lingua che ti entra nel cuore. Spesso sottovalutato, è la chiave per comunicare in tre continenti e per immergersi in culture straordinarie, dal fado di Lisbona alla bossa nova di Rio de Janeiro.
 
-Spesso viene studiato come "terza lingua" da chi sa già lo spagnolo, creando però un mix esplosivo (il temutissimo *Portuñol*!). In questo hub ti guidiamo alla scoperta del portoghese, aiutandoti a scegliere quale variante studiare e come padroneggiare i suoi suoni unici.
-
----
-
-## 1. La prima grande scelta: Quale Portoghese?
-
-Brasile e Portogallo condividono la stessa lingua scritta (o quasi), ma la pronuncia e alcune regole grammaticali sono incredibilmente diverse.
-
-* 👉 **[In arrivo: Portoghese Europeo vs Brasiliano: Quale dovresti studiare?]({{ '/portoghese/curiosita/europeo-vs-brasiliano/' | relative_url }})**
-* 👉 **[In arrivo: Portoghese da Zero: I primissimi passi per iniziare]({{ '/portoghese/da-zero/' | relative_url }})**
+Per un italiano, il portoghese scritto è quasi comprensibile, ma il parlato nasconde suoni chiusi e ritmi complessi. In questo hub ti guidiamo alla scoperta della lingua lusofona.
 
 ---
 
-## 2. La Pronuncia (Il segreto della musicalità)
+## 1. Portogallo vs Brasile (Quale scegliere?)
 
-Il portoghese europeo tende a "mangiare" le vocali chiuse, suonando a volte più simile al russo che allo spagnolo! Il brasiliano invece ha vocali aperte e cantilenanti.
+Le differenze di accento, vocabolario e grammatica tra il portoghese europeo e quello brasiliano. Da dove iniziare?
 
-* 👉 **[In arrivo: Guida ai suoni nasali (ão, ões, ã) senza sforzo]({{ '/portoghese/pronuncia/suoni-nasali/' | relative_url }})**
-* 👉 **[In arrivo: Come leggere gli accenti grafici in portoghese]({{ '/portoghese/pronuncia/accenti-grafici/' | relative_url }})**
+<ul>
+{% assign basi_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'basi'" %}
+{% if basi_posts.size > 0 %}
+  {% for post in basi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo analizzando le varianti per te.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 3. Errori e "Portuñol"
+## 2. Falsi Amici Portogallo-Italia
 
-Se parli italiano o spagnolo, sarai tentato di tradurre letteralmente. Ecco le trappole da evitare.
+Attenzione a non fare confusione tra "propina" (che in portoghese è semplicemente la tassa universitaria!) e altri trabocchetti linguistici.
 
-* 👉 **[In arrivo: I Falsi Amici tra Italiano e Portoghese]({{ '/portoghese/errori/falsi-amici-portoghese/' | relative_url }})**
-* 👉 **[In arrivo: Cos'è il Portuñol e come smettere di parlarlo]({{ '/portoghese/errori/evitare-portunol/' | relative_url }})**
+<ul>
+{% assign errori_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'errori'" %}
+{% if errori_posts.size > 0 %}
+  {% for post in errori_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! I falsi amici portoghesi sono in arrivo.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 4. Frasi Pratiche per Viaggiare
+## 3. La Pronuncia e le Vocali Nasali
 
-* 👉 **[In arrivo: 30 Frasi indispensabili per un viaggio a Lisbona o Rio]({{ '/portoghese/frasi/frasi-viaggio-portoghese/' | relative_url }})**
-* 👉 **[In arrivo: Saudade e altre parole portoghesi intraducibili]({{ '/portoghese/curiosita/parole-intraducibili-portoghese/' | relative_url }})**
+Imparare a pronunciare la "tilde" (ã) e a distinguere i suoni aperti e chiusi che rendono il portoghese così unico.
+
+<ul>
+{% assign pronuncia_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'pronuncia'" %}
+{% if pronuncia_posts.size > 0 %}
+  {% for post in pronuncia_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo preparando gli audio tutorial.</em></li>
+{% endif %}
+</ul>
+
+---
+
+## 4. Frasi di Sopravvivenza e Viaggio
+
+Tutto quello che ti serve per muoverti tra Lisbona, Porto, Rio o São Paulo con naturalezza.
+
+<ul>
+{% assign frasi_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'frasi'" %}
+{% if frasi_posts.size > 0 %}
+  {% for post in frasi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Le guide per i tuoi viaggi sono in arrivo.</em></li>
+{% endif %}
+</ul>
 
 ---
 
 <div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Impara con un metodo strutturato</h3>
-<p>Inizia a praticare subito con dialoghi reali creati da esperti madrelingua. Scopri lo strumento che consigliamo per imparare la lingua (scegliendo tra variante brasiliana ed europea).</p>
+<h3>🎯 Entra nel mondo lusofono</h3>
+<p>Il portoghese si impara con il ritmo. Scopri l'app che ti permette di scegliere tra la variante brasiliana e quella europea, guidandoti verso la fluency.</p>
 <a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}">
-Scopri l'app consigliata e fai un test gratuito
+Leggi la recensione e inizia a studiare oggi
 </a>
 </div>
