@@ -1,56 +1,89 @@
 ---
 layout: page
-title: "Imparare il Tedesco da Adulti: La logica oltre la grammatica"
-subtitle: "Declinazioni, casi e parole composte: smonta il mito del tedesco impossibile con il metodo giusto."
-description: "L'hub per studiare il tedesco: guide per principianti, come capire i casi (nominativo, accusativo, dativo), vocabolario base ed errori da evitare."
+title: "Imparare il Tedesco: Guida, Metodo e Risorse per Italiani"
+subtitle: "Affronta i casi, la costruzione della frase e la pronuncia senza paura."
+description: "L'hub definitivo per imparare il tedesco. Guide pratiche su declinazioni, verbi separabili, pronuncia e vocabolario per il lavoro."
 permalink: /tedesco/
 ---
 
-Mark Twain scrisse un saggio intitolato *"La terribile lingua tedesca"*. Aveva torto e ragione allo stesso tempo.
+Il tedesco ha la fama di essere una lingua "impossibile" a causa dei casi e delle parole lunghissime. La verità? È una lingua estremamente logica e coerente. 
 
-Sì, il tedesco incute timore: parole composte lunghissime, il verbo alla fine della frase e i famigerati "casi" (Nominativo, Accusativo, Dativo, Genitivo). Ma la verità è che **il tedesco è la lingua più logica del mondo**. È come il Lego: una volta capiti i mattoncini base, puoi costruire di tutto. In questo hub ti diamo la mappa per non perderti.
-
----
-
-## 1. Rompere il Ghiaccio (Tedesco da Zero)
-
-Dimentica le tabelle grammaticali infinite. Partiamo da ciò che serve per comunicare oggi stesso.
-
-* 👉 **[In arrivo: Tedesco da Zero: Perché non è difficile come pensi]({{ '/tedesco/da-zero/' | relative_url }})**
-* 👉 **[In arrivo: Le 100 parole tedesche più usate nella vita reale]({{ '/tedesco/da-zero/vocaboli-base-tedesco/' | relative_url }})**
+Una volta capito il sistema dei "mattoncini" (come si costruiscono le parole e le frasi), il tedesco diventa un puzzle affascinante. In questo hub troverai tutto ciò che ti serve per smontare la paura del tedesco e iniziare a parlarlo davvero.
 
 ---
 
-## 2. La Logica Tedesca: Grammatica essenziale
+## 1. La Logica del Tedesco (Mindset)
 
-Il cuore del problema. Ecco le guide per capire "come pensa" un tedesco quando struttura una frase.
+Capire i casi (Nominativo, Accusativo, Dativo, Genitivo) senza impazzire e imparare a gestire i verbi alla fine della frase.
 
-* 👉 **[In arrivo: Accusativo e Dativo spiegati in modo semplice (finalmente!)]({{ '/tedesco/grammatica/accusativo-dativo/' | relative_url }})**
-* 👉 **[In arrivo: L'ordine delle parole in tedesco: il verbo va alla fine?]({{ '/tedesco/grammatica/costruzione-frase/' | relative_url }})**
-* 👉 **[In arrivo: Der, Die, Das: Come indovinare il genere dei sostantivi]({{ '/tedesco/grammatica/der-die-das/' | relative_url }})**
-
----
-
-## 3. Pronuncia e Vocabolario
-
-Sorpresa: la pronuncia tedesca è molto più facile di quella inglese o francese! Si legge quasi esattamente come si scrive.
-
-* 👉 **[In arrivo: Guida alla pronuncia: le Umlaut (ä, ö, ü) e il suono CH]({{ '/tedesco/pronuncia/umlaut-regole/' | relative_url }})**
-* 👉 **[In arrivo: Come smontare (e capire) le parole composte tedesche]({{ '/tedesco/curiosita/parole-composte/' | relative_url }})**
+<ul>
+{% assign basi_posts = site.categories['tedesco'] | where_exp: "item", "item.tags contains 'basi'" %}
+{% if basi_posts.size > 0 %}
+  {% for post in basi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo semplificando la grammatica per te.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 4. Sopravvivere a Berlino (e non solo)
+## 2. Errori Tipici e Declinazioni
 
-* 👉 **[In arrivo: Frasi utili per viaggiare nei paesi di lingua tedesca]({{ '/tedesco/frasi/frasi-viaggio-germania/' | relative_url }})**
-* 👉 **[In arrivo: Espressioni idiomatiche: Quando avere "un maiale" significa avere fortuna]({{ '/tedesco/curiosita/idiomi-tedeschi/' | relative_url }})**
+Perché diciamo sempre "der" quando dovremmo dire "die"? Scopri come memorizzare i generi e gli errori da non fare in ufficio.
+
+<ul>
+{% assign errori_posts = site.categories['tedesco'] | where_exp: "item", "item.tags contains 'errori'" %}
+{% if errori_posts.size > 0 %}
+  {% for post in errori_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Le guide sui casi sono quasi pronte.</em></li>
+{% endif %}
+</ul>
+
+---
+
+## 3. Pronuncia e Fonetica
+
+L'itti-laut (ich) e l'ac-laut (ach), le Umlaut (ä, ö, ü) e il ritmo della frase. La pronuncia tedesca è molto più regolare di quella inglese!
+
+<ul>
+{% assign pronuncia_posts = site.categories['tedesco'] | where_exp: "item", "item.tags contains 'pronuncia'" %}
+{% if pronuncia_posts.size > 0 %}
+  {% for post in pronuncia_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Presto imparerai a pronunciare ogni Umlaut.</em></li>
+{% endif %}
+</ul>
+
+---
+
+## 4. Tedesco per il Lavoro e Viaggi
+
+Frasi essenziali per sopravvivere a Berlino o per affrontare il tuo primo colloquio in Germania.
+
+<ul>
+{% assign frasi_posts = site.categories['tedesco'] | where_exp: "item", "item.tags contains 'frasi'" %}
+{% if frasi_posts.size > 0 %}
+  {% for post in frasi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo preparando il kit di sopravvivenza.</em></li>
+{% endif %}
+</ul>
 
 ---
 
 <div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Il modo migliore per imparare il tedesco</h3>
-<p>Non farti sommergere dalla teoria. Scopri l'app nata proprio a Berlino, che usa un metodo pratico per farti assimilare la grammatica tedesca in modo indolore.</p>
+<h3>🎯 Domina la logica tedesca</h3>
+<p>Il segreto del tedesco è la struttura. Scopri il metodo interattivo che ti insegna i casi in modo naturale, senza dover studiare noiose tabelle a memoria.</p>
 <a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}">
-Leggi la recensione e inizia il percorso
+Leggi la recensione e inizia a studiare oggi
 </a>
 </div>
