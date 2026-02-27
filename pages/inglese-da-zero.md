@@ -3,7 +3,7 @@ layout: page
 title: "Inglese da Zero: Come iniziare (o ricominciare) da adulti"
 subtitle: "La guida pratica per superare il blocco, evitare gli errori classici e iniziare a parlare fin dai primi giorni."
 description: "Come imparare l'inglese da zero se sei un adulto. Dimentica i traumi scolastici e scopri da quali vocaboli partire e quali strumenti usare."
-permalink: /inglese-da-zero/
+permalink: /inglese/da-zero/
 ---
 
 Iniziare a studiare l'inglese da adulti può sembrare una montagna insormontabile. 
