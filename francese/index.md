@@ -1,58 +1,89 @@
 ---
 layout: page
-title: "Imparare il Francese da Adulti: Pronuncia, Basi e Frasi Utili"
-subtitle: "Supera lo scoglio della pronuncia e della grammatica con il nostro metodo pensato per chi ha poco tempo."
-description: "L'hub per studiare il francese: come gestire le vocali nasali, le regole di lettura, i falsi amici e le espressioni francesi di vita quotidiana."
+title: "Imparare il Francese: Guida, Errori e Risorse per Italiani"
+subtitle: "Dalle insidiose nasali ai falsi amici: impara a parlare il francese vero (oltre la scuola)."
+description: "L'hub definitivo per imparare il francese da italiani. Risorse su pronuncia, grammatica, falsi amici e frasi utili per viaggiare in Francia e non solo."
 permalink: /francese/
 ---
 
-Il francese è la lingua dell'eleganza, della diplomazia e della cultura. Ma ha un grandissimo "difetto" per chi lo studia: **non si legge quasi mai come si scrive.**
+Molti italiani sono convinti che il francese sia "italiano con la *u* e le parole che finiscono in consonante". Questo approccio superficiale è il modo più veloce per non farsi capire a Parigi o Montreal.
 
-Metà delle consonanti finali sono mute, i legamenti (*liaisons*) cambiano il suono delle parole, e le vocali nasali richiedono un allenamento specifico. Se affronti il francese solo leggendo libri, fallirai. In questa sezione ti spieghiamo come "hackerare" la lingua partendo prima di tutto dall'ascolto e dalla pratica attiva.
-
----
-
-## 1. Le Basi: Sopravvivere all'inizio
-
-Non farti spaventare dall'ortografia. Ecco da dove partire per costruire fondamenta solide.
-
-* 👉 **[In arrivo: Francese da Zero: La guida per principianti assoluti]({{ '/francese/da-zero/' | relative_url }})**
-* 👉 **[In arrivo: I 50 vocaboli francesi per cavarsela sempre]({{ '/francese/da-zero/vocaboli-base/' | relative_url }})**
+Il francese è una lingua di estrema precisione, con una fonetica che non perdona e una struttura grammaticale che, pur somigliando alla nostra, nasconde insidie ovunque. In questo hub raccogliamo le guide per aiutarti a dominare la lingua di Molière.
 
 ---
 
-## 2. La Bestia Nera: La Pronuncia
+## 1. Basi e Mindset (L'approccio corretto)
 
-Il cuore dell'apprendimento del francese è l'orecchio. Se impari a pronunciare bene, imparerai a capire i madrelingua quando parlano (velocissimi!).
+Il francese richiede un orecchio attento e la voglia di mettersi in gioco con suoni che in italiano non esistono.
 
-* 👉 **[In arrivo: Guida pratica alla pronuncia francese per italiani]({{ '/francese/pronuncia/regole-base/' | relative_url }})**
-* 👉 **[In arrivo: Cosa sono le "Liaisons" e quando usarle]({{ '/francese/pronuncia/liaisons-francese/' | relative_url }})**
-* 👉 **[In arrivo: Come pronunciare la temutissima "R" moscia (senza strozzarsi)]({{ '/francese/pronuncia/r-francese/' | relative_url }})**
-
----
-
-## 3. Errori Comuni e Grammatica Pratica
-
-Anche col francese condividiamo radici latine, e questo significa... esatto, Falsi Amici a non finire.
-
-* 👉 **[In arrivo: I 15 Falsi Amici Francese-Italiano da conoscere]({{ '/francese/errori/falsi-amici-francese/' | relative_url }})**
-* 👉 **[In arrivo: Maschile o Femminile? I trucchi per non sbagliare genere]({{ '/francese/grammatica/genere-nomi/' | relative_url }})**
+<ul>
+{% assign basi_posts = site.categories['francese'] | where_exp: "item", "item.tags contains 'basi'" %}
+{% if basi_posts.size > 0 %}
+  {% for post in basi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo preparando le basi del francese per te.</em></li>
+{% endif %}
+</ul>
 
 ---
 
-## 4. Frasi ed Espressioni di Vita Reale
+## 2. Falsi Amici ed Errori Comuni
 
-Per ordinare un croissant senza farsi guardare male a Parigi.
+Attenzione: se dici che una cosa è "morbida", in francese stai dicendo che è "morta" (*morbide*). Scopri come evitare i tranelli più comuni.
 
-* 👉 **[In arrivo: Le frasi francesi indispensabili per un weekend in Francia]({{ '/francese/frasi/frasi-viaggio-francia/' | relative_url }})**
-* 👉 **[In arrivo: 10 Espressioni francesi idiomatiche molto eleganti]({{ '/francese/curiosita/espressioni-eleganti/' | relative_url }})**
+<ul>
+{% assign errori_posts = site.categories['francese'] | where_exp: "item", "item.tags contains 'errori'" %}
+{% if errori_posts.size > 0 %}
+  {% for post in errori_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! La lista dei faux-amis è in arrivo.</em></li>
+{% endif %}
+</ul>
+
+---
+
+## 3. Pronuncia e Suoni
+
+Dalle vocali nasali alla "R" francese: impara a posizionare la bocca per smettere di sembrare un turista e iniziare a sembrare un locale.
+
+<ul>
+{% assign pronuncia_posts = site.categories['francese'] | where_exp: "item", "item.tags contains 'pronuncia'" %}
+{% if pronuncia_posts.size > 0 %}
+  {% for post in pronuncia_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Stiamo preparando le guide fonetiche.</em></li>
+{% endif %}
+</ul>
+
+---
+
+## 4. Frasi Utili e Vocabolario
+
+Dall'ordinare un *croissant* al gestire una conversazione di lavoro: le frasi fatte che ti salvano la vita.
+
+<ul>
+{% assign frasi_posts = site.categories['francese'] | where_exp: "item", "item.tags contains 'frasi'" %}
+{% if frasi_posts.size > 0 %}
+  {% for post in frasi_posts %}
+    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  {% endfor %}
+{% else %}
+  <li><em>Articoli in lavorazione! Le guide di viaggio sono in arrivo.</em></li>
+{% endif %}
+</ul>
 
 ---
 
 <div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Il segreto per il francese? Riconoscimento vocale!</h3>
-<p>Per il francese, leggere non basta: devi farti correggere la pronuncia. Scopri lo strumento che consigliamo per allenare l'accento francese direttamente da casa.</p>
+<h3>🎯 Parla francese con sicurezza</h3>
+<p>Il francese è una lingua che va ascoltata e ripetuta. Scopri l'app che consigliamo per padroneggiare la pronuncia e la grammatica francese senza stress.</p>
 <a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}">
-Scopri l'app consigliata e fai la prova gratuita
+Leggi la recensione e inizia a studiare oggi
 </a>
 </div>
