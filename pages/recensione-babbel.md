@@ -44,16 +44,6 @@ Il metodo si basa su quattro pilastri fondamentali:
 
 ---
 
-## Babbel Live: Il salto di qualità
-
-Negli ultimi anni, la piattaforma ha introdotto **Babbel Live**, una funzione che cambia letteralmente le regole del gioco.
-
-Se l'app base serve per imparare vocaboli e grammatica, Babbel Live ti permette di mettere tutto in pratica con **lezioni dal vivo in videoconferenza**. Le classi sono piccolissime (massimo 6 persone) e guidate da insegnanti certificati. 
-
-Puoi prenotare una lezione quando vuoi, scegliendo l'argomento che più ti interessa, in un ambiente rilassato dove non c'è ansia da prestazione. Inoltre, chi si abbona a Babbel Live ha l'accesso gratuito e illimitato a tutta l'app classica.
-
----
-
 ## Pro e contro onesti
 
 Nessuna app è perfetta, ed è giusto sapere a cosa vai incontro prima di iniziare. *(Se vuoi un'analisi ancora più cruda sui difetti della piattaforma, leggi il nostro approfondimento dedicato alle [opinioni negative su Babbel]({{ '/babbel-opinioni-negative/' | relative_url }}).*
