@@ -6,7 +6,7 @@ description: "Capisci l’inglese ma non riesci a parlarlo? Scopri perché succe
 permalink: /inglese/da-zero//capisco-ma-non-parlo/
 ---
 
-# Capisco l’inglese ma non riesco a parlarlo: perché succede (e come sbloccarti)
+
 
 Se ti riconosci in questa frase:
 
