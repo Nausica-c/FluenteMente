@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archivio completo degli articoli"
-subtitle: "Tutte le nostre guide, le recensioni e i trucchi per imparare le lingue, dal più recente al più vecchio."
+subtitle: "Tutte le nostre guide, le recensioni e i trucchi per imparare le lingue."
 description: "Esplora l'archivio completo di FluenteMente. Trova tutte le guide su inglese, spagnolo, metodo di studio e recensioni delle app."
 permalink: /archivio/
 ---
@@ -10,35 +10,26 @@ Benvenuto nella libreria completa di **FluenteMente**.
 
 Qui trovi tutti gli articoli, le guide grammaticali, le analisi sui falsi amici e le recensioni che abbiamo pubblicato nel corso del tempo. Se stai cercando qualcosa di specifico per la lingua che stai studiando, ti consigliamo di visitare prima i nostri **[Hub dedicati]({{ '/hub-lingue/' | relative_url }})**.
 
-Se invece vuoi curiosare tra le nostre ultime pubblicazioni, ecco l'elenco completo in ordine cronologico.
+Ecco l'elenco completo di tutte le nostre guide:
 
 ---
 
-## Tutti gli articoli pubblicati
+## Tutte le Guide Pubblicate
 
-{% for post in site.posts %}
-  {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% if current_year != previous_year %}
-    {% unless forloop.first %}
-      </ul>
-    {% endunless %}
-    <h3 style="margin-top: 30px; border-bottom: 2px solid var(--text-light); padding-bottom: 5px;">{{ current_year }}</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-    {% capture previous_year %}{{ current_year }}{% endcapture %}
-  {% endif %}
-  
-  <li style="margin-bottom: 15px; display: flex; align-items: baseline;">
-    <span style="color: var(--text-light); font-size: 0.9em; min-width: 60px; font-family: monospace;">{{ post.date | date: "%d/%m" }}</span>
-    <span>
-      👉 <strong><a href="{{ post.url | relative_url }}" style="font-size: 1.1em;">{{ post.title }}</a></strong>
-      {% if post.subtitle %}<br><span style="font-size: 0.9em; color: var(--text-light);">{{ post.subtitle }}</span>{% endif %}
-    </span>
-  </li>
+<ul>
+{% assign sorted_pages = site.pages | sort: "title" %}
+{% for p in sorted_pages %}
+  {% comment %} Filtriamo le pagine di sistema o gli hub per mostrare solo i veri articoli {% endcomment %}
+  {% if p.title and p.layout == 'page' and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' and p.permalink != '/inglese/' and p.permalink != '/spagnolo/' and p.permalink != '/francese/' and p.permalink != '/tedesco/' and p.permalink != '/portoghese/' %}
+    
+    <li style="margin-bottom: 15px;">
+      👉 <strong><a href="{{ p.url | relative_url }}" style="font-size: 1.1em;">{{ p.title }}</a></strong>
+      {% if p.subtitle %}<br><span style="font-size: 0.9em; color: var(--text-light);">{{ p.subtitle }}</span>{% endif %}
+    </li>
 
-  {% if forloop.last %}
-    </ul>
   {% endif %}
 {% endfor %}
+</ul>
 
 ---
 
