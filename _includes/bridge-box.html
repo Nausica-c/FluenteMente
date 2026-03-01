@@ -1,26 +1,41 @@
-<!-- _includes/bridge-box.html -->
-{% assign title = include.title | default: "Se vuoi trasformare curiosità in inglese reale" %}
-{% assign text  = include.text  | default: "Le parole affascinano. La pratica costruisce automatismi. Se vuoi passare dal “capisco” al “parlo”, parti da un percorso semplice e ripetibile." %}
-{% assign cta1  = include.cta1  | default: "Inizia da zero" %}
-{% assign url1  = include.url1  | default: "/inglese-da-zero/" %}
-{% assign cta2  = include.cta2  | default: "Scopri il metodo" %}
-{% assign url2  = include.url2  | default: "/metodo-consigliato/" %}
-{% assign micro = include.micro | default: "Consiglio: aggiungi anche la Routine 15 minuti per restare costante." %}
-{% assign microlink = include.microlink | default: "/routine/" %}
-{% assign microanchor = include.microanchor | default: "Routine 15 minuti" %}
+{% comment %} Imposta il tipo di pagina (base, business, grammatica, viaggio) {% endcomment %}
+{% assign type = include.type | default: "base" %}
 
-<div class="bridge-box" role="note" aria-label="Percorso consigliato">
-  <h3>{{ title }}</h3>
+{% comment %} Testi dinamici in base al tipo {% endcomment %}
+{% case type %}
+  {% when "business" %}
+    {% assign def_title = "Il tuo inglese frena la tua carriera?" %}
+    {% assign def_text = "Migliora email, call e riunioni con lezioni specifiche per il mondo del lavoro." %}
+    {% assign def_cta = "Migliora il tuo Business English" %}
+  {% when "grammatica" %}
+    {% assign def_title = "La grammatica non si studia, si automatizza" %}
+    {% assign def_text = "Smetti di memorizzare regole noiose. Assorbile naturalmente simulando dialoghi veri." %}
+    {% assign def_cta = "Sblocca il tuo inglese" %}
+  {% when "viaggio" %}
+    {% assign def_title = "Viaggia senza l'ansia di non farti capire" %}
+    {% assign def_text = "Preparati per il tuo prossimo viaggio simulando situazioni reali (ristorante, hotel, voli)." %}
+    {% assign def_cta = "Prepara la tua valigia linguistica" %}
+  {% else %}
+    {% assign def_title = "Smetti di tradurre, inizia a parlare" %}
+    {% assign def_text = "Passa dal “capisco” al “parlo” con un metodo strutturato. Bastano 15 minuti al giorno." %}
+    {% assign def_cta = "Inizia la tua prova gratuita" %}
+{% endcase %}
 
-  <p class="bridge-box__text">{{ text }}</p>
+{% comment %} Permette comunque di sovrascrivere i testi manualmente se serve {% endcomment %}
+{% assign title = include.title | default: def_title %}
+{% assign text = include.text | default: def_text %}
+{% assign cta = include.cta | default: def_cta %}
+{% assign link = "https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" %}
 
-  <div class="bridge-box__actions">
-    <a class="btn-outline" href="{{ url1 | relative_url }}">{{ cta1 }}</a>
-    <a class="btn-primary" href="{{ url2 | relative_url }}">{{ cta2 }}</a>
-  </div>
+<div class="bridge-box" style="padding: 20px; background: #f9f9f9; border-left: 4px solid #ff7a59; border-radius: 4px; margin: 30px 0;">
+  <h3 style="margin-top: 0;">{{ title }}</h3>
+  <p>{{ text }}</p>
+  
+  <a class="btn-primary" href="{{ link }}" target="_blank" rel="sponsored" style="display: inline-block; padding: 10px 20px; background: #ff7a59; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">
+    {{ cta }}
+  </a>
 
-  <p class="bridge-box__micro">
-    {{ micro }}
-    <a href="{{ microlink | relative_url }}">{{ microanchor }}</a>.
+  <p style="margin: 5px 0 0 0; font-size: 0.85em; color: #555;">
+    💡 <em>Impara una nuova lingua con Babbel. <a rel="sponsored" target="_blank" href="{{ link }}" style="color: #ff7a59;">La prima lezione è gratis!</a></em>
   </p>
 </div>
