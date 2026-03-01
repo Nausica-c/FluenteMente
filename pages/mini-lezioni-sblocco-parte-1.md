@@ -67,7 +67,7 @@ Non hai due ore libere al giorno per studiare? Ottimo, non ti servono. Il cervel
 >
 > [👉 **INIZIA ORA: Clicca qui per attivare la tua offerta speciale su Babbel**](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=)
 >
-> *Smetti di rimandare. Il tuo te stesso del futuro ti ringrazierà.*
+> *Smetti di rimandare. Il te stesso del futuro ti ringrazierà.*
 
 ---
 
