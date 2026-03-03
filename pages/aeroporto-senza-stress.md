@@ -51,13 +51,22 @@ Ma cosa succede se il nastro si ferma e la tua valigia non c'è? Dirigiti al ban
 
 Hai il passaporto timbrato e la valigia in mano. Ora devi solo raggiungere la città. Segui le indicazioni per **Ground Transportation** (Trasporti di terra). 
 
-Ecco una pratica tabella comparativa per aiutarti a scegliere l'opzione migliore per le tue esigenze e le [frasi inglesi più utili](/FluenteMente/inglese/curiosita/25-frasi-inglesi-utili/) da sfoderare in ogni situazione:
+Ecco le [frasi inglesi più utili](/FluenteMente/inglese/curiosita/25-frasi-inglesi-utili/) da sfoderare in base al mezzo che sceglierai per arrivare in hotel:
 
-| Opzione | Costo 💸 | Comodità 🛋️ | Frase Chiave in Inglese 🗣️ |
-| :--- | :--- | :--- | :--- |
-| **Taxi / Cab** | Alto | Massima (porta a porta) | *"Could you take me to [Indirizzo], please? How much will it cost roughly?"* (Potrebbe portarmi a [Indirizzo], per favore? Quanto costerà all'incirca?) |
-| **Uber / Rideshare** | Medio | Alta (prenoti da app) | *"Are you [Nome Autista]? I'm going to [Nome Hotel]."* (Sei [Nome]? Sto andando a [Hotel].) |
-| **Mezzi Pubblici (Treno/Bus)** | Basso | Bassa (devi gestire i bagagli) | *"Excuse me, where can I buy a ticket for the city center?"* (Mi scusi, dove posso comprare un biglietto per il centro città?) |
+**Se prendi un Taxi / Cab:**
+* *"Could you take me to [Indirizzo / Nome Hotel], please?"* (Potrebbe portarmi a [Indirizzo], per favore?)
+* *"How much will it cost roughly?"* (Quanto costerà all'incirca?)
+* *"Can I pay by card?"* (Posso pagare con la carta?)
+
+**Se usi un'app come Uber / Lyft:**
+* *"Are you [Nome Autista]?"* (Sei [Nome Autista]?)
+* *"I'm going to [Nome Hotel]."* (Sto andando a [Nome Hotel].)
+* *"Could you pop the trunk, please?"* (Potrebbe aprire il bagagliaio, per favore?)
+
+**Se opti per i Mezzi Pubblici (Treno o Bus):**
+* *"Excuse me, where can I buy a ticket for the city center?"* (Mi scusi, dove posso comprare un biglietto per il centro città?)
+* *"Does this train/bus go to [Nome Fermata]?"* (Questo treno/autobus va a [Nome Fermata]?)
+* *"How many stops is it to the center?"* (Quante fermate mancano per il centro?)
 
 ### Ultimo check prima di uscire
 Prima di avventurarti verso i trasporti, se hai bisogno di cambiare qualche soldo o prelevare, chiedi:
