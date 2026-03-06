@@ -5,7 +5,7 @@ subtitle: "Dal 'What's up?' al 'Take care': le espressioni quotidiane per parlar
 permalink: /inglese/da-zero/50-frasi-conversazione-inglese/
 ---
 
-Benvenuti alla Lezione 13 del nostro corso! Finora abbiamo studiato molto vocabolario utile per descrivere il mondo intorno a noi. Oggi, però, facciamo un passo fondamentale verso la vera padronanza della lingua: impariamo a **conversare in modo naturale**.
+Benvenuti a questa guida pratica! Finora abbiamo studiato molto vocabolario utile per descrivere il mondo intorno a noi. Oggi, però, facciamo un passo fondamentale verso la vera padronanza della lingua: impariamo a **conversare in modo naturale**.
 
 I libri di testo spesso ci insegnano dialoghi rigidi come *"Hello, how are you? I am fine, thank you."* Ma nella vita reale, i madrelingua parlano per "blocchi" (*chunks*), usando espressioni veloci e informali. 
 
