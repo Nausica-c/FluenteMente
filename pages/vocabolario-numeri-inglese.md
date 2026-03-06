@@ -2,7 +2,7 @@
 layout: page
 title: "I Numeri in Inglese da 1 a 10: Le Basi per Contare (Livello A1)"
 subtitle: "Da 'One' a 'Ten': il vocabolario essenziale e 30 frasi pratiche per parlare di quantità, orari e prezzi."
-permalink: /inglese/da-zero//
+permalink: /inglese/da-zero/vocabolario-numeri-inglese/
 ---
 
 Benvenuti alla Lezione 8 del nostro corso per principianti! Fino ad ora abbiamo imparato a parlare di noi stessi, del cibo, della casa e [dei colori](/FluenteMente/inglese/da-zero/vocabolario-colori-inglese/). Oggi affrontiamo un pilastro assoluto di qualsiasi lingua: i numeri.
