@@ -2,7 +2,7 @@
 layout: page
 title: "Il Tempo in Inglese: 10 Parole Base per la tua Routine (Livello A1)"
 subtitle: "Da 'Time' a 'Today': il vocabolario essenziale e 30 frasi pratiche per parlare di orari, giorni e abitudini."
-permalink: /inglese/da-zero/vocabolario-tempo-routine-inglese/
+permalink: /inglese/vocabolario-tempo-routine-inglese/
 ---
 
 Benvenuti alla Lezione 9 del nostro corso per principianti! Nelle lezioni precedenti abbiamo imparato a destreggiarci con [i numeri](/FluenteMente/inglese/da-zero/vocabolario-numeri-inglese/) e le descrizioni. Oggi, uniamo i pezzi del puzzle affrontando una delle dimensioni più importanti delle nostre conversazioni quotidiane: il tempo.
