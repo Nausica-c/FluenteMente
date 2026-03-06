@@ -2,7 +2,7 @@
 layout: page
 title: "Piacere di conoscerti! 40 Frasi e 5 Dialoghi per Presentarsi in Inglese"
 subtitle: "Fai un'ottima prima impressione: tutto il vocabolario che ti serve per parlare di te, rompere il ghiaccio e fare nuove amicizie."
-permalink: /inglese/da-zero//
+permalink: /inglese/da-zero/presentarsi-in-inglese/
 ---
 
 Quando incontri qualcuno per la prima volta, la prima impressione è quella che conta. Spesso, però, l'ansia di fare errori ci blocca, facendoci ricadere nella solita trappola del "[capisco ma non parlo](/FluenteMente/inglese/da-zero/capisco-ma-non-parlo/)". 
