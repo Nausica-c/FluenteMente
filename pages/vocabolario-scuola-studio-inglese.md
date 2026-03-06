@@ -2,7 +2,7 @@
 layout: page
 title: "A Scuola di Inglese: 10 Parole Base per Studiare (Livello A1)"
 subtitle: "Da 'Student' a 'Question': il vocabolario essenziale e 30 frasi pratiche per parlare della scuola e dello studio."
-permalink: /inglese/da-zero//
+permalink: /inglese/da-zero/vocabolario-scuola-studio-inglese/
 ---
 
 Benvenuti alla Lezione 5 del nostro corso di base! Oggi ci dedicheremo all'ambiente in cui impariamo ogni giorno: la scuola e lo studio.
