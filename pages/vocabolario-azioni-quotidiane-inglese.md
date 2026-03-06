@@ -2,7 +2,7 @@
 layout: page
 title: "Azioni Quotidiane in Inglese: 10 Verbi Base per la tua Routine (Livello A1)"
 subtitle: "Da 'Eat' a 'Stand': il vocabolario essenziale e 30 frasi pratiche per raccontare la tua giornata."
-permalink: /inglese/da-zero//
+permalink: /inglese/da-zero/vocabolario-azioni-quotidiane-inglese/
 ---
 
 Benvenuti alla Lezione 10 del nostro corso per principianti! Con questo articolo raggiungiamo un traguardo importante: dopo aver imparato a descrivere le persone, [il tempo](/FluenteMente/inglese/da-zero/vocabolario-tempo-routine-inglese/) e i luoghi, oggi diamo vita alle nostre frasi introducendo i verbi di movimento e di azione quotidiana.
