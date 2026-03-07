@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Mega-Guida: I 30 Phrasal Verbs della Lista Oxford 3000 - Parte 1"
+title: "Mega-Guida: I 30 Phrasal Verbs essenziali - Parte 1"
 subtitle: "Dimentica le liste a memoria. Impara i verbi frasali più usati con esempi pratici, storie e trucchi per non sbagliare più."
 permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese/
 ---
 
 Cosa succede quando prendi un verbo normalissimo come **Look** (guardare) e ci aggiungi una preposizione come **For** (per)? Ottieni un significato completamente nuovo: **Look for** (cercare).
 
-Benvenuto nel magico mondo dei **Phrasal Verbs**! I madrelingua inglesi li usano ovunque. Se vuoi smettere di sembrare un robot e iniziare a parlare in modo naturale, devi padroneggiarli. Tuttavia, non serve impararli a memoria: secondo il nostro [metodo consigliato per le lingue](/metodo-consigliato/), il segreto è l'esposizione costante e il contesto.
+Benvenuto nel magico mondo dei **Phrasal Verbs**! I madrelingua inglesi li usano ovunque. Se vuoi smettere di sembrare un robot e iniziare a parlare in modo naturale, devi padroneggiarli. Tuttavia, non serve impararli a memoria: secondo il nostro [metodo consigliato per le lingue](FluenteMente/metodo-consigliato/), il segreto è l'esposizione costante e il contesto.
 
 In questa prima parte, esploreremo i pilastri costruiti sui verbi *Get, Look, Take, Go* e *Come*. *Let's dive in!*
 
