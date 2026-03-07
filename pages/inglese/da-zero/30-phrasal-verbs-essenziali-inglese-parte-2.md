@@ -5,7 +5,7 @@ subtitle: "Continua il tuo viaggio verso la fluidità con i verbi frasali più u
 permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese-parte-2/
 ---
 
-Se hai già divorato la [Parte 1 della nostra guida](/inglese/da-zero/30-phrasal-verbs-essenziali-inglese/), sai bene che i Phrasal Verbs sono il segreto per smettere di suonare come un libro di testo e iniziare a parlare come un vero *local*. 
+Se hai già divorato la [Parte 1 della nostra guida](../inglese/da-zero/30-phrasal-verbs-essenziali-inglese/), sai bene che i Phrasal Verbs sono il segreto per smettere di suonare come un libro di testo e iniziare a parlare come un vero *local*. 
 
 Tuttavia, prima di buttarti a capofitto in questa seconda lista, assicurati di avere solide basi: conoscere le [100 parole inglesi più usate](/inglese/da-zero/100-parole-inglesi-piu-usate/) è fondamentale per costruire frasi corrette attorno a questi verbi. 
 
@@ -78,7 +78,7 @@ Questi verbi descrivono come "portiamo" idee, cambiamenti o persone nella nostra
 
 ## 🔄 3. Il Cambiamento: TURN
 
-Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti senti bloccato nella traduzione letterale, ti suggerisco di leggere il nostro [metodo consigliato per imparare le lingue](/metodo-consigliato/).
+Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti senti bloccato nella traduzione letterale, ti suggerisco di leggere il nostro [metodo consigliato per imparare le lingue](../metodo-consigliato/).
 
 
 
@@ -154,7 +154,7 @@ Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti se
 <div class="solution-box">
   <h3>🚀 Hai finito la Parte 2! E ora?</h3>
   <p>Conoscere questi 60 Phrasal Verbs (Parte 1 + Parte 2) ti dà una marcia in più. Ma attenzione: <strong>leggerli non basta.</strong></p>
-  <p>Per non dimenticarli dopo due giorni, devi applicare il nostro <a href="/metodo-consigliato/">metodo consigliato</a> basato sulla ripetizione attiva e l'immersione.</p>
+  <p>Per non dimenticarli dopo due giorni, devi applicare il nostro <a href="../metodo-consigliato/">metodo consigliato</a> basato sulla ripetizione attiva e l'immersione.</p>
   <p>I corsi di Babbel sono perfetti per questo: ti costringono a usare "Put off" o "Turn into" in dialoghi veri, finché non diventano automatici. Niente più traduzioni mentali faticose!</p>
   <p style="text-align: center;">
     <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 Sblocca il tuo inglese: inizia ora con Babbel (1ª lezione gratis).</a></strong>
