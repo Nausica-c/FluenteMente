@@ -7,7 +7,7 @@ permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese/
 
 Cosa succede quando prendi un verbo normalissimo come **Look** (guardare) e ci aggiungi una preposizione come **For** (per)? Ottieni un significato completamente nuovo: **Look for** (cercare).
 
-Benvenuto nel magico mondo dei **Phrasal Verbs**! I madrelingua inglesi li usano ovunque. Se vuoi smettere di sembrare un robot e iniziare a parlare in modo naturale, devi padroneggiarli. Tuttavia, non serve impararli a memoria: secondo il nostro [metodo consigliato per le lingue](FluenteMente/metodo-consigliato/), il segreto è l'esposizione costante e il contesto.
+Benvenuto nel magico mondo dei **Phrasal Verbs**! I madrelingua inglesi li usano ovunque. Se vuoi smettere di sembrare un robot e iniziare a parlare in modo naturale, devi padroneggiarli. Tuttavia, non serve impararli a memoria: secondo il nostro [metodo consigliato per le lingue](../metodo-consigliato/), il segreto è l'esposizione costante e il contesto.
 
 In questa prima parte, esploreremo i pilastri costruiti sui verbi *Get, Look, Take, Go* e *Come*. *Let's dive in!*
 
@@ -58,7 +58,7 @@ Il verbo *Get* è il coltellino svizzero dell'inglese. Se impari questi sei, la 
 
 ## 👀 2. L'Osservatore: LOOK
 
-Attenzione: molti phrasal verbs con *Look* possono trarre in inganno. Per evitare confusioni imbarazzanti, dai un'occhiata anche alla nostra lista dei [15 False Friends più comuni](/inglese/errori/15-false-friends-inglese/).
+Attenzione: molti phrasal verbs con *Look* possono trarre in inganno. Per evitare confusioni imbarazzanti, dai un'occhiata anche alla nostra lista dei [15 False Friends più comuni](../inglese/errori/15-false-friends-inglese/).
 
 ### Look for (Cercare)
 * *I'm **looking for** my keys, have you seen them?* (Sto cercando le mie chiavi, le hai viste?)
@@ -151,5 +151,5 @@ Attenzione: molti phrasal verbs con *Look* possono trarre in inganno. Per evitar
   </p>
 </div>
 
-Spero che questa prima parte ti sia stata utile! Se ti senti pronto per altri 30 verbi essenziali, passa subito alla **[Parte 2 della nostra guida](/inglese/da-zero/30-phrasal-verbs-essenziali-inglese-parte-2/)**.
+Spero che questa prima parte ti sia stata utile! Se ti senti pronto per altri 30 verbi essenziali, passa subito alla **[Parte 2 della nostra guida](../inglese/da-zero/30-phrasal-verbs-essenziali-inglese-parte-2/)**.
 
