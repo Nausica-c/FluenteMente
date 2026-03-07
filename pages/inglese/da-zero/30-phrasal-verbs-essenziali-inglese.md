@@ -118,11 +118,3 @@ Se *Go* allontana, *Come* avvicina. Ecco le variazioni essenziali per interagire
 </div>
 
 ---
-
-## 📌 Idee per i tuoi Pin di Pinterest
-
-Per portare traffico a questo articolo, crea questi 3 tipi di grafiche:
-
-1.  **L'Infografica "Salvataggio Veloce":** Una mappa mentale con "GET" al centro e le sue 6 ramificazioni. Titolo: *"I 6 significati di GET che non ti insegnano a scuola"*.
-2.  **La Sfida Vocabolario:** Testo su sfondo colorato: *"Sai la differenza tra Go back e Take back? Scoprila nella nostra guida definitiva"*.
-3.  **Il "Come si dice":** *"Smetti di dire 'I hope to see you'. Usa il Phrasal Verb corretto: Look forward to"*.
