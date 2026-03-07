@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Mega-Guida: I 30 Phrasal Verbs Essenziali - Parte 2"
-subtitle: "Continua il tuo viaggio verso la fluidità con i verbi frasali più usati dai madrelingua. Esempi pratici, storie e zero noia."
+subtitle: "Continua il tuo viaggio verso la fluidità con gli altri verbi della lista Oxford. Esempi pratici e consigli di studio."
 permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese-parte-2/
 ---
 
-Se hai già divorato la [Parte 1 della nostra guida](../inglese/da-zero/30-phrasal-verbs-essenziali-inglese/), sai bene che i Phrasal Verbs sono il segreto per smettere di suonare come un libro di testo e iniziare a parlare come un vero *local*. 
+Se hai già divorato la [Parte 1]({{ site.baseurl }}/inglese/da-zero/30-phrasal-verbs-essenziali-inglese/), sai bene che i Phrasal Verbs sono il segreto per smettere di tradurre mentalmente. 
 
-Tuttavia, prima di buttarti a capofitto in questa seconda lista, assicurati di avere solide basi: conoscere le [100 parole inglesi più usate](/inglese/da-zero/100-parole-inglesi-piu-usate/) è fondamentale per costruire frasi corrette attorno a questi verbi. 
+Tuttavia, prima di procedere, assicurati di avere solide basi: conoscere le [100 parole inglesi più usate]({{ site.baseurl }}/inglese/da-zero/100-parole-inglesi-piu-usate/) è fondamentale per costruire frasi corrette attorno a questi verbi. 
 
 In questa lezione vedremo altri **30 Phrasal Verbs** che cambieranno il tuo modo di comunicare. *Ready? Let’s dive in!*
 
@@ -15,39 +15,37 @@ In questa lezione vedremo altri **30 Phrasal Verbs** che cambieranno il tuo modo
 
 ## 🏗️ 1. L'Organizzatore: PUT
 
-Il verbo *Put* (mettere) è estremamente versatile. In combinazione con le preposizioni, diventa il perno della gestione quotidiana e delle relazioni.
+Il verbo *Put* (mettere) è estremamente versatile. È il perno della gestione quotidiana e delle relazioni.
 
+### Put on (Indossare)
+* *It's freezing outside, **put on** your coat.* (Fa gelissimo fuori, mettiti il cappotto.)
+* *She **put on** some perfume before leaving.* (Si è messa un po' di profumo prima di uscire.)
+* *The theatre is **putting on** a musical.* (Il teatro sta mettendo in scena un musical.)
 
+### Put off (Rimandare)
+* *Don't **put off** your study until tomorrow!* (Non rimandare lo studio a domani!)
+* *We decided to **put off** the wedding.* (Abbiamo deciso di rimandare il matrimonio.)
+* *The queue **put** me **off** the restaurant.* (La fila mi ha scoraggiato dal mangiare lì.)
 
-### Put on (Indossare / Mettere in scena)
-* *It's freezing outside, **put on** your thickest coat.* (Fa gelissimo fuori, mettiti il cappotto più pesante.)
-* *She **put on** a bit of perfume before leaving.* (Si è messa un po' di profumo prima di uscire.)
-* *The local theatre is **putting on** a new musical.* (Il teatro locale sta mettendo in scena un nuovo musical.)
-
-### Put off (Rimandare / Scoraggiare)
-* *Don't **put off** your English study until tomorrow!* (Non rimandare lo studio dell'inglese a domani!)
-* *We decided to **put off** the wedding until next year.* (Abbiamo deciso di rimandare il matrimonio all'anno prossimo.)
-* *The long queue **put** me **off** going to that restaurant.* (La lunga fila mi ha scoraggiato dal mangiare in quel ristorante.)
-
-### Put up with (Sopportare / Tollerare)
-* *I don't know how she **puts up with** his constant complaining.* (Non so come faccia a sopportare le sue continue lamentele.)
-* *We have to **put up with** the noise while they renovate.* (Dobbiamo sopportare il rumore mentre ristrutturano.)
-* *I can't **put up with** this heat anymore!* (Non ne posso più di questo caldo!)
+### Put up with (Sopportare)
+* *I don't know how she **puts up with** him.* (Non so come faccia a sopportarlo.)
+* *We have to **put up with** the noise.* (Dobbiamo sopportare il rumore.)
+* *I can't **put up with** this heat!* (Non ne posso più di questo caldo!)
 
 ### Put out (Spegnere / Scomodare)
-* *Please **put out** your cigarette before entering.* (Per favore spegni la sigaretta prima di entrare.)
-* *Firefighters worked all night to **put out** the blaze.* (I pompieri hanno lavorato tutta la notte per spegnere l'incendio.)
-* *I hope I’m not **putting** you **out** by staying over.* (Spero di non scomodarti restando a dormire.)
+* *Please **put out** your cigarette.* (Per favore spegni la sigaretta.)
+* *Firefighters worked to **put out** the blaze.* (I pompieri hanno lavorato per spegnere l'incendio.)
+* *I hope I’m not **putting** you **out**.* (Spero di non scomodarti.)
 
-### Put away (Mettere a posto / Mettere da parte)
-* *Kids, please **put away** your toys now.* (Ragazzi, per favore mettete a posto i giocattoli ora.)
-* *He **put away** a little money every month for his trip.* (Ha messo da parte un po' di soldi ogni mese per il suo viaggio.)
+### Put away (Mettere a posto)
+* *Kids, please **put away** your toys now.* (Ragazzi, mettete a posto i giocattoli ora.)
+* *He **put away** money for his trip.* (Ha messo da parte dei soldi per il suo viaggio.)
 * *The thief was **put away** for five years.* (Il ladro è stato messo in prigione per cinque anni.)
 
-### Put through (Passare al telefono / Far passare un'esperienza)
-* *Could you **put** me **through** to the marketing department?* (Potrebbe passarmi l'ufficio marketing al telefono?)
+### Put through (Passare al telefono)
+* *Could you **put** me **through** to marketing?* (Potrebbe passarmi l'ufficio marketing?)
 * *She **put** her family **through** a lot of pain.* (Ha fatto passare molto dolore alla sua famiglia.)
-* *The receptionist **put** me **through** immediately.* (La segretaria mi ha passato subito la linea.)
+* *The secretary **put** me **through** immediately.* (La segretaria mi ha passato subito la linea.)
 
 ---
 
@@ -57,45 +55,43 @@ Il verbo *Put* (mettere) è estremamente versatile. In combinazione con le prepo
 
 ## 📦 2. Il Portatore: BRING
 
-Questi verbi descrivono come "portiamo" idee, cambiamenti o persone nella nostra vita.
-
 ### Bring up (Crescere / Menzionare)
-* *He was **brought up** by his grandparents in Canada.* (È stato cresciuto dai nonni in Canada.)
+* *He was **brought up** in Canada.* (È stato cresciuto in Canada.)
 * *Please don't **bring up** the incident again.* (Per favore non menzionare di nuovo l'incidente.)
-* *I was **brought up** to be polite to everyone.* (Sono stato educato/cresciuto per essere gentile con tutti.)
+* *I was **brought up** to be polite.* (Sono stato educato per essere gentile.)
 
-### Bring about (Causare / Provocare)
-* *The new CEO **brought about** many positive changes.* (Il nuovo CEO ha causato molti cambiamenti positivi.)
-* *Technological advances have **brought about** a revolution.* (I progressi tecnologici hanno provocato una rivoluzione.)
-* *What **brought about** this sudden change of heart?* (Cosa ha causato questo improvviso cambiamento di idea?)
+### Bring about (Causare)
+* *The new CEO **brought about** changes.* (Il nuovo CEO ha causato cambiamenti.)
+* *Technology has **brought about** a revolution.* (La tecnologia ha provocato una rivoluzione.)
+* *What **brought about** this change?* (Cosa ha causato questo cambiamento?)
 
 ### Bring back (Riportare / Ricordare)
-* *Can you **bring back** my umbrella tomorrow?* (Puoi riportarmi l'ombrello domani?)
-* *This photo **brings back** so many happy memories.* (Questa foto riporta alla mente così tanti bei ricordi.)
-* *The city is trying to **bring back** the old tradition.* (La città sta cercando di ripristinare la vecchia tradizione.)
+* *Can you **bring back** my umbrella?* (Puoi riportarmi l'ombrello?)
+* *This photo **brings back** memories.* (Questa foto riporta alla mente ricordi.)
+* *The city is **bringing back** old traditions.* (La città sta ripristinando vecchie tradizioni.)
 
 ---
 
 ## 🔄 3. Il Cambiamento: TURN
 
-Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti senti bloccato nella traduzione letterale, ti suggerisco di leggere il nostro [metodo consigliato per imparare le lingue](../metodo-consigliato/).
+Usare *Turn* correttamente è essenziale. Se ti senti bloccato, ti suggerisco di leggere il nostro [metodo consigliato per imparare le lingue]({{ site.baseurl }}/metodo-consigliato/).
 
 
 
 ### Turn on / Turn off (Accendere / Spegnere)
 * *Can you **turn on** the air conditioning?* (Puoi accendere l'aria condizionata?)
-* *Remember to **turn off** the lights when you leave.* (Ricordati di spegnere le luci quando esci.)
-* *I always **turn off** my notifications at night.* (Spegno sempre le notifiche di notte.)
+* *Remember to **turn off** the lights.* (Ricordati di spegnere le luci.)
+* *I always **turn off** my phone at night.* (Spegno sempre il telefono di notte.)
 
 ### Turn up / Turn down (Volume / Arrivare / Rifiutare)
 * *I love this song! **Turn** it **up**!* (Amo questa canzone! Alza il volume!)
-* *She **turned down** the job offer in London.* (Ha rifiutato l'offerta di lavoro a Londra.)
-* *Only five people **turned up** for the meeting.* (Si sono presentate solo cinque persone alla riunione.)
+* *She **turned down** the job offer.* (Ha rifiutato l'offerta di lavoro.)
+* *Only five people **turned up**.* (Si sono presentate solo cinque persone.)
 
-### Turn into (Diventare / Trasformarsi)
+### Turn into (Diventare)
 * *The caterpillar **turned into** a butterfly.* (Il bruco si è trasformato in farfalla.)
-* *The argument **turned into** a huge fight.* (La discussione si è trasformata in una lite enorme.)
-* *He **turned into** a very successful businessman.* (È diventato un uomo d'affari di grande successo.)
+* *The argument **turned into** a fight.* (La discussione si è trasformata in una lite.)
+* *He **turned into** a successful man.* (È diventato un uomo di successo.)
 
 ---
 
@@ -105,41 +101,39 @@ Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti se
 
 ## 💔 4. La Rottura: BREAK
 
-### Break down (Rompersi / Crollare / Analizzare)
-* *My computer **broke down** right before the deadline.* (Il mio computer si è rotto proprio prima della scadenza.)
-* *He **broke down** when he heard the bad news.* (È crollato/scoppiato in lacrime quando ha sentito la brutta notizia.)
-* *Let's **break down** the budget step by step.* (Analizziamo il budget passo dopo passo.)
+### Break down (Rompersi / Crollare)
+* *My computer **broke down** today.* (Il mio computer si è rotto oggi.)
+* *He **broke down** after the news.* (È crollato dopo la notizia.)
+* *Let's **break down** the budget.* (Analizziamo il budget passo dopo passo.)
 
 ### Break up (Lasciarsi / Interrompere)
-* *After ten years, they decided to **break up**.* (Dopo dieci anni, hanno deciso di lasciarsi.)
-* *The teacher **broke up** the fight in the playground.* (L'insegnante ha interrotto la rissa in cortile.)
-* *I'm sorry, you're **breaking up**. Can you repeat?* (Scusa, la linea va a scatti/si interrompe. Puoi ripetere?)
+* *They decided to **break up**.* (Hanno deciso di lasciarsi.)
+* *The teacher **broke up** the fight.* (L'insegnante ha interrotto la rissa.)
+* *You're **breaking up**. Can you repeat?* (La linea va a scatti. Puoi ripetere?)
 
-### Break into (Entrare con scasso / Iniziare improvvisamente)
-* *Burglars tried to **break into** the gallery.* (I ladri hanno cercato di entrare con scasso nella galleria.)
+### Break into (Entrare con scasso)
+* *Burglars tried to **break into** the gallery.* (I ladri hanno cercato di entrare nella galleria.)
 * *She suddenly **broke into** a smile.* (All'improvviso le è spuntato un sorriso.)
-* *It's a difficult market to **break into**.* (È un mercato difficile in cui farsi strada/entrare.)
+* *It's a difficult market to **break into**.* (È un mercato difficile in cui farsi strada.)
 
 ---
 
 ## ⏳ 5. Il Mantenimento: KEEP & HOLD
 
-
-
-### Keep on (Continuare a fare qualcosa)
+### Keep on (Continuare)
 * *Despite the rain, they **kept on** running.* (Nonostante la pioggia, hanno continuato a correre.)
-* *If you **keep on** practicing, you will become fluent.* (Se continui a fare pratica, diventerai fluente.)
-* *Why do you **keep on** asking me the same question?* (Perché continui a farmi la stessa domanda?)
+* *If you **keep on** practicing, you'll be fluent.* (Se continui a fare pratica, diventerai fluente.)
+* *Why do you **keep on** asking me?* (Perché continui a chiedermelo?)
 
 ### Keep up with (Stare al passo con)
-* *I can't **keep up with** all the new slang.* (Non riesco a stare al passo con tutto il nuovo slang.)
-* *She walks so fast I can't **keep up with** her.* (Cammina così veloce che non riesco a starle dietro.)
-* *It's important to **keep up with** current events.* (È importante restare aggiornati sugli eventi attuali.)
+* *I can't **keep up with** the slang.* (Non riesco a stare al passo con lo slang.)
+* *Slow down! I can't **keep up with** you.* (Rallenta! Non riesco a starti dietro.)
+* *It's important to **keep up with** the news.* (È importante restare aggiornati.)
 
 ### Hold on (Aspettare / Tenersi forte)
 * ***Hold on** a second, I’m coming!* (Aspetta un secondo, arrivo!)
 * ***Hold on** tight, the road is bumpy.* (Tieniti forte, la strada è dissestata.)
-* *Can you **hold on** while I find a pen?* (Puoi attendere mentre cerco una penna?)
+* *Can you **hold on** while I check?* (Puoi attendere mentre controllo?)
 
 ---
 
@@ -153,9 +147,8 @@ Usare *Turn* correttamente è essenziale per descrivere trasformazioni. Se ti se
 
 <div class="solution-box">
   <h3>🚀 Hai finito la Parte 2! E ora?</h3>
-  <p>Conoscere questi 60 Phrasal Verbs (Parte 1 + Parte 2) ti dà una marcia in più. Ma attenzione: <strong>leggerli non basta.</strong></p>
-  <p>Per non dimenticarli dopo due giorni, devi applicare il nostro <a href="../metodo-consigliato/">metodo consigliato</a> basato sulla ripetizione attiva e l'immersione.</p>
-  <p>I corsi di Babbel sono perfetti per questo: ti costringono a usare "Put off" o "Turn into" in dialoghi veri, finché non diventano automatici. Niente più traduzioni mentali faticose!</p>
+  <p>Conoscere questi 60 Phrasal Verbs ti dà una marcia in più. Ma attenzione: leggerli non basta.</p>
+  <p>Per non dimenticarli, applica il nostro <a href="{{ site.baseurl }}/metodo-consigliato/">metodo consigliato</a>. I corsi di Babbel ti costringono a usare questi verbi in dialoghi veri finché non diventano automatici.</p>
   <p style="text-align: center;">
     <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 Sblocca il tuo inglese: inizia ora con Babbel (1ª lezione gratis).</a></strong>
   </p>
