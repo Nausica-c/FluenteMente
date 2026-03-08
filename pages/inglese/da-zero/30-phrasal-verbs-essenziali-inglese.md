@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mega-Guida: I 30 Phrasal Verbs della Lista Oxford 3000 - Parte 1"
+title: "I 60 Phrasal Verbs essenziali- Parte 1"
 subtitle: "Dimentica le liste a memoria. Impara i verbi frasali più usati con esempi pratici e trucchi per non sbagliare più."
 permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese/
 ---
