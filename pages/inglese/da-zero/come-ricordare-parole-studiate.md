@@ -80,4 +80,3 @@ Ora che sai *come* studiare, metti subito alla prova questi trucchi! Puoi inizia
 * [Oxford 3000: Gruppo 1 - Le Fondamenta]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-1/)
 * [I 30 Phrasal Verbs più usati]({{ site.baseurl }}/inglese/da-zero/30-phrasal-verbs-essenziali-inglese/)
 
-**Qual è la parola che proprio non riesci a farti entrare in testa? Scrivicela nei commenti e ti aiuteremo a trovare un'associazione creativa per memorizzarla!**
