@@ -1,108 +1,106 @@
 ---
 layout: page
-title: "Connessioni e Direzione: Gruppo 7 (Parole 61-70)"
-subtitle: "Impara a collegare i fatti e a chiedere indicazioni: le parole che danno logica ai tuoi discorsi."
+title: "Persone e Praticità: Gruppo 7 (Parole 61-70)"
+subtitle: "Gestisci la gente, lo spazio e i verbi 'camaleonte' che servono a fare quasi tutto in inglese."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-7/
 ---
 
-Benvenuto al **Volume 7**! Se hai seguito il percorso fin dal [Volume 1]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-1/), hai già superato la soglia critica delle 60 parole. Ora il tuo inglese non è più solo una lista di nomi, ma inizia ad avere una struttura logica.
+Benvenuto al **Volume 7**! Se sei arrivato fin qui, hai già in tasca 60 parole fondamentali. Ormai il tuo inglese non è più solo una lista di vocaboli, ma uno strumento reale per descrivere il mondo.
 
-In questa lezione esploreremo le parole "GPS": quelle che ti servono per orientarti, per spiegare il *come* e il *dove*, e per unire due pensieri con un nesso di causa-effetto. Come suggerisce il nostro [metodo consigliato]({{ site.baseurl }}/metodo-consigliato/), queste parole sono i connettori che ti faranno smettere di parlare come un robot.
+In questa lezione ci concentriamo sulla praticità. Impareremo a parlare della gente (*People*), a chiedere "come" si fa qualcosa (*How*) e a gestire lo spazio comune (*Our*). Inoltre, affronteremo i verbi che in inglese servono a fare quasi tutto: prendere, ottenere, diventare. Preparati, perché qui la tua capacità di conversazione farà un salto enorme seguendo il nostro [metodo consigliato]({{ site.baseurl }}/metodo-consigliato/).
 
 ---
 
-## 🗺️ Gruppo 7: Connessioni e Direzione (61-70)
+## 🛠️ Gruppo 7: Gente, Metodo e Verbi d'azione (61-70)
 
-Queste 10 parole trasformeranno il tuo modo di fare domande e di spiegare le tue ragioni.
-
-
-
-### 61. SO (Quindi / Così)
-*Si usa per indicare una conseguenza o per dare enfasi.*
-* *I was tired, **so** I went to bed.* (Ero stanco, quindi sono andato a letto.)
-* *It is **so** beautiful!* (È così bello!)
-* *I think **so**.* (Penso di sì / Penso così.)
+Queste 10 parole sono i mattoni della sopravvivenza quotidiana in un paese anglofono.
 
 
 
-### 62. HOW (Come)
-*La parola chiave per chiedere la modalità o l'intensità.*
+### 61. PEOPLE (Persone / Gente)
+*Attenzione: in inglese è sempre plurale! Non dire mai "People is", ma sempre "People are".*
+* *People **are** very kind here.* (La gente è molto gentile qui.)
+* *How many **people** are in the room?* (Quante persone ci sono nella stanza?)
+* *Young **people** like music.* (Ai giovani piace la musica.)
+
+### 62. HOW (Come / In che modo)
+*La parola chiave per scoprire il funzionamento delle cose.*
 * ***How** are you?* (Come stai?)
-* ***How** much does it cost?* (Quanto costa?)
-* *I know **how** to do it.* (So come farlo.)
+* ***How** does it work?* (Come funziona?)
+* *Tell me **how** to go there.* (Dimmi come andare lì.)
 
-### 63. WHERE (Dove)
-* ***Where** is the station?* (Dov'è la stazione?)
-* ***Where** do you live?* (Dove vivi?)
-* *That is **where** I work.* (È lì che lavoro / È dove lavoro.)
+### 63. ONLY (Solo / Soltanto / Unico)
+* *I have **only** five euros.* (Ho solo cinque euro.)
+* *The **only** way to learn is practice.* (L'unico modo per imparare è la pratica.)
+* *She is an **only** child.* (È figlia unica.)
 
-### 64. MOST (La maggior parte / Il più)
-*Si usa per i superlativi o per indicare una grande quantità.*
-* ***Most** people like pizza.* (Alla maggior parte delle persone piace la pizza.)
-* *The **most** important thing.* (La cosa più importante.)
-* ***Most** of the time.* (La maggior parte del tempo.)
+### 64. WAY (Modo / Strada / Via)
+*In inglese "way" indica sia il percorso fisico che il metodo per fare qualcosa.*
+* *In this **way**, it is easier.* (In questo modo è più facile.)
+* *Which **way** is the station?* (Da che parte è la stazione?)
+* *On my **way**!* (Sto arrivando / Sono per strada.)
 
-### 65. DAY (Giorno)
-* *Have a nice **day**!* (Buona giornata!)
-* *Every **day**.* (Ogni giorno.)
-* *The next **day**.* (Il giorno dopo.)
+### 65. NEW (Nuovo)
+* *I have a **new** job.* (Ho un nuovo lavoro.)
+* *What's **new**?* (Cosa c'è di nuovo?)
+* *A **new** house for a new life.* (Una casa nuova per una vita nuova.)
 
-### 66. ANY (Qualche / Qualsiasi / Nessuno)
-*Si usa nelle domande e nelle frasi negative (al posto di Some).*
-* *Do you have **any** questions?* (Hai qualche domanda?)
-* *I don't have **any** money.* (Non ho soldi / Non ho alcun soldo.)
-* ***Any** time is fine.* (Qualsiasi momento va bene.)
+### 66. USE (Usare / Utilizzare / Uso)
+* *Can I **use** your phone?* (Posso usare il tuo telefono?)
+* *It's for personal **use**.* (È per uso personale.)
+* ***How** to **use** this?* (Come si usa questo?)
+
+### 67. WELL (Bene / Beh)
+*Attenzione: "Well" è un avverbio (come fai le cose), mentre "Good" è un aggettivo (come sono le cose).*
+* *I feel **well** today.* (Mi sento bene oggi.)
+* ***Well**, I don't know the answer.* (Beh, non conosco la risposta.)
+* *She speaks English very **well**.* (Parla inglese molto bene.)
+
+### 68. TAKE (Prendere / Portare / Impiegare tempo)
+*Indica un movimento che si allontana da chi parla.*
+* ***Take** a taxi to the airport.* (Prendi un taxi per l'aeroporto.)
+* *It **takes** ten minutes.* (Ci vogliono dieci minuti.)
+* ***Take** this umbrella with you.* (Porta questo ombrello con te.)
+
+### 69. GET (Ottenere / Diventare / Capire)
+*Il verbo più versatile di tutti. Se non sai che verbo usare, probabilmente "Get" va bene!*
+* *I **get** a coffee every morning.* (Prendo un caffè ogni mattina.)
+* *It's **getting** dark.* (Sta diventando buio.)
+* *I **get** it!* (Ho capito!)
 
 
 
-### 67. WAY (Strada / Modo)
-* *The best **way** to learn.* (Il modo migliore per imparare.)
-* *Which **way** is the beach?* (Da che parte è la spiaggia? / Quale strada per la spiaggia?)
-* *On my **way** home.* (Sulla strada verso casa / Mentre torno a casa.)
-
-### 68. LOOK (Guardare / Sembrare)
-*Attenzione: può significare anche "sembrare" (esteticamente).*
-* ***Look** at that car!* (Guarda quell'auto!)
-* *You **look** happy.* (Sembri felice.)
-* ***Look** for your keys.* (Cerca le tue chiavi.)
-
-### 69. ONLY (Solo / Solamente)
-* *I **only** have five euros.* (Ho solo cinque euro.)
-* *The **only** problem.* (L'unico problema.)
-* ***Only** you can do it.* (Solo tu puoi farlo.)
-
-### 70. OVER (Sopra / Oltre / Finito)
-*Indica una posizione superiore (senza contatto) o la fine di qualcosa.*
-* *The cat jumped **over** the dog.* (Il gatto saltò sopra il cane.)
-* *Look **over** there.* (Guarda laggiù / Oltre lì.)
-* *The game is **over**.* (Il gioco è finito.)
+### 70. OUR (Nostro / Nostra / Nostri / Nostre)
+*Il possessivo riferito a "Noi". Come gli altri possessivi, non cambia mai forma.*
+* *This is **our** house.* (Questa è la nostra casa.)
+* ***Our** friends are here.* (I nostri amici sono qui.)
+* *In **our** opinion, it is better.* (A nostro parere è meglio.)
 
 
 
 ---
 
-## 🗣️ Dialogo Pratico: "Searching for the Way"
+## 🗣️ Dialogo Pratico: "The New Office"
 
-Mettiamo alla prova queste parole in un dialogo di emergenza urbana.
+Mettiamo in moto i verbi *Take* e *Get* insieme alle parole di questo gruppo.
 
-**Anna:** Excuse me, **how** can I get to the museum?
-**Mark:** It is **over** there, near the park.
-**Anna:** Is it the **only** **way**? I don't see **any** signs.
-**Mark:** No, but it is the **most** direct. **Look** for the big blue building.
-**Anna:** I see it! **So**, I just go straight?
-**Mark:** Yes. Have a nice **day**!
+**Mark:** **How** do you like **our** **new** office?
+**Anna:** It is great! But it **takes** a long **way** to **get** here.
+**Mark:** I know, but you can **take** the bus. **People** say it works **well**.
+**Anna:** I **only** **use** the train, but I can try.
+**Mark:** **Well**, let's **get** a coffee and start the **day**!
 
 ---
 
 <div class="solution-box">
-  <h3>🚀 Non perderti nel tuo inglese!</h3>
-  <p>Sapevi che molti studenti si bloccano perché confondono <strong>How</strong> con <strong>Like</strong> o non sanno quando usare <strong>Any</strong> al posto di <strong>Some</strong>? Sono piccoli dettagli che però fanno capire subito se "mastichi" la lingua o se stai solo traducendo parola per parola.</p>
-  <p>Su <strong>Babbel</strong>, queste regole non si studiano a memoria: si vivono. Attraverso esercizi pratici impari a distinguere la "strada" (<em>way</em>) corretta e a usare i connettori logici come un vero madrelingua. Non aspettare che il tempo finisca (<em>it's over!</em>).</p>
+  <h3>🚀 Domina il verbo "Camaleonte"</h3>
+  <p>Sapevi che <strong>Get</strong> è il verbo più versatile dell'inglese? Può significare "arrivare", "capire", "comprare" o "diventare" a seconda della parola che lo segue. È una vera sfida per noi italiani!</p>
+  <p>Su <strong>Babbel</strong> trovi lezioni dedicate proprio a questi verbi "camaleonte", con esempi pratici che ti insegnano a usarli in modo naturale. Non limitarti a tradurre, inizia a comunicare davvero.</p>
   <p style="text-align: center;">
-    <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 Clicca qui e inizia a costruire frasi logiche con Babbel!</a></strong>
+    <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 Vuoi fare le cose per bene (Well)? Inizia ora il tuo percorso su Babbel!</a></strong>
   </p>
 </div>
 
-Volume 7 completato! 🎓 Ora hai la bussola per orientarti nelle conversazioni.
+Volume 7 completato! 🎓 Sei arrivato a quota 70 parole. Ormai hai le basi per descrivere quasi ogni situazione quotidiana.
 
-Sei pronto per il **[Volume 8 (Parole 71-80)]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-8/)**? Esploreremo parole fondamentali per descrivere le persone e le azioni, come *People*, *Work*, *Our* e *Well*!
+Sei pronto per il **[Volume 8 (Parole 71-80)]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-8/)**? Esploreremo parole fondamentali per la vita sociale e lavorativa come *Work*, *People*, *Give* e *Think*!
