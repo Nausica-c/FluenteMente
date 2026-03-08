@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mega-Guida: I 30 Phrasal Verbs Essenziali - Parte 2"
+title: "I 60 Phrasal Verbs Essenziali - Parte 2"
 subtitle: "Continua il tuo viaggio verso la fluidità con gli altri verbi della lista Oxford. Esempi pratici e consigli di studio."
 permalink: /inglese/da-zero/30-phrasal-verbs-essenziali-inglese-parte-2/
 ---
