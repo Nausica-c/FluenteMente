@@ -2,7 +2,7 @@
 layout: page
 title: "Smetti di Dimenticare: 5 Trucchi Scientifici per Ricordare i Vocaboli"
 subtitle: "Dalla curva dell'oblio alla ripetizione dilazionata: ecco come far traslocare le parole nella tua memoria a lungo termine."
-permalink: /inglese/da-zero/come-ricordare-parole-studiate/
+permalink: /metodo/come-ricordare-parole-studiate/
 ---
 
 Ti è mai successo? Passi un pomeriggio intero a studiare una lista di vocaboli, ti senti un genio, e il mattino dopo... *tabula rasa*. È come se il tuo cervello avesse premuto il tasto "Svuota Cestino" durante la notte.
