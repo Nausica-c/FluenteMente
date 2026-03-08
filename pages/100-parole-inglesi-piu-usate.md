@@ -1,165 +1,72 @@
 ---
 layout: page
-title: "100 English Words You Must Know: Il Vocabolario di Sopravvivenza"
-subtitle: "Dai pronomi ai verbi essenziali: la lista definitiva delle 100 parole inglesi più usate per iniziare a parlare subito."
+title: "Le 100 Parole Inglesi più Usate: La Tua Guida Completa"
+subtitle: "Dalle basi alla fluidità: percorri i 10 volumi che compongono le fondamenta della lingua inglese."
 permalink: /inglese/da-zero/100-parole-inglesi-piu-usate/
 ---
 
-Benvenuti alla Lezione 14 del nostro corso! Finora abbiamo studiato vocaboli divisi per temi (la casa, la città, i trasporti) e [frasi per rompere il ghiaccio](/FluenteMente/inglese/da-zero/50-frasi-conversazione-inglese/). Oggi facciamo il salto di qualità definitivo.
+Sapevi che le prime **100 parole** della lingua inglese coprono circa il **50% di quasi tutti i testi scritti** in questa lingua? 
 
-Imparare le **100 parole inglesi più importanti** è uno dei modi più veloci in assoluto per iniziare a parlare. Queste parole sono i veri "mattoni" della lingua: vengono usate ogni singolo giorno nelle conversazioni, nei messaggi e sul lavoro. 
+Imparare l'inglese non significa memorizzare l'intero dizionario, ma padroneggiare i "mattoni" giusti. Questa pagina è il tuo centro di comando: qui troverai i collegamenti a tutti i 10 volumi del nostro percorso accelerato. Ogni volume contiene 10 parole, esempi pratici e dialoghi reali.
 
-Se soffri del blocco del "[capisco ma non parlo](/FluenteMente/inglese/da-zero/capisco-ma-non-parlo/)", padroneggiare questa lista ti darà la sicurezza necessaria per comporre le tue prime vere frasi. 
+Segui il nostro [metodo consigliato]({{ site.baseurl }}/metodo-consigliato/) e completa un volume alla volta. Non avere fretta: la costanza batte l'intensità!
 
-Ecco le *100 English words you must know*, divise per categoria.
+---
 
-## 1. I Pilastri: Pronomi e Verbi
+## 🗺️ La Roadmap delle 100 Parole
 
-Queste parole ti servono per indicare chi compie l'azione e quale azione sta compiendo. Sono il cuore di ogni frase.
 
-### Pronomi (Pronouns)
-* **I** – io
-* **You** – tu / voi
-* **He** – lui
-* **She** – lei
-* **It** – esso / cosa / animale
-* **We** – noi
-* **They** – loro
-* **Me** – me
-* **Him** – lui
-* **Them** – loro
 
-### Verbi più importanti (Common Verbs)
-* **Be** – essere
-* **Have** – avere
-* **Do** – fare
-* **Say** – dire
-* **Go** – andare
-* **Get** – ottenere / ricevere
-* **Make** – fare / creare
-* **Know** – sapere
-* **Think** – pensare
-* **Take** – prendere
-* **See** – vedere
-* **Come** – venire
-* **Want** – volere
-* **Look** – guardare
-* **Use** – usare
-* **Find** – trovare
-* **Give** – dare
-* **Tell** – dire / raccontare
-* **Work** – lavorare
-* **Call** – chiamare
+### 🧱 Fase 1: Le Fondamenta (1-50)
+In questa prima fase costruirai lo scheletro della lingua. Senza queste parole, è impossibile formare anche la frase più semplice.
 
-## 2. Il Mondo Intorno a Noi: Nomi e Aggettivi
+* **[Volume 1: Le Basi Assolute]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-1/)** (Parole 1-10)
+    * *Cosa impari:* Gli articoli e i verbi Essere e Avere.
+* **[Volume 2: I Motori della Frase]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-2/)** (Parole 11-20)
+    * *Cosa impari:* Verbi d'azione come Go, Do e Say.
+* **[Volume 3: Proprietà e Potere]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-3/)** (Parole 21-30)
+    * *Cosa impari:* I possessivi (My, Your) e il mitico verbo Can.
+* **[Volume 4: Orientamento e Domande]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-4/)** (Parole 31-40)
+    * *Cosa impari:* Chi, Quando e Come muoversi nello spazio.
+* **[Volume 5: Oltre il Presente]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-5/)** (Parole 41-50)
+    * *Cosa impari:* Il futuro (Will) e le ipotesi (If).
 
-Usa queste parole per descrivere le cose, le persone, i luoghi e le loro qualità.
+---
 
-### Parole molto usate (Common Words)
-* **Time** – tempo
-* **Day** – giorno
-* **Year** – anno
-* **People** – persone
-* **Way** – modo
-* **Thing** – cosa
-* **Man** – uomo
-* **Woman** – donna
-* **Life** – vita
-* **World** – mondo
+### 🚀 Fase 2: Sfumature e Logica (51-100)
+Ora che hai le basi, iniziamo a rendere i tuoi discorsi più fluidi, logici e professionali.
 
-### Aggettivi utili (Adjectives)
-* **Good** – buono
-* **Bad** – cattivo
-* **Big** – grande
-* **Small** – piccolo
-* **New** – nuovo
-* **Old** – vecchio
-* **Easy** – facile
-* **Hard** – difficile
-* **Important** – importante
-* **Different** – diverso
+* **[Volume 6: Sfumature e Confronti]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-6/)** (Parole 51-60)
+    * *Cosa impari:* Fare paragoni (Than) e usare la cortesia (Could).
+* **[Volume 7: Persone e Praticità]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-7/)** (Parole 61-70)
+    * *Cosa impari:* Gestire i gruppi di persone e i verbi Take e Get.
+* **[Volume 8: Vita, Lavoro e Consigli]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-8/)** (Parole 71-80)
+    * *Cosa impari:* Dare consigli (Should) e descrivere la quotidianità.
+* **[Volume 9: Spazio, Logica e Relazioni]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-9/)** (Parole 81-90)
+    * *Cosa impari:* Spiegare le cause (Because) e muoversi nel Business.
+* **[Volume 10: Il Gran Finale]({{ site.baseurl }}/inglese/da-zero/le-fondamenta-gruppo-10/)** (Parole 91-100)
+    * *Cosa impari:* Rivendicare ciò che è tuo (Own) e fare le ultime domande investigative.
 
-### Parole quotidiane (Daily Words)
-* **House** – casa
-* **Car** – auto
-* **Food** – cibo
-* **Water** – acqua
-* **Money** – denaro
-* **Friend** – amico
-* **Family** – famiglia
-* **Job** – lavoro
-* **School** – scuola
-* **City** – città
+---
 
-## 3. Interagire e Connettere: Conversazione e Preposizioni
+## 💡 Come usare questa guida
 
-Questi sono i "collanti" che uniscono le frasi e le espressioni di cortesia essenziali.
-
-### Parole per conversazioni (Conversation)
-* **Yes** – sì
-* **No** – no
-* **Please** – per favore
-* **Thanks** – grazie
-* **Sorry** – scusa
-* **Hello** – ciao
-* **Goodbye** – arrivederci
-* **Okay** – va bene
-* **Maybe** – forse
-* **Sure** – certo
-
-### Preposizioni (Prepositions)
-* **In** – in
-* **On** – su
-* **At** – a / presso
-* **From** – da
-* **To** – a
-* **With** – con
-* **About** – riguardo
-* **For** – per
-* **Between** – tra
-* **Under** – sotto
-
-### Parole per comunicare (Communication Words)
-* **Question** – domanda
-* **Answer** – risposta
-* **Problem** – problema
-* **Idea** – idea
-* **Plan** – piano
-* **Help** – aiuto
-* **Information** – informazione
-* **Message** – messaggio
-* **Story** – storia
-* **Example** – esempio
-
-## 4. Collocare nel Tempo: Avverbi Comuni
-
-Per dire *quando* o *quanto spesso* succede qualcosa.
-
-### Altre parole molto comuni (Time & Frequency)
-* **Today** – oggi
-* **Tomorrow** – domani
-* **Yesterday** – ieri
-* **Now** – adesso
-* **Later** – dopo
-* **Always** – sempre
-* **Sometimes** – a volte
-* **Never** – mai
-* **Often** – spesso
-* **Usually** – di solito
+Per ottenere il massimo da queste lezioni, ti consigliamo di:
+1.  **Leggere un volume al giorno:** Non cercare di imparare tutto in un pomeriggio.
+2.  **Ascoltare e Ripetere:** Usa i dialoghi pratici alla fine di ogni articolo per allenare la pronuncia.
+3.  **Mettere in pratica:** Prova a scrivere 3 frasi tue usando le parole del giorno.
 
 ---
 
 <div class="solution-box">
-  <h3>✅ Il consiglio d'oro per impararle meglio</h3>
-  
-  <p>Leggere questa lista 100 volte non ti farà parlare in inglese. Il nostro <a href="/FluenteMente/metodo-consigliato/">metodo consigliato</a> dice chiaramente: <strong>non memorizzare solo parole isolate</strong>.</p>
-  <p>Prova subito a unirle creando frasi semplicissime (Soggetto + Verbo + Oggetto), ad esempio:</p>
-  <ul>
-    <li><em><strong>I</strong> (Pronome) + <strong>have</strong> (Verbo) + a <strong>job</strong> (Parola quotidiana).</em> -> Ho un lavoro.</li>
-    <li><em><strong>She</strong> + <strong>works</strong> + in the <strong>city</strong>.</em> -> Lei lavora in città.</li>
-    <li><em><strong>We</strong> + <strong>go</strong> + to <strong>school</strong>.</em> -> Noi andiamo a scuola.</li>
-  </ul>
-  <p>Questo ti aiuterà a ricordarle molto più velocemente e ad abituare il cervello alla struttura dell'inglese!</p>
+  <h3>🎯 Vuoi accelerare il tuo apprendimento?</h3>
+  <p>Conoscere le parole è importante, ma saperle usare in una conversazione reale è la vera sfida. <strong>Babbel</strong> utilizza un metodo basato proprio sul vocabolario più frequente, aiutandoti a fissare queste 100 parole nella memoria a lungo termine attraverso esercizi interattivi e situazioni di vita vera.</p>
+  <p style="text-align: center;">
+    <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 Inizia il tuo viaggio verso la fluidità con Babbel!</a></strong>
+  </p>
 </div>
 
-{% include bridge-box.html type="base" title="Metti in pratica le 100 parole" text="Conoscere i vocaboli è il primo passo, saperli usare senza tradurre a mente è il traguardo. Allena i tuoi riflessi linguistici unendo queste parole in dialoghi reali e interattivi con le lezioni di Babbel." cta="Inizia la tua prova gratuita" %}
+---
+
+### Prossimi Passi
+Una volta completate le 100 parole, sarai pronto per sfide più grandi. Scopri come padroneggiare i verbi più difficili con la nostra guida ai **[30 Phrasal Verbs essenziali]({{ site.baseurl }}/inglese/da-zero/30-phrasal-verbs-essenziali-inglese/)** o impara a non sbagliare mai più il passato con i **[Verbi Irregolari]({{ site.baseurl }}/inglese/da-zero/verbi-irregolari-pattern-vol-1/)**.
