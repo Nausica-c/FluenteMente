@@ -215,7 +215,3 @@ Padroneggiare questi verbi ti permetterà di esprimere opinioni, studiare e cost
 
 ---
 
-### Prossimi Passi
-Complimenti! Ora conosci i 50 verbi più importanti della lingua inglese. Cosa vuoi fare ora?
-1. Vuoi testare la tua memoria con degli **esercizi di completamento** basati su questi verbi?
-2. O preferisci passare ai [verbi irregolari]({{ site.baseurl }}/inglese/da-zero/verbi-irregolari-pattern-vol-1/) per imparare a parlare al passato?
