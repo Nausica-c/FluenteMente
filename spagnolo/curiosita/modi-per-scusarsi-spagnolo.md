@@ -64,7 +64,3 @@ Saper chiedere scusa è solo l'inizio del tuo viaggio nel mondo ispanico. Non pe
 * **[Le 100 parole spagnole più usate]({{ site.baseurl }}/spagnolo/da-zero/100-parole-spagnolo-piu-usate/)** (In arrivo!)
 * **[Metodo consigliato per imparare le lingue]({{ site.baseurl }}/metodo-consigliato/)**
 * **[I "Fantastici 4" verbi francesi]({{ site.baseurl }}/francese/da-zero/verbi-irregolari-essenziali/)** (Per un confronto tra lingue latine!)
-
-**¿Qué quieres hacer ahora?**
-1. Iniziamo con i **Volumi 1 e 2 delle 100 parole spagnole**?
-2. Scriviamo la versione **tedesca** delle scuse (*Es tut mir leid*)?
