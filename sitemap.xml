@@ -6,7 +6,7 @@ permalink: /sitemap.xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% assign pages_list = site.pages | where_exp: "p", "p.sitemap != false" %}
   {% for p in pages_list %}
-    {% if p.url and p.url != "/sitemap.xml" and p.url != "/robots.txt" %}
+    {% if p.url and p.url != "../sitemap.xml" and p.url != "/robots.txt" %}
       <url>
         <loc>{{ p.url | absolute_url }}</loc>
       </url>
