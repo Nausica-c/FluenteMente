@@ -69,4 +69,4 @@ Você já sabe pedir perdão no Brasil. Agora, que tal aprender o resto?
 
 * **[As 100 palavras mais usadas no português brasileiro]({{ site.baseurl }}/portugues/da-zero/100-palavras-mais-usadas/)** (Em breve!)
 * **[Os "Fantásticos 4" verbos do espanhol]({{ site.baseurl }}/spagnolo/da-zero/verbi-irregolari-essenziali/)** (Para comparar com o português!)
-* **[Como não esquecer o que você estuda]({{ site.baseurl }}/ingles/da-zero/come-ricordare-parole-studiate/)**.
+* **[Como não esquecer o que você estuda]({{ site.baseurl }}/inglese/da-zero/come-ricordare-parole-studiate/)**.
