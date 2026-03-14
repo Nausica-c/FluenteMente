@@ -2,7 +2,7 @@
 layout: page
 title: "Smetti di dire solo 'You're welcome': 10 modi per dire 'Prego' in inglese"
 subtitle: "Dallo slang rilassato alla cortesia professionale: impara a rispondere ai ringraziamenti come un vero local."
-permalink: //
+permalink: /inglese/curiosidade/rispondere-thank-you-inglese/
 ---
 
 Immagina la scena: hai appena fatto un favore a un collega madrelingua inglese, lui ti sorride e ti dice *"Thank you so much!"*. Il tuo cervello va in automatico e tu rispondi con un bel *"You're welcome"*.
