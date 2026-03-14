@@ -2,7 +2,7 @@
 layout: page
 title: "Attenzione ai Falsi Amici: 7 parole tedesche che ingannano gli italiani"
 subtitle: "Dal tè 'kalt' al capo 'chef': scopri le trappole linguistiche più comuni e impara a evitarle."
-permalink: /tedesco/curiosidade/falsi-amici-tedesco-italiano/
+permalink: /tedesco/curiosita/falsi-amici-tedesco-italiano/
 ---
 
 Stai passeggiando per le strade di Berlino in pieno inverno. Il vento è gelido, entri in un bar e, tutto infreddolito, chiedi qualcosa di **"kalt"**, pensando di ordinare una bevanda calda. Il cameriere annuisce e ti porta... un tè ghiacciato! 
