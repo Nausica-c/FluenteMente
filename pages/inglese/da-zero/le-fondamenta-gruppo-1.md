@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Le 100 parole dell'Inglese: Parte 1"
+title: "	
+Le 100 Parole Inglesi più Usate: Parte 1"
 subtitle: "Le 10 parole 'cemento' che tengono in piedi ogni singola conversazione in inglese."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-1/
 ---
