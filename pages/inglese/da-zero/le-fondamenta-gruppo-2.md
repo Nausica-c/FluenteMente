@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "I Motori della Frase: Gruppo 2 (Parole 11-20)"
+title: "Le 100 Parole Inglesi più Usate: Parte 2"
 subtitle: "Se le prime 10 parole erano il 'cemento', queste sono il motore della tua conversazione."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-2/
 ---
