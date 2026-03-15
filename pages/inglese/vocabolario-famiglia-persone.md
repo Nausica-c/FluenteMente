@@ -175,7 +175,7 @@ Studiare queste parole sul nostro blog è un ottimo punto di partenza per il tuo
   <p>L'app di Babbel è studiata da esperti in linguistica per farti parlare fin dalla prima lezione. Grazie a dialoghi interattivi, focus sulla pronuncia e lezioni brevi perfette per chi ha poco tempo, memorizzerai il vocabolario senza sforzo.</p>
   <p style="text-align: center; margin-top: 15px;">
 <a rel="sponsored" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=">Impara una nuova lingua con Babbel. La prima lezione é gratis!</a>
-" target="_blank" rel="sponsored nofollow)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia subito a parlare inglese con sicurezza!</a>
+
   </p>
 </div>
 
