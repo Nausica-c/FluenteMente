@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vita, Lavoro e Consigli: Gruppo 8 (Parole 71-80)"
+title: "Le 100 Parole Inglesi più Usate: Parte 8"
 subtitle: "Dai spessore ai tuoi pensieri: impara a dare consigli, parlare del lavoro e descrivere la tua visione del mondo."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-8/
 ---
