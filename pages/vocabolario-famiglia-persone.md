@@ -7,7 +7,7 @@ permalink: /inglese/da-zero/vocabolario-famiglia-persone/
 
 Benvenuti su FluenteMente! Se sei arrivato qui da Pinterest, probabilmente stai cercando un modo semplice, veloce e pratico per arricchire il tuo vocabolario inglese. Oggi affrontiamo uno degli argomenti base e più importanti in assoluto: la famiglia (*The Family*).
 
-Che tu debba [presentarti in inglese](/FluenteMente/inglese/da-zero/presentarsi-in-inglese/), parlare dei tuoi cari in viaggio o semplicemente capire la trama di un film o di una serie TV, conoscere i membri della famiglia è fondamentale. Di seguito troverai la lista completa delle parole, la loro traduzione e ben tre esempi pratici per ciascuna. E per finire? Una breve storia per vedere tutti questi vocaboli in azione!
+Che tu debba [presentarti in inglese](/FluenteMente/inglese/da-zero/presentarsi-in-inglese/), parlare dei tuoi cari o semplicemente capire la trama di un film o di una serie TV, conoscere i membri della famiglia è fondamentale. Di seguito troverai la lista completa delle parole, la loro traduzione e ben tre esempi pratici per ciascuna. E per finire? Una breve storia per vedere tutti questi vocaboli in azione!
 
 ## 1. Il Vocabolario della Famiglia: Parole ed Esempi
 
@@ -82,7 +82,7 @@ Per facilitare lo studio, abbiamo diviso l'albero genealogico in gruppi. Presta 
 
 **14. Son** /sʌn/ – Figlio (maschio)
 * *His son plays football.* (Suo figlio gioca a calcio.)
-* *My son is five years old.* (Mio figlio ha cinque anni.)
+* *My son is [five years old](/inglese/vocabolario/numeri-in-inglese/).* (Mio figlio ha cinque anni.)
 * *She took her son to the zoo.* (Ha portato suo figlio allo zoo.)
 
 **15. Sister** /'sɪstə/ – Sorella
@@ -105,7 +105,7 @@ Per facilitare lo studio, abbiamo diviso l'albero genealogico in gruppi. Presta 
 
 **18. Grandfather** /'ɡrænfɑːðə/ – Nonno
 * *My grandfather fought in the war.* (Mio nonno ha combattuto in guerra.)
-* *His grandfather is 90 years old.* (Suo nonno ha 90 anni.)
+* *His grandfather is [90 years old](/inglese/vocabolario/numeri-in-inglese/).* (Suo nonno ha 90 anni.)
 * *I love listening to my grandfather's stories.* (Amo ascoltare le storie di mio nonno.)
 
 **19. Grandmother** /'ɡrænmʌðə/ – Nonna
@@ -168,13 +168,13 @@ Leggere le parole in un contesto reale è il modo migliore per memorizzarle e sm
 
 ## 3. Il Prossimo Passo per il Tuo Inglese (Passa all'Azione!)
 
-Studiare queste parole sul nostro blog è un ottimo punto di partenza per il tuo viaggio nell'inglese. Ma se vuoi davvero iniziare a parlarlo *FluenteMente* senza blocchi, hai bisogno di pratica attiva e conversazioni reali!
+Studiare queste parole sul nostro blog è un ottimo punto di partenza per il tuo viaggio nell'inglese. Ma se vuoi davvero iniziare a parlarlo FluenteMente senza blocchi, hai bisogno di pratica attiva e conversazioni reali!
 
 <div class="solution-box" style="background-color: #fdf2e9; border-left-color: #f39c12;">
   <h3>🚀 Fai il salto di qualità con Babbel!</h3>
   <p>L'app di Babbel è studiata da esperti in linguistica per farti parlare fin dalla prima lezione. Grazie a dialoghi interattivi, focus sulla pronuncia e lezioni brevi perfette per chi ha poco tempo, memorizzerai il vocabolario senza sforzo.</p>
   <p style="text-align: center; margin-top: 15px;">
-    <a href="#link-affiliato-babbel" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia subito a parlare inglese con sicurezza!</a>
+    <a href="[#link-affiliato-babbel](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia subito a parlare inglese con sicurezza!</a>
   </p>
 </div>
 
