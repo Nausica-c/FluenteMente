@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Spazio, Logica e Relazioni: Gruppo 9 (Parole 81-90)"
+title: "Le 100 Parole Inglesi più Usate: Parte 9"
 subtitle: "Impara a spiegare il perché delle cose e a muoverti con disinvoltura nel mondo del business."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-9/
 ---
