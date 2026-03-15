@@ -154,6 +154,6 @@ Ecco come usare queste frasi in contesti reali. Prova a leggere i dialoghi ad al
   <h3>🚀 Vuoi parlare della tua famiglia senza esitazioni?</h3>
   <p>Saper usare queste espressioni ti renderà molto più naturale quando parli in inglese. Ma la teoria non basta: serve la pratica!</p>
   <p style="text-align: center; margin-top: 15px;">
-    <a href="#link-affiliato-babbel" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia oggi il tuo percorso con Babbel e trasforma il tuo inglese!</a>
+    <a href="[#link-affiliato-babbel](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia oggi il tuo percorso con Babbel e trasforma il tuo inglese!</a>
   </p>
 </div>
