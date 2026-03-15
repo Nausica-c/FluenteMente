@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sfumature e Confronti: Gruppo 6 (Parole 51-60)"
+title: "Le 100 Parole Inglesi più Usate: Parte 6"
 subtitle: "Inizia a raccontare storie e a esprimere opinioni elaborate con i paragoni e la cortesia."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-6/
 ---
