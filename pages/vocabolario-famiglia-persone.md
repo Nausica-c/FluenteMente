@@ -2,7 +2,7 @@
 layout: page
 title: "Family & People: Il Vocabolario Base per Parlare della Famiglia in Inglese"
 subtitle: "Da 'Mother' a 'Husband': 12 parole essenziali, 36 frasi pratiche e una storia per memorizzarle nel contesto."
-permalink: /inglese/da-zero/vocabolario-famiglia-persone/
+permalink: /inglese/vocabolario-famiglia-persone/
 ---
 
 Benvenuti su FluenteMente! Se sei arrivato qui da Pinterest, probabilmente stai cercando un modo semplice, veloce e pratico per arricchire il tuo vocabolario inglese. Oggi affrontiamo uno degli argomenti base e più importanti in assoluto: la famiglia (*The Family*).
