@@ -5,7 +5,7 @@ subtitle: "Non solo 'mother' e 'brother': impara a descrivere davvero il rapport
 permalink: /inglese/vocabolario/famiglia-inglese/
 ---
 
-🗣️ Saper dire "mother" o "brother" grazie al [vocabolario base della famiglia in inglese](/FluenteMente/inglese/vocabolario-famiglia-persone./) è un ottimo punto di partenza, ma come si descrive davvero la composizione del proprio nucleo familiare o il rapporto con i propri cari? 
+🗣️ Saper dire "mother" o "brother" grazie al [vocabolario base della famiglia in inglese](/FluenteMente/inglese/vocabolario-famiglia-persone/) è un ottimo punto di partenza, ma come si descrive davvero la composizione del proprio nucleo familiare o il rapporto con i propri cari? 
 
 Quando [ti presenti in inglese](/FluenteMente/inglese/da-zero/presentarsi-in-inglese/) a qualcuno per la prima volta, la famiglia è uno dei primissimi argomenti di conversazione. Per non bloccarti ed evitare la frustrante sensazione del "[capisco ma non parlo](/FluenteMente/inglese/da-zero/capisco-ma-non-parlo/)", devi conoscere le frasi fatte e i modi di dire che i madrelingua usano tutti i giorni. 
 
@@ -154,6 +154,6 @@ Ecco come usare queste frasi in contesti reali. Prova a leggere i dialoghi ad al
   <h3>🚀 Vuoi parlare della tua famiglia senza esitazioni?</h3>
   <p>Saper usare queste espressioni ti renderà molto più naturale quando parli in inglese. Ma la teoria non basta: serve la pratica!</p>
   <p style="text-align: center; margin-top: 15px;">
-    <a href="[#link-affiliato-babbel](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia oggi il tuo percorso con Babbel e trasforma il tuo inglese!</a>
+    <a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Inizia oggi il tuo percorso con Babbel e trasforma il tuo inglese!</a>
   </p>
 </div>
