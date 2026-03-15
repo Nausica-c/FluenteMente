@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Oltre il Presente: Gruppo 5 (Parole 41-50)"
+title: "Le 100 Parole Inglesi più Usate: Parte 5"
 subtitle: "Supera la boa delle prime 50 parole: impara a gestire il futuro, le ipotesi e le quantità."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-5/
 ---
