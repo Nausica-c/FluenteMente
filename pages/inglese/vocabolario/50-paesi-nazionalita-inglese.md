@@ -296,6 +296,6 @@ Padroneggiare questi 50 nomi ti permetterà di viaggiare col pensiero, di distri
   <h3>🚀 Vuoi imparare la lingua di uno di questi paesi?</h3>
   <p>Con Babbel, puoi scegliere tra ben 14 lingue diverse e iniziare a parlare subito, con la confidenza di un vero <em>local</em>. Che sia lo svedese, il portoghese, l'olandese o l'inglese per i tuoi viaggi, Babbel ha la lezione giusta per te!</p>
   <p style="text-align: center; margin-top: 15px;">
-    <a href="#link-affiliato-babbel" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Sblocca la tua prossima lingua con Babbel!</a>
+    <a href="[#link-affiliato-babbel](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=)" style="background-color: #f39c12; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">👉 Sblocca la tua prossima lingua con Babbel!</a>
   </p>
 </div>
