@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Persone e Praticità: Gruppo 7 (Parole 61-70)"
+title: "Le 100 Parole Inglesi più Usate: Parte 7"
 subtitle: "Gestisci la gente, lo spazio e i verbi 'camaleonte' che servono a fare quasi tutto in inglese."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-7/
 ---
