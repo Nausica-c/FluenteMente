@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Proprietà e Potere: Gruppo 3 (Parole 21-30)"
+title: "Le 100 Parole Inglesi più Usate: Parte 3"
 subtitle: "Inizia a esprimere chi sei e cosa puoi fare con i possessivi e il mitico verbo 'Can'."
 permalink: /inglese/da-zero/le-fondamenta-gruppo-3/
 ---
