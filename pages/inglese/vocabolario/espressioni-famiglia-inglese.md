@@ -5,7 +5,7 @@ subtitle: "Non solo 'mother' e 'brother': impara a descrivere davvero il rapport
 permalink: /inglese/vocabolario/famiglia-inglese/
 ---
 
-🗣️ Saper dire "mother" o "brother" grazie al [vocabolario base della famiglia in inglese](/FluenteMente/inglese/vocabolario/famiglia-inglese/) è un ottimo punto di partenza, ma come si descrive davvero la composizione del proprio nucleo familiare o il rapporto con i propri cari? 
+🗣️ Saper dire "mother" o "brother" grazie al [vocabolario base della famiglia in inglese](/FluenteMente/inglese/vocabolario-famiglia-persone.md/) è un ottimo punto di partenza, ma come si descrive davvero la composizione del proprio nucleo familiare o il rapporto con i propri cari? 
 
 Quando [ti presenti in inglese](/FluenteMente/inglese/da-zero/presentarsi-in-inglese/) a qualcuno per la prima volta, la famiglia è uno dei primissimi argomenti di conversazione. Per non bloccarti ed evitare la frustrante sensazione del "[capisco ma non parlo](/FluenteMente/inglese/da-zero/capisco-ma-non-parlo/)", devi conoscere le frasi fatte e i modi di dire che i madrelingua usano tutti i giorni. 
 
