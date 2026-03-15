@@ -2,7 +2,7 @@
 layout: page
 title: "Come parlare della tua Famiglia in Inglese: 20 Espressioni Essenziali"
 subtitle: "Non solo 'mother' e 'brother': impara a descrivere davvero il rapporto con i tuoi cari come un vero madrelingua."
-permalink: /inglese/vocabolario/espressioni-famiglia-inglese/
+permalink: /inglese/vocabolario/famiglia-inglese/
 ---
 
 🗣️ Saper dire "mother" o "brother" grazie al [vocabolario base della famiglia in inglese](/FluenteMente/inglese/vocabolario/famiglia-inglese/) è un ottimo punto di partenza, ma come si descrive davvero la composizione del proprio nucleo familiare o il rapporto con i propri cari? 
