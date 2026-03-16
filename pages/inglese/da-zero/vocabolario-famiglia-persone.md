@@ -5,11 +5,11 @@ subtitle: "Da 'Mother' a 'Friend': le parole essenziali, 42 frasi pratiche e min
 permalink: /inglese/da-zero/vocabolario-famiglia-persone/
 ---
 
-Sei atterrato qui da Pinterest perché hai deciso che questo è l'anno in cui imparerai finalmente l'inglese? Ottima scelta! Se vuoi [imparare l'inglese partendo da zero](/inglese/da-zero/), la cosa peggiore che puoi fare è cercare di memorizzare l'intero dizionario. Il segreto è partire dalle basi assolute, ovvero le parole che userai tutti i giorni.
+Sei atterrato qui da Pinterest perché hai deciso che questo è l'anno in cui imparerai finalmente l'inglese? Ottima scelta! Se vuoi [imparare l'inglese partendo da zero](/FluenteMente/inglese/da-zero/), la cosa peggiore che puoi fare è cercare di memorizzare l'intero dizionario. Il segreto è partire dalle basi assolute, ovvero le parole che userai tutti i giorni.
 
 Oggi ci concentreremo sul vocabolario più intimo e utile: **Persone e Famiglia (People & Family)**.
 
-Ma conoscere le parole non basta: bisogna saperle usare! Seguendo il nostro [metodo consigliato](/metodo-consigliato/), ti mostrerò 3 frasi pratiche per ogni termine da leggere ad alta voce e, alla fine, 5 mini-storie per calare tutto nel contesto. *Let's go!*
+Ma conoscere le parole non basta: bisogna saperle usare! Seguendo il nostro [metodo consigliato](/FluenteMente/metodo-consigliato/), ti mostrerò 3 frasi pratiche per ogni termine da leggere ad alta voce e, alla fine, 5 mini-storie per calare tutto nel contesto. *Let's go!*
 
 ## 1. Il Vocabolario Fondamentale: 3 Frasi per Ogni Parola
 
