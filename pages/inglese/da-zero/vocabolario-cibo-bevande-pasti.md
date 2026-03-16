@@ -5,11 +5,11 @@ subtitle: "Da 'Water' a 'Dinner': le parole essenziali, 33 frasi pratiche e mini
 permalink: /inglese/da-zero/vocabolario-cibo-bevande-pasti/
 ---
 
-Sei arrivato fin qui da Pinterest perché hai deciso di prendere in mano il tuo inglese? Bravissimo! Nel nostro articolo precedente abbiamo visto [il vocabolario della Famiglia](/inglese/da-zero/vocabolario-famiglia-persone/). Oggi facciamo un altro passo fondamentale per la tua sopravvivenza all'estero (o semplicemente per capire i menu quando viaggi): Cibo e Bevande (*Food & Drink*).
+Sei arrivato fin qui da Pinterest perché hai deciso di prendere in mano il tuo inglese? Bravissimo! Nel nostro articolo precedente abbiamo visto [il vocabolario della Famiglia](/FluenteMente/inglese/da-zero/vocabolario-famiglia-persone/). Oggi facciamo un altro passo fondamentale per la tua sopravvivenza all'estero (o semplicemente per capire i menu quando viaggi): Cibo e Bevande (*Food & Drink*).
 
-Se il tuo obiettivo è [imparare l'inglese partendo da zero](/inglese/da-zero/), immagina di essere in vacanza a Londra o a New York: saper ordinare qualcosa da mangiare o da bere è la prima vera soddisfazione che avrai parlando inglese!
+Se il tuo obiettivo è [imparare l'inglese partendo da zero](/FluenteMente/inglese/da-zero/), immagina di essere in vacanza a Londra o a New York: saper ordinare qualcosa da mangiare o da bere è la prima vera soddisfazione che avrai parlando inglese!
 
-Come sempre, la regola d'oro del nostro [metodo consigliato](/metodo-consigliato/) è: non studiare liste di parole a memoria. Leggi le parole nel loro contesto. Qui sotto troverai i termini essenziali con 3 frasi pratiche ciascuno e, a seguire, 5 mini-storie e dialoghi per fissarli nella mente. *Let's go!*
+Come sempre, la regola d'oro del nostro [metodo consigliato](/FluenteMente/metodo-consigliato/) è: non studiare liste di parole a memoria. Leggi le parole nel loro contesto. Qui sotto troverai i termini essenziali con 3 frasi pratiche ciascuno e, a seguire, 5 mini-storie e dialoghi per fissarli nella mente. *Let's go!*
 
 ## 1. Il Vocabolario Fondamentale: 3 Frasi per Ogni Parola
 
@@ -101,7 +101,7 @@ Adesso vediamo queste parole in azione. Prova a leggere ad alta voce!
 > *It is 8 PM and dinner is ready. The family sits at the table. They drink water and eat meat with vegetables. After dinner, they drink tea.*
 > (Sono le 20:00 e la cena è pronta. La famiglia si siede a tavola. Bevono acqua e mangiano carne con verdure. Dopo cena, bevono tè.)
 
-*(Hai imparato a ordinare la cena, ottimo lavoro! Nel prossimo step ci sposteremo dal ristorante al salotto: scopri [Le parole della Casa](/inglese/da-zero/vocabolario-casa/))*
+*(Hai imparato a ordinare la cena, ottimo lavoro! Nel prossimo step ci sposteremo dal ristorante al salotto: scopri [Le parole della Casa](/FluenteMente/inglese/da-zero/vocabolario-casa/))*
 
 ---
 
