@@ -151,7 +151,7 @@ Per facilitare lo studio, abbiamo diviso l'albero genealogico in gruppi. Presta 
 
 <div class="solution-box">
   <h3>💡 Il consiglio in più: Attenti ai Falsi Amici!</h3>
-  <p>Hai notato la parola <strong>Parents</strong>? In inglese significa esclusivamente <em>Genitori</em>, non parenti! Se vuoi parlare dei tuoi zii, cugini e nonni in generale, devi usare la parola <strong>Relatives</strong>. Un errore classico che ora puoi evitare senza problemi, perfetto da abbinare alle <a href="/FluenteMente/inglese/vocabolario/espressioni-famiglia-inglese/">20 espressioni essenziali per descrivere la tua famiglia in inglese</a>!</p>
+  <p>Hai notato la parola <strong>Parents</strong>? In inglese significa esclusivamente <em>Genitori</em>, non parenti! Se vuoi parlare dei tuoi zii, cugini e nonni in generale, devi usare la parola <strong>Relatives</strong>. Un errore classico che ora puoi evitare senza problemi, perfetto da abbinare alle <a href="/FluenteMente/inglese/vocabolario/famiglia-inglese/">20 espressioni essenziali per descrivere la tua famiglia in inglese</a>!</p>
 </div>
 
 ## 2. Mettiamo in Pratica: The Family Story
