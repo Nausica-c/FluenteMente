@@ -5,7 +5,7 @@ description: "Scopri gli errori più comuni degli italiani in inglese e impara a
 permalink: /inglese/errori/
 ---
 
-In questa pagina abbiamo raccolto tutti gli articoli che ti aiuteranno a non commettere più gli scivoloni tipici degli italiani quando parlano inglese.
+In questa pagina abbiamo raccolto tutti gli articoli che ti aiuteranno a non commettere più gli scivoloni tipici degli italiani quando parlano inglese. Conosci il tuo nemico (la traduzione letterale)!
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
@@ -19,6 +19,8 @@ In questa pagina abbiamo raccolto tutti gli articoli che ti aiuteranno a non com
       {% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+{% else %}
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
 
