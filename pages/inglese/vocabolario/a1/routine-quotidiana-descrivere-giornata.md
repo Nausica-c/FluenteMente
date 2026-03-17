@@ -2,7 +2,7 @@
 layout: page
 title: "Routine Quotidiana: Come descrivere la tua giornata in inglese"
 subtitle: "Dalle prime luci dell'alba al riposo notturno: impara a raccontare la tua giornata tipo."
-permalink: /inglese/livello-a1/routine-quotidiana-descrivere-giornata/
+permalink: /inglese/vocabolario/a1/routine-quotidiana-descrivere-giornata/
 ---
 
 Riuscire a descrivere la propria giornata è uno dei primi grandi traguardi per chi impara l'inglese. Ti permette di fare conversazione e dare una struttura logica ai tuoi pensieri. 
@@ -128,9 +128,9 @@ On Saturdays, I **wake up** late. I **have breakfast** at 10:00. I don't **go to
 Questa è la prima lezione del livello principiante. Continua a costruire il tuo vocabolario:
 
 1.  **Lezione Corrente:** Routine Quotidiana
-2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/) ➡️ *Prossima lezione*
-3.  [In Giro per Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/)
-4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/)
+2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/vocabolario/a1/incontra-mia-famiglia/) ➡️ *Prossima lezione*
+3.  [In Giro per Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/)
+4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/vocabolario/a1/a-tavola-colazione/)
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: La Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) 
