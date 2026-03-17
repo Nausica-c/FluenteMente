@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Spazio e Desiderio: Gruppo 3 (Parole 21-30)"
+title: "Le 100 Parole Spagnole più Usate: Spazio e Desiderio"
 subtitle: "Esprimi i tuoi desideri e impara a muoverti nel mondo ispanico."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-3/
 ---
