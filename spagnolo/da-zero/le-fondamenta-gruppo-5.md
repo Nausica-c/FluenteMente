@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Logica e Obbligo: Gruppo 5 (Parole 41-50)"
+title: "Le 100 Parole Spagnole più Usate: Logica e Obbligo"
 subtitle: "Gestisci il tempo e i doveri: le parole per dare struttura ai tuoi impegni in spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-5/
 ---
