@@ -2,7 +2,7 @@
 layout: page
 title: "Il Corpo Umano 101: Parti del viso e del corpo"
 subtitle: "Head, shoulders, knees and toes! Impara a nominare le parti del corpo con la lista Oxford 3000."
-permalink: /inglese/livello-a1/corpo-umano-101/
+permalink: /inglese/vocabolario/a1/corpo-umano-101/
 ---
 
 Dopo aver parlato del [Meteo]({{ site.baseurl }}/inglese/livello-a1/meteo-base/), torniamo a noi stessi. Conoscere le parti del corpo è essenziale per descrivere le persone, parlare di salute e persino per capire molte espressioni idiomatiche comuni.
@@ -113,10 +113,10 @@ Every morning, I wash my **face** and brush my **hair**. I look at my **eyes** i
 ## 🛤️ Il tuo percorso Livello A1
 Il corpo umano non ha più segreti! Nella prossima lezione esploreremo il regno animale.
 
-1.  [Leggere l'Ora, Giorni e Mesi]({{ site.baseurl }}/inglese/livello-a1/leggere-ora-giorni-mesi/)
-2.  [Il Meteo di Base]({{ site.baseurl }}/inglese/livello-a1/meteo-base/)
+1.  [Leggere l'Ora, Giorni e Mesi]({{ site.baseurl }}/inglese/vocabolario/a1/leggere-ora-giorni-mesi/)
+2.  [Il Meteo di Base]({{ site.baseurl }}/inglese/vocabolario/a1/meteo-base/)
 3.  **Lezione Corrente:** Il Corpo Umano 101
-4.  [Il Regno Animale]({{ site.baseurl }}/inglese/livello-a1/regno-animale/) ➡️ *Prossima lezione*
+4.  [Il Regno Animale]({{ site.baseurl }}/inglese/vocabolario/a1/regno-animale/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Gli Animali]({{ site.baseurl }}/inglese/livello-a1/regno-animale/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Gli Animali]({{ site.baseurl }}/inglese/vocabolario/a1/regno-animale/) ➡️
