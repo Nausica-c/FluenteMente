@@ -2,7 +2,7 @@
 layout: page
 title: "Oltre il 'Gracias': 10 alternative per ringraziare in spagnolo come un nativo"
 subtitle: "Dall'eleganza di un ufficio a Madrid al calore delle piazze messicane: impara a dire grazie con stile."
-permalink: /spagnolo/curiosidade/modi-per-ringraziare-spagnolo/
+permalink: /spagnolo/curiosita/modi-per-ringraziare-spagnolo/
 ---
 
 La parola **"Gracias"** è probabilmente una delle più famose al mondo. Funziona sempre, è facile da pronunciare e ti tira fuori d'impaccio in qualsiasi situazione, dal passante che ti indica la strada al cameriere che ti porta i *tacos*.
