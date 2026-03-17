@@ -111,10 +111,10 @@ My friend Julia has a very big **family**. She has four **brothers** and three *
 ## 🛤️ Il tuo percorso Livello A1
 Continua a costruire le fondamenta del tuo inglese:
 
-1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/livello-a1/routine-quotidiana-descrivere-giornata/)
+1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/vocabolario/a1/routine-quotidiana-descrivere-giornata/)
 2.  **Lezione Corrente:** Incontra la mia Famiglia
-3.  [In Giro per Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/) ➡️ *Prossima lezione*
-4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/)
+3.  [In Giro per Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/) ➡️ *Prossima lezione*
+4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/vocabolario/a1/a-tavola-colazione/)
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: La Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: La Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/) ➡️
