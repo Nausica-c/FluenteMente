@@ -21,8 +21,14 @@ Se non ricordi nulla della grammatica o ti blocchi appena devi formulare una fra
 <ul>
 {% assign da_zero_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'da-zero'" %}
 {% for post in da_zero_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
-  {% if post.description %}<br><small>{{ post.description }}</small>{% endif %}
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
   </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
@@ -38,7 +44,15 @@ L'inglese non si legge come si scrive. Questo è lo scoglio più grande per noi 
 <ul>
 {% assign pronuncia_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'pronuncia'" %}
 {% for post in pronuncia_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
@@ -53,7 +67,15 @@ Basta imparare a memoria le eccezioni dei verbi irregolari o regole scolastiche 
 <ul>
 {% assign grammatica_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'grammatica'" %}
 {% for post in grammatica_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
@@ -70,7 +92,15 @@ Arricchisci il tuo lessico per non usare sempre le solite tre parole in croce. S
 <ul>
 {% assign vocabolario_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'vocabolario'" %}
 {% for post in vocabolario_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
@@ -87,7 +117,15 @@ La nostra lingua madre ci inganna di continuo quando proviamo a parlare inglese.
 <ul>
 {% assign errori_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'errori'" %}
 {% for post in errori_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
@@ -104,7 +142,15 @@ Dimentica le frasi dei libri scolastici. Ecco il vocabolario di sopravvivenza pe
 <ul>
 {% assign frasi_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'frasi'" %}
 {% for post in frasi_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
@@ -119,7 +165,15 @@ Una lingua non è solo grammatica, è cultura. Scopri i modi di dire intraducibi
 <ul>
 {% assign curiosita_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'curiosita'" %}
 {% for post in curiosita_posts %}
-  <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
