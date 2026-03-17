@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Movimento e Interazione: Gruppo 7 (Parole 61-70)"
+title: "Le 100 Parole Spagnole più Usate: Movimento e Interazione"
 subtitle: "Dal mettere ordine al chiedere aiuto: verbi e preposizioni per connettere la tua giornata."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-7/
 ---
