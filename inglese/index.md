@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Imparare l'Inglese: Il percorso completo per adulti"
-subtitle: "Da livello zero fino alla conversazione fluida. Scopri gli errori da evitare, la pronuncia corretta, la grammatica e le frasi di vita reale."
-description: "L'hub definitivo per imparare l'inglese da adulti. Risorse su grammatica, vocabolario, errori comuni (False Friends), pronuncia per italiani e metodo per pensare in inglese."
+subtitle: "Da livello zero fino alla conversazione fluida. Scopri grammatica, pronuncia, inglese per il lavoro (Business) e per viaggiare."
+description: "L'hub definitivo per imparare l'inglese da adulti. Risorse su grammatica, vocabolario, Business English, inglese in viaggio, pronuncia ed errori comuni."
 permalink: /inglese/
 ---
 
@@ -234,6 +234,72 @@ Una lingua non è solo grammatica, è cultura. Scopri i modi di dire intraducibi
     </a>
   </div>
 {% endif %}
+
+---
+
+## 8. Business English: L'inglese per il Lavoro
+
+Email, riunioni, presentazioni e colloqui. Impara l'inglese professionale per far decollare la tua carriera senza bloccarti davanti ai colleghi internazionali.
+
+{% assign business_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'business'" %}
+<ul>
+{% for post in business_posts limit: 10 %}
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if business_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/business/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ business_posts.size }} articoli di Business English ➔
+    </a>
+  </div>
+{% endif %}
+
+{% include promo-box.html type="business" lang="inglese" %}
+
+---
+
+## 9. Inglese in Viaggio: Sopravvivere all'estero
+
+Dall'aeroporto al ristorante, fino agli imprevisti in hotel. Le guide pratiche per viaggiare senza l'ansia di non farsi capire.
+
+{% assign viaggio_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'viaggio'" %}
+<ul>
+{% for post in viaggio_posts limit: 10 %}
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+    <br><small style="color: #555;">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if viaggio_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/viaggio/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ viaggio_posts.size }} articoli per viaggiare ➔
+    </a>
+  </div>
+{% endif %}
+
+{% include promo-box.html type="viaggio" lang="inglese" %}
 
 ---
 
