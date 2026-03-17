@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Persone e Vita: Gruppo 6 (Parole 51-60)"
+title: "Le 100 Parole Spagnole più Usate: Persone e Vita"
 subtitle: "Verbi d'azione e i protagonisti delle tue conversazioni spagnole."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-6/
 ---
