@@ -2,7 +2,7 @@
 layout: page
 title: "Incontra la mia Famiglia: Vocabolario essenziale sui parenti"
 subtitle: "Impara a presentare le persone più importanti della tua vita con i termini della lista Oxford 3000."
-permalink: /inglese/livello-a1/incontra-mia-famiglia/
+permalink: /inglese/vocabolario/a1/incontra-mia-famiglia/
 ---
 
 Dopo aver imparato a descrivere la tua giornata, il passo successivo per comunicare in inglese è saper parlare delle persone che ti circondano. La famiglia è uno degli argomenti più comuni nelle conversazioni iniziali.
