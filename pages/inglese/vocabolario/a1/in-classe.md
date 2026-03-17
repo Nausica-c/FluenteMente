@@ -118,12 +118,12 @@ Today is the final test at **school**. The **students** are quiet. The **teacher
 ## 🛤️ Il tuo percorso Livello A1
 Hai conquistato la classe! Ora è il momento di uscire e guardare i colori che ci circondano.
 
-1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/livello-a1/routine-quotidiana-descrivere-giornata/)
-2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/)
-3.  [In Giro per Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/)
+1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/vocabolario/a1/routine-quotidiana-descrivere-giornata/)
+2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/vocabolario/a1/incontra-mia-famiglia/)
+3.  [In Giro per Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/)
 4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/)
 5.  **Lezione Corrente:** In Classe
-6.  [I Colori del Mondo]({{ site.baseurl }}/inglese/livello-a1/colori-del-mondo/) ➡️ *Prossima lezione*
+6.  [I Colori del Mondo]({{ site.baseurl }}/inglese/vocabolario/a1/colori-del-mondo/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: I Colori]({{ site.baseurl }}/inglese/livello-a1/colori-del-mondo/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: I Colori]({{ site.baseurl }}/inglese/vocabolario/a1/colori-del-mondo/) ➡️
