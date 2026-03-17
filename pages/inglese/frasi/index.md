@@ -5,7 +5,7 @@ description: "Archivio di frasi pronte all'uso, espressioni per viaggiare e form
 permalink: /inglese/frasi/
 ---
 
-Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte le nostre guide dedicate alle frasi e alle espressioni di sopravvivenza in inglese.
+Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte le nostre guide dedicate alle frasi e alle espressioni di sopravvivenza in inglese, per lavoro o per i viaggi.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
@@ -19,5 +19,7 @@ Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte 
       {% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+{% else %}
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
