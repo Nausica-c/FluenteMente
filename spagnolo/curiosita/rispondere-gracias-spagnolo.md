@@ -2,7 +2,7 @@
 layout: page
 title: "Oltre il 'De nada': 10 modi per rispondere a un 'Gracias' in spagnolo"
 subtitle: "Dalla cortesia di Madrid al calore del Messico: impara a dire 'prego' come un nativo."
-permalink: /spagnolo/curiosidade/rispondere-gracias-spagnolo/
+permalink: /spagnolo/curiosita/rispondere-gracias-spagnolo/
 ---
 
 Dire **"De nada"** (Di nulla) è la base, ed è corretto. Ma lo spagnolo è una lingua ricca di entusiasmo, solidarietà e sfumature sociali. A seconda che tu stia parlando con un cameriere a Madrid, un collega a Città del Messico o un amico in spiaggia, esistono modi molto più naturali per dire "prego".
