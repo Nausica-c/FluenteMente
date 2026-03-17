@@ -2,41 +2,93 @@
 layout: page
 title: "Archivio completo degli articoli"
 subtitle: "Tutte le nostre guide, le recensioni e i trucchi per imparare le lingue."
-description: "Esplora l'archivio completo di FluenteMente. Trova tutte le guide su inglese, spagnolo, metodo di studio e recensioni delle app."
+description: "Esplora l'archivio completo di FluenteMente. Trova tutte le guide su inglese, spagnolo, francese e recensioni delle migliori app."
 permalink: /archivio/
 ---
 
-Benvenuto nella libreria completa di **FluenteMente**. 
+Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola lezione e analisi pubblicata sul sito, organizzata per lingua e argomento per facilitarti la ricerca.
 
-Qui trovi tutti gli articoli, le guide grammaticali, le analisi sui falsi amici e le recensioni che abbiamo pubblicato nel corso del tempo. Se stai cercando qualcosa di specifico per la lingua che stai studiando, ti consigliamo di visitare prima i nostri **[Hub dedicati]({{ '/hub-lingue/' | relative_url }})**.
-
-Ecco l'elenco completo di tutte le nostre guide:
+### 快速 Esplora per categoria:
+[**Metodo e App**](#metodo) | [**🇬🇧 Inglese**](#inglese) | [**🇫🇷 Francese**](#francese) | [**🇪🇸 Spagnolo**](#spagnolo) | [**🇩🇪 Tedesco**](#tedesco) | [**🇧🇷 Portoghese**](#portoghese)
 
 ---
 
-## Tutte le Guide Pubblicate
+<h2 id="metodo">🚀 Metodo di Studio e Recensioni App</h2>
+<p>Le guide fondamentali per approcciare qualsiasi lingua e le nostre analisi oneste sugli strumenti digitali.</p>
 
 <ul>
-{% assign sorted_pages = site.pages | sort: "title" %}
-{% for p in sorted_pages %}
-  {% comment %} Filtriamo le pagine di sistema o gli hub per mostrare solo i veri articoli {% endcomment %}
-  {% if p.title and p.layout == 'page' and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' and p.permalink != '/inglese/' and p.permalink != '/spagnolo/' and p.permalink != '/francese/' and p.permalink != '/tedesco/' and p.permalink != '/portoghese/' %}
-    
-    <li style="margin-bottom: 15px;">
-      👉 <strong><a href="{{ p.url | relative_url }}" style="font-size: 1.1em;">{{ p.title }}</a></strong>
-      {% if p.subtitle %}<br><span style="font-size: 0.9em; color: var(--text-light);">{{ p.subtitle }}</span>{% endif %}
+{% assign generali = site.pages | where_exp: "item", "item.categories == nil" | sort: "title" %}
+{% for p in generali %}
+  {% if p.title and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' %}
+    <li style="margin-bottom: 10px;">
+      <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
+      {% if p.subtitle %}<br><small style="color: #666;">{{ p.subtitle }}</small>{% endif %}
     </li>
-
   {% endif %}
 {% endfor %}
 </ul>
 
 ---
 
-<div class="cta-soft-box" style="margin-top: 40px;">
-<h3>🎯 Non sai da dove cominciare?</h3>
-<p>Troppi articoli da leggere? Inizia dalle basi assolute applicando il nostro metodo con l'app più strutturata per gli adulti.</p>
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Prova la tua prima lezione gratuita
+<h2 id="inglese">🇬🇧 Archivio Inglese</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+  <div>
+    <h4>Vocabolario & Frasi</h4>
+    {% assign ing_voc = site.pages | where_exp: "item", "item.categories contains 'inglese'" | where_exp: "item", "item.categories contains 'vocabolario' or item.categories contains 'frasi'" | sort: "title" %}
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+    {% for p in ing_voc %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
+  <div>
+    <h4>Grammatica & Errori</h4>
+    {% assign ing_gramm = site.pages | where_exp: "item", "item.categories contains 'inglese'" | where_exp: "item", "item.categories contains 'grammatica' or item.categories contains 'errori'" | sort: "title" %}
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+    {% for p in ing_gramm %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</div>
+
+---
+
+<h2 id="francese">🇫🇷 Archivio Francese</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+  <div>
+    <h4>Vocabolario & Frasi</h4>
+    {% assign fra_voc = site.pages | where_exp: "item", "item.categories contains 'francese'" | where_exp: "item", "item.categories contains 'vocabolario' or item.categories contains 'frasi'" | sort: "title" %}
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+    {% for p in fra_voc %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
+  <div>
+    <h4>Grammatica & Errori</h4>
+    {% assign fra_gramm = site.pages | where_exp: "item", "item.categories contains 'francese'" | where_exp: "item", "item.categories contains 'grammatica' or item.categories contains 'errori'" | sort: "title" %}
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+    {% for p in fra_gramm %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</div>
+
+---
+
+<h2 id="spagnolo">🇪🇸 Spagnolo, 🇩🇪 Tedesco, 🇧🇷 Portoghese</h2>
+<p>Scopri tutte le altre risorse disponibili nel nostro database.</p>
+
+<ul>
+{% assign altre_lingue = site.pages | where_exp: "item", "item.categories contains 'spagnolo' or item.categories contains 'tedesco' or item.categories contains 'portoghese'" | sort: "title" %}
+{% for p in altre_lingue %}
+  <li style="margin-bottom: 8px;">
+    <span style="font-size: 0.8em; background: #eee; padding: 2px 5px; border-radius: 3px; text-transform: uppercase;">{{ p.categories[0] }}</span> 
+    <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+<div class="cta-soft-box" style="margin-top: 40px; padding: 30px; background: #f9f9f9; border-left: 5px solid #ff7a59; border-radius: 8px;">
+<h3>🎯 Trasforma la teoria in pratica</h3>
+<p>Hai trovato l'articolo che cercavi? Ottimo. Ora però serve la costanza. Inizia oggi stesso a praticare con il metodo che consigliamo a tutti i nostri lettori adulti.</p>
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow" style="display: inline-block; background: #ff7a59; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">
+Inizia la tua prova gratuita →
 </a>
 </div>
