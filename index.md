@@ -6,64 +6,70 @@ description: "Benvenuto su FluenteMente. Il blog dedicato agli adulti che voglio
 permalink: /
 ---
 
-## Hai studiato per anni, ma fai ancora scena muta?
+## 🛑 Hai studiato per anni, ma fai ancora "scena muta"?
 
-Non sei il solo. La maggior parte di noi ha passato anni a scuola a memorizzare verbi irregolari e noiose tabelle grammaticali, per poi bloccarsi completamente al momento di ordinare una cena all'estero o rispondere a una call di lavoro.
+Non sei il solo. La maggior parte di noi ha passato anni a scuola a memorizzare verbi irregolari, per poi bloccarsi completamente al momento di ordinare una cena all'estero o rispondere a una call di lavoro.
 
-> *Il problema non è la tua memoria. Il problema è che le app a premi e i vecchi manuali scolastici non sono fatti per la mente di un adulto.*
+> **Il problema non è la tua memoria.** Il problema è che le app "a premi" e i vecchi manuali scolastici non sono fatti per la mente di un adulto che ha poco tempo e obiettivi concreti.
 
-Benvenuto su **FluenteMente**. Il nostro obiettivo è semplice: aiutarti a smettere di "studiare" la grammatica in modo passivo e iniziare finalmente a **comunicare**. Niente promesse magiche da "impara in 7 giorni", solo costanza e gli strumenti giusti.
-
----
-
-## 🏆 Le 3 Guide Fondamentali da leggere subito
-
-Se hai solo 10 minuti di tempo oggi, usali per leggere questi tre articoli. Cambieranno completamente il tuo modo di approcciare lo studio delle lingue:
-
-1. 👉 **[Il Metodo Consigliato: Come imparare una lingua in 15 minuti al giorno]({{ '/metodo-consigliato/' | relative_url }})**
-2. 👉 **[Inglese da Zero: La guida pratica per ricominciare (senza stress)]({{ '/inglese-da-zero/' | relative_url }})**
-3. 👉 **[Recensione Babbel 2026: È davvero la migliore app per adulti?]({{ '/recensione-babbel/' | relative_url }})**
+Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo passivo per iniziare finalmente a **comunicare**. 
 
 ---
 
-## 🧭 Il tuo percorso linguistico completo
+## 🏆 Le 3 Guide Fondamentali
+*Cambieranno il tuo modo di approcciare lo studio delle lingue:*
 
-Vuoi una mappa passo dopo passo per capire da dove iniziare, quale strumento scaricare e come affrontare la lingua che hai scelto? 
-
-Abbiamo creato un "Hub" centrale che raccoglie l'intero percorso logico, diviso per lingue (Inglese, Spagnolo, Francese, Tedesco e Portoghese).
-
-👉 **[Vai all'Hub delle Lingue: La Roadmap Definitiva per iniziare a studiare]({{ '/hub-lingue/' | relative_url }})**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+  <div style="padding: 15px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+    <h4>🚀 <a href="{{ '/metodo-consigliato/' | relative_url }}">Il Metodo Consigliato</a></h4>
+    <p>Come imparare una lingua in 15 minuti al giorno con la costanza.</p>
+  </div>
+  <div style="padding: 15px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+    <h4>🇬🇧 <a href="{{ '/inglese-da-zero/' | relative_url }}">Inglese da Zero</a></h4>
+    <p>La guida pratica per ricominciare senza lo stress dei banchi di scuola.</p>
+  </div>
+  <div style="padding: 15px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+    <h4>📱 <a href="{{ '/recensione-babbel/' | relative_url }}">Recensione Babbel 2026</a></h4>
+    <p>Analisi onesta: è davvero la migliore app per adulti quest'anno?</p>
+  </div>
+</div>
 
 ---
 
-## ⚖️ Le nostre Recensioni Oneste
+## 🧭 Il tuo percorso linguistico
 
-Prima di abbonarti a un corso o scaricare un'app, leggi le nostre analisi. Mettiamo a confronto le piattaforme sul mercato evidenziando i veri difetti (che le aziende non ti dicono).
-
-* 🟠 **[Babbel vs Duolingo: Quale scegliere quest'anno?]({{ '/babbel-vs-duolingo/' | relative_url }})**
-* 🔴 **[Babbel Opinioni Negative: I veri limiti dell'app]({{ '/babbel-opinioni-negative/' | relative_url }})**
+| 🌍 Hub delle Lingue | ⚖️ Recensioni Oneste |
+| :--- | :--- |
+| Hai già scelto la lingua? Vai alla nostra roadmap per **Inglese, Spagnolo, Francese, Tedesco e Portoghese**. | Prima di abbonarti, leggi i confronti tra le piattaforme e i limiti che le aziende non dicono. |
+| 👉 **[Vai all'Hub delle Lingue]({{ '/hub-lingue/' | relative_url }})** | 👉 **[Babbel vs Duolingo: Quale scegliere?]({{ '/babbel-vs-duolingo/' | relative_url }})** |
 
 ---
 
-## 📝 Ultimi articoli dal Blog
+## 📝 Ultimi approfondimenti e Guide
+*Ecco le ultime analisi caricate sul sito (massimo 10 risultati):*
 
-Non perderti i nostri ultimi approfondimenti su pronuncia, errori comuni e falsi amici:
-
-<ul>
-{% for post in site.posts limit:5 %}
-  <li style="margin-bottom: 10px;">
-    <strong><a href="{{ post.url | relative_url }}" style="font-size: 1.1em;">{{ post.title }}</a></strong><br>
-    <span style="color:var(--text-light); font-size: 0.85em;">{{ post.excerpt | strip_html | truncatewords: 20 }}</span>
-  </li>
+<ul style="list-style-type: none; padding-left: 0;">
+{% assign sorted_pages = site.pages | where_exp: "item", "item.date" | sort: 'date' | reverse %}
+{% assign count = 0 %}
+{% for p in sorted_pages %}
+  {% if p.url != "/" and count < 10 %}
+    <li style="margin-bottom: 25px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px;">
+      <small style="color: #888; text-transform: uppercase;">{{ p.date | date: "%d %B %Y" }}</small><br>
+      <strong style="font-size: 1.25em;"><a href="{{ p.url | relative_url }}" style="text-decoration: none; color: #2a7ae2;">{{ p.title }}</a></strong><br>
+      <div style="color: #555; font-size: 0.95em; margin-top: 5px;">
+        {{ p.description | default: "Leggi l'articolo completo su FluenteMente..." | truncatewords: 25 }}
+      </div>
+    </li>
+    {% assign count = count | plus: 1 %}
+  {% endif %}
 {% endfor %}
 </ul>
 
 ---
 
-<div class="cta-soft-box" style="margin-top: 40px;">
-<h3>🎯 Il momento migliore per iniziare era ieri. Il secondo è oggi.</h3>
-<p>Tra un anno potresti pentirti di non aver iniziato oggi. Metti subito in pratica il nostro metodo con l'app che ha già aiutato milioni di adulti a sbloccarsi.</p>
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Fai il test e prova la tua prima lezione gratuita
-</a>
+<div class="cta-soft-box" style="margin-top: 40px; padding: 40px 20px; background-color: #fff4f4; border-radius: 12px; text-align: center; border: 1px solid #ffcfcf;">
+  <h3>🎯 Il momento migliore per iniziare è oggi.</h3>
+  <p>Non rimandare ancora. Sblocca il tuo potenziale con il metodo e gli strumenti giusti per la tua mente.</p>
+  <br>
+  <a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow" style="background-color: #d32f2f; color: white; padding: 18px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em; display: inline-block;">PROVA L'APP CONSIGLIATA →</a>
 </div>
