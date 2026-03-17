@@ -18,9 +18,9 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 Se non ricordi nulla della grammatica o ti blocchi appena devi formulare una frase, parti da qui. Resettiamo i traumi scolastici e costruiamo basi solide.
 
-<ul>
 {% assign da_zero_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'da-zero'" %}
-{% for post in da_zero_posts %}
+<ul>
+{% for post in da_zero_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -34,6 +34,14 @@ Se non ricordi nulla della grammatica o ti blocchi appena devi formulare una fra
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if da_zero_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/da-zero/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ da_zero_posts.size }} articoli su come iniziare ➔
+    </a>
+  </div>
+{% endif %}
 
 ---
 
@@ -41,9 +49,9 @@ Se non ricordi nulla della grammatica o ti blocchi appena devi formulare una fra
 
 L'inglese non si legge come si scrive. Questo è lo scoglio più grande per noi italiani. Scopri come posizionare la bocca e quali suoni allenare per non sembrare più "Super Mario".
 
-<ul>
 {% assign pronuncia_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'pronuncia'" %}
-{% for post in pronuncia_posts %}
+<ul>
+{% for post in pronuncia_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -57,6 +65,14 @@ L'inglese non si legge come si scrive. Questo è lo scoglio più grande per noi 
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if pronuncia_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/pronuncia/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ pronuncia_posts.size }} articoli sulla pronuncia ➔
+    </a>
+  </div>
+{% endif %}
 
 ---
 
@@ -64,9 +80,9 @@ L'inglese non si legge come si scrive. Questo è lo scoglio più grande per noi 
 
 Basta imparare a memoria le eccezioni dei verbi irregolari o regole scolastiche infinite. Qui trovi guide pratiche per capire come funziona la struttura della lingua e usarla subito in modo naturale.
 
-<ul>
 {% assign grammatica_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'grammatica'" %}
-{% for post in grammatica_posts %}
+<ul>
+{% for post in grammatica_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -80,6 +96,14 @@ Basta imparare a memoria le eccezioni dei verbi irregolari o regole scolastiche 
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if grammatica_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/grammatica/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ grammatica_posts.size }} articoli di grammatica ➔
+    </a>
+  </div>
+{% endif %}
 
 {% include promo-box.html type="grammatica" lang="inglese" %}
 
@@ -89,9 +113,9 @@ Basta imparare a memoria le eccezioni dei verbi irregolari o regole scolastiche 
 
 Arricchisci il tuo lessico per non usare sempre le solite tre parole in croce. Scopri i termini usati dai madrelingua nel quotidiano, nel business e in viaggio.
 
-<ul>
 {% assign vocabolario_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'vocabolario'" %}
-{% for post in vocabolario_posts %}
+<ul>
+{% for post in vocabolario_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -105,6 +129,14 @@ Arricchisci il tuo lessico per non usare sempre le solite tre parole in croce. S
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if vocabolario_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/vocabolario/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ vocabolario_posts.size }} articoli di vocabolario ➔
+    </a>
+  </div>
+{% endif %}
 
 {% include promo-box.html type="vocabolario" lang="inglese" %}
 
@@ -114,9 +146,9 @@ Arricchisci il tuo lessico per non usare sempre le solite tre parole in croce. S
 
 La nostra lingua madre ci inganna di continuo quando proviamo a parlare inglese. Conosci il tuo nemico per smettere di fare brutte figure.
 
-<ul>
 {% assign errori_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'errori'" %}
-{% for post in errori_posts %}
+<ul>
+{% for post in errori_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -130,6 +162,14 @@ La nostra lingua madre ci inganna di continuo quando proviamo a parlare inglese.
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if errori_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/errori/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ errori_posts.size }} articoli sugli errori ➔
+    </a>
+  </div>
+{% endif %}
 
 {% include promo-box.html type="errori" lang="inglese" %}
 
@@ -139,9 +179,9 @@ La nostra lingua madre ci inganna di continuo quando proviamo a parlare inglese.
 
 Dimentica le frasi dei libri scolastici. Ecco il vocabolario di sopravvivenza per sembrare un vero madrelingua, o quasi.
 
-<ul>
 {% assign frasi_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'frasi'" %}
-{% for post in frasi_posts %}
+<ul>
+{% for post in frasi_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -155,6 +195,14 @@ Dimentica le frasi dei libri scolastici. Ecco il vocabolario di sopravvivenza pe
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if frasi_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/frasi/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ frasi_posts.size }} articoli sulle frasi utili ➔
+    </a>
+  </div>
+{% endif %}
 
 ---
 
@@ -162,9 +210,9 @@ Dimentica le frasi dei libri scolastici. Ecco il vocabolario di sopravvivenza pe
 
 Una lingua non è solo grammatica, è cultura. Scopri i modi di dire intraducibili e le differenze culturali.
 
-<ul>
 {% assign curiosita_posts = site.posts | where_exp: "post", "post.categories contains 'inglese' and post.categories contains 'curiosita'" %}
-{% for post in curiosita_posts %}
+<ul>
+{% for post in curiosita_posts limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
     <br><small style="color: #555;">
       {% if post.description %}
@@ -178,6 +226,14 @@ Una lingua non è solo grammatica, è cultura. Scopri i modi di dire intraducibi
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
 {% endfor %}
 </ul>
+
+{% if curiosita_posts.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/curiosita/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ curiosita_posts.size }} articoli su curiosità e idiomi ➔
+    </a>
+  </div>
+{% endif %}
 
 ---
 
