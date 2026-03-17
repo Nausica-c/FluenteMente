@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Le 100 Parole Spagnole più Usate:spagnolo/curiosita/modi-per-ringraziare-spagnolo: Vita e Lavoro"
+title: "Le 100 Parole Spagnole più Usate: Vita e Lavoro"
 subtitle: "Dalla quotidianità alle nuove avventure: le parole per descrivere chi sei e cosa fai."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-8/
 ---
