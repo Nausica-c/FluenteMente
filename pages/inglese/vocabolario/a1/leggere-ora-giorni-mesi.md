@@ -2,7 +2,7 @@
 layout: page
 title: "Leggere l'Ora: Ore, giorni della settimana e mesi"
 subtitle: "What time is it? Impara a gestire il tempo e il calendario con la lista Oxford 3000."
-permalink: /inglese/livello-a1/leggere-ora-giorni-mesi/
+permalink: /inglese/vocabolario/a1/leggere-ora-giorni-mesi/
 ---
 
 Dopo aver imparato a [Contare e misurare le quantità]({{ site.baseurl }}/inglese/livello-a1/contare-e-quantita/), il passo naturale è applicare i numeri alla realtà quotidiana: il tempo. Saper dire l'ora e conoscere il calendario è essenziale per fissare appuntamenti, viaggiare e organizzare il lavoro.
