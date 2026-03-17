@@ -117,10 +117,10 @@ I study every day. I sit on a comfortable **chair** and put my computer on the *
 ## 🛤️ Il tuo percorso Livello A1
 La tua casa è pronta, ora è il momento di riempirla di cibo!
 
-1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/livello-a1/routine-quotidiana-descrivere-giornata/)
-2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/)
+1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/vocabolario/a1/routine-quotidiana-descrivere-giornata/)
+2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/vocabolario/a1/incontra-mia-famiglia/)
 3.  **Lezione Corrente:** In Giro per Casa
-4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/) ➡️ *Prossima lezione*
+4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/vocabolario/a1/a-tavola-colazione/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Colazione]({{ site.baseurl }}/inglese/vocabolario/a1/a-tavola-colazione/) ➡️
