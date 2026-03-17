@@ -2,7 +2,7 @@
 layout: page
 title: "Il Meteo di Base: Come parlare del sole e della pioggia"
 subtitle: "Sunny or rainy? Impara a descrivere il tempo atmosferico con la lista Oxford 3000."
-permalink: /inglese/livello-a1/meteo-base/
+permalink: /inglese/vocabolario)a1/meteo-base/
 ---
 
 Dopo aver imparato a [Leggere l'Ora e il Calendario]({{ site.baseurl }}/inglese/livello-a1/leggere-ora-giorni-mesi/), il passo successivo per diventare un vero comunicatore è saper parlare del meteo. È l'argomento perfetto per rompere il ghiaccio (il cosiddetto "small talk") in qualsiasi situazione sociale.
