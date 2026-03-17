@@ -2,7 +2,7 @@
 layout: page
 title: "I Colori del Mondo: Come descrivere tutto ciò che vedi"
 subtitle: "Red, blue, green... impara a dare colore ai tuoi discorsi in inglese con la lista Oxford 3000."
-permalink: /inglese/livello-a1/colori-del-mondo/
+permalink: /inglese/vocabolario/a1/colori-del-mondo/
 ---
 
 Dopo aver imparato i termini per muoverti [In Classe]({{ site.baseurl }}/inglese/livello-a1/in-classe/), è il momento di rendere il tuo inglese più vivido. I colori sono tra i primi aggettivi che impariamo e ci permettono di essere molto più precisi nelle nostre descrizioni.
@@ -115,13 +115,13 @@ Today the sky is **grey**. It is not a **blue** and sunny day. I am wearing my *
 ## 🛤️ Il tuo percorso Livello A1
 Dopo aver colorato il tuo mondo, impariamo a contarlo!
 
-1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/livello-a1/routine-quotidiana-descrivere-giornata/)
-2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/)
-3.  [In Giro per Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/)
-4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/livello-a1/a-tavola-colazione/)
-5.  [In Classe]({{ site.baseurl }}/inglese/livello-a1/in-classe/)
+1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/vocabolario/a1/routine-quotidiana-descrivere-giornata/)
+2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/vocabolario/a1/incontra-mia-famiglia/)
+3.  [In Giro per Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/)
+4.  [A Tavola per Colazione]({{ site.baseurl }}/inglese/vocabolario/a1/a-tavola-colazione/)
+5.  [In Classe]({{ site.baseurl }}/inglese/vocabolario/a1/in-classe/)
 6.  **Lezione Corrente:** I Colori del Mondo
-7.  [Contare e Quantità]({{ site.baseurl }}/inglese/livello-a1/contare-e-quantita/) ➡️ *Prossima lezione*
+7.  [Contare e Quantità]({{ site.baseurl }}/inglese/vocabolario/a1/contare-e-quantita/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Numeri e Quantità]({{ site.baseurl }}/inglese/livello-a1/contare-e-quantita/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Numeri e Quantità]({{ site.baseurl }}/inglese/vocabolario/a1/contare-e-quantita/) ➡️
