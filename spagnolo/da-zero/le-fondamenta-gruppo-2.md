@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Azioni e Relazioni: Gruppo 2 (Parole 11-20)"
+title: "Le 100 Parole Spagnole più Usate: Azioni e Relazioni"
 subtitle: "I verbi del fare e le parole che connettono i tuoi pensieri in spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-2/
 ---
