@@ -5,7 +5,7 @@ description: "Regole, eccezioni e spiegazioni semplici per padroneggiare la gram
 permalink: /inglese/grammatica/
 ---
 
-In questa pagina trovi l'archivio completo di tutte le guide e spiegazioni sulla grammatica inglese.
+In questa pagina trovi l'archivio completo di tutte le guide e spiegazioni sulla grammatica inglese. Dimentica le noiose regole scolastiche: qui impariamo a usare la lingua vera.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
@@ -19,6 +19,8 @@ In questa pagina trovi l'archivio completo di tutte le guide e spiegazioni sulla
       {% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+{% else %}
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
 
