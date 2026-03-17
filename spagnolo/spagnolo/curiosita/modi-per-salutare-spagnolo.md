@@ -2,7 +2,7 @@
 layout: page
 title: "Oltre l'Hola: 10 modi per salutare in spagnolo come un vero local"
 subtitle: "Dall'eleganza di 'Buenos días' allo slang '¿Qué onda?': entra nel ritmo della lingua spagnola."
-permalink: /spagnolo/curiosidade/modi-per-salutare-spagnolo/
+permalink: /spagnolo/curiosita/modi-per-salutare-spagnolo/
 ---
 
 Se c'è una parola spagnola che tutti, ma proprio tutti, conoscono, è **"Hola"**. È rassicurante, facile da pronunciare e ti salva in quasi tutte le situazioni. Ma lo spagnolo è una lingua calda, espressiva e parlata in oltre 20 Paesi! 
