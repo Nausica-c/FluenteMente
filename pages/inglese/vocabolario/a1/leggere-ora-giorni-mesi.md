@@ -115,10 +115,10 @@ Yesterday was a very long **day**. I started work at 8:00 in the **morning** and
 ## 🛤️ Il tuo percorso Livello A1
 Il tempo vola! Nella prossima lezione vedremo come descrivere il clima.
 
-1.  [I Colori del Mondo]({{ site.baseurl }}/inglese/livello-a1/colori-del-mondo/)
-2.  [Contare e Quantità]({{ site.baseurl }}/inglese/livello-a1/contare-e-quantita/)
+1.  [I Colori del Mondo]({{ site.baseurl }}/inglese/vocabolario/a1/colori-del-mondo/)
+2.  [Contare e Quantità]({{ site.baseurl }}/inglese/vocabolario/a1/contare-e-quantita/)
 3.  **Lezione Corrente:** Leggere l'Ora, Giorni e Mesi
-4.  [Il Meteo di Base]({{ site.baseurl }}/inglese/livello-a1/meteo-base/) ➡️ *Prossima lezione*
+4.  [Il Meteo di Base]({{ site.baseurl }}/inglese/vocabolario/a1/meteo-base/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Il Meteo]({{ site.baseurl }}/inglese/livello-a1/meteo-base/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Il Meteo]({{ site.baseurl }}/inglese/vocabolario/a1/meteo-base/) ➡️
