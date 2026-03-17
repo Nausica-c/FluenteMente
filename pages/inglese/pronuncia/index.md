@@ -5,7 +5,7 @@ description: "L'archivio completo delle nostre guide per migliorare la tua pronu
 permalink: /inglese/pronuncia/
 ---
 
-In questa pagina trovi l'archivio completo di tutti gli articoli dedicati alla pronuncia e alla fonetica inglese.
+In questa pagina trovi l'archivio completo di tutti gli articoli dedicati alla pronuncia e alla fonetica inglese. Scopri come posizionare la bocca e riprodurre i suoni che in italiano non esistono.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
@@ -19,5 +19,7 @@ In questa pagina trovi l'archivio completo di tutti gli articoli dedicati alla p
       {% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+{% else %}
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
