@@ -1,21 +1,16 @@
 ---
 layout: page
 title: "Frasi ed Espressioni in Francese: Tutti gli articoli"
-description: "Archivio di frasi pronte all'uso, espressioni per viaggiare e formule per sembrare più fluente in francese."
+description: "Archivio di frasi pronte all'uso ed espressioni utili in francese."
 permalink: /francese/frasi/
 ---
-
-Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte le nostre guide dedicate alle frasi di sopravvivenza in francese.
-
 <a href="{{ '/francese/' | relative_url }}">⬅ Torna alla guida principale di Francese</a>
-
 <hr>
-
 <ul>
-{% assign category_posts = site.posts | where_exp: "post", "post.categories contains 'francese' and post.categories contains 'frasi'" %}
-{% for post in category_posts %}
-  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
-    <br><small style="color: #555;">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}</small>
+{% assign category_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'frasi'" %}
+{% for item in category_pages %}
+  <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
+    <br><small style="color: #555;">{% if item.description %}{{ item.description }}{% else %}{{ item.excerpt | strip_html | truncatewords: 25 }}{% endif %}</small>
   </li>
 {% else %}
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
