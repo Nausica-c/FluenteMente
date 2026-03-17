@@ -20,7 +20,6 @@ In questa pagina trovi l'archivio completo di tutti i nostri articoli dedicati a
     </small>
   </li>
 {% else %}
-  <li><em>Nessun articolo pubblicato in questa categoria.</em></li>
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
-
