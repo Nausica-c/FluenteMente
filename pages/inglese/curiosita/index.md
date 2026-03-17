@@ -5,7 +5,7 @@ description: "Modi di dire, slang, differenze tra inglese americano e britannico
 permalink: /inglese/curiosita/
 ---
 
-Qui trovi tutto il materiale per andare oltre la grammatica: slang, idiomi e differenze culturali che renderanno il tuo inglese molto più autentico.
+Qui trovi tutto il materiale per andare oltre la semplice grammatica: slang, idiomi intraducibili e differenze culturali che renderanno il tuo inglese molto più autentico e simile a quello dei madrelingua.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
@@ -19,5 +19,7 @@ Qui trovi tutto il materiale per andare oltre la grammatica: slang, idiomi e dif
       {% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+{% else %}
+  <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
