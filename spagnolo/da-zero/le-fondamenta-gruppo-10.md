@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Il Gran Finale: Gruppo 10 (Parole 91-100)"
+title: "Le 100 Parole Spagnole più Usate: comunicazione e sentimento"
 subtitle: "Tocchiamo quota 100: le ultime parole per parlare, capire e sentire lo spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-10/
 ---
