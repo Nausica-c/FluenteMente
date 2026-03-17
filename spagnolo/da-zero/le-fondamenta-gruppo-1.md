@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fondamenta Spagnole: Gruppo 1 (Parole 1-10)"
+title: "Le 100 Parole Spagnole più Usate: Articoli,pronomi e verbi ausiliari."
 subtitle: "Articoli, pronomi e verbi ausiliari: i primi mattoni per parlare spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-1/
 ---
