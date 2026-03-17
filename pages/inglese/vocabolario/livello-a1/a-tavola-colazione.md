@@ -119,10 +119,10 @@ On Sunday, my family stays at the **table** for a long time. We eat **eggs**, to
 Hai imparato a mangiare, ora è il momento di tornare a studiare!
 
 1.  [Routine Quotidiana]({{ site.baseurl }}/inglese/livello-a1/routine-quotidiana-descrivere-giornata/)
-2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/livello-a1/incontra-mia-famiglia/)
-3.  [In Giro per Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/)
+2.  [Incontra la mia Famiglia]({{ site.baseurl }}/inglese/vocabolario/a1/incontra-mia-famiglia/)
+3.  [In Giro per Casa]({{ site.baseurl }}/inglese/vocabolario/a1/in-giro-per-casa/)
 4.  **Lezione Corrente:** A Tavola per Colazione
-5.  [In Classe: Parole per Studenti]({{ site.baseurl }}/inglese/livello-a1/in-classe/) ➡️ *Prossima lezione*
+5.  [In Classe: Parole per Studenti]({{ site.baseurl }}/inglese/vocabolario/a1/in-classe/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: In Classe]({{ site.baseurl }}/inglese/livello-a1/in-classe/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: In Classe]({{ site.baseurl }}/inglese/vocabolario/a1/in-classe/) ➡️
