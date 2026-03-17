@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Tavola per Colazione: Cibi e bevande per iniziare la giornata"
+title: "Impara l'Inglese da Zero: Cibi e bevande per iniziare la giornata"
 subtitle: "Coffee, bread or fruit? Impara il vocabolario essenziale per il pasto più importante del giorno."
 permalink: /inglese/vocabolario/a1/a-tavola-colazione/
 ---
