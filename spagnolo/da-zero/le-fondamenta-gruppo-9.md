@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Verità e Tempo: Gruppo 9 (Parole 81-90)"
+title: "Le 100 Parole Spagnole più Usate: Verità e Tempo"
 subtitle: "Dall'anno che passa al valore della verità: le parole per dare profondità ai tuoi pensieri in spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-9/
 ---
