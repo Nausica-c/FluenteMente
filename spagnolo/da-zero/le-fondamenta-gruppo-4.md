@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Capacità e Contesto: Gruppo 4 (Parole 31-40)"
+title: "Le 100 Parole Spagnole più Usate: Capacità e Contesto"
 subtitle: "Potere, sapere e le parole per collegare le tue frasi in spagnolo."
 permalink: /spagnolo/da-zero/le-fondamenta-gruppo-4/
 ---
