@@ -3,6 +3,7 @@ layout: page
 title: "Le 100 parole francesi più usate (Parte 1): I Pronomi Personali"
 subtitle: "Iniziamo dalle basi: scopri i protagonisti della frase e il trucco segreto che i francesi usano per dire 'Noi'."
 permalink: /francese/parole/100-parole-parte-1-pronomi/
+categories:[francese, vocabolario, a1]
 ---
 
 Benvenuto nella prima tappa del tuo viaggio per padroneggiare le **[100 parole francesi fondamentali]({{ site.baseurl }}/francese/da-zero/100-parole-francesi-piu-usate/)**. 
