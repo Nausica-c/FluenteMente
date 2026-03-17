@@ -2,7 +2,7 @@
 layout: page
 title: "In Classe: Parole fondamentali per studenti e insegnanti"
 subtitle: "Pen, book or teacher? Impara i termini essenziali per muoverti con disinvoltura a scuola o in un corso."
-permalink: /inglese/livello-a1/in-classe/
+permalink: /inglese/vocabolario/a1/in-classe/
 ---
 
 Dopo aver esplorato la nostra [Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/), è il momento di entrare nel mondo dell'apprendimento. Che tu stia studiando online o in un'aula vera, queste parole sono i tuoi strumenti di lavoro quotidiani.
