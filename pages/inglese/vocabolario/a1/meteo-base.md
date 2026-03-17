@@ -5,7 +5,7 @@ subtitle: "Sunny or rainy? Impara a descrivere il tempo atmosferico con la lista
 permalink: /inglese/vocabolario/a1/meteo-base/
 ---
 
-Dopo aver imparato a [Leggere l'Ora e il Calendario]({{ site.baseurl }}/inglese/livello-a1/leggere-ora-giorni-mesi/), il passo successivo per diventare un vero comunicatore è saper parlare del meteo. È l'argomento perfetto per rompere il ghiaccio (il cosiddetto "small talk") in qualsiasi situazione sociale.
+Dopo aver imparato a [Leggere l'Ora e il Calendario]({{ site.baseurl }}/inglese/vocabolario/a1/leggere-ora-giorni-mesi/), il passo successivo per diventare un vero comunicatore è saper parlare del meteo. È l'argomento perfetto per rompere il ghiaccio (il cosiddetto "small talk") in qualsiasi situazione sociale.
 
 💡 **Consiglio:** Ogni mattina, guarda fuori dalla finestra e prova a descrivere il tempo ad alta voce in inglese. Se vuoi accelerare i tuoi progressi, visita l' [Hub di Inglese]({{ site.baseurl }}/inglese/) o ripassa il nostro [metodo consigliato]({{ site.baseurl }}/metodo-consigliato/).
 
@@ -116,10 +116,10 @@ We are on holiday in Sicily. The **weather** is perfect! It is **warm** in the m
 ## 🛤️ Il tuo percorso Livello A1
 Dopo aver parlato del cielo, torniamo a terra per scoprire il nostro corpo!
 
-1.  [Contare e Quantità]({{ site.baseurl }}/inglese/livello-a1/contare-e-quantita/)
-2.  [Leggere l'Ora, Giorni e Mesi]({{ site.baseurl }}/inglese/livello-a1/leggere-ora-giorni-mesi/)
+1.  [Contare e Quantità]({{ site.baseurl }}/inglese/vocabolario/a1/contare-e-quantita/)
+2.  [Leggere l'Ora, Giorni e Mesi]({{ site.baseurl }}/inglese/vocabolario/a1/leggere-ora-giorni-mesi/)
 3.  **Lezione Corrente:** Il Meteo di Base
-4.  [Il Corpo Umano 101]({{ site.baseurl }}/inglese/livello-a1/corpo-umano-101/) ➡️ *Prossima lezione*
+4.  [Il Corpo Umano 101]({{ site.baseurl }}/inglese/vocabolario/a1/corpo-umano-101/) ➡️ *Prossima lezione*
 
 ---
-⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Il Corpo Umano]({{ site.baseurl }}/inglese/livello-a1/corpo-umano-101/) ➡️
+⬅️ [Torna all'Hub Inglese]({{ site.baseurl }}/inglese/) | [Prossima Lezione: Il Corpo Umano]({{ site.baseurl }}/inglese/vocabolario/a1/corpo-umano-101/) ➡️
