@@ -2,7 +2,7 @@
 layout: page
 title: "A Tavola per Colazione: Cibi e bevande per iniziare la giornata"
 subtitle: "Coffee, bread or fruit? Impara il vocabolario essenziale per il pasto più importante del giorno."
-permalink: /inglese/vocabolario/livello-a1/a-tavola-colazione/
+permalink: /inglese/vocabolario/a1/a-tavola-colazione/
 ---
 
 La colazione è spesso il primo momento in cui mettiamo alla prova il nostro inglese, che sia in un hotel all'estero o chiacchierando con amici. Dopo aver sistemato la [Casa]({{ site.baseurl }}/inglese/livello-a1/in-giro-per-casa/), è ora di riempire la dispensa!
