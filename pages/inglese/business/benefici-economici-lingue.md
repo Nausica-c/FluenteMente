@@ -3,7 +3,7 @@ layout: page
 title: "I Benefici Economici delle Lingue: Quanto Vale Davvero il Tuo Inglese nel 2026?"
 subtitle: "Non è solo una riga sul CV. Parlare una seconda lingua è l'asset finanziario con il ROI (Ritorno sull'Investimento) più alto in assoluto."
 description: "Scopri l'impatto reale del bilinguismo sul tuo stipendio, sull'arbitraggio geografico e sulle tue opportunità di carriera."
-permalink: /business/benefici-economici-lingue/
+permalink: /inglese/business/benefici-economici-lingue/
 ---
 
 Spesso consideriamo lo studio delle lingue come un "hobby" o un vecchio dovere scolastico. La realtà del mercato del lavoro nel 2026 è molto più brutale e pragmatica: in termini puramente finanziari, **poche competenze battono l'apprendimento di una lingua straniera.**
