@@ -2,7 +2,7 @@
 layout: page
 title: "In Giro per Casa: Nomi degli oggetti e delle stanze"
 subtitle: "Dalla cucina alla camera da letto: impara a descrivere la tua abitazione in inglese."
-permalink: /inglese/livello-a1/in-giro-per-casa/
+permalink: /inglese/vocabolario/a1/in-giro-per-casa/
 ---
 
 Dopo aver imparato a presentare la tua famiglia, è il momento di esplorare il luogo dove passate il tempo insieme: la casa! Saper descrivere gli spazi in cui vivi è fondamentale per raccontare la tua quotidianità.
