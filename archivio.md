@@ -13,22 +13,19 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
 
 ---
 
-{% comment %} 
-Creiamo una variabile globale sicura che esclude tutte le pagine senza categoria (come la home o l'archivio stesso), evitando il crash di Jekyll.
-{% endcomment %}
-{% assign pagine_con_cat = site.pages | where_exp: "item", "item.categories != nil" %}
-
 <h2 id="metodo">🚀 Metodo di Studio e Recensioni App</h2>
 <p>Le guide fondamentali per approcciare qualsiasi lingua e le nostre analisi oneste sugli strumenti digitali.</p>
 
 <ul>
-{% assign generali = site.pages | where_exp: "item", "item.categories == nil" | sort: "title" %}
-{% for p in generali %}
-  {% if p.title and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' %}
-    <li style="margin-bottom: 10px;">
-      <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
-      {% if p.subtitle %}<br><small style="color: #666;">{{ p.subtitle }}</small>{% endif %}
-    </li>
+{% assign sorted_pages = site.pages | sort: "title" %}
+{% for p in sorted_pages %}
+  {% if p.categories == nil or p.categories.size == 0 %}
+    {% if p.title and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' %}
+      <li style="margin-bottom: 10px;">
+        <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
+        {% if p.subtitle %}<br><small style="color: #666;">{{ p.subtitle }}</small>{% endif %}
+      </li>
+    {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -39,16 +36,26 @@ Creiamo una variabile globale sicura che esclude tutte le pagine senza categoria
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
   <div>
     <h4>Vocabolario & Frasi</h4>
-    {% assign ing_voc = pagine_con_cat | where_exp: "item", "item.categories contains 'inglese'" | where_exp: "item", "item.categories contains 'vocabolario' or item.categories contains 'frasi'" | sort: "title" %}
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in ing_voc %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    {% for p in sorted_pages %}
+      {% if p.categories contains 'inglese' %}
+        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
     </ul>
   </div>
   <div>
     <h4>Grammatica & Errori</h4>
-    {% assign ing_gramm = pagine_con_cat | where_exp: "item", "item.categories contains 'inglese'" | where_exp: "item", "item.categories contains 'grammatica' or item.categories contains 'errori'" | sort: "title" %}
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in ing_gramm %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    {% for p in sorted_pages %}
+      {% if p.categories contains 'inglese' %}
+        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
     </ul>
   </div>
 </div>
@@ -59,16 +66,26 @@ Creiamo una variabile globale sicura che esclude tutte le pagine senza categoria
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
   <div>
     <h4>Vocabolario & Frasi</h4>
-    {% assign fra_voc = pagine_con_cat | where_exp: "item", "item.categories contains 'francese'" | where_exp: "item", "item.categories contains 'vocabolario' or item.categories contains 'frasi'" | sort: "title" %}
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in fra_voc %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    {% for p in sorted_pages %}
+      {% if p.categories contains 'francese' %}
+        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
     </ul>
   </div>
   <div>
     <h4>Grammatica & Errori</h4>
-    {% assign fra_gramm = pagine_con_cat | where_exp: "item", "item.categories contains 'francese'" | where_exp: "item", "item.categories contains 'grammatica' or item.categories contains 'errori'" | sort: "title" %}
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in fra_gramm %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    {% for p in sorted_pages %}
+      {% if p.categories contains 'francese' %}
+        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
     </ul>
   </div>
 </div>
@@ -79,12 +96,13 @@ Creiamo una variabile globale sicura che esclude tutte le pagine senza categoria
 <p>Scopri tutte le altre risorse disponibili nel nostro database.</p>
 
 <ul>
-{% assign altre_lingue = pagine_con_cat | where_exp: "item", "item.categories contains 'spagnolo' or item.categories contains 'tedesco' or item.categories contains 'portoghese'" | sort: "title" %}
-{% for p in altre_lingue %}
-  <li style="margin-bottom: 8px;">
-    <span style="font-size: 0.8em; background: #eee; padding: 2px 5px; border-radius: 3px; text-transform: uppercase;">{{ p.categories[0] }}</span> 
-    <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
-  </li>
+{% for p in sorted_pages %}
+  {% if p.categories contains 'spagnolo' or p.categories contains 'tedesco' or p.categories contains 'portoghese' %}
+    <li style="margin-bottom: 8px;">
+      <span style="font-size: 0.8em; background: #eee; padding: 2px 5px; border-radius: 3px; text-transform: uppercase;">{{ p.categories[0] }}</span> 
+      <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
+    </li>
+  {% endif %}
 {% endfor %}
 </ul>
 
