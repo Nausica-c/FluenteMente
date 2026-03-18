@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Le 100 Parole Francesi Più Usate (Parte 2): Saluti e Cortesia"
 subtitle: "Impara a dire ciao, grazie e prego."
 description: "Scopri i saluti in francese e le parole di cortesia più importanti."
