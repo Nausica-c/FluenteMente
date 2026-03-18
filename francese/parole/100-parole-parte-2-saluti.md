@@ -3,6 +3,7 @@ layout: post
 title: "Le 100 Parole Francesi Più Usate (Parte 2): Saluti e Cortesia"
 subtitle: "Impara a dire ciao, grazie e prego. Le basi assolute per essere educati in Francia senza fare brutte figure."
 description: "Scopri i saluti in francese e le parole di cortesia più importanti. Seconda parte della nostra guida alle 100 parole fondamentali per principianti."
+permalink: /francese/parole/100-parole-parte-2-saluti/
 category: vocabolario
 tags:
   - francese
