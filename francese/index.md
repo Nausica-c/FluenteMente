@@ -14,9 +14,16 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ---
 
+{% comment %} 
+Filtro di sicurezza a monte: prendiamo solo le pagine che hanno la voce "category" compilata, 
+e filtriamo subito solo quelle che contengono "francese" per non far crashare Liquid.
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign french_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+
 ## 1. Da dove iniziare (Mindset e Livello Zero)
 
-{% assign da_zero_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'da-zero'" %}
+{% assign da_zero_pages = french_pages | where_exp: "item", "item.categories contains 'da-zero'" %}
 <ul>
 {% for item in da_zero_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -35,7 +42,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 2. Risolvi il problema della Pronuncia
 
-{% assign pronuncia_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'pronuncia'" %}
+{% assign pronuncia_pages = french_pages | where_exp: "item", "item.categories contains 'pronuncia'" %}
 <ul>
 {% for item in pronuncia_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -54,7 +61,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 3. Grammatica (Senza mal di testa)
 
-{% assign grammatica_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'grammatica'" %}
+{% assign grammatica_pages = french_pages | where_exp: "item", "item.categories contains 'grammatica'" %}
 <ul>
 {% for item in grammatica_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -75,7 +82,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 4. Vocabolario: Le parole che servono davvero
 
-{% assign vocabolario_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'vocabolario'" %}
+{% assign vocabolario_pages = french_pages | where_exp: "item", "item.categories contains 'vocabolario'" %}
 <ul>
 {% for item in vocabolario_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -96,7 +103,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 5. Gli Errori Tipici e i "Faux Amis"
 
-{% assign errori_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'errori'" %}
+{% assign errori_pages = french_pages | where_exp: "item", "item.categories contains 'errori'" %}
 <ul>
 {% for item in errori_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -117,7 +124,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 6. Frasi ed Espressioni di Vita Reale
 
-{% assign frasi_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'frasi'" %}
+{% assign frasi_pages = french_pages | where_exp: "item", "item.categories contains 'frasi'" %}
 <ul>
 {% for item in frasi_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -136,7 +143,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 7. Curiosità, Idiomi e Cultura
 
-{% assign curiosita_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'curiosita'" %}
+{% assign curiosita_pages = french_pages | where_exp: "item", "item.categories contains 'curiosita'" %}
 <ul>
 {% for item in curiosita_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -155,7 +162,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 8. Francese per il Lavoro
 
-{% assign business_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'business'" %}
+{% assign business_pages = french_pages | where_exp: "item", "item.categories contains 'business'" %}
 <ul>
 {% for item in business_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -176,7 +183,7 @@ Se ti senti bloccato, se la pronuncia ti spaventa o se semplicemente non sai da 
 
 ## 9. Francese in Viaggio: Sopravvivere all'estero
 
-{% assign viaggio_pages = site.pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'viaggio'" %}
+{% assign viaggio_pages = french_pages | where_exp: "item", "item.categories contains 'viaggio'" %}
 <ul>
 {% for item in viaggio_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
