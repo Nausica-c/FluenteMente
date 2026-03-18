@@ -1,57 +1,68 @@
 ---
-layout: page
-title: "Le 100 parole francesi più usate (Parte 2): Saluti, Cortesia e Sopravvivenza"
-subtitle: "Sopravvivere in Francia richiede più di un semplice vocabolario: richiede 'politesse'. Ecco le parole magiche per non fare brutte figure."
-permalink: /francese/parole/100-parole-parte-2-saluti/
+layout: post
+title: "Le 100 Parole Francesi Più Usate (Parte 2): Saluti e Cortesia"
+subtitle: "Impara a dire ciao, grazie e prego. Le basi assolute per essere educati in Francia senza fare brutte figure."
+description: "Scopri i saluti in francese e le parole di cortesia più importanti. Seconda parte della nostra guida alle 100 parole fondamentali per principianti."
+category: vocabolario
+tags:
+  - francese
+  - vocabolario
+  - saluti
+  - principianti
 ---
 
-Benvenuto nella seconda tappa del nostro viaggio attraverso le **[100 parole francesi fondamentali]({{ site.baseurl }}/francese/da-zero/100-parole-francesi-piu-usate/)**. Dopo aver imparato a [indicare i protagonisti della frase (Parte 1)]({{ site.baseurl }}/francese/parole/100-parole-parte-1-pronomi/), è ora di scendere in strada.
+*Disclaimer: questo articolo contiene link affiliati. Se decidi di utilizzare i servizi consigliati tramite i nostri link, potremmo ricevere una piccola commissione senza costi aggiuntivi per te.*
 
-C'è una regola non scritta in Francia: prima di chiedere un'informazione, ordinare un caffè o persino guardare la vetrina di un piccolo negozio dall'interno, **devi salutare**. La *politesse* (l'educazione) è il lubrificante sociale di tutta la nazione. 
+Sei arrivato alla seconda tappa del nostro viaggio per costruire le tue fondamenta di francese. Dopo aver visto i pronomi e i soggetti nella prima parte, oggi affrontiamo la regola d'oro per sopravvivere in Francia: **la cortesia**.
 
-Ecco le parole essenziali di sopravvivenza per aprire qualsiasi porta (e ricevere sempre un sorriso in cambio).
+I francesi tengono moltissimo alle buone maniere. Entrare in una *boulangerie* senza salutare è considerato un affronto. Ecco quindi le parole essenziali per salutare, ringraziare e congedarsi come un vero *local*.
 
----
+## I saluti di base: l'arte del "Bonjour"
 
-## 👋 I Saluti (Le basi dell'interazione)
+In francese, il saluto cambia drasticamente in base al livello di formalità e al momento della giornata.
 
-* **10. Bonjour (Buongiorno / Ciao formale):** È la parola più importante della lingua francese. Usala sempre quando entri in un negozio, sali sull'autobus o ti rivolgi a uno sconosciuto di giorno.
-* **11. Bonsoir (Buonasera):** Il fratello serale di *Bonjour*. Dalle 17:30/18:00 in poi, è obbligatorio passare a *Bonsoir*. Se dici *Bonjour* di sera, i francesi capiranno subito che sei un turista (o che hai l'orologio rotto!).
-* **12. Salut (Ciao):** Informale e amichevole. Si usa solo con le persone a cui dai del tu. La cosa fantastica? Funziona sia quando arrivi che quando te ne vai!
-* **13. Au revoir (Arrivederci):** La formula standard per congedarsi. Non uscire mai da un negozio senza aver detto *"Merci, au revoir!"*.
+* **Bonjour** (Buongiorno / Ciao formale): È la parola più importante in assoluto. Usala sempre quando entri in un negozio o incontri qualcuno di giorno.
+* **Bonsoir** (Buonasera): Sostituisce il "bonjour" dal tardo pomeriggio in poi.
+* **Salut** (Ciao): Molto informale. Usalo solo con amici, parenti o colleghi stretti, sia per salutarsi quando ci si incontra, sia quando ci si separa.
+* **Bonne nuit** (Buonanotte): Da usare solo quando si sta letteralmente andando a dormire.
 
----
+## Le parole magiche della cortesia
 
-## 🎩 Le Parole Magiche (La vera "Politesse")
+Non chiedere mai un'informazione o un caffè senza aggiungere una di queste espressioni.
 
-* **14. S'il vous plaît (Per favore - Formale):** Letteralmente "Se vi/Le piace". È il passepartout per chiedere qualsiasi cosa a chi non conosci. Spesso nei messaggi lo vedrai abbreviato in *SVP*.
-* **15. S'il te plaît (Per favore - Informale):** La versione da usare con gli amici, la famiglia o i bambini (*STP* nei messaggi).
-* **16. Merci (Grazie):** Semplice, elegante, universale. Vuoi rafforzarlo? Aggiungi *beaucoup* (Merci beaucoup = Grazie mille).
-* **17. Pardon (Scusa):** La parola da usare se urti qualcuno per strada, se devi passare tra la folla in metropolitana o se hai calpestato un piede per sbaglio.
-* **18. Excusez-moi (Mi scusi):** Si usa per attirare l'attenzione di qualcuno prima di fargli una domanda (es. *"Excusez-moi, où est la gare ?"*) o per richiamare il cameriere al ristorante.
+* **S'il vous plaît** (Per favore - formale): Letteralmente "se vi piace". Da usare con gli sconosciuti.
+* **S'il te plaît** (Per favore - informale): Da usare con chi dai del tu.
+* **Merci** (Grazie): Semplice ed essenziale. Se vuoi esagerare, usa *Merci beaucoup* (grazie mille).
+* **De rien** (Di niente / Prego): La risposta standard quando qualcuno ti ringrazia.
+* **Je vous en prie** (Prego - molto formale): Usalo in contesti eleganti o lavorativi.
+* **Excusez-moi** (Mi scusi): Fondamentale per attirare l'attenzione di un cameriere o per chiedere permesso in metropolitana.
+* **Pardon** (Scusa): Usato per scusarsi di un piccolo urto per strada o per farsi spazio.
 
----
+{% include bridge-box.html type="base" lang="francese" %}
 
-## 🟢 Le Basi Assolute (L'arte di acconsentire o rifiutare)
+## Come congedarsi
 
-* **19. Oui (Sì):** Sembra banale, ma è essenziale. Nel parlato molto informale, potresti sentire i francesi dire **Ouais** (si pronuncia "uè"), che equivale al nostro "sì, dai" o all'inglese "yeah".
-* **20. Non (No):** Secco e chiaro. I francesi non hanno paura di dire di no, quindi non sentirti in colpa a usarlo se qualcuno ti offre qualcosa che non vuoi.
+Quando è il momento di andare via, il francese offre diverse sfumature a seconda di quando rivedrai la persona.
 
----
+* **Au revoir** (Arrivederci): Il modo standard e sicuro per salutare quando si va via.
+* **À bientôt** (A presto): Quando sai che rivedrai la persona, ma non sai esattamente quando.
+* **À plus tard** (A più tardi): Spesso abbreviato in *À plus* nel parlato informale.
+* **Bonne journée** (Buona giornata): L'augurio perfetto da lasciare quando esci da un negozio la mattina.
 
-<div class="solution-box">
-  <h3>🇫🇷 Il segreto è nell'intonazione (e nella pratica!)</h3>
-  <p>Sapere che <em>"Bonjour"</em> significa buongiorno è facile. Dirlo con la giusta intonazione sorridente (e senza far sentire troppo la "r" italiana) è ciò che fa la differenza tra un turista e un viaggiatore esperto.</p>
-  <p>Con <strong>Babbel</strong>, puoi imparare e testare queste formule di cortesia direttamente in contesti reali. I dialoghi interattivi ti mostrano esattamente quando usare <em>Excusez-moi</em> invece di <em>Pardon</em>, mentre il sistema di riconoscimento vocale intelligente ti aiuta a calibrare il tuo accento fin dal primo giorno.</p>
-  <p style="text-align: center;">
-    <strong><a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" style="color: #ff5a5f;">👉 C'est parti! Supera la barriera linguistica con Babbel!</a></strong>
-  </p>
-</div>
+## Metti in pratica i saluti per non bloccarti
+
+Leggere queste parole è utile, ma per usarle istintivamente (e con la pronuncia nasale corretta) devi allenare l'orecchio. I saluti devono diventare un riflesso incondizionato, non una traduzione mentale.
+
+Se stai studiando da autodidatta e vuoi imparare a inserire questi saluti in vere conversazioni quotidiane, ti consigliamo di fare pratica attiva e ascoltare voci madrelingua. 
+
+**[👉 C'est parti! Supera la barriera linguistica con Babbel iniziando da qui!](https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=)**
 
 ---
 
 ### Il tuo percorso continua
-Ottimo lavoro! Ora che sai come essere educato e non fare gaffe, è il momento di imparare a compiere le azioni principali:
-* **Prossimo Step:** [Vai alla Parte 3: I "Fantastici 4" Verbi Francesi]({{ site.baseurl }}/francese/parole/100-parole-parte-3-verbi-base/).
-* **Torna all'indice:** [Pillar Page: Le 100 parole francesi fondamentali]({{ site.baseurl }}/francese/da-zero/100-parole-francesi-piu-usate/).
-* **Approfondisci:** [10 modi per ringraziare in francese come un vero local]({{ site.baseurl }}/francese/curiosita/modi-per-ringraziare-francese/).
+
+Ottimo lavoro! Ora che sai come essere educato e non fare gaffe, è il momento di imparare a compiere le azioni principali all'interno di una frase:
+
+* **Prossimo Step:** [Vai alla Parte 3: I "Fantastici 4" Verbi Francesi](/francese/parole/100-parole-parte-3-verbi-base/)
+* **Torna all'indice:** [Pillar Page: Le 100 parole francesi fondamentali](/francese/da-zero/100-parole-francesi-piu-usate/)
+* **Approfondisci:** [10 modi per ringraziare in francese come un vero local](/francese/curiosita/modi-per-ringraziare-francese/)
