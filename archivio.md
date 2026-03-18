@@ -38,8 +38,8 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
     <h4>Vocabolario & Frasi</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
     {% for p in sorted_pages %}
-      {% if p.categories contains 'inglese' %}
-        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+      {% if p.categories %}
+        {% if p.categories contains 'inglese' and p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -50,8 +50,8 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
     <h4>Grammatica & Errori</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
     {% for p in sorted_pages %}
-      {% if p.categories contains 'inglese' %}
-        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
+      {% if p.categories %}
+        {% if p.categories contains 'inglese' and p.categories contains 'grammatica' or p.categories contains 'errori' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -68,8 +68,8 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
     <h4>Vocabolario & Frasi</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
     {% for p in sorted_pages %}
-      {% if p.categories contains 'francese' %}
-        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+      {% if p.categories %}
+        {% if p.categories contains 'francese' and p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -80,8 +80,8 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
     <h4>Grammatica & Errori</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
     {% for p in sorted_pages %}
-      {% if p.categories contains 'francese' %}
-        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
+      {% if p.categories %}
+        {% if p.categories contains 'francese' and p.categories contains 'grammatica' or p.categories contains 'errori' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -97,11 +97,13 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
 
 <ul>
 {% for p in sorted_pages %}
-  {% if p.categories contains 'spagnolo' or p.categories contains 'tedesco' or p.categories contains 'portoghese' %}
-    <li style="margin-bottom: 8px;">
-      <span style="font-size: 0.8em; background: #eee; padding: 2px 5px; border-radius: 3px; text-transform: uppercase;">{{ p.categories[0] }}</span> 
-      <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
-    </li>
+  {% if p.categories %}
+    {% if p.categories contains 'spagnolo' or p.categories contains 'tedesco' or p.categories contains 'portoghese' %}
+      <li style="margin-bottom: 8px;">
+        <span style="font-size: 0.8em; background: #eee; padding: 2px 5px; border-radius: 3px; text-transform: uppercase;">{{ p.categories[0] }}</span> 
+        <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
+      </li>
+    {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
