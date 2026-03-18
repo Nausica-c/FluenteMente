@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Metodo per Imparare una Lingua da Autodidatta (La Guida Definitiva)"
 subtitle: "La strategia passo-passo per studiare in modo efficace, evitare i vecchi errori scolastici e sbloccare la conversazione senza impazzire."
 description: "Scopri il metodo consigliato per imparare una lingua straniera da autodidatta. Strategie, input comprensibile, ripetizione spaziata e le 3 fasi dello studio."
