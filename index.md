@@ -49,10 +49,10 @@ Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo pa
 *Ecco le ultime analisi caricate sul sito (massimo 10 risultati):*
 
 <ul style="list-style-type: none; padding-left: 0;">
-{% assign sorted_pages = site.pages | where_exp: "item", "item.date" | sort: 'date' | reverse %}
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
 {% assign count = 0 %}
 {% for p in sorted_pages %}
-  {% if p.url != "/" and count < 10 %}
+  {% if p.date and p.url != "/" and count < 10 %}
     <li style="margin-bottom: 25px; border-bottom: 1px solid #f0f0f0; padding-bottom: 15px;">
       <small style="color: #888; text-transform: uppercase;">{{ p.date | date: "%d %B %Y" }}</small><br>
       <strong style="font-size: 1.25em;"><a href="{{ p.url | relative_url }}" style="text-decoration: none; color: #2a7ae2;">{{ p.title }}</a></strong><br>
