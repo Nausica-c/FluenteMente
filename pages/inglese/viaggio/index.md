@@ -1,20 +1,25 @@
 ---
 layout: page
-title: "Pronuncia Inglese: Tutti gli articoli"
-description: "L'archivio completo delle nostre guide per migliorare la tua pronuncia inglese e perdere l'accento italiano."
-permalink: /inglese/pronuncia/
+title: "Inglese in Viaggio: L'archivio completo"
+description: "Tutte le risorse per viaggiare senza ansie: aeroporto, hotel, ristorante e indicazioni stradali."
+permalink: /inglese/viaggio/
 ---
 
-In questa pagina trovi l'archivio completo di tutti gli articoli dedicati alla pronuncia e alla fonetica inglese. Scopri come posizionare la bocca e riprodurre i suoni che in italiano non esistono.
+In questa sezione trovi tutte le nostre guide pratiche per affrontare i tuoi viaggi all'estero con sicurezza, gestendo ogni situazione: dal check-in in aeroporto all'ordinazione al ristorante.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
-
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie (nil) {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'pronuncia'" %}
+{% comment %} 
+Filtri concatenati per la massima stabilità (evita l'errore "Expected end_of_string"):
+1. Prendiamo solo le pagine che hanno l'attributo categories
+2. Selezioniamo il cluster 'inglese'
+3. Isoliamo la categoria 'viaggio'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign en_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+{% assign category_pages = en_pages | where_exp: "item", "item.categories contains 'viaggio'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -26,3 +31,5 @@ In questa pagina trovi l'archivio completo di tutti gli articoli dedicati alla p
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
+
+{% include promo-box.html type="viaggio" lang="inglese" %}
