@@ -12,9 +12,15 @@ Qui trovi tutto il materiale per andare oltre la semplice grammatica: slang, idi
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'curiosita'" %}
+{% comment %} 
+Filtri concatenati (Chaining) per massima stabilità:
+1. Filtriamo solo le pagine che hanno categorie definite
+2. Selezioniamo il cluster 'inglese'
+3. Isoliamo la categoria 'curiosita'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign en_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+{% assign category_pages = en_pages | where_exp: "item", "item.categories contains 'curiosita'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -26,3 +32,5 @@ Qui trovi tutto il materiale per andare oltre la semplice grammatica: slang, idi
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
+
+{% include promo-box.html type="curiosita" lang="inglese" %}
