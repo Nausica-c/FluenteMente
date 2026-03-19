@@ -2,6 +2,7 @@
 layout: page
 title: "Atterraggio Morbido: Gestire l'Aeroporto senza Stress"
 subtitle: "L'inglese essenziale per superare l'immigrazione, recuperare i bagagli e raggiungere il centro città."
+categories: [inglese, viaggio]
 permalink: /inglese/viaggio/aeroporto-senza-stress/
 ---
 
