@@ -2,6 +2,7 @@
 layout: page
 title: "Airbnb & Hostel Survival Guide: Convivenza e Regole della Casa in Inglese"
 subtitle: "Dal check-in autonomo alle chiacchiere in ostello: le frasi giuste per sentirti a casa ovunque nel mondo."
+categories: [inglese, viaggio]
 permalink: /inglese/viaggio/airbnb-hostel-survival-guide/
 ---
 
