@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Babbel Recensione (2026): Come Funziona e Vale la Pena?"
 subtitle: "Un'analisi onesta, pratica e aggiornata sul metodo, i pro, i contro e a chi è davvero utile per imparare le lingue da autodidatta."
 description: "Scopri se Babbel funziona davvero nella nostra recensione aggiornata al 2026. Opinioni oneste, come funziona, pro, contro e per chi vale la pena."
