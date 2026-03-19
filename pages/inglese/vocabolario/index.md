@@ -9,11 +9,14 @@ permalink: /inglese/vocabolario/
 <hr>
 
 {% comment %} 
-SCUDO DI SICUREZZA: Filtriamo solo le pagine che hanno categorie 
-e che appartengono alla sezione vocabolario inglese.
+SCUDO DI SICUREZZA: 
+1. Filtriamo solo le pagine che hanno categorie
+2. Isoliama il cluster 'inglese'
+3. Isoliamo la sezione 'vocabolario'
 {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign vocabolario_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'vocabolario'" %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign en_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+{% assign vocabolario_pages = en_pages | where_exp: "item", "item.categories contains 'vocabolario'" %}
 
 {% comment %} Logica per identificare pagine senza un livello specifico (A1-C1) {% endcomment %}
 {% assign unclassified_pages = "" | split: "" %}
@@ -61,7 +64,11 @@ e che appartengono alla sezione vocabolario inglese.
 
 ## 🟠 Livelli B1 / B2 (Intermedio)
 <ul>
-{% assign b_pages = vocabolario_pages | where_exp: "item", "item.categories contains 'b1' or item.categories contains 'b2'" %}
+{% comment %} Per i livelli combinati B1/B2, filtriamo separatamente e uniamo i risultati {% endcomment %}
+{% assign b1_pages = vocabolario_pages | where_exp: "item", "item.categories contains 'b1'" %}
+{% assign b2_pages = vocabolario_pages | where_exp: "item", "item.categories contains 'b2'" %}
+{% assign b_pages = b1_pages | concat: b2_pages | uniq %}
+
 {% for item in b_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">{% if item.description %}{{ item.description }}{% else %}{{ item.excerpt | strip_html | truncatewords: 25 }}{% endif %}</small></li>
