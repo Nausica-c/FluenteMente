@@ -1,4 +1,4 @@
-,---
+---
 layout: page
 title: "Imparare lo Spagnolo: Guida, Errori e Risorse per Italiani"
 subtitle: "Evita l'effetto 'itagnolo', scopri i falsi amici e impara a parlare lo spagnolo vero da adulto."
