@@ -1,18 +1,21 @@
 ---
 layout: page
-title: "Grammatica Inglese: Tutti gli articoli"
-description: "Regole, eccezioni e spiegazioni semplici per padroneggiare la grammatica inglese senza impazzire."
-permalink: /inglese/grammatica/
+title: "Frasi ed Espressioni in Inglese: Tutti gli articoli"
+description: "Archivio di frasi pronte all'uso, espressioni per viaggiare e formule per sembrare più fluente."
+permalink: /inglese/frasi/
 ---
 
-In questa pagina trovi l'archivio completo di tutte le guide e spiegazioni sulla grammatica inglese. Dimentica le noiose regole scolastiche: qui impariamo a usare la lingua vera.
+Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte le nostre guide dedicate alle frasi e alle espressioni di sopravvivenza in inglese, per lavoro o per i viaggi.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
 
 <hr>
 
 <ul>
-{% assign category_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'grammatica'" %}
+{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie (nil) {% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'frasi'" %}
+
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">
@@ -23,5 +26,3 @@ In questa pagina trovi l'archivio completo di tutte le guide e spiegazioni sulla
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
-
-{% include promo-box.html type="grammatica" lang="inglese" %}
