@@ -12,7 +12,10 @@ Qui trovi tutto il materiale per andare oltre la semplice grammatica: slang, idi
 <hr>
 
 <ul>
-{% assign category_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'curiosita'" %}
+{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie {% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'curiosita'" %}
+
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">
