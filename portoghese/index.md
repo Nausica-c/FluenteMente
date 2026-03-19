@@ -10,17 +10,26 @@ Il portoghese è una lingua che ti entra nel cuore. Spesso sottovalutato, è la 
 
 Per un italiano, il portoghese scritto è quasi comprensibile, ma il parlato nasconde suoni chiusi e ritmi complessi. In questo hub ti guidiamo alla scoperta della lingua lusofona.
 
+{% include promo-box.html type="base" lang="portoghese" %}
+
 ---
+
+{% comment %} 
+SCUDO DI SICUREZZA: 
+1. Prendiamo solo le pagine che hanno categorie (evita crash su nil).
+2. Isoliamo quelle del cluster 'portoghese'.
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign portoghese_pages = safe_pages | where_exp: "item", "item.categories contains 'portoghese'" %}
 
 ## 1. Portogallo vs Brasile (Quale scegliere?)
 
-Le differenze di accento, vocabolario e grammatica tra il portoghese europeo e quello brasiliano. Da dove iniziare?
+{% assign basi_posts = portoghese_pages | where_exp: "item", "item.tags != nil" | where_exp: "item", "item.tags contains 'basi'" %}
 
 <ul>
-{% assign basi_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'basi'" %}
 {% if basi_posts.size > 0 %}
   {% for post in basi_posts %}
-    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+    <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
   {% endfor %}
 {% else %}
   <li><em>Articoli in lavorazione! Stiamo analizzando le varianti per te.</em></li>
@@ -31,13 +40,12 @@ Le differenze di accento, vocabolario e grammatica tra il portoghese europeo e q
 
 ## 2. Falsi Amici Portogallo-Italia
 
-Attenzione a non fare confusione tra "propina" (che in portoghese è semplicemente la tassa universitaria!) e altri trabocchetti linguistici.
+{% assign errori_posts = portoghese_pages | where_exp: "item", "item.tags != nil" | where_exp: "item", "item.tags contains 'errori'" %}
 
 <ul>
-{% assign errori_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'errori'" %}
 {% if errori_posts.size > 0 %}
   {% for post in errori_posts %}
-    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+    <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
   {% endfor %}
 {% else %}
   <li><em>Articoli in lavorazione! I falsi amici portoghesi sono in arrivo.</em></li>
@@ -48,13 +56,12 @@ Attenzione a non fare confusione tra "propina" (che in portoghese è semplicemen
 
 ## 3. La Pronuncia e le Vocali Nasali
 
-Imparare a pronunciare la "tilde" (ã) e a distinguere i suoni aperti e chiusi che rendono il portoghese così unico.
+{% assign pronuncia_posts = portoghese_pages | where_exp: "item", "item.tags != nil" | where_exp: "item", "item.tags contains 'pronuncia'" %}
 
 <ul>
-{% assign pronuncia_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'pronuncia'" %}
 {% if pronuncia_posts.size > 0 %}
   {% for post in pronuncia_posts %}
-    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+    <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
   {% endfor %}
 {% else %}
   <li><em>Articoli in lavorazione! Stiamo preparando gli audio tutorial.</em></li>
@@ -65,13 +72,12 @@ Imparare a pronunciare la "tilde" (ã) e a distinguere i suoni aperti e chiusi c
 
 ## 4. Frasi di Sopravvivenza e Viaggio
 
-Tutto quello che ti serve per muoverti tra Lisbona, Porto, Rio o São Paulo con naturalezza.
+{% assign frasi_posts = portoghese_pages | where_exp: "item", "item.tags != nil" | where_exp: "item", "item.tags contains 'frasi'" %}
 
 <ul>
-{% assign frasi_posts = site.categories['portoghese'] | where_exp: "item", "item.tags contains 'frasi'" %}
 {% if frasi_posts.size > 0 %}
   {% for post in frasi_posts %}
-    <li>👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
+    <li style="margin-bottom: 10px;">👉 <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong></li>
   {% endfor %}
 {% else %}
   <li><em>Articoli in lavorazione! Le guide per i tuoi viaggi sono in arrivo.</em></li>
@@ -80,10 +86,13 @@ Tutto quello che ti serve per muoverti tra Lisbona, Porto, Rio o São Paulo con 
 
 ---
 
-<div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Entra nel mondo lusofono</h3>
-<p>Il portoghese si impara con il ritmo. Scopri l'app che ti permette di scegliere tra la variante brasiliana e quella europea, guidandoti verso la fluency.</p>
-<a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}">
-Leggi la recensione e inizia a studiare oggi
+<div class="cta-soft-box" style="margin-top: 40px; padding: 30px; background: #f9f9f9; border-left: 5px solid #ff7a59; border-radius: 8px;" markdown="1">
+
+### 🎯 Entra nel mondo lusofono
+Il portoghese si impara con il ritmo. Scopri l'app che ti permette di scegliere tra la variante brasiliana e quella europea, guidandoti verso la fluency.
+
+<a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}" style="display: inline-block; background: #ff7a59; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">
+Leggi la recensione e inizia a studiare oggi →
 </a>
+
 </div>
