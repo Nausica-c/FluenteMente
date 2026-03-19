@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FluenteMente: Imparare le lingue da adulti (senza tornare a scuola)"
-subtitle: "Il metodo pratico e gli strumenti testati per sbloccarti e iniziare a parlare davvero."
+subtitle: "Il metodo pratico e gli strumenti testati per sbloccarti e iniziare a parlare davvero"
 description: "Benvenuto su FluenteMente. Il blog dedicato agli adulti che vogliono imparare una lingua straniera: niente fuffa, solo metodi testati e recensioni oneste."
 permalink: /
 ---
