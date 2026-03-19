@@ -9,9 +9,15 @@ permalink: /francese/pronuncia/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'pronuncia'" %}
+{% comment %} 
+Filtri concatenati per la massima stabilità:
+1. Prendiamo solo le pagine che hanno categorie
+2. Selezioniamo il cluster 'francese'
+3. Isoliamo la categoria 'pronuncia'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'pronuncia'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -22,3 +28,4 @@ permalink: /francese/pronuncia/
 {% endfor %}
 </ul>
 
+{% include promo-box.html type="pronuncia" lang="francese" %}
