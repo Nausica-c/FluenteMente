@@ -4,6 +4,7 @@ title: "Inglese da Zero: Come iniziare (o ricominciare) da adulti"
 subtitle: "La guida pratica per superare il blocco, evitare gli errori classici e iniziare a parlare fin dai primi giorni."
 description: "Come imparare l'inglese da zero se sei un adulto. Dimentica i traumi scolastici e scopri da quali vocaboli partire e quali strumenti usare."
 permalink: /inglese/da-zero/
+categories: [inglese, da-zero]
 ---
 
 Iniziare a studiare l'inglese da adulti può sembrare una montagna insormontabile. 
@@ -58,42 +59,34 @@ Partire da zero spulciando video a caso su YouTube ti porterà solo a una grande
 
 Hai bisogno di una strada tracciata da professionisti, che ti porti per mano dal livello A1 al livello B2 senza farti saltare i passaggi logici.
 
-<div class="procon-wrap">
+<div class="procon-wrap" markdown="1">
 
-<div class="procon-card">
-<h3>✅ Cosa FARE all'inizio</h3>
-<ul>
-<li>Seguire un percorso guidato passo dopo passo (Livello A1).</li>
-<li>Studiare <strong>solo 15 minuti</strong> al giorno, ma tutti i giorni.</li>
-<li>Ascoltare dialoghi di veri madrelingua.</li>
-<li>Ripetere ad alta voce nella tua stanza, senza vergogna.</li>
-</ul>
+<div class="procon-card" markdown="1">
+### ✅ Cosa FARE all'inizio
+* Seguire un percorso guidato passo dopo passo (Livello A1).
+* Studiare **solo 15 minuti** al giorno, ma tutti i giorni.
+* Ascoltare dialoghi di veri madrelingua.
+* Ripetere ad alta voce nella tua stanza, senza vergogna.
 </div>
 
-<div class="procon-card">
-<h3>❌ Cosa NON fare all'inizio</h3>
-<ul>
-<li>Comprare enormi tomi di grammatica universitaria.</li>
-<li>Scaricare app per bambini che ti fanno tradurre "L'orso mangia la mela".</li>
-<li>Guardare film complessi in inglese senza sottotitoli (ti frustrerai e basta).</li>
-</ul>
+<div class="procon-card" markdown="1">
+### ❌ Cosa NON fare all'inizio
+* Comprare enormi tomi di grammatica universitaria.
+* Scaricare app per bambini che ti fanno tradurre "L'orso mangia la mela".
+* Guardare film complessi in inglese senza sottotitoli (ti frustrerai e basta).
 </div>
 
 </div>
 
 ---
 
-## Da dove iniziare oggi stesso?
+<div class="cta-soft-box" style="margin-top: 30px; padding: 30px; background: #f9f9f9; border-left: 5px solid #ff7a59; border-radius: 8px;" markdown="1">
 
-Se sei davvero a livello zero (o se vuoi ricominciare costruendo fondamenta solide eliminando le vecchie lacune), ti sconsigliamo i "giochini gratuiti". 
+### 🎯 Inizia il tuo percorso guidato
+L'app che raccomandiamo su FluenteMente offre spiegazioni chiare in italiano, si concentra sulle 1000 parole che servono davvero nella vita reale e ha un sistema di riconoscimento vocale eccellente.
 
-Hai bisogno di un corso vero e proprio, ma che sia tascabile, che non ti annoi e che ti corregga la pronuncia mentre parli.
-
-<div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Inizia il tuo percorso guidato</h3>
-<p>L'app che raccomandiamo su FluenteMente offre spiegazioni chiare in italiano, si concentra sulle 1000 parole che servono davvero nella vita reale e ha un sistema di riconoscimento vocale eccellente.</p>
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Prova la prima lezione gratuita
+<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow" style="display: inline-block; background: #ff7a59; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">
+Prova la prima lezione gratuita →
 </a>
 </div>
 
@@ -106,5 +99,3 @@ Non fermarti qui. Costruisci il tuo sistema di studio ideale esplorando le nostr
 * 👉 **[Il Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})**: Scopri perché la regola dei 15 minuti cambierà il tuo modo di imparare.
 * 👉 **[Esplora l'Hub Inglese]({{ '/inglese/' | relative_url }})**: Salva la nostra libreria per scoprire i falsi amici da evitare e le regole di pronuncia essenziali.
 * 👉 **[Leggi la nostra recensione di Babbel]({{ '/recensione-babbel/' | relative_url }})**: Scopri perché la preferiamo alle alternative gratuite per gli adulti.
-
-L'inglese può cambiarti la vita, aprirti nuove opportunità di carriera e farti viaggiare senza ansia. Fai il primo passo oggi!
