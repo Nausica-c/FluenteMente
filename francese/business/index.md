@@ -9,9 +9,15 @@ permalink: /francese/business/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'business'" %}
+{% comment %} 
+Applichiamo i filtri in cascata per evitare errori di sintassi:
+1. Filtriamo le pagine che hanno categorie
+2. Filtriamo per 'francese'
+3. Filtriamo per 'business'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'business'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
