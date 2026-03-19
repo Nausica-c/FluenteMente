@@ -12,7 +12,10 @@ Tutte le risorse per migliorare il tuo inglese professionale e aprirti nuove opp
 <hr>
 
 <ul>
-{% assign category_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'business'" %}
+{% comment %} Filtro di sicurezza per evitare il crash sui valori nulli (nil) {% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'business'" %}
+
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">
