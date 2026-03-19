@@ -12,9 +12,15 @@ Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte 
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie (nil) {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'frasi'" %}
+{% comment %} 
+Filtri a cascata per massima stabilità (evita l'errore "Expected end_of_string"):
+1. Prendiamo solo le pagine che hanno l'attributo categories
+2. Selezioniamo il cluster 'inglese'
+3. Isoliamo la categoria 'frasi'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign en_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+{% assign category_pages = en_pages | where_exp: "item", "item.categories contains 'frasi'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -26,3 +32,5 @@ Non sai come esprimerti in una certa situazione? In questo archivio trovi tutte 
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
+
+{% include promo-box.html type="frasi" lang="inglese" %}
