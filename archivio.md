@@ -6,6 +6,12 @@ description: "Esplora l'archivio completo di FluenteMente. Trova tutte le guide 
 permalink: /archivio/
 ---
 
+{% comment %} 
+Uniamo pagine e articoli in un'unica collezione e ordiniamo per titolo 
+{% endcomment %}
+{% assign all_content = site.pages | concat: site.posts %}
+{% assign sorted_content = all_content | sort: "title" %}
+
 Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola lezione e analisi pubblicata sul sito, organizzata per lingua e argomento per facilitarti la ricerca.
 
 ### Esplora per categoria:
@@ -17,10 +23,9 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
 <p>Le guide fondamentali per approcciare qualsiasi lingua e le nostre analisi oneste sugli strumenti digitali.</p>
 
 <ul>
-{% assign sorted_pages = site.pages | sort: "title" %}
-{% for p in sorted_pages %}
-  {% if p.categories == nil or p.categories.size == 0 %}
-    {% if p.title and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' %}
+{% for p in sorted_content %}
+  {% if p.title and p.permalink != '/' and p.permalink != '/archivio/' and p.permalink != '/hub-lingue/' %}
+    {% if p.categories == nil or p.categories.size == 0 %}
       <li style="margin-bottom: 10px;">
         <strong><a href="{{ p.url | relative_url }}">{{ p.title }}</a></strong>
         {% if p.subtitle %}<br><small style="color: #666;">{{ p.subtitle }}</small>{% endif %}
@@ -37,9 +42,9 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
   <div>
     <h4>Vocabolario & Frasi</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in sorted_pages %}
-      {% if p.categories %}
-        {% if p.categories contains 'inglese' and p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+    {% for p in sorted_content %}
+      {% if p.categories contains 'inglese' %}
+        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -49,9 +54,9 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
   <div>
     <h4>Grammatica & Errori</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in sorted_pages %}
-      {% if p.categories %}
-        {% if p.categories contains 'inglese' and p.categories contains 'grammatica' or p.categories contains 'errori' %}
+    {% for p in sorted_content %}
+      {% if p.categories contains 'inglese' %}
+        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -67,9 +72,9 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
   <div>
     <h4>Vocabolario & Frasi</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in sorted_pages %}
-      {% if p.categories %}
-        {% if p.categories contains 'francese' and p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
+    {% for p in sorted_content %}
+      {% if p.categories contains 'francese' %}
+        {% if p.categories contains 'vocabolario' or p.categories contains 'frasi' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -79,9 +84,9 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
   <div>
     <h4>Grammatica & Errori</h4>
     <ul style="font-size: 0.9em; padding-left: 20px;">
-    {% for p in sorted_pages %}
-      {% if p.categories %}
-        {% if p.categories contains 'francese' and p.categories contains 'grammatica' or p.categories contains 'errori' %}
+    {% for p in sorted_content %}
+      {% if p.categories contains 'francese' %}
+        {% if p.categories contains 'grammatica' or p.categories contains 'errori' %}
           <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {% endif %}
       {% endif %}
@@ -96,7 +101,7 @@ Benvenuto nella libreria completa di **FluenteMente**. Qui trovi ogni singola le
 <p>Scopri tutte le altre risorse disponibili nel nostro database.</p>
 
 <ul>
-{% for p in sorted_pages %}
+{% for p in sorted_content %}
   {% if p.categories %}
     {% if p.categories contains 'spagnolo' or p.categories contains 'tedesco' or p.categories contains 'portoghese' %}
       <li style="margin-bottom: 8px;">
