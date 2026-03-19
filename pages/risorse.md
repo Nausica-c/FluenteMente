@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Risorse per imparare una lingua: la guida per smettere di accumulare e iniziare a studiare"
 subtitle: "App, libri e contenuti autentici: come scegliere gli strumenti giusti per autodidatti ed evitare la paralisi da analisi."
 description: "Scopri le migliori risorse per imparare una lingua da autodidatta. Una guida pratica per selezionare gli strumenti essenziali senza perdere tempo e motivazione."
