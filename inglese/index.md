@@ -10,7 +10,7 @@ L'inglese è la chiave che apre le porte del mondo: dal lavoro, ai viaggi, fino 
 
 Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemente non sai da che parte iniziare, questa è la tua mappa. Abbiamo diviso le nostre migliori guide in categorie: parti da zero, correggi gli errori storici, arricchisci il vocabolario e inizia finalmente a pensare in inglese.
 
-{% include promo-box.html type="base" lang="inglese" %}
+{% include bridge-box.html type="base" lang="inglese" %}
 
 ---
 
