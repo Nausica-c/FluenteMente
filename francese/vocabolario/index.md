@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vocabolario Francese: L'archivio completo"
+title: "Vocabolario Francese: L'archivio completo."
 description: "Tutte le liste di parole, verbi e sostantivi per arricchire il tuo francese."
 permalink: /francese/vocabolario/
 ---
