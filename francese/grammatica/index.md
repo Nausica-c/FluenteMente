@@ -9,9 +9,15 @@ permalink: /francese/grammatica/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'grammatica'" %}
+{% comment %} 
+Filtri a cascata per evitare l'errore "Expected end_of_string":
+1. Filtriamo le pagine che hanno l'attributo categories
+2. Selezioniamo solo il cluster 'francese'
+3. Isoliamo la categoria 'grammatica'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'grammatica'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
