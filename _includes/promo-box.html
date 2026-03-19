@@ -1,0 +1,77 @@
+{% comment %} Impostazioni parametri {% endcomment %}
+{% assign type = include.type | default: "base" %}
+{% assign lang = include.lang | downcase | default: "generico" %}
+
+{% comment %} Setup dinamico della lingua per una grammatica italiana fluida {% endcomment %}
+{% case lang %}
+  {% when "inglese" %}
+    {% assign l_art = "l'inglese" %}{% assign l_pure = "inglese" %}
+  {% when "spagnolo" %}
+    {% assign l_art = "lo spagnolo" %}{% assign l_pure = "spagnolo" %}
+  {% when "tedesco" %}
+    {% assign l_art = "il tedesco" %}{% assign l_pure = "tedesco" %}
+  {% when "portoghese" %}
+    {% assign l_art = "il portoghese" %}{% assign l_pure = "portoghese" %}
+  {% when "francese" %}
+    {% assign l_art = "il francese" %}{% assign l_pure = "francese" %}
+  {% else %}
+    {% assign l_art = "una nuova lingua" %}{% assign l_pure = "la lingua" %}
+{% endcase %}
+
+{% comment %} Testi dinamici in base al tipo. Focus su empatia e benefici pratici. {% endcomment %}
+{% case type %}
+  {% when "business" %}
+    {% assign def_title = "Fatti ascoltare (e capire) in ogni meeting" %}
+    {% assign def_text = "Gestisci call, email e presentazioni con sicurezza. Smetti di cercare le parole e concentrati sul tuo lavoro." %}
+    {% assign def_cta = "Migliora " | append: l_art | append: " per il lavoro" %}
+  
+  {% when "grammatica" %}
+    {% assign def_title = "Zero regole a memoria, solo dialoghi veri" %}
+    {% assign def_text = "La grammatica non si studia sui vecchi libri, si assorbe. Impara ad usarla naturalmente, ascoltando e parlando." %}
+    {% assign def_cta = "Sblocca il tuo parlato" %}
+  
+  {% when "viaggio" %}
+    {% assign def_title = "Ordina al ristorante come una persona del posto" %}
+    {% assign def_text = "Niente più ansia da traduzione. Preparati per il tuo viaggio simulando le situazioni che vivrai davvero (hotel, imprevisti, trasporti)." %}
+    {% assign def_cta = "Prepara la tua valigia linguistica" %}
+
+  {% when "vocabolario" %}
+    {% assign def_title = "Le parole giuste, al momento giusto" %}
+    {% assign def_text = "Impara i vocaboli che si usano davvero tutti i giorni da chi parla " | append: l_pure | append: ", non quelli scolastici." %}
+    {% assign def_cta = "Arricchisci il tuo vocabolario" %}
+
+  {% when "curiosità" %}
+    {% assign def_title = "Non solo parole, ma vera cultura" %}
+    {% assign def_text = "Vai oltre le basi. Scopri lo slang, i modi di dire e le sfumature che ti faranno sembrare quasi madrelingua." %}
+    {% assign def_cta = "Scopri i segreti per sembrare local" %}
+
+  {% when "errori" %}
+    {% assign def_title = "Hai paura di sbagliare a parlare?" %}
+    {% assign def_text = "È il blocco più comune, ma è il primo passo per imparare. Allenati a parlare in un ambiente senza giudizi, finché non ti viene naturale." %}
+    {% assign def_cta = "Inizia a parlare senza stress" %}
+
+  {% else %}
+    {% comment %} Categoria BASE migliorata {% endcomment %}
+    {% assign def_title = "Impara a pensare in un'altra lingua" %}
+    {% assign def_text = "Dimentica le traduzioni mentali infinite. Con 15 minuti al giorno inizi a conversare fin dalle prime lezioni." %}
+    {% assign def_cta = "Inizia la tua prova gratuita" %}
+{% endcase %}
+
+{% comment %} Permette di sovrascrivere i testi manualmente {% endcomment %}
+{% assign title = include.title | default: def_title %}
+{% assign text = include.text | default: def_text %}
+{% assign cta = include.cta | default: def_cta %}
+{% assign link = "https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" %}
+
+<div class="bridge-box" style="padding: 20px; background: #f9f9f9; border-left: 4px solid #ff7a59; border-radius: 4px; margin: 30px 0; font-family: sans-serif;">
+  <h3 style="margin-top: 0; color: #333;">{{ title }}</h3>
+  <p style="color: #444; line-height: 1.5;">{{ text }}</p>
+  
+  <a class="btn-primary" href="{{ link }}" target="_blank" rel="sponsored" style="display: inline-block; padding: 12px 24px; background: #ff7a59; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 15px; transition: background 0.3s;">
+    {{ cta }}
+  </a>
+
+  <p style="margin: 0; font-size: 0.85em; color: #666;">
+    💡 <em>Impara {{ l_art }} con Babbel. <a rel="sponsored" target="_blank" href="{{ link }}" style="color: #ff7a59; text-decoration: underline;">La prima lezione è gratis!</a></em>
+  </p>
+</div>
