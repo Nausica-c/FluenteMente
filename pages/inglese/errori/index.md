@@ -12,9 +12,15 @@ In questa pagina abbiamo raccolto tutti gli articoli che ti aiuteranno a non com
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie (nil) {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'errori'" %}
+{% comment %} 
+Filtri a cascata per massima stabilità (evita l'errore "Expected end_of_string"):
+1. Prendiamo solo le pagine che hanno categorie
+2. Selezioniamo il cluster 'inglese'
+3. Isoliamo la categoria 'errori'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign en_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+{% assign category_pages = en_pages | where_exp: "item", "item.categories contains 'errori'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
