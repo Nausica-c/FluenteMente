@@ -2,6 +2,7 @@
 layout: page
 title: "Business Travel: L'inglese per chi viaggia per lavoro"
 subtitle: "Dal networking alle conferenze: le frasi essenziali per fare bella figura (e carriera) all'estero."
+categories: [inglese, viaggio]
 permalink: /inglese/viaggio/business-travel-inglese/
 ---
 
