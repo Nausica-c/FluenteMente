@@ -18,16 +18,28 @@ Non studierai liste noiose: ogni lezione contiene tabelle rapide, esempi pratici
 Clicca sulle lezioni qui sotto per iniziare. Segui l'ordine numerico per un apprendimento graduale, oppure salta all'argomento che ti interessa di più!
 
 <div class="lesson-hub" style="margin-top: 20px;">
-  {% assign a1_lessons = site.pages | where: "level", "a1" | sort: "lesson" %}
+  {% comment %} 
+  SCUDO DI SICUREZZA:
+  1. Prendiamo solo le pagine che hanno il campo 'level'
+  2. Filtriamo per il livello 'a1'
+  3. Ordiniamo per il numero della lezione
+  {% endcomment %}
+  {% assign level_pages = site.pages | where_exp: "item", "item.level != nil" %}
+  {% assign a1_lessons = level_pages | where: "level", "a1" | sort: "lesson" %}
+  
   {% for lesson in a1_lessons %}
-  <div class="lesson-card" style="border-left: 4px solid #007bff; padding: 10px 15px; margin-bottom: 15px; background: #fdfdfd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; margin-bottom: 5px;">
-      <a href="{{ site.baseurl }}{{ lesson.url }}" style="text-decoration: none; color: #333;">
+  <div class="lesson-card" style="border-left: 4px solid #007bff; padding: 15px; margin-bottom: 15px; background: #fdfdfd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.2em;">
+      <a href="{{ lesson.url | relative_url }}" style="text-decoration: none; color: #007bff; font-weight: bold;">
         Lezione {{ lesson.lesson }}: {{ lesson.title }}
       </a>
     </h3>
-    <p style="margin: 0; color: #666; font-size: 0.9em;">{{ lesson.subtitle }}</p>
+    {% if lesson.subtitle %}
+    <p style="margin: 0; color: #666; font-size: 0.95em;">{{ lesson.subtitle }}</p>
+    {% endif %}
   </div>
+  {% else %}
+    <p><em>Le lezioni del livello A1 sono in fase di caricamento. Torna a trovarci presto!</em></p>
   {% endfor %}
 </div>
 
