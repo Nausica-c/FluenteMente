@@ -9,9 +9,15 @@ permalink: /francese/errori/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'errori'" %}
+{% comment %} 
+Filtri concatenati per massima compatibilità con Jekyll: 
+1. Pagine con categorie esistenti
+2. Pagine francesi
+3. Pagine specifiche per errori
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'errori'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -21,3 +27,5 @@ permalink: /francese/errori/
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
+
+{% include promo-box.html type="errori" lang="francese" %}
