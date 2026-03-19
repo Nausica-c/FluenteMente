@@ -9,9 +9,10 @@ permalink: /francese/viaggio/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'viaggio'" %}
+{% comment %} Filtri separati per massima compatibilità con GitHub Actions {% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'viaggio'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
