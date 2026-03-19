@@ -1,17 +1,19 @@
 ---
 layout: page
-title: "Francese in Viaggio: L'archivio completo"
-description: "Guide ed espressioni utili per viaggiare in Francia e nei paesi francofoni senza ansie."
-permalink: /francese/viaggio/
+title: "Vocabolario Francese: L'archivio completo"
+description: "Tutte le liste di parole, verbi e sostantivi per arricchire il tuo francese."
+permalink: /francese/vocabolario/
 ---
 
 <a href="{{ '/francese/' | relative_url }}">⬅ Torna alla guida principale di Francese</a>
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
+{% comment %} 1. Filtro di sicurezza per evitare crash sui valori nulli {% endcomment %}
 {% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'viaggio'" %}
+
+{% comment %} 2. Filtro per categoria (Sintassi corretta: nota le virgole e le virgolette) {% endcomment %}
+{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'vocabolario'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -22,5 +24,4 @@ permalink: /francese/viaggio/
 {% endfor %}
 </ul>
 
-{% include promo-box.html type="viaggio" lang="francese" %}
-
+{% include promo-box.html type="vocabolario" lang="francese" %}
