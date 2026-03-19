@@ -12,7 +12,10 @@ In questa pagina abbiamo raccolto tutti gli articoli che ti aiuteranno a non com
 <hr>
 
 <ul>
-{% assign category_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'errori'" %}
+{% comment %} Filtro di sicurezza per evitare il crash su pagine senza categorie (nil) {% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'errori'" %}
+
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">
