@@ -9,9 +9,15 @@ permalink: /francese/frasi/
 <hr>
 
 <ul>
-{% comment %} Filtro di sicurezza per evitare il crash sui nil {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'frasi'" %}
+{% comment %} 
+Filtri concatenati per massima stabilità (evita l'errore "Expected end_of_string"):
+1. Filtriamo solo le pagine che hanno categorie definite
+2. Selezioniamo il cluster 'francese'
+3. Isoliama la categoria 'frasi'
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'frasi'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -21,3 +27,5 @@ permalink: /francese/frasi/
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
 </ul>
+
+{% include promo-box.html type="frasi" lang="francese" %}
