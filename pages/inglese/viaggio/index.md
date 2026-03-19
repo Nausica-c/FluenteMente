@@ -5,6 +5,9 @@ description: "Tutte le risorse per viaggiare senza ansie: aeroporto, hotel, rist
 permalink: /inglese/viaggio/
 ---
 
+{% comment %} Spazio extra per evitare che il contenuto sia troppo vicino al logo su mobile {% endcomment %}
+<div style="margin-top: 30px;"></div>
+
 In questa sezione trovi tutte le nostre guide pratiche per affrontare i tuoi viaggi all'estero con sicurezza, gestendo ogni situazione: dal check-in in aeroporto all'ordinazione al ristorante.
 
 <a href="{{ '/inglese/' | relative_url }}">⬅ Torna alla guida principale di Inglese</a>
@@ -22,11 +25,14 @@ Filtri concatenati per la massima stabilità (evita l'errore "Expected end_of_st
 {% assign category_pages = en_pages | where_exp: "item", "item.categories contains 'viaggio'" %}
 
 {% for item in category_pages %}
+  {% comment %} Evitiamo che l'archivio elenchi se stesso {% endcomment %}
+  {% if item.url != page.url %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
     <br><small style="color: #555;">
       {% if item.description %}{{ item.description }}{% else %}{{ item.excerpt | strip_html | truncatewords: 25 }}{% endif %}
     </small>
   </li>
+  {% endif %}
 {% else %}
   <li><em>Nessun articolo ancora pubblicato in questa categoria.</em></li>
 {% endfor %}
