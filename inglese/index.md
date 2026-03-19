@@ -14,9 +14,16 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ---
 
+{% comment %} 
+Filtro di sicurezza a monte: isoliamo solo le pagine con categorie valide 
+e che appartengono al cluster inglese per evitare crash Liquid.
+{% endcomment %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
+{% assign english_pages = safe_pages | where_exp: "item", "item.categories contains 'inglese'" %}
+
 ## 1. Da dove iniziare (Mindset e Livello Zero)
 
-{% assign da_zero_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'da-zero'" %}
+{% assign da_zero_pages = english_pages | where_exp: "item", "item.categories contains 'da-zero'" %}
 <ul>
 {% for item in da_zero_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -35,7 +42,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 2. Risolvi il problema della Pronuncia
 
-{% assign pronuncia_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'pronuncia'" %}
+{% assign pronuncia_pages = english_pages | where_exp: "item", "item.categories contains 'pronuncia'" %}
 <ul>
 {% for item in pronuncia_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -54,7 +61,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 3. Grammatica (Senza mal di testa)
 
-{% assign grammatica_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'grammatica'" %}
+{% assign grammatica_pages = english_pages | where_exp: "item", "item.categories contains 'grammatica'" %}
 <ul>
 {% for item in grammatica_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -75,7 +82,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 4. Vocabolario: Le parole che servono davvero
 
-{% assign vocabolario_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'vocabolario'" %}
+{% assign vocabolario_pages = english_pages | where_exp: "item", "item.categories contains 'vocabolario'" %}
 <ul>
 {% for item in vocabolario_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -96,7 +103,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 5. Gli Errori Tipici degli Italiani
 
-{% assign errori_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'errori'" %}
+{% assign errori_pages = english_pages | where_exp: "item", "item.categories contains 'errori'" %}
 <ul>
 {% for item in errori_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -117,7 +124,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 6. Frasi ed Espressioni di Vita Reale
 
-{% assign frasi_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'frasi'" %}
+{% assign frasi_pages = english_pages | where_exp: "item", "item.categories contains 'frasi'" %}
 <ul>
 {% for item in frasi_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -136,7 +143,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 7. Curiosità, Idiomi e Cultura
 
-{% assign curiosita_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'curiosita'" %}
+{% assign curiosita_pages = english_pages | where_exp: "item", "item.categories contains 'curiosita'" %}
 <ul>
 {% for item in curiosita_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -155,7 +162,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 8. Business English: L'inglese per il Lavoro
 
-{% assign business_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'business'" %}
+{% assign business_pages = english_pages | where_exp: "item", "item.categories contains 'business'" %}
 <ul>
 {% for item in business_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -176,7 +183,7 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ## 9. Inglese in Viaggio: Sopravvivere all'estero
 
-{% assign viaggio_pages = site.pages | where_exp: "item", "item.categories contains 'inglese' and item.categories contains 'viaggio'" %}
+{% assign viaggio_pages = english_pages | where_exp: "item", "item.categories contains 'viaggio'" %}
 <ul>
 {% for item in viaggio_pages limit: 10 %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
@@ -192,3 +199,13 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 {% endif %}
 
 {% include promo-box.html type="viaggio" lang="inglese" %}
+
+---
+
+<div class="cta-soft-box" style="margin-top: 30px; padding: 25px; background: #f4f7f9; border-radius: 10px; text-align: center; border: 1px solid #dce6ed;">
+  <h3 style="margin-top: 0;">🎯 Passa dalla teoria alla pratica</h3>
+  <p>Leggere le guide è il primo passo, ma per parlare inglese con sicurezza serve un metodo costante. Scopri lo strumento che consigliamo ai nostri lettori per costruire una routine efficace.</p>
+  <a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}" style="display: inline-block; padding: 14px 28px; background: #0056b3; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    Leggi la recensione e il metodo consigliato
+  </a>
+</div>
