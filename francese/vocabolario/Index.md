@@ -9,11 +9,9 @@ permalink: /francese/vocabolario/
 <hr>
 
 <ul>
-{% comment %} 1. Filtro di sicurezza per evitare crash sui valori nulli {% endcomment %}
-{% assign safe_pages = site.pages | where_exp: "item", "item.categories != nil" %}
-
-{% comment %} 2. Filtro per categoria (Sintassi corretta: nota le virgole e le virgolette) {% endcomment %}
-{% assign category_pages = safe_pages | where_exp: "item", "item.categories contains 'francese' and item.categories contains 'vocabolario'" %}
+{% assign safe_pages = site.pages | where_exp: "item", "item.categories" %}
+{% assign fr_pages = safe_pages | where_exp: "item", "item.categories contains 'francese'" %}
+{% assign category_pages = fr_pages | where_exp: "item", "item.categories contains 'vocabolario'" %}
 
 {% for item in category_pages %}
   <li style="margin-bottom: 15px;">👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong>
