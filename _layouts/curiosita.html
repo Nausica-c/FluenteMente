@@ -19,7 +19,7 @@ layout: default
         {{ content }}
       </div>
 
-      <!-- AUTO: Bridge box su tutte le pagine curiosità -->
+      {% if page.bridge_title or page.bridge_text or page.bridge_cta1 or page.bridge_cta2 or page.bridge_micro %}
       <div class="post-content">
         {% include bridge-box.html
           title=page.bridge_title
@@ -31,8 +31,11 @@ layout: default
           micro=page.bridge_micro
           microlink=page.bridge_microlink
           microanchor=page.bridge_microanchor
+          lang=page.lang
+          type=page.bridge_type
         %}
       </div>
+      {% endif %}
 
       <hr class="section-divider" />
 
@@ -43,53 +46,54 @@ layout: default
           Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
         </p>
       </div>
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"Article",
-  "headline": {{ page.title | jsonify }},
-  "description": {{ page.description | default: page.subtitle | default: site.description | jsonify }},
-  "author": {
-    "@type":"Organization",
-    "name": {{ site.title | jsonify }}
-  },
-  "publisher": {
-    "@type":"Organization",
-    "name": {{ site.title | jsonify }}
-  },
-  "mainEntityOfPage": {
-    "@type":"WebPage",
-    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"BreadcrumbList",
-  "itemListElement":[
-    {
-      "@type":"ListItem",
-      "position":1,
-      "name":"Home",
-      "item":"{{ site.url }}{{ site.baseurl }}/"
-    },
-    {
-      "@type":"ListItem",
-      "position":2,
-      "name":"Curiosità Inglese",
-      "item":"{{ site.url }}{{ site.baseurl }}{{ '/curiosita-inglese/' | relative_url }}"
-    },
-    {
-      "@type":"ListItem",
-      "position":3,
-      "name": {{ page.title | jsonify }},
-      "item":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-    }
-  ]
-}
-</script>
+      <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Article",
+        "headline": {{ page.title | jsonify }},
+        "description": {{ page.description | default: page.subtitle | default: site.description | jsonify }},
+        "author": {
+          "@type":"Organization",
+          "name": {{ site.title | jsonify }}
+        },
+        "publisher": {
+          "@type":"Organization",
+          "name": {{ site.title | jsonify }}
+        },
+        "mainEntityOfPage": {
+          "@type":"WebPage",
+          "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+        }
+      }
+      </script>
+
+      <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"BreadcrumbList",
+        "itemListElement":[
+          {
+            "@type":"ListItem",
+            "position":1,
+            "name":"Home",
+            "item":"{{ site.url }}{{ site.baseurl }}/"
+          },
+          {
+            "@type":"ListItem",
+            "position":2,
+            "name": {{ page.breadcrumb_parent_name | default: "Curiosità" | jsonify }},
+            "item":"{{ site.url }}{{ site.baseurl }}{{ page.breadcrumb_parent_url | default: '/hub-lingue/' }}"
+          },
+          {
+            "@type":"ListItem",
+            "position":3,
+            "name": {{ page.title | jsonify }},
+            "item":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+          }
+        ]
+      }
+      </script>
     </article>
   </div>
 </main>
