@@ -94,11 +94,3 @@ Leggendo questa lista, avrai capito una cosa fondamentale: **pensare in italiano
 </div>
 
 </div>
-
-<div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Impara il vocabolario in modo naturale</h3>
-<p>Se vuoi smettere di tradurre mentalmente, hai bisogno di un corso che ti cali fin da subito in dialoghi reali e situazioni pratiche, insegnandoti a <i>pensare</i> nella nuova lingua.</p>
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Fai il test e prova la prima lezione gratuitamente
-</a>
-</div>
