@@ -71,20 +71,3 @@ Affrontato con la giusta logica e un metodo strutturato, il tedesco diventa un p
 ### 🇵🇹 Portoghese
 Una lingua musicale in fortissima espansione. Scopri le basi per iniziare con il ritmo giusto.  
 👉 **[Vai all'Hub Portoghese: differenze, pronuncia e primi passi]({{ '/portoghese/' | relative_url }})**
-
----
-
-<div class="cta-soft-box" style="margin-top: 40px; padding: 30px; background: #f9f9f9; border-left: 5px solid #ff7a59; border-radius: 8px;" markdown="1">
-
-### 📌 Da qui in poi scegli un solo percorso
-Per ottenere risultati veri non ti serve leggere tutto insieme. Scegli una sola direzione:
-- metodo, se vuoi partire dalle basi
-- confronto tra app, se sei in dubbio su quale strumento usare
-- hub lingua, se hai già deciso cosa imparare
-
-**Link rapidi:**
-- [Vai al Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})
-- [Confronta Babbel e Duolingo]({{ '/babbel-vs-duolingo/' | relative_url }})
-- [Scopri tutte le risorse utili]({{ '/risorse/' | relative_url }})
-
-</div>
