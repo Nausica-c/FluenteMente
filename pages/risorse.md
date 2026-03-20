@@ -13,7 +13,6 @@ tags:
   - organizzazione
 ---
 
-# Risorse per imparare una lingua: smetti di accumulare, inizia a praticare
 
 Se hai mai provato a imparare una lingua da solo, conosci bene la sensazione: apri Google, cerchi "migliori risorse per imparare una lingua" e vieni sommerso da articoli che ti propongono liste infinite di 50 app, 20 podcast e 10 canali YouTube. Il risultato? Scarichi tutto, non usi niente e ti senti più confuso di prima. 
 
