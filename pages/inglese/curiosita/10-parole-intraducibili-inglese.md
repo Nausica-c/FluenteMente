@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: curiosita
 title: "10 Parole inglesi geniali ma letteralmente intraducibili in italiano"
 subtitle: "Perché tradurre parola per parola è impossibile: scopri i concetti inglesi che in italiano semplicemente non esistono."
 description: "Scopri 10 parole inglesi bellissime e utilissime che non hanno una traduzione diretta in italiano, da Commute a Serendipity."
