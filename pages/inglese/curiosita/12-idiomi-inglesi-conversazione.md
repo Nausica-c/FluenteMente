@@ -1,16 +1,30 @@
 ---
-layout: page
+layout: curiosita
 title: "12 Idiomi Inglesi essenziali per suonare come un madrelingua"
 subtitle: "Dimentica le traduzioni letterali: ecco i modi di dire più usati nella conversazione reale."
 description: "Scopri i 12 idiomi inglesi più comuni nella conversazione quotidiana. Impara il significato di espressioni come 'Break a leg' o 'Under the weather'."
 permalink: /inglese/curiosita/12-idiomi-inglesi-conversazione/
+lang: inglese
+bridge_type: curiosità
+breadcrumb_parent_name: "Curiosità Inglese"
+breadcrumb_parent_url: "/inglese/curiosita/"
+
+bridge_title: "Vuoi continuare a esplorare l’inglese reale?"
+bridge_text: "Dopo questa guida sugli idiomi, il passo più utile è evitare gli errori che bloccano gli italiani oppure migliorare la pronuncia per suonare più naturale."
+bridge_cta1: "Leggi gli errori comuni degli italiani"
+bridge_url1: "/inglese/errori/10-errori-comuni-italiani-inglese/"
+bridge_cta2: "Vai alla guida di pronuncia"
+bridge_url2: "/inglese/pronuncia/guida-pronuncia-inglese-italiani/"
+bridge_micro: "Oppure torna al percorso completo della lingua."
+bridge_microlink: "/inglese/"
+bridge_microanchor: "Vai all’Hub dell’Inglese"
 ---
 
 Hai presente quando studi l'inglese per anni, poi guardi una serie TV e... non capisci una parola? Spesso il motivo non è la velocità del parlato, ma l'uso degli **idiomi**.
 
 Gli idiomi sono espressioni fisse che hanno un significato metaforico. Se provi a tradurli letteralmente dall'italiano, il risultato è un disastro totale. Immagina di dire a un inglese *"Don't extend your leg"* per dirgli di non esagerare: lui cercherà di capire perché ti interessa la sua gamba!
 
-Ecco i 12 idiomi più usati nel 2026, quelli che sentirai in ufficio, al pub o nei podcast, spiegati in modo semplice.
+Ecco i 12 idiomi più usati, quelli che sentirai in ufficio, al pub o nei podcast, spiegati in modo semplice.
 
 ---
 
@@ -32,7 +46,7 @@ Ecco i 12 idiomi più usati nel 2026, quelli che sentirai in ufficio, al pub o n
 
 ### 4. Call it a day
 * **Traduzione letterale:** Chiamalo un giorno.
-* **Significato reale:** Smettere di fare qualcosa (solitamente lavorare) perché si è stanchi o si è fatto abbastanza.
+* **Significato reale:** Smettere di fare qualcosa, solitamente lavorare, perché si è stanchi o si è fatto abbastanza.
 * **Esempio:** *"We’ve been working for 10 hours. Let’s call it a day."*
 
 ### 5. Beat around the bush
@@ -79,7 +93,7 @@ Ecco i 12 idiomi più usati nel 2026, quelli che sentirai in ufficio, al pub o n
 
 ## Perché gli idiomi sono "pericolosi"?
 
-Il pericolo degli idiomi è lo stesso dei [Falsi Amici]({{ '/inglese/errori/15-false-friends-inglese/' | relative_url }}): l'illusione che le lingue funzionino nello stesso modo. Usare un idioma nel momento sbagliato o tradurlo letteralmente dall'italiano all'inglese è la strada più veloce per il [blocco comunicativo]({{ '/inglese/da-zero/capisco-ma-non-parlo/' | relative_url }}).
+Il pericolo degli idiomi è lo stesso dei [falsi amici]({{ '/inglese/errori/15-false-friends-inglese/' | relative_url }}): l'illusione che le lingue funzionino nello stesso modo. Usare un idioma nel momento sbagliato o tradurlo letteralmente dall'italiano all'inglese è la strada più veloce per il [blocco comunicativo]({{ '/inglese/da-zero/capisco-ma-non-parlo/' | relative_url }}).
 
 **Il consiglio d'oro:** Non cercare di imparare 100 idiomi a memoria. Inizia a usarne uno o due che senti "tuoi" e che si adattano alle tue situazioni quotidiane.
 
@@ -99,7 +113,7 @@ Il pericolo degli idiomi è lo stesso dei [Falsi Amici]({{ '/inglese/errori/15-f
 <div class="procon-card">
 <h3>❌ Cosa evitare</h3>
 <ul>
-<li>Tradurre i modi di dire italiani in inglese (non funzionano!).</li>
+<li>Tradurre i modi di dire italiani in inglese: non funzionano.</li>
 <li>Usare troppi idiomi tutti insieme: sembreresti un libro di proverbi vivente.</li>
 </ul>
 </div>
@@ -111,18 +125,3 @@ Il pericolo degli idiomi è lo stesso dei [Falsi Amici]({{ '/inglese/errori/15-f
 ## Impara l'inglese reale, non quello dei libri
 
 Se vuoi smettere di imparare liste di vocaboli e iniziare a capire come parlano davvero le persone per strada o in ufficio, hai bisogno di un metodo che ti esponga a dialoghi reali e situazioni quotidiane.
-
-<div class="cta-soft-box" style="margin-top: 30px;">
-<h3>🎯 Suona più naturale fin da subito</h3>
-<p>L'app che consigliamo su FluenteMente integra gli idiomi e i modi di dire più comuni direttamente nelle lezioni, così li impari mentre fai pratica di conversazione, senza accorgertene.</p>
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow">
-Prova la prima lezione gratuita
-</a>
-</div>
-
----
-
-**Vuoi continuare a esplorare l'inglese?**
-* 👉 Evita gli sbagli più frequenti: **[10 Errori Comuni degli Italiani]({{ '/inglese/errori/10-errori-comuni-italiani-inglese/' | relative_url }})**.
-* 👉 Migliora la tua voce: **[Guida alla Pronuncia Inglese]({{ '/inglese/pronuncia/guida-pronuncia-inglese-italiani/' | relative_url }})**.
-* 👉 Torna all'**[Hub dell'Inglese]({{ '/inglese/' | relative_url }})** per tutte le guide.
