@@ -95,4 +95,4 @@ Fai il test e prova la prima lezione gratuitamente
 * 👉 Leggi i **[15 Falsi Amici in inglese che devi assolutamente conoscere]({{ '/inglese/errori/15-false-friends-inglese/' | relative_url }})**.
 * 👉 Scopri la guida completa su come studiare nell'articolo **[Il Metodo Consigliato per Adulti]({{ '/metodo-consigliato/' | relative_url }})**.
 * 👉 Torna all'**[Hub dell'Inglese]({{ '/inglese/' | relative_url }})** per tutte le altre risorse.
-* 
+
