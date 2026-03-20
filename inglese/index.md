@@ -171,4 +171,139 @@ Escludiamo la pagina hub stessa (/inglese/).
   </li>
 {% else %}
   <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{%
+{% endfor %}
+</ul>
+
+{% if errori_pages.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/errori/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ errori_pages.size }} articoli sugli errori ➔
+    </a>
+  </div>
+{% endif %}
+
+{% include promo-box.html type="errori" lang="inglese" %}
+
+---
+
+## 6. Frasi ed Espressioni di Vita Reale
+
+{% assign frasi_pages = english_pages | where_exp: "item", "item.url contains '/inglese/frasi/'" %}
+<ul>
+{% for item in frasi_pages limit: 10 %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+    <small style="color: #555;">
+      {% if item.description %}
+        {{ item.description }}
+      {% else %}
+        {{ item.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if frasi_pages.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/frasi/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ frasi_pages.size }} articoli sulle frasi utili ➔
+    </a>
+  </div>
+{% endif %}
+
+---
+
+## 7. Curiosità, Idiomi e Cultura
+
+{% assign curiosita_pages = english_pages | where_exp: "item", "item.url contains '/inglese/curiosita/'" %}
+<ul>
+{% for item in curiosita_pages limit: 10 %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+    <small style="color: #555;">
+      {% if item.description %}
+        {{ item.description }}
+      {% else %}
+        {{ item.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if curiosita_pages.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/curiosita/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ curiosita_pages.size }} articoli su curiosità e idiomi ➔
+    </a>
+  </div>
+{% endif %}
+
+---
+
+## 8. Business English: L'inglese per il Lavoro
+
+{% assign business_pages = english_pages | where_exp: "item", "item.url contains '/inglese/business/'" %}
+<ul>
+{% for item in business_pages limit: 10 %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+    <small style="color: #555;">
+      {% if item.description %}
+        {{ item.description }}
+      {% else %}
+        {{ item.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if business_pages.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/business/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ business_pages.size }} articoli di Business English ➔
+    </a>
+  </div>
+{% endif %}
+
+{% include promo-box.html type="business" lang="inglese" %}
+
+---
+
+## 9. Inglese in Viaggio: Sopravvivere all'estero
+
+{% assign viaggio_pages = english_pages | where_exp: "item", "item.url contains '/inglese/viaggio/'" %}
+<ul>
+{% for item in viaggio_pages limit: 10 %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+    <small style="color: #555;">
+      {% if item.description %}
+        {{ item.description }}
+      {% else %}
+        {{ item.excerpt | strip_html | truncatewords: 25 }}
+      {% endif %}
+    </small>
+  </li>
+{% else %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endfor %}
+</ul>
+
+{% if viaggio_pages.size > 10 %}
+  <div style="text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/inglese/viaggio/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+      Vedi tutti i {{ viaggio_pages.size }} articoli per viaggiare ➔
+    </a>
+  </div>
+{% endif %}
+
+{% include promo-box.html type="viaggio" lang="inglese" %}
