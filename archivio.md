@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: "Archivio completo degli articoli"
 subtitle: "Tutte le nostre guide, le recensioni e i trucchi per imparare le lingue."
