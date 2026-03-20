@@ -4,13 +4,22 @@ title: "Imparare l'Inglese: Il percorso completo per adulti"
 subtitle: "Da livello zero fino alla conversazione fluida. Scopri grammatica, pronuncia, inglese per il lavoro (Business) e per viaggiare."
 description: "L'hub definitivo per imparare l'inglese da adulti. Risorse su grammatica, vocabolario, Business English, inglese in viaggio, pronuncia ed errori comuni."
 permalink: /inglese/
+bridge_type: base
+
+next_title: "Hai trovato il tuo prossimo passo in inglese?"
+next_text: "Dopo aver esplorato i contenuti, il passo più utile è scegliere un metodo sostenibile oppure capire quale strumento usare per trasformare lo studio in pratica costante."
+next_cta1: "Leggi il metodo consigliato"
+next_url1: "/metodo-consigliato/"
+next_cta2: "Leggi la recensione di Babbel"
+next_url2: "/recensione-babbel/"
+next_micro: "Se vuoi invece tornare alla panoramica generale delle lingue,"
+next_microlink: "/hub-lingue/"
+next_microanchor: "vai all’hub principale"
 ---
 
-L'inglese è la chiave che apre le porte del mondo: dal lavoro, ai viaggi, fino all'intrattenimento senza sottotitoli. 
+L'inglese è la chiave che apre le porte del mondo: dal lavoro, ai viaggi, fino all'intrattenimento senza sottotitoli.
 
 Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemente non sai da che parte iniziare, questa è la tua mappa. Abbiamo diviso le nostre migliori guide in categorie: parti da zero, correggi gli errori storici, arricchisci il vocabolario e inizia finalmente a pensare in inglese.
-
-{% include bridge-box.html type="base" lang="inglese" %}
 
 ---
 
@@ -199,13 +208,3 @@ e che appartengono al cluster inglese per evitare crash Liquid.
 {% endif %}
 
 {% include promo-box.html type="viaggio" lang="inglese" %}
-
----
-
-<div class="cta-soft-box" style="margin-top: 30px; padding: 25px; background: #f4f7f9; border-radius: 10px; text-align: center; border: 1px solid #dce6ed;">
-  <h3 style="margin-top: 0;">🎯 Passa dalla teoria alla pratica</h3>
-  <p>Leggere le guide è il primo passo, ma per parlare inglese con sicurezza serve un metodo costante. Scopri lo strumento che consigliamo ai nostri lettori per costruire una routine efficace.</p>
-  <a class="btn-primary" href="{{ '/recensione-babbel/' | relative_url }}" style="display: inline-block; padding: 14px 28px; background: #0056b3; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
-    Leggi la recensione e il metodo consigliato
-  </a>
-</div>
