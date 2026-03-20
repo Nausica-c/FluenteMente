@@ -28,6 +28,7 @@ Filtro più robusto: invece di dipendere da categories/front matter,
 usiamo la struttura URL reale del sito.
 Escludiamo la pagina hub stessa (/inglese/).
 {% endcomment %}
+
 {% assign english_pages = site.pages | where_exp: "item", "item.url contains '/inglese/' and item.url != '/inglese/'" %}
 
 ## 1. Da dove iniziare (Mindset e Livello Zero)
