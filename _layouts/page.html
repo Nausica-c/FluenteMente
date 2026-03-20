@@ -19,6 +19,22 @@ layout: default
         {{ content }}
       </div>
 
+      {% if page.next_title or page.next_cta1 %}
+        {% include bridge-box.html
+          title=page.next_title
+          text=page.next_text
+          cta1=page.next_cta1
+          url1=page.next_url1
+          cta2=page.next_cta2
+          url2=page.next_url2
+          micro=page.next_micro
+          microlink=page.next_microlink
+          microanchor=page.next_microanchor
+          lang=page.lang
+          type=page.bridge_type
+        %}
+      {% endif %}
+
       <hr class="section-divider" />
 
       <div class="disclaimer-inline" role="note">
