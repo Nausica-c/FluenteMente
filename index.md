@@ -12,7 +12,7 @@ Non sei il solo. La maggior parte di noi ha passato anni a scuola a memorizzare 
 
 > **Il problema non è la tua memoria.** Il problema è che le app "a premi" e i vecchi manuali scolastici non sono fatti per la mente di un adulto che ha poco tempo e obiettivi concreti.
 
-Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo passivo per iniziare finalmente a **comunicare**. 
+Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo passivo per iniziare finalmente a **comunicare**.
 
 ---
 
@@ -25,8 +25,8 @@ Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo pa
     <p>Come imparare una lingua in 15 minuti al giorno con la costanza.</p>
   </div>
   <div style="padding: 15px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
-    <h4>🇬🇧 <a href="{{ '/inglese-da-zero/' | relative_url }}">Inglese da Zero</a></h4>
-    <p>La guida pratica per ricominciare senza lo stress dei banchi di scuola.</p>
+    <h4>🌍 <a href="{{ '/hub-lingue/' | relative_url }}">Hub Lingue</a></h4>
+    <p>Scegli il percorso giusto per Inglese, Spagnolo, Francese, Tedesco o Portoghese.</p>
   </div>
   <div style="padding: 15px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
     <h4>📱 <a href="{{ '/recensione-babbel/' | relative_url }}">Recensione Babbel 2026</a></h4>
@@ -68,8 +68,9 @@ Benvenuto su **FluenteMente**. Qui ti aiutiamo a smettere di studiare in modo pa
 ---
 
 <div class="cta-soft-box" style="margin-top: 40px; padding: 40px 20px; background-color: #fff4f4; border-radius: 12px; text-align: center; border: 1px solid #ffcfcf;">
-  <h3>🎯 Il momento migliore per iniziare è oggi.</h3>
-  <p>Non rimandare ancora. Sblocca il tuo potenziale con il metodo e gli strumenti giusti per la tua mente.</p>
+  <h3>🎯 Scegli il prossimo passo giusto per te.</h3>
+  <p>Prima di provare strumenti o app, chiarisci il metodo migliore per il tuo obiettivo e la lingua da cui vuoi partire.</p>
   <br>
-  <a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow" style="background-color: #d32f2f; color: white; padding: 18px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em; display: inline-block;">PROVA L'APP CONSIGLIATA →</a>
+  <a class="btn-primary" href="{{ '/metodo-consigliato/' | relative_url }}" style="background-color: #d32f2f; color: white; padding: 18px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.1em; display: inline-block; margin: 0 8px 10px;">LEGGI IL METODO →</a>
+  <a class="btn-outline" href="{{ '/hub-lingue/' | relative_url }}" style="padding: 18px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.1em; display: inline-block; margin: 0 8px 10px;">VAI ALLE LINGUE</a>
 </div>
