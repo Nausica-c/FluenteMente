@@ -23,100 +23,110 @@ Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemen
 
 ---
 
-{% comment %}
-Filtro più robusto: invece di dipendere da categories/front matter,
-usiamo la struttura URL reale del sito.
-Escludiamo la pagina hub stessa (/inglese/).
-{% endcomment %}
-
-{% assign english_pages = site.pages | where_exp: "item", "item.url contains '/inglese/' and item.url != '/inglese/'" %}
-
 ## 1. Da dove iniziare (Mindset e Livello Zero)
 
-{% assign da_zero_pages = english_pages | where_exp: "item", "item.url contains '/inglese/da-zero/'" %}
 <ul>
-{% for item in da_zero_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign da_zero_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/da-zero/' %}
+    {% assign da_zero_count = da_zero_count | plus: 1 %}
+    {% if da_zero_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if da_zero_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if da_zero_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/da-zero/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ da_zero_pages.size }} articoli su come iniziare ➔
-    </a>
-  </div>
+{% if da_zero_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/da-zero/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ da_zero_count }} articoli su come iniziare ➔
+  </a>
+</div>
 {% endif %}
 
 ---
 
 ## 2. Risolvi il problema della Pronuncia
 
-{% assign pronuncia_pages = english_pages | where_exp: "item", "item.url contains '/inglese/pronuncia/'" %}
 <ul>
-{% for item in pronuncia_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign pronuncia_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/pronuncia/' %}
+    {% assign pronuncia_count = pronuncia_count | plus: 1 %}
+    {% if pronuncia_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if pronuncia_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if pronuncia_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/pronuncia/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ pronuncia_pages.size }} articoli sulla pronuncia ➔
-    </a>
-  </div>
+{% if pronuncia_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/pronuncia/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ pronuncia_count }} articoli sulla pronuncia ➔
+  </a>
+</div>
 {% endif %}
 
 ---
 
 ## 3. Grammatica (Senza mal di testa)
 
-{% assign grammatica_pages = english_pages | where_exp: "item", "item.url contains '/inglese/grammatica/'" %}
 <ul>
-{% for item in grammatica_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign grammatica_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/grammatica/' %}
+    {% assign grammatica_count = grammatica_count | plus: 1 %}
+    {% if grammatica_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if grammatica_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if grammatica_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/grammatica/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ grammatica_pages.size }} articoli di grammatica ➔
-    </a>
-  </div>
+{% if grammatica_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/grammatica/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ grammatica_count }} articoli di grammatica ➔
+  </a>
+</div>
 {% endif %}
 
 {% include promo-box.html type="grammatica" lang="inglese" %}
@@ -125,30 +135,36 @@ Escludiamo la pagina hub stessa (/inglese/).
 
 ## 4. Vocabolario: Le parole che servono davvero
 
-{% assign vocabolario_pages = english_pages | where_exp: "item", "item.url contains '/inglese/vocabolario/'" %}
 <ul>
-{% for item in vocabolario_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign vocabolario_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/vocabolario/' %}
+    {% assign vocabolario_count = vocabolario_count | plus: 1 %}
+    {% if vocabolario_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if vocabolario_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if vocabolario_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/vocabolario/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ vocabolario_pages.size }} articoli di vocabolario ➔
-    </a>
-  </div>
+{% if vocabolario_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/vocabolario/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ vocabolario_count }} articoli di vocabolario ➔
+  </a>
+</div>
 {% endif %}
 
 {% include promo-box.html type="vocabolario" lang="inglese" %}
@@ -157,30 +173,36 @@ Escludiamo la pagina hub stessa (/inglese/).
 
 ## 5. Gli Errori Tipici degli Italiani
 
-{% assign errori_pages = english_pages | where_exp: "item", "item.url contains '/inglese/errori/'" %}
 <ul>
-{% for item in errori_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign errori_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/errori/' %}
+    {% assign errori_count = errori_count | plus: 1 %}
+    {% if errori_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if errori_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if errori_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/errori/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ errori_pages.size }} articoli sugli errori ➔
-    </a>
-  </div>
+{% if errori_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/errori/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ errori_count }} articoli sugli errori ➔
+  </a>
+</div>
 {% endif %}
 
 {% include promo-box.html type="errori" lang="inglese" %}
@@ -189,90 +211,108 @@ Escludiamo la pagina hub stessa (/inglese/).
 
 ## 6. Frasi ed Espressioni di Vita Reale
 
-{% assign frasi_pages = english_pages | where_exp: "item", "item.url contains '/inglese/frasi/'" %}
 <ul>
-{% for item in frasi_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign frasi_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/frasi/' %}
+    {% assign frasi_count = frasi_count | plus: 1 %}
+    {% if frasi_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if frasi_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if frasi_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/frasi/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ frasi_pages.size }} articoli sulle frasi utili ➔
-    </a>
-  </div>
+{% if frasi_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/frasi/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ frasi_count }} articoli sulle frasi utili ➔
+  </a>
+</div>
 {% endif %}
 
 ---
 
 ## 7. Curiosità, Idiomi e Cultura
 
-{% assign curiosita_pages = english_pages | where_exp: "item", "item.url contains '/inglese/curiosita/'" %}
 <ul>
-{% for item in curiosita_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign curiosita_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/curiosita/' %}
+    {% assign curiosita_count = curiosita_count | plus: 1 %}
+    {% if curiosita_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if curiosita_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if curiosita_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/curiosita/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ curiosita_pages.size }} articoli su curiosità e idiomi ➔
-    </a>
-  </div>
+{% if curiosita_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/curiosita/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ curiosita_count }} articoli su curiosità e idiomi ➔
+  </a>
+</div>
 {% endif %}
 
 ---
 
 ## 8. Business English: L'inglese per il Lavoro
 
-{% assign business_pages = english_pages | where_exp: "item", "item.url contains '/inglese/business/'" %}
 <ul>
-{% for item in business_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign business_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/business/' %}
+    {% assign business_count = business_count | plus: 1 %}
+    {% if business_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if business_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if business_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/business/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ business_pages.size }} articoli di Business English ➔
-    </a>
-  </div>
+{% if business_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/business/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ business_count }} articoli di Business English ➔
+  </a>
+</div>
 {% endif %}
 
 {% include promo-box.html type="business" lang="inglese" %}
@@ -281,30 +321,36 @@ Escludiamo la pagina hub stessa (/inglese/).
 
 ## 9. Inglese in Viaggio: Sopravvivere all'estero
 
-{% assign viaggio_pages = english_pages | where_exp: "item", "item.url contains '/inglese/viaggio/'" %}
 <ul>
-{% for item in viaggio_pages limit: 10 %}
-  <li style="margin-bottom: 15px;">
-    👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-    <small style="color: #555;">
-      {% if item.description %}
-        {{ item.description }}
-      {% else %}
-        {{ item.excerpt | strip_html | truncatewords: 25 }}
-      {% endif %}
-    </small>
-  </li>
-{% else %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% assign viaggio_count = 0 %}
+{% for item in site.pages %}
+  {% if item.url contains '/inglese/viaggio/' %}
+    {% assign viaggio_count = viaggio_count | plus: 1 %}
+    {% if viaggio_count <= 10 %}
+      <li style="margin-bottom: 15px;">
+        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
+        <small style="color: #555;">
+          {% if item.description %}
+            {{ item.description }}
+          {% else %}
+            {{ item.excerpt | strip_html | truncatewords: 25 }}
+          {% endif %}
+        </small>
+      </li>
+    {% endif %}
+  {% endif %}
 {% endfor %}
+{% if viaggio_count == 0 %}
+  <li><em>Nuovi articoli in arrivo a breve!</em></li>
+{% endif %}
 </ul>
 
-{% if viaggio_pages.size > 10 %}
-  <div style="text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/inglese/viaggio/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-      Vedi tutti i {{ viaggio_pages.size }} articoli per viaggiare ➔
-    </a>
-  </div>
+{% if viaggio_count > 10 %}
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="{{ '/inglese/viaggio/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
+    Vedi tutti i {{ viaggio_count }} articoli per viaggiare ➔
+  </a>
+</div>
 {% endif %}
 
 {% include promo-box.html type="viaggio" lang="inglese" %}
