@@ -4,6 +4,17 @@ title: "Come imparare una lingua straniera: Metodo, Strumenti e Risorse"
 subtitle: "La guida definitiva per adulti. Scopri da dove partire, quali app funzionano davvero e scegli la tua lingua."
 description: "L'hub principale di FluenteMente: metodo di studio per adulti, recensioni delle migliori app e percorsi completi per Inglese, Spagnolo, Francese, Tedesco e Portoghese."
 permalink: /hub-lingue/
+bridge_type: base
+
+next_title: "Hai scelto da dove partire?"
+next_text: "Il passo successivo è chiarire il metodo migliore per studiare con costanza oppure confrontare gli strumenti prima di investire tempo e soldi."
+next_cta1: "Leggi il metodo consigliato"
+next_url1: "/metodo-consigliato/"
+next_cta2: "Confronta Babbel e Duolingo"
+next_url2: "/babbel-vs-duolingo/"
+next_micro: "Se invece vuoi vedere tutte le guide disponibili,"
+next_microlink: "/risorse/"
+next_microanchor: "vai alla sezione risorse"
 ---
 
 Sei un adulto, hai una vita piena di impegni e il tuo tempo libero scarseggia. Ma hai un obiettivo: **vuoi imparare a parlare una nuova lingua.**
@@ -25,7 +36,7 @@ Il segreto non è studiare 4 ore la domenica (il tuo cervello non lo sopportereb
 
 ## Passo 2: Scegliere lo strumento giusto (Senza sprecare soldi)
 
-La motivazione iniziale svanisce in fretta: per questo ti serve un percorso strutturato. Sul mercato ci sono decine di app, ma pochissime sono adatte a chi vuole imparare a comunicare sul serio in ambito lavorativo o in viaggio. 
+La motivazione iniziale svanisce in fretta: per questo ti serve un percorso strutturato. Sul mercato ci sono decine di app, ma pochissime sono adatte a chi vuole imparare a comunicare sul serio in ambito lavorativo o in viaggio.
 
 Abbiamo analizzato a fondo le migliori piattaforme sul mercato, mettendole a confronto senza filtri:
 
@@ -37,39 +48,43 @@ Abbiamo analizzato a fondo le migliori piattaforme sul mercato, mettendole a con
 
 ## Passo 3: Scegli la tua lingua e inizia il percorso
 
-Hai il metodo e hai scelto l'app. Ora devi passare all'azione pratica. Abbiamo creato degli hub dedicati per le lingue più richieste, raccogliendo guide, trucchi di pronuncia ed errori tipici da evitare. 
+Hai il metodo e hai scelto l'app. Ora devi passare all'azione pratica. Abbiamo creato degli hub dedicati per le lingue più richieste, raccogliendo guide, trucchi di pronuncia ed errori tipici da evitare.
 
 Scegli la tua destinazione:
 
 ### 🇬🇧 Inglese
-La lingua fondamentale per il lavoro, i viaggi e l'intrattenimento. Scopri come superare i traumi scolastici e iniziare finalmente a capire e parlare.
+La lingua fondamentale per il lavoro, i viaggi e l'intrattenimento. Scopri come superare i traumi scolastici e iniziare finalmente a capire e parlare.  
 👉 **[Vai all'Hub Inglese: la libreria completa]({{ '/inglese/' | relative_url }})**
 
 ### 🇪🇸 Spagnolo
-Evita l'effetto "itagnolo". Scopri come padroneggiare la grammatica e i falsi amici dello spagnolo.
+Evita l'effetto "itagnolo". Scopri come padroneggiare la grammatica e i falsi amici dello spagnolo.  
 👉 **[Vai all'Hub Spagnolo: vocabolario, insidie e risorse]({{ '/spagnolo/' | relative_url }})**
 
 ### 🇫🇷 Francese
-Domina i suoni nasali, la pronuncia e le frasi di sopravvivenza essenziali.
+Domina i suoni nasali, la pronuncia e le frasi di sopravvivenza essenziali.  
 👉 **[Vai all'Hub Francese: pronuncia, regole e guide pratiche]({{ '/francese/' | relative_url }})**
 
 ### 🇩🇪 Tedesco
-Affrontato con la giusta logica e un metodo strutturato, il tedesco diventa un puzzle affascinante.
+Affrontato con la giusta logica e un metodo strutturato, il tedesco diventa un puzzle affascinante.  
 👉 **[Vai all'Hub Tedesco: come domare la grammatica partendo da zero]({{ '/tedesco/' | relative_url }})**
 
 ### 🇵🇹 Portoghese
-Una lingua musicale in fortissima espansione. Scopri le basi per iniziare con il ritmo giusto.
+Una lingua musicale in fortissima espansione. Scopri le basi per iniziare con il ritmo giusto.  
 👉 **[Vai all'Hub Portoghese: differenze, pronuncia e primi passi]({{ '/portoghese/' | relative_url }})**
 
 ---
 
 <div class="cta-soft-box" style="margin-top: 40px; padding: 30px; background: #f9f9f9; border-left: 5px solid #ff7a59; border-radius: 8px;" markdown="1">
 
-### 🎯 Pronto a fare sul serio?
-Se hai letto il metodo e scelto la tua lingua, è il momento di testare lo strumento che consigliamo maggiormente agli adulti per strutturare lo studio in soli 15 minuti al giorno.
+### 📌 Da qui in poi scegli un solo percorso
+Per ottenere risultati veri non ti serve leggere tutto insieme. Scegli una sola direzione:
+- metodo, se vuoi partire dalle basi
+- confronto tra app, se sei in dubbio su quale strumento usare
+- hub lingua, se hai già deciso cosa imparare
 
-<a class="btn-primary" href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038222&clickref=" target="_blank" rel="sponsored nofollow" style="display: inline-block; background: #ff7a59; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">
-Fai il test e inizia la tua prima lezione gratis →
-</a>
+**Link rapidi:**
+- [Vai al Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})
+- [Confronta Babbel e Duolingo]({{ '/babbel-vs-duolingo/' | relative_url }})
+- [Scopri tutte le risorse utili]({{ '/risorse/' | relative_url }})
 
 </div>
