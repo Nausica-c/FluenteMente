@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "10 Parole Inglesi Geniali (che in Italiano non esistono)"
+date: 2026-03-22
 subtitle: "Perché tradurre parola per parola è una trappola: scopri i concetti inglesi che cambieranno il tuo modo di vedere il mondo."
 description: "Scopri 10 parole inglesi bellissime e utilissime che non hanno una traduzione diretta in italiano. Capire questi concetti è il primo passo per smettere di tradurre a mente."
 permalink: /inglese/curiosita/10-parole-intraducibili-inglese/
@@ -31,8 +32,6 @@ In italiano dobbiamo dire: *"Il tragitto casa-lavoro"*. In inglese è un verbo e
 "Fratelli" in italiano è maschile plurale. Se hai un fratello e una sorella, in inglese *brothers* sarebbe sbagliato. *Siblings* indica i fratelli a prescindere dal sesso.
 * **Esempio:** *"Do you have any siblings?"* (Hai fratelli o sorelle?).
 
-
-
 ### 3. Awkward
 Descrive il disagio fisico di una situazione imbarazzante, strana o fuori posto. "Imbarazzante" non cattura il senso di *"voglio sparire"* che trasmette *awkward*.
 * **Esempio:** *"There was an awkward silence."* (C'è stato un silenzio imbarazzante/strano).
@@ -61,8 +60,6 @@ La fortuna di trovare qualcosa di meraviglioso mentre cercavi altro. Un concetto
 
 ### 7. Cringe
 Il disagio che provi *per conto di qualcun altro* che sta facendo una figuraccia. È un'emozione sociale specifica che l'inglese ha centrato perfettamente.
-
-
 
 ### 8. Mind-blowing
 Qualcosa che ti fa letteralmente "esplodere la mente" per quanto è incredibile o scioccante (in senso positivo).
