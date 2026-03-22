@@ -1,111 +1,23 @@
 ---
 layout: default
 ---
+<article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
 
-{% include header.html %}
+  <header class="post-header" style="border-bottom: 2px dashed var(--border-color); padding-bottom: 20px; margin-bottom: 30px;">
+    <span style="text-transform: uppercase; font-size: 0.85rem; font-weight: 800; color: var(--primary-color); letter-spacing: 1px;">Curiosità Linguistica</span>
+    <h1 class="post-title" itemprop="name headline" style="font-size: 2rem; margin-top: 10px;">{{ page.title | escape }}</h1>
+  </header>
 
-<main class="page-content">
-  <div class="wrapper">
-    <article class="post-wrapper">
+  <div class="post-content" itemprop="articleBody">
+    
+    {{ content }}
 
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-          <p class="post-meta">{{ page.subtitle }}</p>
-        {% endif %}
-      </header>
+    <div class="orient-box" style="background-color: var(--bg-body); border: 1px solid var(--border-color); color: var(--text-main); margin-top: 40px; padding: 25px;">
+      <h3 style="color: #1a202c !important; font-size: 1.3rem !important;">Ti affascinano le lingue?</h3>
+      <p style="color: var(--text-main) !important;">Leggere curiosità è divertente, ma imparare a parlarle davvero ti cambia la vita e apre nuove porte lavorative. Scopri come fare da adulto, anche se hai pochissimo tempo.</p>
+      <a href="{{ '/inizia-qui' | relative_url }}" class="btn-primary" style="width: 100%;">Scopri da dove iniziare</a>
+    </div>
 
-      <div class="post-content">
-        {{ content }}
-      </div>
-
-      {% assign box_title = page.bridge_title | default: page.next_title %}
-      {% assign box_text = page.bridge_text | default: page.next_text %}
-      {% assign box_cta1 = page.bridge_cta1 | default: page.next_cta1 %}
-      {% assign box_url1 = page.bridge_url1 | default: page.next_url1 %}
-      {% assign box_cta2 = page.bridge_cta2 | default: page.next_cta2 %}
-      {% assign box_url2 = page.bridge_url2 | default: page.next_url2 %}
-      {% assign box_micro = page.bridge_micro | default: page.next_micro %}
-      {% assign box_microlink = page.bridge_microlink | default: page.next_microlink %}
-      {% assign box_microanchor = page.bridge_microanchor | default: page.next_microanchor %}
-
-      {% if box_title or box_text or box_cta1 or box_cta2 or box_micro %}
-      <div class="post-content">
-        {% include bridge-box.html
-          title=box_title
-          text=box_text
-          cta1=box_cta1
-          url1=box_url1
-          cta2=box_cta2
-          url2=box_url2
-          micro=box_micro
-          microlink=box_microlink
-          microanchor=box_microanchor
-          lang=page.lang
-          type=page.bridge_type
-        %}
-      </div>
-      {% endif %}
-
-      <hr class="section-divider" />
-
-      <div class="disclaimer-inline" role="note">
-        <div class="disclaimer-icon">ℹ️</div>
-        <p class="disclaimer-text">
-          <strong>Nota</strong> — Alcuni link in questo sito possono essere affiliati.
-          Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
-        </p>
-      </div>
-
-      <script type="application/ld+json">
-      {
-        "@context":"https://schema.org",
-        "@type":"Article",
-        "headline": {{ page.title | jsonify }},
-        "description": {{ page.description | default: page.subtitle | default: site.description | jsonify }},
-        "author": {
-          "@type":"Organization",
-          "name": {{ site.title | jsonify }}
-        },
-        "publisher": {
-          "@type":"Organization",
-          "name": {{ site.title | jsonify }}
-        },
-        "mainEntityOfPage": {
-          "@type":"WebPage",
-          "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-        }
-      }
-      </script>
-
-      <script type="application/ld+json">
-      {
-        "@context":"https://schema.org",
-        "@type":"BreadcrumbList",
-        "itemListElement":[
-          {
-            "@type":"ListItem",
-            "position":1,
-            "name":"Home",
-            "item":"{{ site.url }}{{ site.baseurl }}/"
-          },
-          {
-            "@type":"ListItem",
-            "position":2,
-            "name": {{ page.breadcrumb_parent_name | default: "Hub Lingue" | jsonify }},
-            "item":"{{ site.url }}{{ site.baseurl }}{{ page.breadcrumb_parent_url | default: '/hub-lingue/' }}"
-          },
-          {
-            "@type":"ListItem",
-            "position":3,
-            "name": {{ page.title | jsonify }},
-            "item":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-          }
-        ]
-      }
-      </script>
-    </article>
   </div>
-</main>
 
-{% include footer.html %}
+</article>
