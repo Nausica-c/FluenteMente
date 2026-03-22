@@ -39,10 +39,4 @@ Succederà. Avrai una giornata infernale, crollerai sul divano la sera e andrai 
 
 **Regola fondamentale: Niente panico e nessun senso di colpa.** Saltare un giorno è un incidente di percorso. L'unica regola ferrea che devi rispettare è: **Mai saltare due giorni di fila.** Un giorno saltato è un imprevisto; due giorni saltati sono la costruzione di una nuova cattiva abitudine. Il giorno dopo, riprendi da dove avevi lasciato.
 
-{% include orient-box.html text="Hai capito come fare spazio nella tua giornata. Ora hai solo bisogno del materiale giusto da inserire in quei 15 minuti. Non buttarti sui manuali scolastici." %}
-
-<div style="text-align: center; margin-top: -30px; margin-bottom: 40px;">
-  <a href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=routine_bottom" target="_blank" rel="sponsored" class="btn-primary">Inizia subito con Babbel (Prova Gratis)</a>
-  <br><br>
-  <a href="{{ '/risorse/' | relative_url }}" style="font-weight: 700; text-decoration: underline;">Oppure leggi perché noi usiamo esclusivamente questa app</a>
-</div>
+{% include promo-box.html %}
