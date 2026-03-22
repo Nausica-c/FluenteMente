@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Inglese per Viaggiare - Emergenze e Socialità (Guida 2026)
+title: "Inglese per Viaggiare: Emergenze e Socialità (Guida 2026)"
+date: 2026-03-22
 permalink: /inglese/viaggio/social-emergenze-inglese/
-tldr: "In viaggio, l'inglese è il tuo paracadute. Questa guida ti fornisce le formule essenziali per gestire emergenze mediche, smarrimenti e per rompere il ghiaccio con nuovi amici. Ricorda: la sicurezza viene dalla pratica, non solo dalla lettura."
+tldr: "In viaggio, l'inglese è il tuo paracadute. Questa guida ti fornisce le formule essenziali per gestire emergenze mediche, smarrimenti e per rompere il ghiaccio con nuovi amici."
 ---
 
-Immagina di essere all'estero. Tutto va bene finché non perdi il passaporto, ti senti male o semplicemente non riesci a spiegare al barista che sei allergico a un ingrediente. 
+Immagina di essere all'estero. Tutto va bene finché non perdi il portafoglio, ti senti male o semplicemente non riesci a spiegare al barista che sei allergico a un ingrediente. 
 
 In quel momento, la grammatica non conta. Conta la **capacità di comunicare un bisogno urgente.** In questa guida abbiamo selezionato le frasi che ogni viaggiatore adulto dovrebbe avere nel suo "kit di pronto soccorso linguistico".
 
@@ -68,4 +69,3 @@ La differenza tra una vacanza stressante e un'esperienza indimenticabile è la t
 ### Ti serve altro per il tuo viaggio?
 * [Come gestire soldi e banche in inglese](/inglese/viaggio/soldi-banche-cambio-inglese/)
 * [Shopping e budget: frasi per non farsi fregare](/inglese/viaggio/shopping-budget-inglese/)
-* 
