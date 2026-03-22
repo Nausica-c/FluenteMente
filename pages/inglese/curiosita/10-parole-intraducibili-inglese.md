@@ -93,3 +93,4 @@ Se senti che la traduzione mentale è ancora il tuo freno a mano, il prossimo pa
 * [I 15 Falsi Amici più pericolosi in inglese]({{ '/inglese/errori/15-false-friends-inglese/' | relative_url }})
 * [Quanto tempo serve per iniziare a pensare in inglese?]({{ '/tempo-apprendimento-app/' | relative_url }})
 * [Guida alla pronuncia: perché non si legge come si scrive]({{ '/inglese/pronuncia/guida-pronuncia-inglese-italiani/' | relative_url }})
+* 
