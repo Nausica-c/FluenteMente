@@ -1,25 +1,21 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
 <div class="blog-grid">
-  {% assign articles = site.pages | filter: "layout", "post" | sort: "date" | reverse %}
+  {% assign articles = site.pages | filter: "layout", "post" %}
   {% for item in articles %}
-  <article class="blog-card">
+  <article class="blog-card" style="border: 1px solid #eee; padding: 20px; margin-bottom: 20px; border-radius: 10px;">
     <div class="blog-card__content">
-      <div class="blog-card__meta">
-        <span class="blog-card__date">{{ item.date | date: "%d/%m/%Y" }}</span>
-        {% if item.categories %}
-          <span class="blog-card__category">{{ item.categories | first }}</span>
-        {% endif %}
-      </div>
       <h2 class="blog-card__title">
         <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
       </h2>
       <p class="blog-card__excerpt">
-        {% if item.tldr %}
-          {{ item.tldr | truncatewords: 20 }}
-        {% else %}
-          {{ item.content | strip_html | truncatewords: 20 }}
-        {% endif %}
+        {{ item.tldr | truncatewords: 20 }}
       </p>
-      <a href="{{ item.url | relative_url }}" class="blog-card__link">Leggi la guida ➔</a>
+      <a href="{{ item.url | relative_url }}" class="blog-card__link" style="color: orange; font-weight: bold;">Leggi la guida ➔</a>
     </div>
   </article>
   {% endfor %}
