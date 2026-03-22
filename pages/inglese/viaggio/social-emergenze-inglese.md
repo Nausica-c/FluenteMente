@@ -62,10 +62,10 @@ Sotto stress, la nostra pronuncia peggiora. Se non ricordi la frase esatta:
 
 La differenza tra una vacanza stressante e un'esperienza indimenticabile è la tua sicurezza nel parlare. Non aspettare di essere in aeroporto per accorgerti che non ricordi come si dice "bagaglio smarrito".
 
-👉 **[Scopri come prepararti al tuo prossimo viaggio in 15 minuti al giorno](/routine/)**
+👉 **[Scopri come prepararti al tuo prossimo viaggio in 15 minuti al giorno]({{ '/routine/' | relative_url }})**
 
 ---
 
 ### Ti serve altro per il tuo viaggio?
-* [Come gestire soldi e banche in inglese](/inglese/viaggio/soldi-banche-cambio-inglese/)
-* [Shopping e budget: frasi per non farsi fregare](/inglese/viaggio/shopping-budget-inglese/)
+* [Come gestire soldi e banche in inglese]({{ '/inglese/viaggio/soldi-banche-cambio-inglese/' | relative_url }})
+* [Shopping e budget: frasi per non farsi fregare]({{ '/inglese/viaggio/shopping-budget-inglese/' | relative_url }})
