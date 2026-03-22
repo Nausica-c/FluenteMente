@@ -5,7 +5,6 @@ subtitle: Hai solo 15 minuti al giorno e non vuoi perdere tempo con i giochini a
 permalink: /migliori-app-lingue/
 ---
 
-{% include affiliate-disclosure.html %}
 
 Gli store del tuo smartphone sono pieni di applicazioni che promettono di farti imparare lo spagnolo, l'inglese o il francese in pochi giorni. La maggior parte di queste app, però, ha un problema di fondo: **sono progettate come videogiochi.**
 
