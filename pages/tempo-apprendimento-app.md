@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Quanto Tempo Serve per Imparare una Lingua? (Roadmap 2026)
+title: "Quanto Tempo Serve per Imparare una Lingua? (Roadmap 2026)"
+date: 2026-03-22
 permalink: /tempo-apprendimento-app/
-tldr: "Non servono anni, servono ore di qualità. Con un'app strutturata (15 min/giorno), puoi raggiungere un livello di sopravvivenza in 3 mesi e l'autonomia in 6-8 mesi. La chiave è il metodo: 15 minuti su Babbel valgono quanto 1 ora di gioco su app gratuite."
+tldr: "Non servono anni, servono ore di qualità. Con un'app strutturata (15 min/giorno), puoi raggiungere un livello di sopravvivenza in 3 mesi e l'autonomia in 6-8 mesi."
 ---
 
 *"Quanto tempo ci metto a parlare?"* È la prima domanda che ci poniamo tutti. 
@@ -70,11 +71,11 @@ Il tempo passerà comunque. Tra 6 mesi potresti essere esattamente dove sei ora,
 
 La differenza la fa l'azione che compi oggi.
 
-👉 **[Scopri come creare la tua routine di 15 minuti](../routine/)**
+👉 **[Scopri come creare la tua routine di 15 minuti](/routine/)**
 
 ---
 
 ### Ti interessa approfondire i costi e i metodi?
-* [Recensione completa Babbel 2026: Vale la spesa?](../recensione-babbel/)
-* [Le 5 migliori app per adulti a confronto](../migliori-app-lingue/)
-* 
+* [Recensione completa Babbel 2026: Vale la spesa?](/recensione-babbel/)
+* [Le 5 migliori app per adulti a confronto](/migliori-app-lingue/)
+
