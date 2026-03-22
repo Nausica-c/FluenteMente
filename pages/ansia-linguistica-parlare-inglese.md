@@ -5,7 +5,7 @@ permalink: /ansia-linguistica-parlare-inglese/
 tldr: "Il blocco nel parlato non è un problema di memoria, ma di ansia sociale. Per superarlo devi abbassare la pressione e allenarti in un 'ambiente protetto' prima di affrontare il mondo reale. Ecco come passare dal silenzio alla conversazione."
 ---
 
-{% include affiliate-disclosure.html %}
+
 
 Capisci tutto quando guardi Netflix. Leggi le email senza problemi. Ma poi, un collega ti fa una domanda in inglese e... il buio. Il cuore accelera, la gola si secca e le parole spariscono.
 
