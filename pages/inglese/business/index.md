@@ -63,12 +63,12 @@ Ecco le guide pratiche per gestire la tua operatività quotidiana in un ambiente
 
 L'inglese professionale richiede un approccio diverso dallo studio scolastico. Ecco i tre pilastri per accelerare i risultati:
 
-### 1. I "Business Chunks"
-Smetti di studiare liste di vocaboli. Impara i "blocchi di linguaggio" pronti all'uso per le tue call. Usare espressioni come *"Let's circle back"* o *"I'll look into it"* ti farà sembrare immediatamente più fluente di quanto tu non sia.
+### 1. I \"Business Chunks\"
+Smetti di studiare liste di vocaboli. Impara i \"blocchi di linguaggio\" pronti all'uso per le tue call. Usare espressioni come *"Let's circle back"* o *"I'll look into it"* ti farà sembrare immediatamente più fluente di quanto tu non sia.
 👉 **[Mini Lezioni: Inglese per il Lavoro]({{ '/inglese/mini-lezioni-sblocco-parte-3/' | relative_url }})**
 
 ### 2. Gestione dell'Ansia nelle Call
-Il blocco durante una riunione su Zoom è spesso psicologico. Preparare dei *talking points* e imparare a "prendere tempo" con frasi di transizione riduce drasticamente lo stress.
+Il blocco durante una riunione su Zoom è spesso psicologico. Preparare dei *talking points* e imparare a \"prendere tempo\" con frasi di transizione riduce drasticamente lo stress.
 👉 **[Come superare l'ansia linguistica]({{ '/ansia-linguistica-parlare-inglese/' | relative_url }})**
 
 ### 3. Conoscere il ROI delle Lingue
@@ -77,10 +77,12 @@ Il bilinguismo non è solo cultura, è arbitraggio geografico. Saper parlare ing
 
 ---
 
-{% include trust-brand.html 
+{% include trust-box.html 
    title="Certificato da FluenteMente"
    text="Consigliamo solo percorsi che hanno un impatto reale sulla produttività. Il nostro obiettivo è farti parlare in modo che il tuo interlocutore veda il tuo valore professionale, non il tuo accento."
 %}
+
+{% include trust-brand.html %}
 
 ## Prossimo Passo Strategico
 
