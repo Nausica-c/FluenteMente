@@ -5,7 +5,6 @@ subtitle: Vale la spesa? Abbiamo analizzato il metodo, i costi e i risultati rea
 permalink: /recensione-babbel/
 ---
 
-{% include affiliate-disclosure.html %}
 
 Se stai leggendo questa recensione, probabilmente hai già provato le app gratuite con il gufetto verde e ti sei reso conto che tradurre "il gatto beve il latte" non ti sta aiutando a ordinare una birra all'estero o a superare un colloquio.
 
