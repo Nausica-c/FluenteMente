@@ -77,7 +77,7 @@ Il bilinguismo non è solo cultura, è arbitraggio geografico. Saper parlare ing
 
 ---
 
-{% include trust-box.html 
+{% include trust-brand.html 
    title="Certificato da FluenteMente"
    text="Consigliamo solo percorsi che hanno un impatto reale sulla produttività. Il nostro obiettivo è farti parlare in modo che il tuo interlocutore veda il tuo valore professionale, non il tuo accento."
 %}
