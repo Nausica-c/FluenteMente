@@ -1,0 +1,71 @@
+---
+layout: default
+title: Imparare una lingua per la vita reale
+---
+
+<section class="hero-clean">
+  <div class="wrapper hero-clean__inner">
+    <h1 class="hero-clean__title">Imparare una lingua per la vita reale.</h1>
+    <p class="hero-clean__subtitle">Niente lezioni scolastiche noiose. Metodi pratici, guide e strumenti testati per adulti che lavorano, viaggiano e hanno solo 15 minuti al giorno.</p>
+    
+    <div class="hero-clean__actions">
+      <a href="{{ '/inizia-qui' | relative_url }}" class="btn-primary">Scopri il metodo</a>
+      <a href="{{ '/recensione-babbel' | relative_url }}" class="btn-outline">Vedi lo strumento consigliato</a>
+    </div>
+    
+    <div class="hero-clean__meta">
+      <span class="hero-pill">✓ Zero grammatica accademica</span>
+      <span class="hero-pill">✓ Pensato per chi ha oltre 25 anni</span>
+    </div>
+  </div>
+</section>
+
+<section class="section-soft">
+  <div class="wrapper">
+    <h2 class="section-title" style="text-align: center;">Qual è il tuo obiettivo oggi?</h2>
+    <p class="section-subtitle" style="text-align: center; margin: 0 auto 40px auto;">Scegli il percorso più adatto alla tua situazione attuale per non perdere tempo.</p>
+    
+    <div class="start-grid">
+      <a href="{{ '/principianti' | relative_url }}" class="start-card">
+        <div class="start-icon">🌱</div>
+        <h3>Voglio basi solide</h3>
+        <p>Parti da zero o ricominci dopo anni? Scopri come evitare gli errori che ti fanno mollare dopo due settimane.</p>
+      </a>
+      
+      <a href="{{ '/vita-vera' | relative_url }}" class="start-card">
+        <div class="start-icon">✈️</div>
+        <h3>Per Viaggiare o Lavorare</h3>
+        <p>Vocabolario pratico, simulazioni e guide per cavartela all'estero, al ristorante o in una riunione in inglese.</p>
+      </a>
+      
+      <a href="{{ '/migliori-app-lingue' | relative_url }}" class="start-card start-card-highlight">
+        <div class="start-icon">📱</div>
+        <h3>Cerco l'App giusta</h3>
+        <p>Abbiamo testato le migliori app sul mercato per farti risparmiare tempo e investire bene i tuoi soldi.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="wrapper">
+    {% include trust-brand.html %}
+  </div>
+</section>
+
+<section class="section-soft" style="border-top: 1px solid var(--border-color);">
+  <div class="wrapper" style="max-width: 760px;">
+    <h2 class="section-title" style="font-size: 1.6rem; text-align: center; margin-bottom: 30px;">Le ultime guide pratiche</h2>
+    
+    {% for post in site.posts limit:4 %}
+    <div class="post-row">
+      <div class="post-row__date">{{ post.date | date: "%d/%m/%Y" }}</div>
+      <a href="{{ post.url | relative_url }}" class="post-row__title">{{ post.title }}</a>
+    </div>
+    {% endfor %}
+    
+    <div style="margin-top: 40px; text-align: center;">
+      <a href="{{ '/blog' | relative_url }}" class="btn-outline" style="padding: 12px 28px; font-size: 0.95rem;">Sfoglia tutto l'archivio</a>
+    </div>
+  </div>
+</section>
