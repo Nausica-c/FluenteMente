@@ -70,11 +70,11 @@ Il tempo passerà comunque. Tra 6 mesi potresti essere esattamente dove sei ora,
 
 La differenza la fa l'azione che compi oggi.
 
-👉 **[Scopri come creare la tua routine di 15 minuti](/routine/)**
+👉 **[Scopri come creare la tua routine di 15 minuti](../routine/)**
 
 ---
 
 ### Ti interessa approfondire i costi e i metodi?
-* [Recensione completa Babbel 2026: Vale la spesa?](/recensione-babbel/)
-* [Le 5 migliori app per adulti a confronto](/migliori-app-lingue/)
+* [Recensione completa Babbel 2026: Vale la spesa?](../recensione-babbel/)
+* [Le 5 migliori app per adulti a confronto](../migliori-app-lingue/)
 * 
