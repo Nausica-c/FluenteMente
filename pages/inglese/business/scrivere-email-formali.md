@@ -6,7 +6,6 @@ permalink: /inglese/business/scrivere-email-formali/
 tldr: "Smetti di tradurre letteralmente dall'italiano. Per un'email professionale in inglese servono formule fisse. Se vuoi smettere di cercare modelli e diventare autonomo, il modulo Business di Babbel è la scorciatoia."
 ---
 
-{% include affiliate-disclosure.html %}
 
 Aprire Outlook o Gmail e fissare il cursore che lampeggia sperando che la frase giusta compaia magicamente: è l'incubo di ogni professionista che deve comunicare in inglese. 
 
