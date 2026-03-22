@@ -1,52 +1,19 @@
 ---
 layout: default
 ---
+<article class="post-wrapper">
+  
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.subtitle %}
+      <p class="post-meta" style="font-size: 1.1rem; max-width: 60ch; margin: 10px auto 0;">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
 
-{% include header.html %}
-
-<main class="page-content">
-  <div class="wrapper">
-    <article class="post-wrapper">
-
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-          <p class="post-meta">{{ page.subtitle }}</p>
-        {% endif %}
-      </header>
-
-      <div class="post-content">
-        {{ content }}
-      </div>
-
-      {% if page.next_title or page.next_cta1 %}
-        {% include bridge-box.html
-          title=page.next_title
-          text=page.next_text
-          cta1=page.next_cta1
-          url1=page.next_url1
-          cta2=page.next_cta2
-          url2=page.next_url2
-          micro=page.next_micro
-          microlink=page.next_microlink
-          microanchor=page.next_microanchor
-          lang=page.lang
-          type=page.bridge_type
-        %}
-      {% endif %}
-
-      <hr class="section-divider" />
-
-      <div class="disclaimer-inline" role="note">
-        <div class="disclaimer-icon">ℹ️</div>
-        <p class="disclaimer-text">
-          <strong>Nota</strong> — Alcuni link in questo sito possono essere affiliati.
-          Se acquisti tramite questi link potrei ricevere una piccola commissione, senza costi extra per te.
-        </p>
-      </div>
-
-    </article>
+  <div class="post-content">
+    
+    {{ content }}
+    
   </div>
-</main>
 
-{% include footer.html %}
+</article>
