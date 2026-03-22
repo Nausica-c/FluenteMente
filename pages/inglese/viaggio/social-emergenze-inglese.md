@@ -6,7 +6,7 @@ permalink: /inglese/viaggio/social-emergenze-inglese/
 tldr: "In viaggio, l'inglese è il tuo paracadute. Questa guida ti fornisce le formule essenziali per gestire emergenze mediche, smarrimenti e per rompere il ghiaccio con nuovi amici."
 ---
 
-Immagina di essere all'estero. Tutto va bene finché non perdi il portafoglio, ti senti male o semplicemente non riesci a spiegare al barista che sei allergico a un ingrediente. 
+Immagina di essere all'estero. Tutto va bene finché non perdi il passaporto, ti senti male o semplicemente non riesci a spiegare al barista che sei allergico a un ingrediente. 
 
 In quel momento, la grammatica non conta. Conta la **capacità di comunicare un bisogno urgente.** In questa guida abbiamo selezionato le frasi che ogni viaggiatore adulto dovrebbe avere nel suo "kit di pronto soccorso linguistico".
 
@@ -37,7 +37,7 @@ Nelle situazioni critiche, usa frasi brevi e dirette. Non cercare la cortesia ec
 
 ## 2. Socialità: Rompere il ghiaccio
 
-Viaggiare significa anche incontrare persone. Se superi lo scoglio del "Hello", si apre un mondo.
+Viaggiare significa anche incontrare persone. Se superi lo scoglio del "Hello", si apre un mondo di opportunità.
 
 * **Is anyone sitting here?** È occupato qui? (Ottima per iniziare a parlare al bar o in treno).
 * **Where are you from?** Di dove sei?
@@ -53,14 +53,14 @@ Viaggiare significa anche incontrare persone. Se superi lo scoglio del "Hello", 
 ## 3. Il trucco per farsi capire (anche se sei teso)
 
 Sotto stress, la nostra pronuncia peggiora. Se non ricordi la frase esatta:
-1.  **Usa le parole chiave:** Invece di "I am wondering if you could help me find the pharmacy", dì semplicemente "Help, please. Pharmacy?". Funziona.
-2.  **Mostra il telefono:** Usa DeepL o le lezioni offline di Babbel per mostrare la parola scritta se la comunicazione verbale fallisce.
+1.  **Usa le parole chiave:** Invece di una frase complessa, dì semplicemente "Help, please. Pharmacy?". Funziona sempre.
+2.  **Mostra il telefono:** Usa le lezioni offline di Babbel per mostrare la parola scritta se la comunicazione verbale fallisce.
 
 {% include trust-brand.html %}
 
 ## Prossimo Passo: Non restare senza parole
 
-La differenza tra una vacanza stressante e un'esperienza indimenticabile è la tua sicurezza nel parlare. Non aspettare di essere in aeroporto per accorgerti che non ricordi come si dice "bagaglio smarrito".
+La differenza tra una vacanza stressante e un'esperienza indimenticabile è la tua sicurezza nel parlare. Non aspettare di essere in aeroporto per accorgerti che non ricordi i fondamentali.
 
 👉 **[Scopri come prepararti al tuo prossimo viaggio in 15 minuti al giorno]({{ '/routine/' | relative_url }})**
 
@@ -69,3 +69,4 @@ La differenza tra una vacanza stressante e un'esperienza indimenticabile è la t
 ### Ti serve altro per il tuo viaggio?
 * [Come gestire soldi e banche in inglese]({{ '/inglese/viaggio/soldi-banche-cambio-inglese/' | relative_url }})
 * [Shopping e budget: frasi per non farsi fregare]({{ '/inglese/viaggio/shopping-budget-inglese/' | relative_url }})
+
