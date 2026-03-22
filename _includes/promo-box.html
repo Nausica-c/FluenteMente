@@ -1,57 +1,6 @@
-{% assign type = include.type | default: "base" %}
-{% assign lang = include.lang | downcase | default: page.lang | default: "generico" %}
-{% assign link = include.link | default: "https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=" %}
-
-{% case lang %}
-  {% when "inglese" %}
-    {% assign l_art = "l'inglese" %}
-  {% when "spagnolo" %}
-    {% assign l_art = "lo spagnolo" %}
-  {% when "tedesco" %}
-    {% assign l_art = "il tedesco" %}
-  {% when "portoghese" %}
-    {% assign l_art = "il portoghese" %}
-  {% when "francese" %}
-    {% assign l_art = "il francese" %}
-  {% else %}
-    {% assign l_art = "una nuova lingua" %}
-{% endcase %}
-
-{% case type %}
-  {% when "review" %}
-    {% assign def_title = "Vuoi capire se Babbel fa davvero per te?" %}
-    {% assign def_text = "Dopo aver letto questa guida, puoi provare direttamente la piattaforma e vedere se il metodo si adatta ai tuoi obiettivi." %}
-    {% assign def_cta = "Prova Babbel" %}
-
-  {% when "comparison" %}
-    {% assign def_title = "Confronta la teoria con l’esperienza diretta" %}
-    {% assign def_text = "Se sei in fase decisionale, il passo più utile è provare e capire se il formato ti aiuta davvero a essere costante." %}
-    {% assign def_cta = "Inizia la prova" %}
-
-  {% when "method" %}
-    {% assign def_title = "Vuoi passare dalla teoria alla pratica?" %}
-    {% assign def_text = "Se hai già chiarito metodo, routine e obiettivo, questo è il momento giusto per testare uno strumento concreto." %}
-    {% assign def_cta = "Inizia la prova gratuita" %}
-
-  {% else %}
-    {% assign def_title = "Vuoi fare una prova pratica?" %}
-    {% assign def_text = "Se hai già chiarito il tuo obiettivo, puoi testare uno strumento strutturato e capire se si adatta davvero al tuo modo di studiare." %}
-    {% assign def_cta = "Scopri Babbel" %}
-{% endcase %}
-
-{% assign title = include.title | default: def_title %}
-{% assign text = include.text | default: def_text %}
-{% assign cta = include.cta | default: def_cta %}
-
-<div class="bridge-box">
-  <h3>{{ title }}</h3>
-  <p class="bridge-box__text">{{ text }}</p>
-
-  <div class="bridge-box__actions">
-    <a class="btn-primary" href="{{ link }}" target="_blank" rel="sponsored noopener">{{ cta }}</a>
-  </div>
-
-  <p class="bridge-box__micro">
-    💡 <em>Puoi usare Babbel per iniziare a praticare {{ l_art }} in modo guidato.</em>
-  </p>
+<div class="promo-box">
+  <h3>🚀 Pronto a parlare davvero?</h3>
+  <p>Smetti di perdere tempo con la grammatica noiosa. Le lezioni da 15 minuti di Babbel sono progettate per farti affrontare conversazioni reali fin dal primo giorno.</p>
+  <a href="https://go.babbel.com/..." class="btn-primary" target="_blank" rel="nofollow sponsored">Inizia la prova gratuita su Babbel</a>
+  <span class="microcopy">Cancella quando vuoi, zero rischi.</span>
 </div>
