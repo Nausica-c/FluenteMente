@@ -78,4 +78,4 @@ La differenza la fa l'azione che compi oggi.
 ### Ti interessa approfondire i costi e i metodi?
 * [Recensione completa Babbel 2026: Vale la spesa?]({{ '/recensione-babbel/' | relative_url }})
 * [Le 5 migliori app per adulti a confronto]({{ '/migliori-app-lingue/' | relative_url }})
-* 
+
