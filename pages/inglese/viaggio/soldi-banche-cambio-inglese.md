@@ -4,7 +4,7 @@ title: "Inglese in Viaggio: Frasi Salva-Portafoglio per ATM e Cambi"
 date: 2026-03-23
 subtitle: "Dalla carta bloccata nel bancomat ai tassi di cambio: l'inglese di sopravvivenza per proteggere le tue finanze all'estero."
 description: "Paura di farti bloccare la carta all'estero? Scopri le frasi in inglese indispensabili per gestire contanti, ATM e uffici di cambio senza farti truffare."
-permalink: /inglese/travel/soldi-banche-inglese/
+permalink: /inglese/viaggio/soldi-banche-inglese/
 ---
 
 Perdere l’orientamento in una nuova città fa parte dell’avventura. Perdere l’accesso ai propri soldi, invece, è un vero e proprio incubo. 
