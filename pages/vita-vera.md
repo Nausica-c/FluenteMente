@@ -21,9 +21,9 @@ Se il tuo obiettivo è fare carriera, viaggiare senza ansia o gestire imprevisti
 
 ---
 
-## 🛫 Pilastro 1: Sopravvivenza in Viaggio (Index)
+## 🛫 Pilastro 1: Sopravvivenza in Viaggio
 
-In viaggio, l'efficacia conta più della perfezione. Ecco l'indice completo delle nostre guide per gestire ogni fase della tua avventura, dall'atterraggio alle emergenze.
+In viaggio, l'efficacia conta più della perfezione. Ecco una selezione delle nostre guide per gestire ogni fase della tua avventura, dall'atterraggio alle emergenze.
 
 ### 🛂 Arrivo e Spostamenti
 * **[Aeroporto senza Stress]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})**: Come superare dogana e controlli senza sudare freddo.
@@ -36,7 +36,8 @@ In viaggio, l'efficacia conta più della perfezione. Ecco l'indice completo dell
 ### 🎭 Esperienza e Salute
 * **[Cultura e Musei]({{ '/inglese/viaggio/cultura-musei-inglese/' | relative_url }})**: Noleggiare audioguide, chiedere sconti e decifrare i cartelli d'arte.
 * **[Dating e Socialità]({{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }})**: Rompere il ghiaccio al bar e mettere paletti per la propria sicurezza.
-* **[Farmacia e Salute]({{ '/inglese/viaggio/farmacia-salute-inglese/' | relative_url }})**: Spiegare i sintomi e farsi dare il farmaco giusto in caso di malanno.
+
+👉 **[Vedi tutto l'archivio Inglese in Viaggio ➔]({{ '/inglese/viaggio/' | relative_url }})**
 
 ---
 
@@ -52,9 +53,11 @@ In viaggio, l'efficacia conta più della perfezione. Ecco l'indice completo dell
 
 Nel lavoro, la precisione è sinonimo di autorevolezza. Usa queste guide per elevare la tua immagine professionale e non fare scena muta nei momenti decisivi.
 
-* **[Business English Hub]({{ '/inglese/business/' | relative_url }})**: L'archivio completo per la carriera.
 * **[Business Travel]({{ '/inglese/viaggio/business-travel-inglese/' | relative_url }})**: Gestire fiere, networking e cene aziendali all'estero.
 * **[Email Formali e Modelli]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**: Smetti di usare i traduttori e scrivi come un professionista madrelingua.
+* **[Colloquio di Lavoro]({{ '/inglese/business/colloquio-di-lavoro-domande/' | relative_url }})**: (Se disponibile) Come rispondere alle domande più frequenti dei recruiter.
+
+👉 **[Vedi tutto l'archivio Business English ➔]({{ '/inglese/business/' | relative_url }})**
 
 ---
 
@@ -73,4 +76,4 @@ L'errore più comune? Caricare il "software inglese" sopra l'italiano. Per parla
 
 {% include promo-box.html %}
 
-{% include trust-brand.html %}
+{% include trust-band.html %}
