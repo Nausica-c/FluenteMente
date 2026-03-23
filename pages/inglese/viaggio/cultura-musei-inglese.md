@@ -29,8 +29,6 @@ Ecco il tuo glossario d'arte per risparmiare sul biglietto, orientarti e non far
 
 I musei nelle grandi capitali possono avere code infinite e prezzi alti. L'operatore in biglietteria (*Ticket office* o *Box office*) è abituato ai turisti: sii diretto e chiaro.
 
-
-
 **Per acquistare i biglietti e chiedere sconti (Discounts):**
 * *"Two adult tickets for the permanent exhibition, please."* ➔ Due biglietti interi per la mostra permanente, per favore.
 * *"Do you offer a **student discount**?"* ➔ Offrite uno sconto per studenti? *(Tieni pronta la tessera universitaria!)*
@@ -47,8 +45,6 @@ L'audioguida ti permette di goderti il tour senza perderti nessun dettaglio stor
 
 Ogni luogo d'arte ha le sue regole severe. Passeggiando tra le sale, noterai decine di cartelli informativi e divieti. Ecco come decifrarli al volo.
 
-
-
 * **Do not touch the artwork:** Non toccare l'opera d'arte.
 * **Please keep behind the barrier:** Si prega di restare dietro il cordone di sicurezza.
 * **No food or drinks allowed:** Non è permesso introdurre cibo o bevande.
@@ -63,7 +59,7 @@ Se non sei sicuro che si possano scattare foto, chiedi sempre a un addetto alla 
 
 ---
 
-{% include trust-brand.html 
+{% include trust-box.html 
    title="Il Guardaroba: USA vs UK"
    text="Molti musei richiedono di lasciare zaini e ombrelli prima di entrare. Se devi chiedere dove si trova il guardaroba, ricorda questa differenza tra l'inglese britannico e americano: Nel Regno Unito chiederai: 'Where is the cloakroom?'. Negli Stati Uniti chiederai: 'Where is the coat check?'."
 %}
@@ -86,4 +82,4 @@ La prossima volta che ti troverai di fronte alla *Notte Stellata* o ai marmi del
 
 {% include promo-box.html %}
 
-{% include trust-brand.html %}
+{% include trust-band.html %}
