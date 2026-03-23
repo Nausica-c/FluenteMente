@@ -86,7 +86,7 @@ Questa è la sezione più importante per chi viaggia in solitaria, specialmente 
 
 Viaggiare in solitaria non significa affatto sentirsi soli. Con il giusto vocabolario e un po' di coraggio, ogni viaggio può trasformarsi nell'occasione perfetta per fare incontri indimenticabili. 
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
 
 ### Altre guide per il tuo Solo Travel:
 * [Ostelli e Airbnb: le frasi per gestire la casa e fare amicizia]({{ '/inglese/viaggio/airbnb-hostel-survival-guide/' | relative_url }})
