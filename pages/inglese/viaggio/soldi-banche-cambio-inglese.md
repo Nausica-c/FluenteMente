@@ -82,5 +82,5 @@ Se stai organizzando un viaggio all'estero, non limitarti a imparare le frasi a 
 {% include trust-brand.html %}
 
 ### Altre guide per il tuo viaggio:
-* [Inglese al Ristorante: Come ordinare senza fare gaffe]({{ '/inglese/travel/ordinare-ristorante-inglese/' | relative_url }}) *(Nota: Aggiorna il link se esiste)*
+* [Inglese al Ristorante: Come ordinare senza fare gaffe]({{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }}) *(Nota: Aggiorna il link se esiste)*
 * [I 12 Idiomi che sentirai per strada all'estero]({{ '/inglese/curiosita/12-idiomi-inglesi-conversazione/' | relative_url }})
