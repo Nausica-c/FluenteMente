@@ -87,7 +87,7 @@ Se stai guidando (o anche solo cercando di capire dove i pedoni possono attraver
 
 Ora hai tutte le coordinate per esplorare in tranquillità. E se nonostante tutte le frasi e le mappe ti perdi lo stesso... beh, entra in una caffetteria, ordina qualcosa da bere e goditi l'imprevisto. *It's all part of the journey!*
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
 
 ### Completa il tuo kit di sopravvivenza in viaggio:
 * [L'inglese in Aeroporto: superare i controlli senza stress]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})
