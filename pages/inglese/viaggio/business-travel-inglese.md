@@ -81,7 +81,7 @@ Lo *small talk* (le chiacchiere leggere) è fondamentale nei paesi anglosassoni 
 
 ---
 
-{% include trust-band.html 
+{% include trust-box.html 
    title="Attenzione alle differenze culturali (USA vs UK)"
    text="Quando fai affari all'estero, ricorda le differenze tra l'inglese britannico e americano. Gli Americani sono molto diretti ('Let's get straight to the point') e passano subito a darsi del tu. I Britannici sono maestri dell'understatement (minimizzare): se un inglese ti dice 'That's an interesting idea', spesso significa che non gli piace per niente!"
 %}
@@ -94,7 +94,7 @@ Un viaggio di lavoro non deve essere per forza una fonte di stress e notti inson
 
 {% include promo-box.html %}
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
 
 ### Altre guide per i professionisti:
 * [L'inglese in Aeroporto: superare i controlli senza stress]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})
