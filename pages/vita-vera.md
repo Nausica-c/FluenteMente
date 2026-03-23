@@ -76,4 +76,4 @@ L'errore più comune? Caricare il "software inglese" sopra l'italiano. Per parla
 
 {% include promo-box.html %}
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
