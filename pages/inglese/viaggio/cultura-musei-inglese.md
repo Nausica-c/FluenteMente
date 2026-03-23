@@ -82,4 +82,4 @@ La prossima volta che ti troverai di fronte alla *Notte Stellata* o ai marmi del
 
 {% include promo-box.html %}
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
