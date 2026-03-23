@@ -93,4 +93,3 @@ Ora hai tutte le coordinate per esplorare in tranquillità. E se nonostante tutt
 * [L'inglese in Aeroporto: superare i controlli senza stress]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})
 * [Ostelli e Airbnb: le frasi per gestire la casa e fare amicizia]({{ '/inglese/viaggio/airbnb-hostel-survival-guide/' | relative_url }})
 * [Gestire ATM, Banche e Cambi all'estero]({{ '/inglese/viaggio/soldi-banche-cambio-inglese/' | relative_url }})
-* 
