@@ -59,7 +59,7 @@ Se il tuo livello è basso, dividi il tuo studio per "situazioni reali". Ecco le
 
 **1. Aeroporto (La prima barriera)**
 L’aeroporto è il punto in cui ci si sente più fragili: ti parlano in fretta e ci sono regole rigide. Le parole chiave da riconoscere (*gate, boarding, delayed, carry-on*) sono più importanti delle frasi perfette.
-👉 **[Guida all'Aeroporto]({{ '/inglese/viaggio/aeroporto-check-in-inglese/' | relative_url }})**
+👉 **[Guida all'Aeroporto]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})**
 
 **2. Hotel (La tua comfort zone)**
 Qui le conversazioni sono molto prevedibili (ho una prenotazione, a che ora è la colazione, il Wi-Fi è incluso). È un ottimo punto di partenza per acquisire sicurezza in fretta.
