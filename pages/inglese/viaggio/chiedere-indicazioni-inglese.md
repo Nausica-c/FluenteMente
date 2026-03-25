@@ -216,4 +216,4 @@ Da qui puoi fare due passi intelligenti:
 2. Se invece vuoi prepararti in modo strutturato prima di partire, vai alla nostra routine su **[Come preparare il tuo inglese in 7 giorni]({{ '/routine/come-preparare-viaggio-7-giorni/' | relative_url }})**.
 
 {% include promo-box.html %}
-{% include trust-band.html %}
+{% include trust-brand.html %}
