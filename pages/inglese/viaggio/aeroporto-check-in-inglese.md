@@ -204,4 +204,4 @@ Da qui, hai due strade per completare la tua preparazione:
    link_url="/recensione-babbel/" 
    link_text="Preparati al viaggio con Babbel ➔" %}
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
