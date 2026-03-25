@@ -170,3 +170,4 @@ Se parti presto e vuoi fare ordine mentale senza studiare regole inutili, il pas
    link_url="/recensione-babbel/" 
    link_text="Inizia a prepararti con Babbel ➔" %}
 
+{% include trust-brand.html %}
