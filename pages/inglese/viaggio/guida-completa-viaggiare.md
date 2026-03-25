@@ -182,4 +182,4 @@ Da qui in poi hai due strade. Se vuoi approfondire uno scenario preciso, usa i l
 
 E se senti che leggere non ti basta e hai bisogno di "allenare la lingua" (parlare e ascoltare) prima di salire sull'aereo, **[scopri i moduli Travel di Babbel]({{ '/recensione-babbel/' | relative_url }})** per arrivare a destinazione con meno confusione e molta più sicurezza.
 
-{% include trust-band.html %}
+{% include trust-brand.html %}
