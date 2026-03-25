@@ -4,7 +4,7 @@ title: "Inglese in Aeroporto: Check-in, Controlli e Gate Senza Panico"
 date: 2026-03-25
 subtitle: "Dalle domande al check-in agli annunci altoparlanti: le frasi di sopravvivenza per non bloccarti prima del decollo."
 description: "Scopri le frasi in inglese essenziali per gestire l'aeroporto: check-in, bagagli, controlli di sicurezza, gate e come reagire a ritardi o cambi improvvisi."
-permalink: /inglese/viaggio/aeroporto-check-in-inglese/
+permalink: /inglese/viaggio/aeroporto-senza-stress/
 categories: [inglese, viaggio]
 ---
 
