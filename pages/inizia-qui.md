@@ -1,68 +1,61 @@
 ---
 layout: post
-title: "Inizia Qui: La Tua Roadmap per Imparare l'Inglese nel 2026"
+title: "Inizia Qui: La Tua Roadmap per l'Inglese nel 2026"
 permalink: /inizia-qui/
-tldr: "Benvenuto su FluenteMente. Non siamo qui per darti liste di verbi irregolari. Siamo qui per darti un metodo efficace, veloce e adatto alla vita di un adulto. Trova il tuo percorso e inizia oggi."
+tldr: "Benvenuto su FluenteMente. Non siamo qui per farti memorizzare liste di verbi irregolari. Siamo qui per darti un metodo efficace e adatto alla vita stressante di un adulto. Trova il tuo percorso e inizia."
 ---
 
-Se sei arrivato su questa pagina, probabilmente hai già provato a imparare l'inglese in passato. Forse a scuola, forse con qualche app gratuita, o forse con un corso costoso che hai abbandonato dopo due settimane.
+Se sei atterrato su questa pagina, è altamente probabile che tu abbia già provato a imparare l'inglese in passato. Forse sui banchi di scuola, forse scaricando qualche app gratuita nei ritagli di tempo, o magari pagando un corso serale che hai abbandonato dopo due settimane per stanchezza.
 
-**Il problema non sei tu. È il metodo.**
+**Mettiamo in chiaro una cosa: il problema non sei tu. È il metodo.**
 
-Gli adulti non imparano come i bambini. Abbiamo poco tempo, molte responsabilità e una soglia di frustrazione più alta quando non vediamo risultati immediati. 
+Gli adulti non imparano come i bambini. Abbiamo pochissimo tempo libero, molte responsabilità aziendali o familiari, e una soglia di frustrazione molto più alta quando non vediamo un'utilità immediata in ciò che facciamo. 
 
-*FluenteMente* nasce per questo: aiutarti a usare l'inglese nel mondo reale, nel minor tempo possibile.
+*FluenteMente* nasce esattamente per questo: aiutarti a sbloccare l'inglese nel mondo reale, nel minor tempo possibile.
+
+{% include trust-brand.html %}
+
+## Passo 1: Scegli la tua Emergenza
+
+L'inglese è un oceano vastissimo. Se provi a bere tutto il mare, annegherai. Scegli il tuo punto di partenza prioritario:
+
+### 🟢 Parto da Zero (o quasi)
+Se i tuoi ricordi si fermano a *"The cat is on the table"*, hai bisogno di fondamenta solide ma veloci, senza studiare tomi accademici.
+👉 **[Leggi la Checklist: Imparare l'inglese da zero in 7 giorni]({{ '/imparare-inglese-da-zero-7-giorni/' | relative_url }})**
+
+### 🔵 Mi serve per Sopravvivere in Ufficio
+Se devi rispondere a email internazionali, gestire call su Zoom e hai il terrore di sembrare incompetente davanti ai colleghi.
+👉 **[Scopri come gestire la Sindrome dell'Impostore in inglese]({{ '/inglese/mindset/sindrome-impostore-inglese-lavoro/' | relative_url }})**
+
+### 🟠 Voglio Viaggiare Sereno
+Se il tuo obiettivo è ordinare al ristorante, gestire un imprevisto in aeroporto o fare amicizia senza provare imbarazzo sociale.
+👉 **[Leggi la guida alle Migliori App per adulti]({{ '/migliori-app-lingue/' | relative_url }})**
 
 ---
 
 {% include bridge-box.html 
-   title="Perché consigliamo Babbel?" 
-   text="Abbiamo testato decine di strumenti. Consigliamo Babbel perché è l'unico che rispetta l'intelligenza di un adulto: non ti fa giocare con i gufetti, ti insegna a parlare in situazioni vere con un metodo scientifico di 15 minuti al giorno." 
+   title="💡 Il cuore del nostro ecosistema" 
+   text="Non importa quale sia il tuo punto di partenza. Per raggiungere l'obiettivo ti serve uno strumento che simuli la conversazione reale. Noi abbiamo fatto la nostra scelta testando decine di software sul mercato." 
    link_url="/recensione-babbel/" 
-   link_text="Leggi la nostra analisi onesta ➔" %}
+   link_text="Leggi perché usiamo e consigliamo Babbel ➔" %}
 
 ---
 
-## Passo 1: Trova il tuo obiettivo
+## Passo 2: Sconfiggi il blocco mentale
 
-L'inglese è un oceano. Se provi a imparare tutto, annegherai. Scegli il tuo punto di partenza:
+Sapevi che moltissimi professionisti italiani non parlano inglese non perché non conoscano la grammatica, ma perché hanno il terrore del giudizio altrui? 
 
-### 🟢 Parto da Zero (o quasi)
-Se ricordi solo "The cat is on the table", hai bisogno di fondamenta solide ma veloci.
-👉 **[Partecipa alla Sfida 10 Giorni: le tue prime 50 parole]({{ '/inglese/da-zero/sfida-10-giorni-50-parole/' | relative_url }})**
+Se ti senti "congelato" ogni volta che devi aprire bocca, il primo passo non è comprare un dizionario, ma capire come ingannare il tuo cervello.
+👉 **[Ansia Linguistica: Perché capisci tutto ma non parli]({{ '/inglese/mindset/ansia-linguistica-parlare-inglese/' | relative_url }})**
 
-### 🔵 Mi serve per il Lavoro
-Se devi scrivere email o gestire call e hai paura di sembrare poco professionale.
-👉 **[Guida alle Email Formali in inglese]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**
+## Passo 3: La Routine Indistruttibile
 
-### 🟠 Voglio Viaggiare Sereno
-Se vuoi ordinare al ristorante, gestire un'emergenza o fare amicizia senza ansia.
-👉 **[Inglese per Viaggiare: Emergenze e Socialità]({{ '/inglese/viaggio/social-emergenze-inglese/' | relative_url }})**
-
----
+Nel mondo dell'apprendimento per adulti, la costanza batte l'intensità ogni singola volta. Non ti servono 2 ore al giorno. Ti servono **15 minuti protetti**. Abbiamo codificato un protocollo per aiutarti a inserire lo studio nella tua giornata frenetica.
+👉 **[Scopri la Regola dei 15 Minuti]({{ '/routine/' | relative_url }})**
 
 {% include promo-box.html %}
 
 ---
 
-## Passo 2: Risolvi il problema psicologico
-
-Sapevi che molti adulti non parlano inglese non perché non conoscano le parole, ma perché hanno paura di sbagliare? 
-
-Se ti senti bloccato, il primo passo non è studiare più grammatica, ma capire come funziona il tuo cervello.
-👉 **[Ansia Linguistica: Come sbloccarsi e parlare]({{ '/ansia-linguistica-parlare-inglese/' | relative_url }})**
-
-## Passo 3: Crea una Routine (Indistruttibile)
-
-La costanza batte il talento ogni singola volta. Non ti serve un'ora al giorno. Ti servono 15 minuti ben organizzati. Abbiamo creato un protocollo per aiutarti a inserire l'inglese nella tua giornata senza sacrifici.
-👉 **[Il Protocollo FluenteMente: 15 minuti al giorno]({{ '/routine/' | relative_url }})**
-
-{% include trust-brand.html %}
-
-## Prossimo Passo: Non restare a guardare
-
-La differenza tra chi impara l'inglese e chi continua a sognarlo è l'azione. Non chiudere questa pagina senza aver fatto il tuo primo passo.
-
-Scegli una guida qui sopra o, se vuoi saltare i convenevoli e iniziare a praticare ora:
-
-👉 **[Inizia la tua prima lezione su Babbel (Gratis)]({{ '/recensione-babbel/' | relative_url }})**
+{% include orient-box.html 
+   text="La differenza tra chi impara l'inglese e chi continua solo a sognarlo è l'azione immediata. Non chiudere questa scheda senza aver fatto il tuo primo micro-passo." %}
