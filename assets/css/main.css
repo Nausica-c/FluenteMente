@@ -588,3 +588,60 @@ ul{ list-style:none; }
         grid-template-columns: 1fr;
     }
   }
+/* --- COMPONENTE CRO: Section In Breve --- */
+.section-in-breve {
+  background-color: #f8fafc; /* Grigio molto chiaro e professionale */
+  border-left: 4px solid #3b82f6; /* Linea blu accesa per bloccare lo scrolling */
+  border-radius: 0 8px 8px 0;
+  padding: 24px;
+  margin: 32px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.sib-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.sib-icon {
+  font-size: 1.3rem;
+}
+
+.sib-title {
+  margin: 0;
+  color: #0f172a; /* Testo scuro ad alto contrasto */
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.sib-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.sib-list li {
+  position: relative;
+  padding-left: 28px;
+  margin-bottom: 12px;
+  color: #334155;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.sib-list li:last-child {
+  margin-bottom: 0;
+}
+
+/* Genera la spunta blu in automatico per ogni punto */
+.sib-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #3b82f6;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
