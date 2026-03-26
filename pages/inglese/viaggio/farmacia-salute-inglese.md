@@ -1,110 +1,84 @@
 ---
 layout: post
-title: "Inglese in Farmacia: Frasi per Sintomi, Medicine e Dosaggi"
-date: 2026-03-23
-subtitle: "Sintomi, farmaci da banco e dosaggi: l'inglese per spiegarsi in farmacia e curarsi all'estero senza ansia."
-description: "Ammalarsi in vacanza? Scopri le frasi in inglese essenziali per spiegare i tuoi sintomi, comprare farmaci da banco e chiedere i dosaggi corretti."
+title: "Inglese in Farmacia: Frasi per Sintomi ed Emergenze all'Estero"
+date: 2026-03-26
 permalink: /inglese/viaggio/farmacia-salute-inglese/
-categories: [inglese, viaggio]
+tldr: "Sentirsi male all'estero fa paura. Non affidarti a Google Translate per la tua salute. Ecco le frasi esatte per spiegare i tuoi sintomi, chiedere farmaci da banco e capire il dosaggio senza errori."
 ---
 
-Ammalarsi in vacanza è la scocciatura per eccellenza. Che sia un colpo di freddo per l'aria condizionata a palla, una scottatura solare o un cibo locale che ti ha fatto un brutto scherzo, i piccoli malanni sono sempre in agguato. 
+Essere all'estero, magari in vacanza o in trasferta di lavoro, e iniziare a sentirsi male è una delle situazioni che genera più ansia in assoluto. Quando c'è di mezzo la salute (o quella dei tuoi figli), non puoi permetterti di mimare i sintomi a gesti o sperare che il traduttore automatico azzecchi la parola giusta.
 
-Se a casa basta fare un salto dal farmacista di fiducia, all'estero dover spiegare i propri sintomi in una lingua straniera può scatenare il panico. Il classico blocco del **[capisco ma non parlo]({{ '/inglese/da-zero/capisco-ma-non-parlo/' | relative_url }})** qui non è solo frustrante: rischi letteralmente di comprare il farmaco sbagliato!
+In questa guida troverai il **kit di sopravvivenza medica in inglese**: le frasi esatte per descrivere cosa senti, chiedere un farmaco in farmacia (*Pharmacy* in UK, *Drugstore* in USA) e capire se ti serve una ricetta.
 
-Ecco le **[frasi inglesi indispensabili]({{ '/inglese/curiosita/25-frasi-inglesi-utili/' | relative_url }})** per descrivere esattamente come ti senti, chiedere la medicina giusta e, soprattutto, capire il dosaggio.
-
----
+{% include trust-brand.html %}
 
 {% include section-in-breve.html 
-   title="Le 3 regole mediche all'estero"
-   p1="**OTC (Over-The-Counter):** Sono i farmaci da banco che puoi comprare senza ricetta. Cerca questa sigla se hai un malessere leggero."
-   p2="**Prescription:** Se un farmaco richiede la ricetta medica, il farmacista ti dirà: 'You need a prescription for this'. In quel caso, devi vedere un dottore."
-   p3="**Allergie in primo piano:** Se sei allergico a qualcosa (es. penicillina o ibuprofene), dillo PRIMA di farti dare qualsiasi scatola."
-%}
+   title="Le 3 Regole d'Oro in Farmacia all'estero:" 
+   p1="Non tradurre i nomi commerciali: la Tachipirina non esiste, chiedi il principio attivo (Paracetamol)." 
+   p2="Sii diretto: inizia sempre la frase con 'I have a...' (Ho un...)." 
+   p3="Chiedi sempre se serve la ricetta ('Do I need a prescription?')." %}
 
----
+## 1. Come descrivere i Sintomi (I have a...)
 
-## 1. Descrivere il problema: I Sintomi Comuni
+La struttura più semplice e a prova di bomba per spiegare cosa non va è usare il verbo *To have* (avere) seguito dal sintomo. Non cercare costruzioni complesse.
 
-In inglese, per descrivere un malessere si usano principalmente due verbi: **To have** (avere) per i dolori specifici e **To feel** (sentirsi) per le sensazioni generali. 
+* *"I have a headache."* ➔ Ho mal di testa.
+* *"I have a stomach ache."* ➔ Ho mal di stomaco.
+* *"I have a sore throat."* ➔ Ho mal di gola.
+* *"I have a fever."* ➔ Ho la febbre.
+* *"I have food poisoning."* ➔ Ho un'intossicazione alimentare. *(Molto utile nei paesi esotici!)*
 
+Se il dolore è forte e localizzato in un punto che non sai tradurre, la formula salvavita è:
+* *"It hurts here."* ➔ Fa male qui (indicando la parte del corpo).
 
+## 2. Chiedere un farmaco da banco
 
-**I dolori fisici (I have...):**
-* *"I have a **sore throat**."* ➔ Ho mal di gola.
-* *"I have a **headache** / **stomachache** / **toothache**."* ➔ Ho mal di testa / mal di stomaco / mal di denti.
-* *"I have a **fever** and a **cough**."* ➔ Ho la febbre e la tosse.
-* *"I have a **stiff neck**."* ➔ Ho il torcicollo.
+Se non hai bisogno del medico ma solo di un farmaco senza ricetta (*Over-the-counter medicine*), vai dritto al punto:
 
-**Le sensazioni generali (I feel...):**
-* *"I feel **dizzy**."* ➔ Mi gira la testa / Ho le vertigini.
-* *"I feel **nauseous** / I feel **sick**."* ➔ Ho la nausea / Mi sento male.
-* *"I feel **weak**."* ➔ Mi sento debole.
-
-### Imprevisti tipici in vacanza:
-* *"I have a terrible **sunburn**."* ➔ Ho una brutta scottatura solare.
-* *"I have a **rash** on my arm."* ➔ Ho uno sfogo cutaneo/irritazione sul braccio.
-* *"I'm having an **allergic reaction**."* ➔ Sto avendo una reazione allergica.
-* *"I am allergic to penicillin."* ➔ Sono allergico alla penicillina. *(Frase salvavita!)*
-
----
-
-{% include trust-box.html 
-   title="Pharmacy, Drugstore o Chemist?"
-   text="Attenzione a dove vai a comprare le medicine! Negli Stati Uniti andrai in una 'Pharmacy' o in un 'Drugstore' (come CVS o Walgreens). Nel Regno Unito o in Australia cercherai una 'Pharmacy' o, molto più comunemente, un 'Chemist' (come Boots)."
-%}
-
-
-
----
-
-## 2. Chiedere il Farmaco e Capire il Dosaggio
-
-Una volta spiegato il sintomo, devi chiedere una soluzione.
-
-**Per chiedere aiuto:**
-* *"Do you have anything for a cold?"* ➔ Ha qualcosa per il raffreddore?
-* *"Can you recommend a good **painkiller**?"* ➔ Può consigliarmi un buon antidolorifico?
-* *"I need something for insect bites."* ➔ Ho bisogno di qualcosa per le punture di insetto.
-
-**Per chiedere il dosaggio (Fondamentale!):**
-Non fare di testa tua, chiedi sempre conferma su come e quando assumere la medicina per non fare danni.
-* *"**How many times a day should I take this?**"* ➔ Quante volte al giorno devo prenderlo?
-* *"Should I take it **on an empty stomach** or **after meals**?"* ➔ Devo prenderlo a stomaco vuoto o dopo i pasti?
-* *"Does this medication make you sleepy?"* ➔ Questa medicina fa venire sonno? *(Importante se devi guidare un'auto a noleggio!)*
+* *"I need something for a cold."* ➔ Mi serve qualcosa per il raffreddore.
+* *"Do you have anything for sunburn?"* ➔ Avete qualcosa per le scottature solari?
+* *"I need painkillers / antibiotics."* ➔ Mi servono antidolorifici / antibiotici.
 
 ---
 
 {% include bridge-box.html 
-   title="Non aspettare l'emergenza per imparare" 
-   text="Quando hai la febbre o il mal di testa, l'ultima cosa che vuoi fare è cercare le traduzioni su Google. Imparare a gestire le emergenze e le interazioni quotidiane in viaggio richiede pratica. Babbel offre moduli di conversazione specifici per i viaggiatori: allena il tuo inglese oggi per viaggiare in totale sicurezza domani." 
-   link_url="/recensione-babbel/" 
-   link_text="Preparati per viaggiare in sicurezza ➔" %}
+   title="💡 Capirai la risposta del farmacista?" 
+   text="Sapere cosa chiedere è solo il 50% del lavoro. Il vero problema all'estero è capire le istruzioni veloci che ti daranno. Per allenare l'orecchio a non andare nel panico, leggere non basta: devi ascoltare attivamente." 
+   link_url="/ascolto-passivo-attivo-inglese/" 
+   link_text="Scopri come sbloccare il tuo orecchio con l'ascolto attivo ➔" %}
 
 ---
 
-## 3. Il Vocabolario di Pronto Soccorso
+## 3. Domande cruciali: Dosaggio e Ricette
 
-Ecco una rapida lista degli oggetti "salvavita" che potresti dover comprare al volo in farmacia:
+Quando compri un farmaco all'estero, le avvertenze potrebbero essere scritte in modo incomprensibile. Non uscire mai dalla farmacia senza aver fatto queste domande al farmacista:
 
-| Inglese | Italiano |
-| :--- | :--- |
-| **Band-aids (USA) / Plasters (UK)** | Cerotti |
-| **Ointment / Cream** | Pomata / Crema |
-| **Eye drops** | Collirio |
-| **Cough drops / Lozenges** | Caramelle per la tosse |
-| **Thermometer** | Termometro |
-| **Disinfectant** | Disinfettante |
+* *"How often should I take this?"* ➔ Ogni quanto devo prenderlo?
+* *"Should I take it with food?"* ➔ Devo prenderlo a stomaco pieno?
+* *"Does it make you drowsy?"* ➔ Dà sonnolenza? (Fondamentale se devi guidare un'auto a noleggio).
+* *"Do I need a prescription for this?"* ➔ Serve la ricetta medica per questo?
 
-Con questo vocabolario salvato sul telefono, potrai rimetterti in piedi velocemente e tornare a goderti il tuo viaggio. *Get well soon!* (Guarisci presto!)
+## 4. Emergenze Mediche Gravi (Pronto Soccorso)
+
+Se la situazione richiede l'ospedale (*Hospital* o *A&E - Accident and Emergency* in UK / *ER - Emergency Room* in USA), queste frasi accorceranno i tempi:
+
+* *"Call an ambulance, please."* ➔ Chiami un'ambulanza, per favore.
+* *"Where is the nearest hospital?"* ➔ Dov'è l'ospedale più vicino?
+* *"I am allergic to penicillin."* ➔ Sono allergico alla penicillina. *(Sostituisci con la tua allergia e imparala a memoria!).*
+* *"I have travel insurance."* ➔ Ho l'assicurazione di viaggio.
 
 {% include promo-box.html %}
 
-{% include trust-brand.html %}
+---
 
-### Completa il tuo Kit di Sopravvivenza in viaggio:
-* [Gestire ATM, Banche e Tassi di Cambio all'estero]({{ '/inglese/viaggio/soldi-banche-cambio-inglese/' | relative_url }})
-* [Ostelli e Airbnb: le frasi per gestire la casa e gli imprevisti]({{ '/inglese/viaggio/airbnb-hostel-survival-guide/' | relative_url }})
-* [Le differenze pratiche tra Inglese Americano e Britannico]({{ '/inglese/curiosita/inglese-britannico-vs-americano/' | relative_url }})
-* 
+## 5. Il vocabolario extra da salvare sul telefono
+
+* **Plasters / Band-aids:** Cerotti
+* **Cough drops:** Caramelle per la tosse
+* **Thermometer:** Termometro
+* **Ointment:** Pomata
+
+Salva questa pagina tra i preferiti del tuo smartphone prima di partire. E ricorda: all'estero la forma non conta, conta l'efficacia del messaggio. Se perdi le parole, usa frasi brevi e semplici.
+
+{% include orient-box.html 
+   text="Vuoi prepararti per gli altri imprevisti del tuo viaggio? Scopri le nostre guide pratiche su come noleggiare un'auto, fare il check-in in hotel o ordinare al ristorante senza intoppi." %}
