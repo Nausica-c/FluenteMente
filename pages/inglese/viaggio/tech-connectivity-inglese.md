@@ -1,69 +1,54 @@
 ---
-layout: page
-title: "Tech & Connectivity: SIM card, Wi-Fi e Caricatori in Inglese"
-subtitle: "Resta connesso ovunque nel mondo: l'inglese per comprare una SIM, trovare il Wi-Fi e risolvere i piccoli drammi tecnologici."
+layout: post
+title: "Tech & Connectivity: Wi-Fi, SIM Card e Problemi Tecnici in Inglese"
+date: 2026-03-27
 permalink: /inglese/viaggio/tech-connectivity-inglese/
+tldr: "Senza internet sei perso. Scopri come chiedere la password del Wi-Fi, acquistare una eSIM locale e spiegare che il tuo telefono non carica o non ha segnale. Il kit digitale per il viaggiatore moderno."
 ---
 
-> **📌 Senza internet in viaggio? 5 frasi per farti dare il Wi-Fi (o una SIM).** > *Salva questo articolo per non restare mai più offline o con la batteria scarica all'estero.*
+Nel 2026, viaggiare senza una connessione stabile è come camminare bendati. Ti serve internet per le mappe, per Uber, per i traduttori e per restare in contatto con casa. 
 
-Oggi viaggiare senza smartphone è quasi impossibile: biglietti aerei, mappe, prenotazioni degli hotel e traduttori sono tutti lì dentro. Per questo motivo, ritrovarsi improvvisamente senza connessione dati o con il telefono al 2% di batteria in un Paese straniero può trasformarsi in un vero incubo.
+Eppure, proprio quando sei in un bar sperduto o in un aeroporto straniero, il Wi-Fi non si connette o la tua SIM smette di funzionare. Saper spiegare un problema tecnico in inglese non è più un optional, è una necessità primaria.
 
-Spesso, l'ansia di dover spiegare un problema tecnico in inglese ci blocca, facendoci ricadere nella frustrante sindrome del "[capisco ma non parlo](/FluenteMente/inglese/da-zero/capisco-ma-non-parlo/)". Ma la tecnologia ha un suo vocabolario universale e molto ripetitivo. 
+{% include trust-brand.html %}
 
-Ecco le [frasi inglesi indispensabili](/FluenteMente/inglese/curiosita/25-frasi-inglesi-utili/) per gestire la tua vita digitale on the road, dai problemi di rete allo schermo rotto.
+## 1. Chiedere il Wi-Fi (Senza sembrare un turista disperato)
 
-## 1. Connessione e Dati: Comprare una SIM locale
+Non limitarti a indicare il telefono e dire "Wi-Fi?". Usa queste formule naturali:
+* *"**Is there free Wi-Fi here?**"* ➔ C'è il Wi-Fi gratuito qui?
+* *"What is the **Wi-Fi password**, please?"* ➔ Qual è la password del Wi-Fi?
+* *"I can’t connect to the network."* ➔ Non riesco a connettermi alla rete.
+* *"Is the Wi-Fi down?"* ➔ Il Wi-Fi è fuori uso/non funziona?
 
-Se viaggi fuori dall'Unione Europea e non hai il roaming incluso, la prima cosa da fare in aeroporto è procurarsi una scheda SIM locale per evitare bollette salatissime. 
+## 2. Acquistare una SIM o eSIM locale
 
-In inglese, le SIM ricaricabili senza contratto si chiamano **Prepaid SIM cards** o *Pay-as-you-go SIMs*.
+Se vuoi evitare il salasso del roaming, devi entrare in un negozio di telefonia (*Phone store*).
+* *"I'd like to buy a **prepaid SIM card**, please."* ➔ Vorrei comprare una SIM ricaricabile.
+* *"I need a **data-only plan**."* ➔ Mi serve un piano solo dati (senza chiamate).
+* *"How many gigabytes are included?"* ➔ Quanti giga sono inclusi?
+* *"Does it work for **hotspotting**?"* ➔ Funziona come hotspot per altri dispositivi?
+* *"Do you support **eSIMs**?"* ➔ Supportate le eSIM? (Comodissime per non dover aprire il telefono).
 
-**Cosa dire al negozio di telefonia:**
-* *"Hi, **I need a prepaid SIM card** for my phone."* (Salve, ho bisogno di una SIM prepagata per il mio telefono.)
-* *"I'm looking for a data plan. **I need a prepaid SIM card with 50GB of data**."* (Cerco un piano dati. Ho bisogno di una SIM prepagata con 50 giga.)
-* *"Does this include international calls?"* (Include chiamate internazionali?)
-* *"How can I **top up** my credit?"* (Come posso ricaricare il mio credito?)
-* *"Is an **eSIM** available for this plan?"* (È disponibile una eSIM per questo piano?)
+---
 
-## 2. Sopravvivenza nei Caffè: Wi-Fi e Prese di Corrente
+{% include bridge-box.html 
+   title="💡 Il Tech English è universale, ma la pronuncia no" 
+   text="Puoi scrivere 'Router' o 'Password', ma se li pronunci all'italiana, l'addetto al negozio non capirà nulla. Allena la tua pronuncia tecnica con il riconoscimento vocale per essere sicuro di ottenere aiuto quando conta." 
+   link_url="/recensione-babbel/" 
+   link_text="Migliora la tua pronuncia tech con Babbel ➔" %}
 
-Sei un nomade digitale che lavora in viaggio, o semplicemente hai bisogno di un posto per ricaricare il telefono mentre ti bevi un cappuccino. Entri in una caffetteria, ma prima di ordinare devi assicurarti di poter lavorare.
+---
 
-**Per il Wi-Fi:**
-* *"Do you have free Wi-Fi?"* (Avete il Wi-Fi gratuito?)
-* *"Could you give me the **Wi-Fi password**, please?"* (Potrebbe darmi la password del Wi-Fi, per favore?)
-* *"The Wi-Fi connection is dropping / is very slow."* (La connessione Wi-Fi cade / è molto lenta.)
+## 3. Problemi Hardware ed Emergenze
 
-**Per ricaricare i dispositivi:**
-* *"**Are there any power outlets I can use?**"* (Ci sono delle prese di corrente che posso usare?)
-* *"Do you mind if I plug my laptop in here?"* (Ti dispiace se attacco il computer qui?)
+Cosa succede se il telefono cade o smette di caricare?
+* *"My phone screen is **cracked**."* ➔ Lo schermo del mio telefono è rotto/incrinato.
+* *"It's not charging."* ➔ Non si carica.
+* *"I need a power adapter for [Country]."* ➔ Mi serve un adattatore di presa per [Paese].
+* *"Where is the nearest **repair shop**?"* ➔ Dov'è il centro riparazioni più vicino?
 
-<div class="solution-box">
-  <h3>💡 Power Outlet o Plug Socket?</h3>
-  <p>Quando cerchi una presa della corrente nel muro, ricorda la classica <a href="/FluenteMente/inglese/curiosita/inglese-britannico-vs-americano/">differenza tra inglese britannico e americano</a>:</p>
-  <ul>
-    <li>Negli <strong>Stati Uniti</strong> chiederai di una <strong>Power outlet</strong> (o semplicemente <em>Outlet</em>).</li>
-    <li>Nel <strong>Regno Unito</strong> cercherai una <strong>Plug socket</strong> (o solo <em>Socket</em>).</li>
-  </ul>
-</div>
+{% include promo-box.html %}
 
-## 3. Emergenze Tech: Caricatori, Adattatori e Schermi Rotti
-
-Hai dimenticato il caricabatterie a casa o ti è caduto il telefono mentre scattavi una foto. È il momento di entrare in un negozio di elettronica (*Electronics store* o *Tech shop*).
-
-**Accessori e Adattatori:**
-* *"Do you sell iPhone chargers / USB-C cables?"* (Vendete caricatori per iPhone / cavi USB-C?)
-* *"**I need a power adapter** for Europe / the US / the UK."* (Ho bisogno di un adattatore di corrente per l'Europa / gli Stati Uniti / il Regno Unito.)
-* *"Do I need a voltage converter or just an adapter?"* (Mi serve un trasformatore di voltaggio o solo un adattatore?)
-* *"Do you have power banks?"* (Avete batterie portatili?)
-
-**Riparazioni di emergenza:**
-* *"Is there a phone repair shop nearby?"* (C'è un negozio di riparazione telefoni qui vicino?)
-* *"**My phone screen is cracked**. Can you fix it?"* (Lo schermo del mio telefono è rotto. Potete ripararlo?)
-* *"My phone won't turn on / won't charge."* (Il mio telefono non si accende / non si ricarica.)
-* *"How long will the repair take?"* (Quanto tempo ci vorrà per la riparazione?)
-
-{% include bridge-box.html type="business" title="Viaggi e lavori? Impara a comunicare senza limiti" text="Essere sempre operativi richiede non solo una buona connessione, ma anche le parole giuste per risolvere gli intoppi tecnici. Impara il vocabolario tech e il Business English con le lezioni mirate di Babbel." cta="Migliora il tuo inglese per viaggiare e lavorare" %}
-
-Saper risolvere un problema tecnologico all'estero ti farà risparmiare tempo prezioso e ti permetterà di tornare subito a condividere le foto del tuo viaggio o a inviare quell'email di lavoro importante. *Stay connected!*
+{% include orient-box.html 
+   text="Ora che sei connesso e il tuo telefono funziona, è il momento di esplorare la città. Scopri come chiedere indicazioni ai locali o come usare i mezzi pubblici senza perderti." %}
+   
