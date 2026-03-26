@@ -2,7 +2,7 @@
 layout: post
 title: "Metodo Autodidatta Lingue: La Guida Scientifica (Protocollo 2026)"
 date: 2026-03-26
-permalink: /metodo-consigliato/
+permalink: /metodo-autoditatta/
 tldr: "Imparare da soli non significa studiare a memoria. La vera strategia si basa su 3 pilastri: la regola 80/20 del vocabolario, l'input comprensibile e la ripetizione spaziata. Ecco come smettere di 'studiare' e iniziare ad 'acquisire'."
 ---
 
