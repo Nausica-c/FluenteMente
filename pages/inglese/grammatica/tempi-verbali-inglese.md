@@ -169,7 +169,7 @@ Il passo successivo non è rileggere questa pagina dieci volte. È scegliere uno
 
 * **[Present Simple vs Present Continuous]({{ '/inglese/grammatica/present-simple-vs-present-continuous/' | relative_url }})**
 * **[Past Simple vs Past Continuous]({{ '/inglese/grammatica/past-simple-vs-past-continuous/' | relative_url }})**
-* **[Past Simple vs Present Perfect]({{ '/inglese/grammatica/present-perfect-vs-past-simple/' | relative_url }})** *(Se esiste o esisterà)*
+* **[Past Simple vs Present Perfect]({{ '/inglese/grammatica/present-perfect-vs-past-simple/' | relative_url }})**
 
 Smetti di studiare la grammatica come un elenco e inizia a usarla come il tuo miglior strumento di comunicazione!
 
