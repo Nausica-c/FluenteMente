@@ -6,6 +6,7 @@ subtitle: "Hai poco tempo e ti senti bloccato? Smetti di studiare grammatica a c
 description: "Parti da zero con l'inglese e hai un viaggio a breve? Scopri la strategia per imparare solo le frasi essenziali, capire le risposte e viaggiare senza ansia."
 permalink: /inglese/viaggio/travel-english-da-zero/
 categories: [inglese, viaggio]
+tldr: "Parti da zero e hai un volo a breve? Niente panico e niente grammatica inutile. Ecco la roadmap esatta delle cose da imparare (e cosa ignorare) per sopravvivere all'estero."
 ---
 
 Se parti da zero con l’inglese (o sei completamente arrugginito), il problema non è solo la lingua. Il problema vero è **capire da dove cominciare senza perdere tempo**.
@@ -16,9 +17,18 @@ Se stai per partire, ti serve un approccio radicalmente diverso: devi capire cos
 
 Questa guida serve esattamente a questo: è la tua mappa d'emergenza per cavartela.
 
+{% include trust-brand.html %}
+
+{% include section-in-breve.html 
+   title="L'articolo in breve (TL;DR)"
+   p1="Niente grammatica: Ignora i tempi verbali complessi. Concentrati solo sulle frasi pronte all'uso per farti capire al volo."
+   p2="Strutture, non liste: Non imparare 100 frasi diverse. Impara 5 strutture fisse (es. 'Could I have...') e usale ovunque."
+   p3="Allena l'orecchio: Il tuo vero problema non sarà fare una domanda, sarà capire la risposta veloce del madrelingua."
+%}
+
 ---
 
-### 🗺 Indice Rapido (Jump Links)
+### 🗺 Indice Rapido
 * [Il primo errore da non fare](#errore)
 * [Le 5 Aree da preparare subito](#aree)
 * [Il trucco delle Strutture Flessibili](#strutture)
@@ -27,20 +37,11 @@ Questa guida serve esattamente a questo: è la tua mappa d'emergenza per cavarte
 
 ---
 
-{% include section-in-breve.html 
-   title="La strategia per chi parte da zero"
-   p1="**Niente grammatica:** Ignora i tempi verbali complessi. Concentrati solo sulle frasi pronte all'uso per farti capire al volo."
-   p2="**Strutture, non liste:** Non imparare 100 frasi diverse. Impara 5 strutture fisse (es. 'Could I have...') e usale ovunque."
-   p3="**Allena l'orecchio:** Il tuo problema non sarà chiedere un'informazione, sarà capire la risposta del madrelingua."
-%}
-
----
-
 <h2 id="errore">1. Il primo errore: pensare di dover “ripassare inglese”</h2>
 
 Molti adulti fanno sempre lo stesso errore. Sentono di essere indietro e pensano: *"Devo ripassare la grammatica, devo imparare più vocaboli, devo fare gli esercizi"*.
 
-Se parti presto, questa strategia ti fa solo sprecare energia. Per viaggiare non ti serve “riprendere tutto l’inglese”. Ti serve costruire un **inglese situazionale**.
+Se parti a breve, questa strategia ti fa solo sprecare energia. Per viaggiare non ti serve “riprendere tutto l’inglese”. Ti serve costruire un **inglese situazionale**.
 
 Vuol dire preparare *solo* i contesti che incontrerai al 100%:
 * Il check-in in aeroporto
@@ -57,25 +58,11 @@ Questa è la differenza enorme tra *studiare tanto* e *prepararsi bene*.
 
 Se il tuo livello è basso, dividi il tuo studio per "situazioni reali". Ecco le priorità assolute e i link alle nostre guide specifiche per affrontarle:
 
-**1. Aeroporto (La prima barriera)**
-L’aeroporto è il punto in cui ci si sente più fragili: ti parlano in fretta e ci sono regole rigide. Le parole chiave da riconoscere (*gate, boarding, delayed, carry-on*) sono più importanti delle frasi perfette.
-👉 **[Guida all'Aeroporto]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})**
-
-**2. Hotel (La tua comfort zone)**
-Qui le conversazioni sono molto prevedibili (ho una prenotazione, a che ora è la colazione, il Wi-Fi è incluso). È un ottimo punto di partenza per acquisire sicurezza in fretta.
-👉 **[Guida all'Hotel]({{ '/inglese/viaggio/hotel-check-in-inglese/' | relative_url }})**
-
-**3. Ristorante (Interazione pura)**
-Non devi imparare tutto il vocabolario del cibo. Devi imparare a gestire l’interazione: chiedere un tavolo, ordinare, chiedere modifiche e pagare il conto.
-👉 **[Guida al Ristorante]({{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }})**
-
-**4. Muoversi in città (L'orientamento)**
-Molti sanno fare la domanda: *"Where is the station?"*. Poi però non capiscono la risposta. Qui la priorità è allenare l'orecchio a parole come: *left, right, straight, next to*.
-👉 **[Guida alle Indicazioni Stradali]({{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }})**
-
-**5. Emergenze (Il kit salvavita)**
-Non serve andare in paranoia, ma devi coprire il minimo vitale per non sentirti scoperto: la farmacia, la carta bloccata, il passaporto perso.
-👉 **[Guida alla Farmacia e Salute]({{ '/inglese/viaggio/farmacia-salute-inglese/' | relative_url }})**
+1. **Aeroporto (La prima barriera):** L’aeroporto è il punto in cui ci si sente più fragili. Le parole chiave da riconoscere (*gate, boarding, delayed, carry-on*) sono più importanti delle frasi perfette. 👉 **[Guida all'Aeroporto]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})**
+2. **Hotel (La tua comfort zone):** Qui le conversazioni sono prevedibili (*prenotazione, colazione, Wi-Fi*). È un ottimo punto di partenza per acquisire sicurezza. 👉 **[Guida all'Hotel]({{ '/inglese/viaggio/hotel-check-in-inglese/' | relative_url }})**
+3. **Ristorante (Interazione pura):** Non devi imparare tutto il vocabolario del cibo. Devi imparare a gestire l’interazione: chiedere un tavolo, ordinare e pagare. 👉 **[Guida al Ristorante]({{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }})**
+4. **Muoversi in città (L'orientamento):** Saper chiedere *"Where is the station?"* è inutile se non capisci la risposta. La priorità è allenare l'orecchio a: *left, right, straight, next to*. 👉 **[Guida alle Indicazioni]({{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }})**
+5. **Emergenze (Il kit salvavita):** Copri il minimo vitale per non sentirti scoperto: la farmacia, la carta bloccata, il passaporto perso. 👉 **[Guida alla Farmacia]({{ '/inglese/viaggio/farmacia-salute-inglese/' | relative_url }})**
 
 ---
 
@@ -91,10 +78,8 @@ Impara **alcune strutture flessibili** che puoi usare come "mattoncini LEGO" in 
 * **Can I pay by card?** (Posso pagare con carta?) ➔ Negozio, taxi, ristorante.
 * **There seems to be a problem.** (Sembra esserci un problema) ➔ Frase perfetta e cortese se qualcosa non va in camera o col volo.
 
-{% include trust-box.html 
-   title="Le due frasi che ti salvano sempre"
-   text="Se hai pochissimo tempo, impara a memoria queste due frasi per chiedere di ripetere senza sentirti in imbarazzo: 'Sorry, could you repeat that, please?' (Scusi, può ripetere?) e 'Could you speak more slowly, please?' (Può parlare più lentamente?). Se le usi bene, recuperi il 90% delle situazioni critiche."
-%}
+> **💡 Le due frasi che ti salvano sempre**
+> Se hai pochissimo tempo, impara a memoria queste due frasi per chiedere di ripetere senza sentirti in imbarazzo: *"Sorry, could you repeat that, please?"* (Scusi, può ripetere?) e *"Could you speak more slowly, please?"* (Può parlare più lentamente?). Se le usi bene, recuperi il 90% delle situazioni critiche.
 
 ---
 
@@ -109,7 +94,7 @@ Per questo una preparazione intelligente non deve lavorare solo su "cosa dire", 
 2. Quali parole tornano più spesso (*gate, passport, receipt, booking, cash*).
 
 {% include bridge-box.html 
-   title="Allenati a capire le risposte" 
+   title="Allenati a capire le risposte veloci" 
    text="Se il tuo cruccio è 'vado in panico se parlano veloce', studiare frasari scritti non basta. Hai bisogno di abituare il cervello ai suoni. I moduli situazionali di Babbel usano voci di madrelingua veri con accenti diversi: sono lo strumento perfetto per allenare l'orecchio a riconoscere le parole chiave e non farsi cogliere di sorpresa." 
    link_url="/recensione-babbel/" 
    link_text="Allena il tuo orecchio con Babbel ➔" %}
@@ -120,7 +105,7 @@ Per questo una preparazione intelligente non deve lavorare solo su "cosa dire", 
 
 Il tuo obiettivo non deve essere "sembrare un madrelingua". Il tuo obiettivo deve essere non bloccarti del tutto e farti capire nelle situazioni vere. Questa è una preparazione adulta.
 
-Se ti riconosci in questo profilo—inglese basso, viaggio vicino, bisogno di utilità immediata—il passo successivo più intelligente non è cercare contenuti a caso su Google. È costruire una mini-progressione. 
+Se ti riconosci in questo profilo—inglese basso, viaggio vicino, bisogno di utilità immediata—non cercare contenuti a caso su Google. Costruisci una mini-progressione logica. 
 
 **Ecco l'ordine esatto in cui devi leggere i nostri materiali da oggi alla partenza:**
 
@@ -129,7 +114,6 @@ Se ti riconosci in questo profilo—inglese basso, viaggio vicino, bisogno di ut
 3. Preparati per mangiare fuori: **[Inglese al Ristorante]({{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }})**
 4. Impara a muoverti: **[Chiedere Indicazioni Stradali]({{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }})**
 
-👉 **IL PROSSIMO PASSO FONDAMENTALE:** Una volta lette queste guide, devi trasformare le nozioni in un'abitudine per non dimenticarle. Vai subito alla nostra guida su **[Come preparare il tuo inglese per un viaggio in 7 giorni]({{ '/routine/come-preparare-viaggio-7-giorni/' | relative_url }})** per creare la tua routine pre-partenza.
+👉 **IL PROSSIMO PASSO FONDAMENTALE:** Una volta lette queste guide, devi trasformare le nozioni in un'abitudine per non dimenticarle in volo. Vai subito alla nostra guida su **[Come preparare il tuo inglese per un viaggio in 7 giorni]({{ '/routine/come-preparare-viaggio-7-giorni/' | relative_url }})** per creare la tua routine pre-partenza di soli 15 minuti al giorno.
 
 {% include promo-box.html %}
-{% include trust-brand.html %}
