@@ -6,6 +6,7 @@ subtitle: "Come fare un reclamo, chiedere un cambio stanza o segnalare un guasto
 description: "Scopri le frasi in inglese essenziali per gestire i problemi in hotel: camera sbagliata, rumore, doccia rotta e come chiedere un cambio stanza con cortesia."
 permalink: /inglese/viaggio/problemi-hotel-inglese/
 categories: [inglese, viaggio]
+tldr: "Doccia rotta o stanza rumorosa? Scopri la formula esatta per fare un reclamo in hotel in inglese in modo educato ma fermo, ottenendo subito una soluzione o un cambio camera."
 ---
 
 Finché tutto va liscio, l’inglese in hotel sembra semplice. Hai una prenotazione, fai check-in, chiedi il Wi-Fi, ritiri la chiave e sali in camera. 
@@ -16,9 +17,17 @@ Ed è proprio qui che molti italiani si bloccano. Non perché serva un inglese d
 
 Questa guida serve proprio a questo: aiutarti a gestire in inglese i problemi più comuni in hotel in modo semplice, chiaro e civile.
 
+{% include trust-brand.html %}
+
+{% include section-in-breve.html 
+   title="L'articolo in breve (TL;DR)" 
+   p1="L'approccio giusto: In inglese non serve essere aggressivi. Usa la formula magica 'There seems to be a problem with...' per non far mettere la reception sulla difensiva." 
+   p2="Sii specifico: Impara i vocaboli esatti per i guasti più comuni (doccia, aria condizionata, rumore) per ottenere un intervento rapido." 
+   p3="Chiedi il cambio: Se il problema non è risolvibile in pochi minuti, usa le frasi pronte per chiedere un cambio stanza in modo cortese ma fermo." %}
+
 ---
 
-### 🗺 Indice Rapido (Jump Links)
+### 🗺 Indice Rapido
 * [La formula magica per i reclami](#reclami)
 * [Errore di prenotazione (Camera sbagliata)](#camera-sbagliata)
 * [Problemi di rumore](#rumore)
@@ -79,10 +88,8 @@ Il rumore è uno dei motivi più comuni di reclamo. Il segreto è essere specifi
 * *"I can hear a lot of noise from the hallway / street."* ➔ Sento molto rumore dal corridoio / dalla strada.
 * *"Do you have a quieter room available?"* ➔ Avete una camera più tranquilla disponibile?
 
-{% include trust-box.html 
-   title="Spiegare il problema o chiedere la soluzione?"
-   text="Meglio fare entrambe le cose, in questo ordine: prima dici cosa non va e poi chiedi subito la soluzione in modo cortese. Per esempio: 'The room is very noisy. Could I change rooms, please?'. È molto più efficace di una lamentela vaga."
-%}
+> **💡 Spiegare il problema o chiedere la soluzione?**
+> Meglio fare entrambe le cose, in questo ordine: prima dici cosa non va e poi chiedi subito la soluzione in modo cortese. Per esempio: *"The room is very noisy. Could I change rooms, please?"*. È molto più efficace di una lamentela vaga.
 
 ---
 
@@ -99,6 +106,12 @@ A volte il problema non è grave, ma è abbastanza fastidioso da doverlo segnala
 **Se vuoi chiedere un intervento:**
 * *"**Could someone check it, please?**"* ➔ Potrebbe controllarlo qualcuno?
 * *"Could you send someone to fix it?"* ➔ Potrebbe mandare qualcuno a ripararlo?
+
+{% include bridge-box.html 
+   title="Allena la sicurezza per non bloccarti" 
+   text="Nelle situazioni di stress (come fare un reclamo), l'ansia ti fa dimenticare anche le parole che conosci. Per evitare il blocco, non basta leggere le frasi: devi allenare l'orecchio e la pronuncia. I moduli interattivi 'Travel' di Babbel simulano conversazioni in hotel per darti la sicurezza necessaria." 
+   link_url="/recensione-babbel/" 
+   link_text="Allena il tuo inglese da viaggio con Babbel ➔" %}
 
 ---
 
@@ -140,23 +153,13 @@ Se vuoi una mini-lista pratica da tenere sul telefono, salva queste:
 9. **Do you have another room available?**
 10. **Sorry, could you repeat that, please?**
 
+{% include promo-box.html %}
+
 ---
 
 ## Quando questo articolo non basta più
 
-Questo articolo ti aiuta a gestire i problemi e le lamentele una volta arrivato in camera. Ma ci sono due casi in cui conviene andare oltre.
+Questo articolo ti aiuta a gestire i problemi e le lamentele una volta arrivato in camera. Ma ci sono due casi in cui conviene andare oltre:
 
-Il primo è se vuoi coprire bene anche il **flusso base e positivo** dell'hotel: il check-in, le richieste normali e il check-out. 
-👉 In quel caso, assicurati di aver letto: **[Frasi in inglese per hotel: check-in, camera e check-out]({{ '/inglese/viaggio/hotel-check-in-inglese/' | relative_url }})**.
-
-Il secondo è se ti accorgi che il problema non è solo l’hotel, ma la tua preparazione al viaggio nel complesso. Se ti spaventa l'idea di non saper reagire agli imprevisti:
-👉 Il passo più utile è creare la tua routine con la guida **[Come preparare il tuo inglese per un viaggio in 7 giorni]({{ '/routine/come-preparare-viaggio-7-giorni/' | relative_url }})**.
-
-{% include bridge-box.html 
-   title="Allena la sicurezza per non bloccarti" 
-   text="Nelle situazioni di stress o imbarazzo (come fare un reclamo), l'ansia ti fa dimenticare anche le parole che conosci. Per evitare il blocco, non basta leggere le frasi: devi allenare l'orecchio e la pronuncia. Usare i moduli interattivi 'Travel' di Babbel per simulare le conversazioni in hotel ti darà la sicurezza necessaria per far valere i tuoi diritti senza esitazioni." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il tuo inglese da viaggio con Babbel ➔" %}
-
-{% include promo-box.html %}
-{% include trust-brand.html %}
+1. **Il flusso base dell'hotel:** Se vuoi coprire bene anche il check-in, le richieste normali e il check-out, assicurati di aver letto la nostra guida: **[Frasi in inglese per hotel: check-in, camera e check-out]({{ '/inglese/viaggio/hotel-check-in-inglese/' | relative_url }})**.
+2. **La preparazione generale:** Se ti accorgi che il problema non è solo l’hotel, ma la tua preparazione al viaggio nel complesso, il passo più utile è creare la tua routine con la guida: **[Come preparare il tuo inglese per un viaggio in 7 giorni]({{ '/routine/come-preparare-viaggio-7-giorni/' | relative_url }})**.
