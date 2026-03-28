@@ -12,13 +12,11 @@ Il viaggio inizia davvero quando scendi dall'aereo. È in quel momento che la te
 
 La logistica è la parte più stressante del viaggio. Saper comunicare con lo staff di terra o con un passante non serve solo a "arrivare a destinazione", ma a farlo **senza sprecare ore preziose** della tua vacanza.
 
-*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
-
 ---
 
 ## 1. In Aeroporto: Controlli, Gate e Bagagli [H2]
 
-L'aeroporto ha un linguaggio tutto suo. Tra termini tecnici e accenti diversi (spesso distorti dagli altoparlanti), è facile sentirsi smarriti.
+L'aeroporto ha un linguaggio tutto suo. Tra termini tecnici e accenti diversi, è facile sentirsi smarriti.
 
 ### Ai Controlli e al Gate
 * **"Which gate is the flight to London boarding at?"** ➔ Da quale gate parte il volo per Londra?
@@ -27,23 +25,19 @@ L'aeroporto ha un linguaggio tutto suo. Tra termini tecnici e accenti diversi (s
 * **"I missed my connecting flight. What should I do?"** ➔ Ho perso la coincidenza. Cosa devo fare?
 
 ### Il dramma dei bagagli smarriti
-Se la tua valigia non compare sul nastro, devi andare al bancone del *Lost & Found*. Non farti prendere dal panico e sii preciso.
+Se la tua valigia non compare sul nastro, devi andare al *Lost & Found*.
 * **"My luggage hasn't come out. Where can I report it?"** ➔ La mia valigia non è uscita. Dove posso segnalarlo?
 * **"Here is my baggage claim tag."** ➔ Ecco la ricevuta del mio bagaglio.
 * **"What does the suitcase look like? It’s a large, blue, hard-shell suitcase."** ➔ Com'è fatta la valigia? È una valigia grande, blu, rigida.
 
-{% include bridge-box.html 
-   title="Il panico degli annunci" 
-   text="Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso veloci. Se non alleni l'orecchio a 'isolare' le informazioni chiave (gate, ritardi), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena l'ascolto con Babbel ➔" 
-%}
+{% include bridge-box.html %}
+> **L'ostacolo invisibile:** Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso distorti o veloci. Se non alleni l'orecchio a "isolare" le informazioni chiave (numeri di gate, orari, nomi di città), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale, non su quello dei libri di scuola.
 
 ---
 
 ## 2. Mezzi Pubblici: Treni, Bus e Metro [H2]
 
-Una volta fuori dall'aeroporto, inizia la sfida urbana. Comprare il biglietto giusto e salire sul treno corretto è il primo passo per iniziare la vacanza col piede giusto.
+Una volta fuori dall'aeroporto, inizia la sfida urbana. Comprare il biglietto giusto è il primo passo per non prendere multe.
 
 * **"I’d like a one-way ticket / return ticket to [Destinazione]."** ➔ Vorrei un biglietto di sola andata / andata e ritorno per...
 * **"Which platform does the train leave from?"** ➔ Da quale binario parte il treno?
@@ -55,7 +49,7 @@ Una volta fuori dall'aeroporto, inizia la sfida urbana. Comprare il biglietto gi
 
 ## 3. Chiedere (e capire) le Indicazioni Stradali [H2]
 
-Cosa succede se il telefono si scarica o Google Maps perde il segnale? Devi affidarti alle persone in strada. Il segreto qui non è solo fare la domanda giusta, ma **capire la risposta**.
+Cosa succede se il telefono si scarica o Google Maps perde il segnale? Devi affidarti alle persone. Il segreto qui non è solo chiedere, ma **capire la risposta**.
 
 ### Come chiedere
 * **"Excuse me, I’m looking for the [Nome Museo/Piazza]."** ➔ Scusi, sto cercando il...
@@ -63,7 +57,6 @@ Cosa succede se il telefono si scarica o Google Maps perde il segnale? Devi affi
 * **"How can I get to the nearest metro station?"** ➔ Come arrivo alla stazione metro più vicina?
 
 ### Cosa ti risponderanno (Vocabolario visivo)
-Preparati a intercettare queste parole chiave:
 * **"Go straight on"** ➔ Vai dritto.
 * **"Turn left / Turn right"** ➔ Gira a sinistra / destra.
 * **"It’s just around the corner"** ➔ È proprio dietro l'angolo.
@@ -74,10 +67,10 @@ Preparati a intercettare queste parole chiave:
 
 ## 4. Taxi e Ride-Sharing (Uber/Lyft) [H2]
 
-A volte la soluzione più comoda (o l'unica disponibile di notte) è un'auto privata.
+A volte la soluzione più comoda è un'auto privata.
 * **"How much is the fare to the airport?"** ➔ Quanto costa la corsa per l'aeroporto?
 * **"Could you put my bags in the trunk, please?"** ➔ Potrebbe mettere i bagagli nel bagagliaio?
-* **"Keep the change."** ➔ Tenga il resto (fondamentale per lasciare la mancia).
+* **"Keep the change."** ➔ Tenga il resto (mancia comune per i taxi).
 
 {% include promo-box.html %}
 
@@ -85,18 +78,13 @@ A volte la soluzione più comoda (o l'unica disponibile di notte) è un'auto pri
 
 ## Conclusione: Il viaggio è movimento
 
-Saper gestire la logistica in inglese trasforma un arrivo caotico in un'esperienza fluida. Non c'è niente di più gratificante che scendere da un aereo e muoversi con la sicurezza di chi sa esattamente dove sta andando e a chi chiedere aiuto in caso di bisogno.
+Saper gestire la logistica in inglese trasforma un viaggio caotico in un'esperienza fluida. Non c'è niente di più gratificante che scendere da un aereo e muoversi con la sicurezza di chi sa esattamente dove sta andando e cosa chiedere.
 
-Il limite di Google Maps è che non sa rispondere alle tue domande specifiche. Per muoverti come un "local", devi essere pronto a interagire come un "local".
+Il limite di Google Maps è che non sa rispondere alle tue domande specifiche. Il limite dei traduttori automatici è che non ti insegnano a capire cosa ti sta dicendo l'autista del bus. Per muoverti come un "local", devi parlare come un "local".
 
 {% include bridge-box.html 
    title="Muoviti con sicurezza" 
-   text="Non restare bloccato al binario a fissare il tabellone. Impara a gestire indicazioni stradali e trasporti pubblici con le lezioni pratiche di Babbel dedicate al viaggio." 
+   text="Non restare bloccato al binario. Impara a gestire indicazioni e trasporti con le lezioni pratiche di Babbel." 
    link_url="/recensione-babbel/" 
-   link_text="Preparati al viaggio con Babbel ➔" 
+   link_text="Preparati al viaggio ➔" 
 %}
-
----
-
-### Qual è il prossimo passo?
-Ora che sai come muoverti in città e sei arrivato sano e salvo a destinazione, è il momento di sistemarti in camera. Scopri la nostra guida su **[come gestire il check-in e risolvere i problemi in Hotel in inglese]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**.
