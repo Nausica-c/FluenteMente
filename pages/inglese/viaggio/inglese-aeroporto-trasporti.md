@@ -33,8 +33,8 @@ Se la tua valigia non compare sul nastro, devi andare al *Lost & Found*.
 * **"What does the suitcase look like? It’s a large, blue, hard-shell suitcase."** ➔ Com'è fatta la valigia? È una valigia grande, blu, rigida.
 
 {% include bridge-box.html 
-   title="Il panico degli annunci" 
-   text="Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso distorti o veloci. Se non alleni l'orecchio a isolare le informazioni chiave (numeri di gate, orari, nomi di città), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale, non su quello dei libri di scuola." 
+   title="L'ostacolo invisibile degli annunci" 
+   text="Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso distorti o veloci. Se non alleni l'orecchio a 'isolare' le informazioni chiave (numeri di gate, orari, nomi di città), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale, non su quello dei libri di scuola." 
    link_url="/recensione-babbel/" 
    link_text="Allena l'ascolto con Babbel ➔" 
 %}
