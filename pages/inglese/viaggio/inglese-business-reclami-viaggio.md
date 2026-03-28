@@ -12,9 +12,11 @@ Ci sono momenti in cui l'inglese "da turista" non basta più. Se sei all'estero 
 
 In queste situazioni, la barriera linguistica non è solo un fastidio: è un ostacolo alla tua professionalità o ai tuoi diritti economici. Questa guida è pensata per chi ha bisogno di un inglese solido per gestire il lato "serio" del viaggio.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. Business Travel: Networking e Professionalità [H2]
+## 1. Business Travel: Networking e Professionalità
 
 Quando viaggi per lavoro, la tua immagine dipende da come comunichi. Che sia una cena di lavoro o un incontro in fiera, la fluidità è il tuo miglior biglietto da visita.
 
@@ -29,12 +31,16 @@ Quando viaggi per lavoro, la tua immagine dipende da come comunichi. Che sia una
 * **"I have an appointment with Mr. Smith at 3 PM."** ➔ Ho un appuntamento con il Sig. Smith alle 15.
 * **"I'm sorry, I didn't quite catch that. Could you repeat it?"** ➔ Scusi, non ho afferrato. Potrebbe ripetere?
 
-{% include bridge-box.html %}
-> **L'immagine professionale:** Nel business, non conta solo *cosa* dici, ma *come* lo dici. Una pronuncia incerta può minare la tua autorevolezza. Babbel ti permette di ripassare i vocaboli del mondo del lavoro e affinare la pronuncia con il riconoscimento vocale, per presentarti ai meeting con una marcia in più.
+{% include bridge-box.html 
+   title="L'immagine professionale conta" 
+   text="Nel business, non conta solo cosa dici, ma come lo dici. Una pronuncia incerta può minare la tua autorevolezza. Babbel ti permette di ripassare i vocaboli del mondo del lavoro e affinare la pronuncia con il riconoscimento vocale, per presentarti ai meeting con una marcia in più." 
+   link_url="/recensione-babbel/" 
+   link_text="Potenzia l'inglese professionale ➔" 
+%}
 
 ---
 
-## 2. Reclami e Disservizi: Far Valere i Propri Diritti [H2]
+## 2. Reclami e Disservizi: Far Valere i Propri Diritti
 
 Cosa succede se il tuo volo viene cancellato o se l'auto a noleggio ha un danno che non avevi causato? Devi saper protestare in modo fermo ma educato.
 
@@ -49,7 +55,7 @@ Cosa succede se il tuo volo viene cancellato o se l'auto a noleggio ha un danno 
 
 ---
 
-## 3. Problemi Tecnici e Connettività [H2]
+## 3. Problemi Tecnici e Connettività
 
 Nel 2026, viaggiare senza connessione è un incubo, specialmente se devi lavorare.
 
@@ -60,7 +66,7 @@ Nel 2026, viaggiare senza connessione è un incubo, specialmente se devi lavorar
 
 ---
 
-## 4. Soldi e Assicurazioni: Gestire gli Imprevisti Economici [H2]
+## 4. Soldi e Assicurazioni: Gestire gli Imprevisti Economici
 
 * **"I need to block my credit card. It’s been stolen/lost."** ➔ Devo bloccare la carta di credito. È stata rubata/persa.
 * **"I want to claim expenses under my travel insurance."** ➔ Voglio chiedere il rimborso delle spese tramite la mia assicurazione di viaggio.
@@ -82,3 +88,8 @@ Il segreto per non farsi intimorire da un addetto aeroportuale brusco o da un pa
    link_url="/recensione-babbel/" 
    link_text="Potenzia il tuo inglese professionale ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Hai completato le guide di sopravvivenza verticali. Torna alla nostra **[Guida Hub Completa]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})** per navigare verso altri argomenti, oppure scopri il nostro **[Piano d'azione intensivo in 7 giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})** se sei in procinto di partire!
