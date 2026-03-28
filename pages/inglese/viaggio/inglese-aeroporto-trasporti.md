@@ -12,9 +12,11 @@ Il viaggio inizia davvero quando scendi dall'aereo. È in quel momento che la te
 
 La logistica è la parte più stressante del viaggio. Saper comunicare con lo staff di terra o con un passante non serve solo a "arrivare a destinazione", ma a farlo **senza sprecare ore preziose** della tua vacanza.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. In Aeroporto: Controlli, Gate e Bagagli [H2]
+## 1. In Aeroporto: Controlli, Gate e Bagagli
 
 L'aeroporto ha un linguaggio tutto suo. Tra termini tecnici e accenti diversi, è facile sentirsi smarriti.
 
@@ -30,12 +32,16 @@ Se la tua valigia non compare sul nastro, devi andare al *Lost & Found*.
 * **"Here is my baggage claim tag."** ➔ Ecco la ricevuta del mio bagaglio.
 * **"What does the suitcase look like? It’s a large, blue, hard-shell suitcase."** ➔ Com'è fatta la valigia? È una valigia grande, blu, rigida.
 
-{% include bridge-box.html %}
-> **L'ostacolo invisibile:** Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso distorti o veloci. Se non alleni l'orecchio a "isolare" le informazioni chiave (numeri di gate, orari, nomi di città), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale, non su quello dei libri di scuola.
+{% include bridge-box.html 
+   title="Il panico degli annunci" 
+   text="Le frasi scritte sono semplici, ma gli annunci via altoparlante sono spesso distorti o veloci. Se non alleni l'orecchio a isolare le informazioni chiave (numeri di gate, orari, nomi di città), rischi di perdere il volo. Babbel si focalizza sull'ascolto reale, non su quello dei libri di scuola." 
+   link_url="/recensione-babbel/" 
+   link_text="Allena l'ascolto con Babbel ➔" 
+%}
 
 ---
 
-## 2. Mezzi Pubblici: Treni, Bus e Metro [H2]
+## 2. Mezzi Pubblici: Treni, Bus e Metro
 
 Una volta fuori dall'aeroporto, inizia la sfida urbana. Comprare il biglietto giusto è il primo passo per non prendere multe.
 
@@ -47,7 +53,7 @@ Una volta fuori dall'aeroporto, inizia la sfida urbana. Comprare il biglietto gi
 
 ---
 
-## 3. Chiedere (e capire) le Indicazioni Stradali [H2]
+## 3. Chiedere (e capire) le Indicazioni Stradali
 
 Cosa succede se il telefono si scarica o Google Maps perde il segnale? Devi affidarti alle persone. Il segreto qui non è solo chiedere, ma **capire la risposta**.
 
@@ -65,7 +71,7 @@ Cosa succede se il telefono si scarica o Google Maps perde il segnale? Devi affi
 
 ---
 
-## 4. Taxi e Ride-Sharing (Uber/Lyft) [H2]
+## 4. Taxi e Ride-Sharing (Uber/Lyft)
 
 A volte la soluzione più comoda è un'auto privata.
 * **"How much is the fare to the airport?"** ➔ Quanto costa la corsa per l'aeroporto?
@@ -88,3 +94,8 @@ Il limite di Google Maps è che non sa rispondere alle tue domande specifiche. I
    link_url="/recensione-babbel/" 
    link_text="Preparati al viaggio ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Ora che sai come muoverti in città e sei arrivato sano e salvo a destinazione, è il momento di sistemarti in camera. Scopri la nostra guida su **[come gestire il check-in e risolvere i problemi in Hotel in inglese]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**.
