@@ -12,9 +12,11 @@ Visitare un museo non significa solo "guardare oggetti". Significa capire la sto
 
 Questa guida è dedicata al viaggiatore curioso, quello che vuole capire perché quel quadro è importante o cosa è successo in quel castello.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. Alla Biglietteria e all'Ingresso [H2]
+## 1. Alla Biglietteria e all'Ingresso
 
 Evita code inutili e assicurati di ottenere il prezzo giusto.
 
@@ -25,7 +27,7 @@ Evita code inutili e assicurati di ottenere il prezzo giusto.
 
 ---
 
-## 2. All'interno del Museo: Regole e Navigazione [H2]
+## 2. All'interno del Museo: Regole e Navigazione
 
 Ogni museo ha le sue regole. Meglio conoscerle per evitare di essere richiamati dallo staff.
 
@@ -36,7 +38,7 @@ Ogni museo ha le sue regole. Meglio conoscerle per evitare di essere richiamati 
 
 ---
 
-## 3. Capire l'Arte e la Storia (Vocabolario Base) [H2]
+## 3. Capire l'Arte e la Storia (Vocabolario Base)
 
 * **Landscape / Portrait** (Paesaggio / Ritratto)
 * **Oil on canvas** (Olio su tela)
@@ -44,8 +46,12 @@ Ogni museo ha le sue regole. Meglio conoscerle per evitare di essere richiamati 
 * **Historical landmark** (Monumento storico)
 * **Ancient ruins** (Rovine antiche)
 
-{% include bridge-box.html %}
-> **Oltre l'etichetta:** Leggere "Oil on canvas" è facile. Seguire un curatore d'arte che spiega le influenze del Rinascimento durante un tour dal vivo è la vera sfida culturale. Se vuoi goderti i musei di tutto il mondo, devi allenare l'orecchio alla narrazione. Babbel ha moduli specifici dedicati al tempo libero e alla cultura.
+{% include bridge-box.html 
+   title="Oltre l'etichetta del museo" 
+   text="Leggere 'Oil on canvas' è facile, ma seguire un curatore d'arte che spiega le influenze del Rinascimento durante un tour dal vivo è la vera sfida culturale. Allena l'orecchio alla narrazione con i moduli di Babbel dedicati al tempo libero e alla cultura." 
+   link_url="/recensione-babbel/" 
+   link_text="Allena l'ascolto con Babbel ➔" 
+%}
 
 ---
 
@@ -59,3 +65,8 @@ La cultura è un linguaggio universale, ma l'inglese è il codice che lo decript
    link_url="/recensione-babbel/" 
    link_text="Migliora il tuo inglese culturale ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Dopo una giornata immersi nell'arte e nella storia, è il momento di vivere la città contemporanea. Scopri come fare acquisti, interagire con i locali e ordinare una birra al pub nella nostra guida su **[Shopping e Vita Sociale in inglese]({{ '/inglese/viaggio/inglese-social-shopping-viaggio/' | relative_url }})**.
