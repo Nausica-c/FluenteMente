@@ -16,7 +16,7 @@ Questa guida è la tua "Stazione Centrale". Qui troverai i percorsi specifici pe
 
 ---
 
-## 🧭 I 5 Pilastri della tua Sopravvivenza (e del tuo Piacere) [H2]
+## 🧭 I 5 Pilastri della tua Sopravvivenza (e del tuo Piacere)
 
 Abbiamo diviso l'inglese da viaggio in 5 aree tematiche iper-pratiche. Clicca su quella che ti serve per approfondire:
 
@@ -42,7 +42,7 @@ Il lato "serio" del viaggio. Come spiegare un sintomo in farmacia, cosa dire a u
 
 ---
 
-## 🚀 Come prepararsi se hai poco tempo? [H2]
+## 🚀 Come prepararsi se hai poco tempo?
 
 Se il tuo volo decolla tra pochi giorni e sei nel panico, non cercare di leggere tutto. Abbiamo creato un percorso d'urgenza che ti insegna le basi della sopravvivenza in una settimana.
 
@@ -50,12 +50,16 @@ Se il tuo volo decolla tra pochi giorni e sei nel panico, non cercare di leggere
 
 ---
 
-{% include bridge-box.html %}
-> **Il segreto dei viaggiatori esperti:** Un frasario può aiutarti a fare una domanda, ma solo un orecchio allenato ti permette di capire la risposta. Il 90% dello stress in viaggio deriva dal non capire cosa ci viene risposto. Per questo consigliamo di integrare la lettura di queste guide con un allenamento pratico su **Babbel**, focalizzato proprio sui dialoghi reali da viaggio.
+{% include bridge-box.html 
+   title="Il segreto dei viaggiatori esperti" 
+   text="Un frasario può aiutarti a fare una domanda, ma solo un orecchio allenato ti permette di capire la risposta. Il 90% dello stress in viaggio deriva dal non capire cosa ci viene risposto. Integra queste guide con un allenamento pratico su Babbel focalizzato sui dialoghi." 
+   link_url="/recensione-babbel/" 
+   link_text="Allena i dialoghi reali ➔" 
+%}
 
 ---
 
-## 💡 3 Consigli d'Oro per comunicare all'estero [H2]
+## 💡 3 Consigli d'Oro per comunicare all'estero
 
 1. **La perfezione è tua nemica:** Ai locali non importa se sbagli un tempo verbale. Importa che tu sia chiaro e cortese.
 2. **Usa il corpo:** Gesti e sorrisi colmano i buchi del vocabolario.
@@ -75,3 +79,8 @@ Scegli il tuo primo silo, inizia a leggere e... *Safe travels!*
    link_url="/recensione-babbel/" 
    link_text="Inizia ora con Babbel ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Se non sai da dove iniziare, ti consigliamo di partire dal "primo miglio" del tuo viaggio: scopri la nostra guida su **[Aeroporto e Trasporti in inglese]({{ '/inglese/viaggio/inglese-aeroporto-trasporti/' | relative_url }})**. Se invece hai i minuti contati, lanciati subito sul **[Piano d'azione in 7 giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})**.
