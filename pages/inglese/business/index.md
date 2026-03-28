@@ -1,91 +1,77 @@
 ---
 layout: page
-title: "Business English 2026: Risorse e Strategie per la tua Carriera"
-date: 2026-03-22
-subtitle: "Smetti di tradurre in ufficio. Domina l'inglese che ti fa ottenere promozioni e nuovi stipendi."
-description: "L'archivio completo per imparare l'inglese professionale: sblocca la tua carriera con guide strategiche su email, call, riunioni e colloqui."
+title: "Business English 2026: L'Hub Definitivo per la tua Carriera"
+date: 2026-03-28
+subtitle: "Smetti di tradurre letteralmente in ufficio. Domina l'inglese pratico che ti fa ottenere autorevolezza, promozioni e nuovi stipendi."
+description: "L'archivio strategico per imparare l'inglese professionale: sblocca la tua carriera con guide pratiche su email, video call su Zoom, small talk e colloqui di lavoro."
 permalink: /inglese/business/
 ---
 
-Nel mercato del lavoro del 2026, l'inglese non è più una competenza opzionale: è l'asset finanziario che decide il tuo valore di mercato. Saper comunicare in modo professionale non serve solo a farsi capire, ma a trasmettere **autorevolezza, leadership e affidabilità**.
+Nel mercato del lavoro del 2026, l'inglese non è più una voce da spuntare sul CV: è l'asset finanziario che decide il tuo valore di mercato. Saper comunicare in modo professionale non serve solo a farsi capire, ma a trasmettere **leadership, sicurezza e affidabilità** a colleghi e clienti internazionali.
 
-In questa sezione trovi una selezione di guide verticali progettate per darti **risultati immediati alla scrivania**, eliminando la teoria accademica e concentrandosi sul linguaggio che chiude i contratti.
+In questo hub non troverai lezioni di grammatica accademica. Troverai **guide operative e framework pronti all'uso**, progettati per darti risultati immediati alla scrivania e risolvere le situazioni di stress lavorativo.
 
 ---
 
 {% include section-in-breve.html 
-   title="Il valore del tuo Business English"
-   p1="**ROI Finanziario:** I professionisti bilingue guadagnano mediamente il 15-20% in più rispetto ai colleghi monolingue."
-   p2="**Efficienza Operativa:** Riduci del 70% il tempo passato a editare email con i traduttori automatici."
-   p3="**Leadership Digitale:** Partecipa attivamente a call e meeting internazionali senza l'ansia di non saper intervenire."
+   title="Perché ottimizzare il tuo Business English oggi"
+   p1="**ROI Finanziario:** I professionisti bilingue possono accedere al 'Language Premium' e all'arbitraggio geografico, aumentando il proprio stipendio fino al 25%."
+   p2="**Efficienza Operativa:** Elimina l'ansia del foglio bianco e riduci del 70% il tempo passato a tradurre o correggere email formali."
+   p3="**Leadership Digitale:** Prendi la parola in video call internazionali e gestisci lo small talk senza bloccarti o sembrare insicuro."
 %}
 
 <a href="{{ '/inglese/' | relative_url }}" class="back-link">⬅ Torna all'Hub Generale Inglese</a>
 
 ---
 
-## 🛠️ Risorse Operative per l'Ufficio
+## 🛠️ Fase 1: Sopravvivenza e Operatività Quotidiana
 
-Ecco le guide pratiche per gestire la tua operatività quotidiana in un ambiente internazionale. Ogni guida è focalizzata su un obiettivo concreto:
+Le tue giornate sono fatte di comunicazione asincrona (email) e sincrona (riunioni). Qui trovi le "cheat sheet" per gestire la routine senza fare errori di tono.
 
-<ul>
-{% assign business_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/business/' and item.url != '/inglese/business/' %}
-    {% assign business_count = business_count | plus: 1 %}
-    <li style="margin-bottom: 25px; list-style-type: none;">
-      <div style="border-left: 4px solid #1e40af; padding-left: 20px;">
-        <h3 style="margin: 0; font-size: 1.25rem;"><a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #1e40af;">{{ item.title }}</a></h3>
-        <p style="margin: 8px 0; font-size: 1rem; color: #4b5563;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 22 }}
-          {% endif %}
-        </p>
-      </div>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
+* **[Inglese per Video Call: Frasi Salva-Vita per Zoom, Teams e Meet]({{ '/inglese/business/video-call-frasi-utili/' | relative_url }})**
+    *Il microfono non va? Devi interrompere un madrelingua? La checklist pratica da tenere aperta durante le tue riunioni remote per gestire i problemi tecnici e prendere la parola con autorevolezza.*
+
+* **[Small Talk in Inglese: Come Rompere il Ghiaccio in Ufficio e in Call]({{ '/inglese/business/small-talk-inglese/' | relative_url }})**
+    *I 3 minuti prima dell'inizio di una riunione sono i più ansiogeni. Scopri gli argomenti sicuri e le frasi di transizione per gestire le chiacchiere informali e fare vero networking.*
+
+* **[Come Scrivere Email Formali in Inglese (Guida ai Modelli 2026)]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**
+    *Smetti di usare il traduttore. I template, le aperture e le chiusure corrette per non sembrare un principiante quando scrivi a clienti, manager o partner internazionali.*
 
 ---
 
 {% include bridge-box.html 
-   title="Sblocca il tuo potenziale professionale" 
-   text="Per un adulto, il tempo è l'investimento più caro. Babbel offre percorsi di **Business English** progettati per essere completati in 15 minuti, focalizzati su task reali: dal gestire un reclamo a presentare un report. È il modo più veloce per trasformare lo studio in un aumento di stipendio." 
+   title="Dalla teoria alla pratica: automatizza il tuo inglese" 
+   text="Leggere le nostre guide ti salva oggi, ma in ufficio devi essere veloce. Non puoi leggere da un copione durante una call o mentre sei alla macchinetta del caffè. Il modulo **Business English di Babbel** è progettato per adulti che hanno poco tempo: in 15 minuti al giorno, attraverso dialoghi reali, trasforma queste frasi da 'appunti da leggere' a 'riflessi automatici'." 
    link_url="/recensione-babbel/" 
-   link_text="Scopri l'offerta Babbel per la tua carriera ➔" %}
+   link_text="Scopri come sbloccare il parlato con Babbel ➔" %}
 
 ---
 
-## 📈 Strategie per l'Upgrade Professionale
+## 🚀 Fase 2: Scatti di Carriera e Mindset
 
-L'inglese professionale richiede un approccio diverso dallo studio scolastico. Ecco i tre pilastri per accelerare i risultati:
+Una volta messa in sicurezza l'operatività quotidiana, è il momento di usare la lingua come leva per scalare posizioni o cambiare azienda.
 
-### 1. I \"Business Chunks\"
-Smetti di studiare liste di vocaboli. Impara i \"blocchi di linguaggio\" pronti all'uso per le tue call. Usare espressioni come *"Let's circle back"* o *"I'll look into it"* ti farà sembrare immediatamente più fluente di quanto tu non sia.
-👉 **[Mini Lezioni: Inglese per il Lavoro]({{ '/inglese/mini-lezioni-sblocco-parte-3/' | relative_url }})**
+* **[Colloquio di Lavoro in Inglese: Le 10 Domande e Risposte (Guida 2026)]({{ '/inglese/business/colloquio-di-lavoro-domande/' | relative_url }})**
+    *Il tuo CV ha funzionato, ora devi superare la 'job interview'. Il metodo STAR, le domande comportamentali più insidiose e come gestire l'ansia sotto pressione.*
 
-### 2. Gestione dell'Ansia nelle Call
-Il blocco durante una riunione su Zoom è spesso psicologico. Preparare dei *talking points* e imparare a \"prendere tempo\" con frasi di transizione riduce drasticamente lo stress.
-👉 **[Come superare l'ansia linguistica]({{ '/ansia-linguistica-parlare-inglese/' | relative_url }})**
-
-### 3. Conoscere il ROI delle Lingue
-Il bilinguismo non è solo cultura, è arbitraggio geografico. Saper parlare inglese ti permette di vivere in Italia ma lavorare per aziende con sede a Londra o New York.
-👉 **[I benefici economici delle lingue nel 2026]({{ '/inglese/business/benefici-economici-lingue/' | relative_url }})**
+* **[I Benefici Economici delle Lingue: Quanto Vale il Tuo Inglese nel 2026?]({{ '/inglese/business/benefici-economici-lingue/' | relative_url }})**
+    *Parlare una seconda lingua non è un hobby, è un investimento finanziario. Scopri cos'è il 'Language Premium' e come sfruttare l'arbitraggio geografico lavorando da remoto.*
 
 ---
+
+## 📈 La Strategia per non bloccarsi più
+
+L'inglese professionale richiede un approccio radicalmente diverso dallo studio scolastico. Se vuoi accelerare i risultati, devi focalizzarti su tre pilastri:
+
+1.  **Impara per "Chunks", non per vocaboli singoli:** In ufficio non assembli frasi partendo dalla grammatica. Usi blocchi prefabbricati (*"Let's circle back"*, *"I'm reaching out to"*). Imparali a memoria.
+2.  **Allena l'ascolto attivo:** Il vero problema dello *small talk* non è fare la domanda, ma capire la risposta informale a velocità naturale del tuo collega estero.
+3.  **Accetta l'imperfezione:** Il business premia la chiarezza, non la perfezione accademica. Un messaggio chiaro e inviato in tempo vale 100 volte di più di un'email grammaticalmente perfetta ma inviata con due giorni di ritardo per l'ansia.
 
 {% include trust-brand.html 
-   title="Certificato da FluenteMente"
-   text="Consigliamo solo percorsi che hanno un impatto reale sulla produttività. Il nostro obiettivo è farti parlare in modo che il tuo interlocutore veda il tuo valore professionale, non il tuo accento."
+   title="L'approccio FluenteMente al Business English"
+   text="Consigliamo solo strategie e strumenti che hanno un impatto reale sulla tua produttività. Il nostro obiettivo è farti comunicare in modo che il tuo interlocutore veda il tuo valore professionale, dimenticandosi del tuo accento."
 %}
 
-{% include trust-brand.html %}
-
-## Prossimo Passo Strategico
-
-Se hai una scadenza imminente (un colloquio o una presentazione), non puoi improvvisare. Ti serve una struttura che organizzi il tuo progresso giorno dopo giorno.
-
-👉 **[Pianifica il tuo studio con il Planner Professionale]({{ '/planner-studio-inglese-adulto/' | relative_url }})**
+### Il tuo prossimo passo
+Se senti che la barriera linguistica sta frenando il tuo potenziale e hai bisogno di una struttura chiara da seguire quotidianamente:
+👉 **[Pianifica il tuo studio con il Planner per Adulti Impegnati]({{ '/planner-studio-inglese-adulto/' | relative_url }})**
