@@ -23,27 +23,25 @@ In questo Hub abbiamo raccolto le guide tattiche per padroneggiare quel 20% ed e
 
 ## 🛫 Pilastro 1: Sopravvivenza in Viaggio (Travel English)
 
-In viaggio, l'efficacia del messaggio conta infinitamente di più della perfezione grammaticale. Ecco le nostre guide per gestire ogni fase senza sudare freddo:
+In viaggio, l'efficacia del messaggio conta infinitamente di più della perfezione grammaticale. Abbiamo creato la **[Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**, divisa in pilastri tattici per gestire ogni fase senza sudare freddo:
 
-### 🛂 Spostamenti e Burocrazia
-* **[Aeroporto senza Stress]({{ '/inglese/viaggio/aeroporto-senza-stress/' | relative_url }})**: Come superare dogana, check-in e gate.
-* **[Chiedere Indicazioni]({{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }})**: Capire al volo se devi andare a destra o oltre il semaforo.
+* **[Aeroporto e Trasporti]({{ '/inglese/viaggio/inglese-aeroporto-trasporti/' | relative_url }})**: Come superare i controlli, trovare il gate e capire le indicazioni stradali.
+* **[Inglese in Hotel]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**: Gestire il check-in, i guasti in camera e i reclami alla reception.
+* **[Ristorante e Street Food]({{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }})**: Ordinare cibo, decifrare il menù e comunicare le allergie in totale sicurezza.
+* **[Shopping e Vita Sociale]({{ '/inglese/viaggio/inglese-social-shopping-viaggio/' | relative_url }})**: Fare small talk, conoscere persone nei pub e gestire i pagamenti.
+* **[Emergenze e Salute]({{ '/inglese/viaggio/inglese-emergenze-salute/' | relative_url }})**: Spiegare i sintomi in farmacia o dal medico e gestire i veri imprevisti.
+* **[Business Travel e Reclami]({{ '/inglese/viaggio/inglese-business-reclami-viaggio/' | relative_url }})**: Farsi valere in caso di voli cancellati o problemi professionali all'estero.
 
-### 🏨 Alloggio e Sicurezza Finanziaria
-* **[Hotel, Airbnb e Imprevisti]({{ '/inglese/viaggio/airbnb-hostel-survival-guide/' | relative_url }})**: Gestire il check-in, i guasti e i reclami.
-* **[Soldi, ATM e Cambi]({{ '/inglese/viaggio/soldi-banche-cambio-inglese/' | relative_url }})**: Proteggere il tuo budget ed evitare le trappole per turisti.
-
-### 🎭 Esperienza e Socialità
-* **[Cultura e Musei]({{ '/inglese/viaggio/cultura-musei-inglese/' | relative_url }})**: Noleggiare audioguide e decifrare i cartelli.
-* **[Dating e Networking]({{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }})**: Rompere il ghiaccio al pub senza fare brutte figure.
+*(Hai il volo tra pochi giorni? Salta la teoria e segui il nostro **[Piano d'Azione Intensivo in 7 Giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})** per prepararti prima della partenza).*
 
 ---
 
 {% include bridge-box.html 
    title="💡 Salta la teoria, vai alla pratica" 
-   text="Le liste scritte di frasi sono ottime, ma la pronuncia si costruisce parlando. All'interno di Babbel trovi moduli specifici dedicati esclusivamente ai 'Viaggi' o al 'Lavoro'. Puoi imparare i dialoghi per l'hotel la sera prima di partire." 
+   text="Le liste scritte di frasi sono ottime, ma la pronuncia e l'ascolto si costruiscono interagendo. All'interno di Babbel trovi moduli specifici dedicati esclusivamente ai 'Viaggi' o al 'Lavoro'. Puoi imparare i dialoghi per l'hotel la sera prima di partire." 
    link_url="/recensione-babbel/" 
-   link_text="Scopri i moduli situazionali di Babbel ➔" %}
+   link_text="Scopri i moduli situazionali di Babbel ➔" 
+%}
 
 ---
 
@@ -60,4 +58,10 @@ Nel mondo del lavoro moderno, la precisione linguistica è sinonimo di autorevol
 ---
 
 {% include orient-box.html 
-   text="Non cercare di imparare tutto in una volta. Identifica il tuo prossimo 'stress linguistico' imminente (una partenza? un meeting?) e focalizzati solo su quel cluster. L'inglese reale si sblocca un bisogno alla volta." %}
+   text="Non cercare di imparare tutto in una volta. Identifica il tuo prossimo 'stress linguistico' imminente (una partenza? un meeting?) e focalizzati solo su quel cluster. L'inglese reale si sblocca un bisogno alla volta." 
+%}
+
+---
+
+### Qual è il prossimo passo?
+Scegli il tuo percorso: se hai una vacanza in vista, tuffati nella **[Guida all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**. Se invece vuoi migliorare il tuo profilo professionale, inizia dalla guida su come **[Scrivere Email Formali]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**.
