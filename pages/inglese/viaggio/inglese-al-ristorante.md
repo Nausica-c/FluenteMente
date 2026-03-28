@@ -12,9 +12,11 @@ Mangiare all’estero è una delle gioie del viaggio, ma per molti italiani il m
 
 Che tu sia in un ristorante stellato a New York o davanti a un baracchino di street food a Londra, questa guida ti darà le parole giuste per goderti il pasto dall'antipasto al conto.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. Al Ristorante: Dalla Prenotazione all'Ordine [H2]
+## 1. Al Ristorante: Dalla Prenotazione all'Ordine
 
 ### Prenotare e Arrivare
 Se il posto è frequentato, meglio chiamare prima.
@@ -29,12 +31,16 @@ Non limitarti a indicare con il dito. Usa queste formule:
 * **"I’ll have the [Nome piatto]."** ➔ Prendo il... (Il modo più naturale per ordinare).
 * **"Could I have the dressing on the side?"** ➔ Potrei avere il condimento a parte?
 
-{% include bridge-box.html %}
-> **Il punto critico:** Ordinare è facile, ma cosa succede quando il cameriere ti chiede: *"How would you like your steak done?"* o *"Would you like still or sparkling water?"*. Se resti in silenzio perché non hai capito la domanda, l'esperienza si rovina. Con Babbel alleni i dialoghi interattivi per rispondere prontamente a queste domande "tranello".
+{% include bridge-box.html 
+   title="Attenzione alle domande tranello" 
+   text="Ordinare è facile, ma cosa succede quando il cameriere ti chiede velocemente: 'How would you like your steak done?' o 'Would you like still or sparkling water?'. Se resti in silenzio, l'esperienza si rovina. Con Babbel alleni i dialoghi interattivi per rispondere prontamente a queste domande." 
+   link_url="/recensione-babbel/" 
+   link_text="Allena l'ascolto per il ristorante ➔" 
+%}
 
 ---
 
-## 2. Street Food e Mercati: L'Inglese Rapido [H2]
+## 2. Street Food e Mercati: L'Inglese Rapido
 
 Mangiare per strada è un'esperienza autentica, ma richiede un inglese più diretto e veloce. Qui non c'è un cameriere pronto ad aspettarti; devi essere rapido.
 
@@ -48,7 +54,7 @@ Mangiare per strada è un'esperienza autentica, ma richiede un inglese più dire
 
 ---
 
-## 3. Allergie e Preferenze Alimentari: Sicurezza Prima di Tutto [H2]
+## 3. Allergie e Preferenze Alimentari: Sicurezza Prima di Tutto
 
 Questo è il punto in cui l'inglese non è solo utile, è vitale. Se hai restrizioni alimentari, devi essere chiarissimo.
 
@@ -59,7 +65,7 @@ Questo è il punto in cui l'inglese non è solo utile, è vitale. Se hai restriz
 
 ---
 
-## 4. Il Momento del Conto (The Bill) [H2]
+## 4. Il Momento del Conto (The Bill)
 
 In molti paesi anglosassoni, il servizio non è sempre incluso ed esistono regole precise per la mancia (*tip*).
 
@@ -84,3 +90,8 @@ Il limite dei frasari è che ti insegnano a chiedere, ma non a conversare. Per q
    link_url="/recensione-babbel/" 
    link_text="Inizia a imparare ora ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Con la pancia piena, è il momento di godersi la città. Preparati a fare acquisti, visitare i mercatini e conoscere nuove persone con la nostra guida a **[Shopping e Vita Sociale in inglese]({{ '/inglese/viaggio/inglese-social-shopping-viaggio/' | relative_url }})**.
