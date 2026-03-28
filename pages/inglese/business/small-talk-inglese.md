@@ -21,6 +21,8 @@ In Italia consideriamo le chiacchiere pre-riunione come una perdita di tempo. Ne
 
 Sopravvivere allo small talk non richiede un vocabolario sterminato. Richiede metodo, tempismo e la capacità di disinnescare l'ansia. Ecco come gestire queste situazioni nel 2026, sia da remoto che dal vivo.
 
+<a href="{{ '/inglese/business/' | relative_url }}" class="back-link">⬅ Torna all'Hub Business English</a>
+
 ---
 
 {% include bridge-box.html 
@@ -94,4 +96,6 @@ Inizia ad ascoltare. Allena l'orecchio ai ritmi dell'inglese informale e i 3 min
 ### Risorse utili per il tuo inglese in ufficio:
 * [Inglese per Video Call: Le frasi salva-vita per Zoom e Teams]({{ '/inglese/business/video-call-frasi-utili/' | relative_url }})
 * [I benefici economici del bilinguismo nel 2026]({{ '/inglese/business/benefici-economici-lingue/' | relative_url }})
-* [Planner di studio per adulti impegnati]({{ '/planner-studio-inglese-adulto/' | relative_url }})
+* [Planner di studio per adulti impegnati]({{ '/planner-studio-inglese-adulto/' | relative_url }}) *
+*  🏢 **[Esplora tutte le guide nell'Hub Business English]({{ '/inglese/business/' | relative_url }})**
+  * 
