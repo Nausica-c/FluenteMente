@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inglese Situazionale: Il Kit per Viaggi, Carriera e Vita Vera"
-date: 2026-03-26
+date: 2026-03-28
 permalink: /vita-vera/
 description: "Smetti di studiare la grammatica inutile. Scopri il metodo situazionale: impara l'inglese per gestire hotel, meeting, emergenze e vita reale all'estero."
 ---
@@ -49,9 +49,12 @@ In viaggio, l'efficacia del messaggio conta infinitamente di più della perfezio
 
 Nel mondo del lavoro moderno, la precisione linguistica è sinonimo di autorevolezza. Usa queste guide per elevare la tua immagine e non fare scena muta nei momenti che contano per il tuo stipendio.
 
+* **🏢 [Hub Business English]({{ '/inglese/business/' | relative_url }})**: *Esplora l'intero archivio dedicato all'inglese professionale.*
 * **[Le Email Formali]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**: Smetti di usare i traduttori e scrivi in modo naturale e autorevole.
-* **[Gestire una Call su Zoom]({{ '/inglese/business/gestire-call-zoom/' | relative_url }})**: Le frasi salvavita per le interruzioni e i problemi tecnici.
-* **[Il Colloquio di Lavoro]({{ '/inglese/business/colloquio-di-lavoro-domande/' | relative_url }})**: Come rispondere alle domande insidiose dei recruiter internazionali.
+* **[Inglese per Video Call]({{ '/inglese/business/video-call-frasi-utili/' | relative_url }})**: Le frasi salvavita per le interruzioni su Zoom e i problemi tecnici.
+* **[Small Talk in Ufficio]({{ '/inglese/business/small-talk-inglese/' | relative_url }})**: Come rompere il ghiaccio con i colleghi ed evitare silenzi imbarazzanti.
+* **[Il Colloquio di Lavoro]({{ '/inglese/business/colloquio-di-lavoro-domande/' | relative_url }})**: Come usare il metodo STAR per rispondere alle domande insidiose dei recruiter.
+* **[I Benefici Economici]({{ '/inglese/business/benefici-economici-lingue/' | relative_url }})**: Perché il bilinguismo può aumentare il tuo stipendio del 20%.
 
 {% include promo-box.html %}
 
@@ -64,4 +67,4 @@ Nel mondo del lavoro moderno, la precisione linguistica è sinonimo di autorevol
 ---
 
 ### Qual è il prossimo passo?
-Scegli il tuo percorso: se hai una vacanza in vista, tuffati nella **[Guida all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**. Se invece vuoi migliorare il tuo profilo professionale, inizia dalla guida su come **[Scrivere Email Formali]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})**.
+Scegli il tuo percorso: se hai una vacanza in vista, tuffati nella **[Guida all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**. Se invece vuoi migliorare il tuo profilo professionale, inizia dalla guida su come **[Scrivere Email Formali]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})** o naviga nell'**[Hub Business]({{ '/inglese/business/' | relative_url }})**.
