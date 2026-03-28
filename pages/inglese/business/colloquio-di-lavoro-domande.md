@@ -19,6 +19,9 @@ Affrontare un **colloquio di lavoro in inglese** nel 2026 non significa solo sap
 
 La buona notizia? Il recruiter non cerca un poeta, cerca una persona chiara e professionale. Ecco il protocollo esatto per non farti travolgere e ottenere il posto.
 
+<a href="{{ '/inglese/business/' | relative_url }}" class="back-link">⬅ Torna all'Hub Business English</a>
+
+
 ---
 
 {% include bridge-box.html 
@@ -117,3 +120,5 @@ Se vuoi un sistema che corregga la tua pronuncia mentre ti prepari al colloquio:
 * [Business English: Come scrivere email formali]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})
 * [I benefici economici delle lingue nel 2026]({{ '/inglese/business/benefici-economici-lingue/' | relative_url }})
 * [Quanto tempo serve per sbloccarsi con un'app?]({{ '/tempo-apprendimento-app/' | relative_url }})
+* 🏢 **[Esplora tutte le guide nell'Hub Business English]({{ '/inglese/business/' | relative_url }})**
+* 
