@@ -18,7 +18,7 @@ Niente panico! Abbiamo raccolto le **[frasi inglesi indispensabili]({{ '/inglese
 {% include trust-brand.html %}
 
 {% include section-in-breve.html 
-   title="L'articolo in breve (TL;DR)"
+   title="L'articolo in breve"
    p1="Ristorante senza stress: Impara le frasi per chiedere un seggiolone, scaldare il biberon o ordinare porzioni ridotte senza gesticolare."
    p2="Passeggini e accessibilità: Verifica sempre se un'attrazione è 'stroller-friendly' prima di ritrovarti davanti a infinite rampe di scale."
    p3="Attenzione al vocabolario: Pannolino si dice 'Diaper' in USA e 'Nappy' in UK. Usa il termine giusto per evitare sguardi confusi al supermercato."
