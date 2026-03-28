@@ -12,9 +12,11 @@ Chi viaggia con i bambini lo sa: non esiste un "viaggio lineare". Esistono soste
 
 Quando sei all'estero, lo stress raddoppia se non sai come chiedere un seggiolone o dove trovare del latte in polvere. Questa guida è il tuo "kit di pronto soccorso linguistico" per genitori viaggiatori.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. In Viaggio: Logistica per Famiglie [H2]
+## 1. In Viaggio: Logistica per Famiglie
 
 L'aeroporto e l'aereo sono i primi ostacoli. Sapere cosa puoi o non puoi portare è fondamentale.
 
@@ -25,7 +27,7 @@ L'aeroporto e l'aereo sono i primi ostacoli. Sapere cosa puoi o non puoi portare
 
 ---
 
-## 2. Al Ristorante e in Hotel: Comfort per i Piccoli [H2]
+## 2. Al Ristorante e in Hotel: Comfort per i Piccoli
 
 Rendere il soggiorno confortevole per loro significa rendere la vacanza serena per te.
 
@@ -34,12 +36,16 @@ Rendere il soggiorno confortevole per loro significa rendere la vacanza serena p
 * **"Could we have a plain pasta / a simple cheese pizza?"** ➔ Potremmo avere una pasta in bianco / una pizza margherita semplice?
 * **"We need a cot (UK) / crib (USA) in the room."** ➔ Abbiamo bisogno di una culla in camera.
 
-{% include bridge-box.html %}
-> **La voce del genitore:** Tu sei lo scudo dei tuoi figli. Se hanno un'esigenza, devi saperla comunicare con la fermezza di chi sa esattamente cosa sta chiedendo. Babbel ti aiuta a parlare con quella "Confidence" che serve a proteggere la serenità della tua famiglia.
+{% include bridge-box.html 
+   title="Sii la voce dei tuoi figli" 
+   text="Tu sei lo scudo dei tuoi bambini. Se hanno un'esigenza, devi saperla comunicare con fermezza, capendo esattamente cosa ti risponde lo staff. Babbel ti aiuta a parlare con quella 'Confidence' che serve a proteggere la serenità della tua famiglia." 
+   link_url="/recensione-babbel/" 
+   link_text="Rinforza il tuo inglese pratico ➔" 
+%}
 
 ---
 
-## 3. Salute e Piccole Emergenze [H2]
+## 3. Salute e Piccole Emergenze
 
 Un colpo di tosse o una sbucciatura possono capitare. Ecco come spiegarti.
 
@@ -59,3 +65,8 @@ Viaggiare con i bambini richiede pazienza, ma l'inglese non deve essere un peso 
    link_url="/recensione-babbel/" 
    link_text="Genitori pronti con Babbel ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+La sicurezza dei tuoi bambini viene prima di tutto. Approfondisci l'argomento salute e impara come gestire situazioni critiche leggendo la nostra guida su **[Emergenze Mediche e Farmacia in inglese]({{ '/inglese/viaggio/inglese-emergenze-salute/' | relative_url }})**.
