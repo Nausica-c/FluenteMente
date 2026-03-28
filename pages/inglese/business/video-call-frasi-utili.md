@@ -23,6 +23,8 @@ Nel 2026, il remote work non perdona chi esita. Ma c'è una buona notizia: non t
 
 Tieni questa pagina aperta durante le tue prossime riunioni. Ecco la tua Cheat Sheet definitiva.
 
+<a href="{{ '/inglese/business/' | relative_url }}" class="back-link">⬅ Torna all'Hub Business English</a>
+
 ---
 
 ## 1. Gestire i Problemi Tecnici (Tech Issues)
@@ -102,3 +104,5 @@ Ricorda sempre il [ROI finanziario del tuo inglese]({{ '/inglese/business/benefi
 * [Come scrivere email formali senza sembrare un robot]({{ '/inglese/business/scrivere-email-formali/' | relative_url }})
 * [Colloquio in Inglese: Le 10 domande (e risposte) del 2026]({{ '/inglese/business/colloquio-di-lavoro-domande/' | relative_url }})
 * [Routine di 15 Minuti per professionisti impegnati]({{ '/routine/' | relative_url }})
+* 🏢 **[Esplora tutte le guide nell'Hub Business English]({{ '/inglese/business/' | relative_url }})**
+* 
