@@ -10,6 +10,8 @@ Aprire Outlook o Gmail e fissare il cursore che lampeggia sperando che la frase 
 
 Il problema non è il tuo vocabolario, è che **l'email professionale in inglese è un codice.** Se usi le formule giuste, sembri autorevole. Se traduci letteralmente dall'italiano, sembri un principiante. In questa guida trovi i modelli pronti all'uso e la strategia per non sbagliare più il tono.
 
+<a href="{{ '/inglese/business/' | relative_url }}" class="back-link">⬅ Torna all'Hub Business English</a>
+
 ---
 
 {% include bridge-box.html 
@@ -73,3 +75,5 @@ Sì, ma solo se conosci bene la persona. In caso di dubbio, aggiungi sempre \"Be
 Non lasciare che la barriera linguistica limiti la tua carriera. Se senti che la tua crescita professionale è frenata dall'inglese, è il momento di smettere di usare i traduttori e iniziare un percorso serio.
 
 👉 **[Leggi il nostro confronto tra le migliori App per il Business English]({{ '/migliori-app-lingue/' | relative_url }})**
+* 🏢 **[Esplora tutte le guide nell'Hub Business English]({{ '/inglese/business/' | relative_url }})**
+
