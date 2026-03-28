@@ -4,7 +4,7 @@ title: "Inglese per Emergenze e Salute: Farmacia, Medico e Primo Soccorso"
 date: 2026-03-28
 subtitle: "Dalla richiesta di un aspirina alla chiamata al 911: come gestire salute e imprevisti medici all'estero."
 description: "Guida pratica all'inglese medico per viaggiatori. Impara le frasi per la farmacia, come spiegare i sintomi al medico e cosa dire in caso di emergenza."
-permalink: /inglese/viaggio/emergenze-salute-inglese/
+permalink: /inglese/viaggio/inglese-emergenze-salute/
 tldr: "Speriamo che non ti serva mai, ma se succede, devi essere pronto. Questa guida copre tre scenari critici: il piccolo fastidio da risolvere in farmacia, la visita medica per un malessere persistente e la gestione di una vera emergenza. Sapere come dire 'ho un dolore acuto' fa la differenza tra una vacanza salva e un disastro."
 ---
 
@@ -12,9 +12,11 @@ La paura più grande di chi viaggia all’estero? Stare male e non riuscire a sp
 
 Non lasciare che la barriera linguistica metta a rischio la tua salute. In questa guida abbiamo raccolto tutto l'inglese necessario per affrontare con calma (e competenza) farmacie, cliniche e ospedali.
 
+*Questa guida fa parte della nostra [Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}). Se stai cercando informazioni su altre fasi del tuo viaggio, torna all'indice principale.*
+
 ---
 
-## 1. In Farmacia: Piccoli acciacchi e rimedi comuni [H2]
+## 1. In Farmacia: Piccoli acciacchi e rimedi comuni
 
 In molti paesi (specialmente UK e USA), la farmacia (*pharmacy* o *drugstore*) è il primo punto di riferimento per problemi minori come scottature, raffreddori o problemi digestivi.
 
@@ -30,12 +32,16 @@ In molti paesi (specialmente UK e USA), la farmacia (*pharmacy* o *drugstore*) �
 * **Sunburn** (Scottatura solare)
 * **Food poisoning** (Intossicazione alimentare)
 
-{% include bridge-box.html %}
-> **L'ansia della risposta:** Chiedere un cerotto è facile. Capire il farmacista che ti spiega che *"you should take it on an empty stomach twice a day"* (devi prenderlo a stomaco vuoto due volte al giorno) è dove molti falliscono. Allena l'ascolto con le lezioni di Babbel dedicate alla salute per non commettere errori con i farmaci.
+{% include bridge-box.html 
+   title="L'ansia della risposta in Farmacia" 
+   text="Chiedere un cerotto è facile. Capire il farmacista che ti spiega che 'you should take it on an empty stomach twice a day' (devi prenderlo a stomaco vuoto due volte al giorno) è dove molti falliscono. Allena l'ascolto con le lezioni di Babbel dedicate alla salute per non commettere errori con i farmaci." 
+   link_url="/recensione-babbel/" 
+   link_text="Sentiti sicuro con Babbel ➔" 
+%}
 
 ---
 
-## 2. Dal Medico: Spiegare i sintomi e il dolore [H2]
+## 2. Dal Medico: Spiegare i sintomi e il dolore
 
 Se il problema persiste, dovrai recarti in una *clinic* o vedere un *GP* (General Practitioner - Medico di base). Qui la precisione è fondamentale.
 
@@ -47,7 +53,7 @@ Se il problema persiste, dovrai recarti in una *clinic* o vedere un *GP* (Genera
 
 ---
 
-## 3. Emergenze Gravi: Chiamare i soccorsi [H2]
+## 3. Emergenze Gravi: Chiamare i soccorsi
 
 In caso di pericolo di vita, non c'è tempo per i convenevoli. Devi essere diretto.
 
@@ -61,7 +67,7 @@ In caso di pericolo di vita, non c'è tempo per i convenevoli. Devi essere diret
 
 ---
 
-## 4. Viaggiare con Bambini: Le emergenze pediatriche [H2]
+## 4. Viaggiare con Bambini: Le emergenze pediatriche
 
 Se viaggi con la famiglia, lo stress raddoppia. Ecco le frasi per proteggere i più piccoli:
 * **"My child has a high fever."** ➔ Mio figlio ha la febbre alta.
@@ -82,3 +88,8 @@ Leggere una lista di sintomi è utile, ma saper rispondere alle domande di un me
    link_url="/recensione-babbel/" 
    link_text="Inizia a prepararti ora ➔" 
 %}
+
+---
+
+### Qual è il prossimo passo?
+Ora che sai come proteggere la tua salute, scopri come far valere i tuoi diritti legali ed economici (come chiedere rimborsi per visite o gestire voli cancellati a causa di imprevisti) nella nostra guida su **[Business Travel e Reclami in inglese]({{ '/inglese/viaggio/inglese-business-reclami-viaggio/' | relative_url }})**.
