@@ -10,6 +10,9 @@ Spesso consideriamo lo studio delle lingue come un dovere scolastico arrugginito
 
 Non si tratta solo di "capire cosa dicono in riunione"; si tratta di aumentare il proprio valore di mercato (Market Value). Ecco come il bilinguismo trasforma concretamente la tua posizione economica.
 
+<a href="{{ '/inglese/business/' | relative_url }}" class="back-link">⬅ Torna all'Hub Business English</a>
+
+
 ---
 
 {% include bridge-box.html 
@@ -75,4 +78,6 @@ Le competenze tecniche possono diventare obsolete. Le lingue sono **Soft Skills 
 * [Neuroplasticità: Come lo studio cambia il tuo cervello]({{ '/curiosita/benefici-cervello-imparare-lingue/' | relative_url }})
 * [Recensione Babbel: perché è la scelta n.1 per i professionisti]({{ '/recensione-babbel/' | relative_url }})
 * [Routine di 15 Minuti per chi lavora 8 ore]({{ '/routine/' | relative_url }})
+* 
+* 🏢 **[Esplora tutte le guide nell'Hub Business English]({{ '/inglese/business/' | relative_url }})**
 * 
