@@ -16,7 +16,7 @@ Questa guida è la tua "Stazione Centrale". Qui troverai i percorsi specifici pe
 
 ---
 
-## 🧭 I 5 Pilastri della tua Sopravvivenza (e del tuo Piacere)
+## 🧭 I 5 Pilastri della tua Sopravvivenza.
 
 Abbiamo diviso l'inglese da viaggio in 5 aree tematiche iper-pratiche. Clicca su quella che ti serve per approfondire:
 
