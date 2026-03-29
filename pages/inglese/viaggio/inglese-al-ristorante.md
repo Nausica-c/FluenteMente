@@ -12,6 +12,10 @@ Ordinare al ristorante in una lingua straniera è il test del fuoco per ogni via
 
 Che tu sia in un bistrot a Londra, in una steakhouse a New York o davanti a un chiosco di street food asiatico, per smettere di indicare le foto sul menù dicendo il temutissimo *"This one, please"*, hai bisogno di una strategia.
 
+*Questa risorsa fa parte del nostro Hub principale **[Inglese per Viaggiare: La Guida Definitiva]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**. Se stai cercando informazioni su altre fasi del viaggio (come aeroporto, bar o emergenze), torna all'indice.*
+
+---
+
 **Cosa troverai in questa guida:**
 1. 📖 **[Il Vocabolario](#vocabolario)**: Per decifrare il menù e le cotture.
 2. 🗣️ **[Le Frasi Pronte](#frasi)**: Il tuo "copia-incolla" per prenotare, ordinare e pagare.
@@ -168,5 +172,6 @@ Ma c'è un problema: leggere queste frasi sullo schermo non preparerà i muscoli
 ---
 
 ### 🎯 Qual è il prossimo passo?
+* ⏱️ **Parti a breve?** Se hai il volo tra pochi giorni, non farti prendere dal panico. Leggi il nostro piano d'emergenza su **[Come Preparare l’Inglese per un Viaggio in 7 Giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})**.
 * ☕ **Cambio location:** Finito di cenare, è ora di uscire! Passa al bancone e scopri i dialoghi per **[Ordinare al Bar e al Pub in Inglese]({{ '/inglese/viaggio/inglese-al-bar-dialoghi/' | relative_url }})**.
 * ✈️ **Naviga nell'Hub:** Torna alla nostra **[Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})** per prepararti all'aeroporto, all'hotel e alle emergenze.
