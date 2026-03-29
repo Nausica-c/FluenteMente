@@ -12,7 +12,7 @@ Nel business travel, le parole pesano il doppio. Non stai solo chiedendo una cam
 
 In questa guida definitiva troverai le **100 Power Words** del business travel: le prime 50 per la logistica e le spese, e le restanti 50 per gestire reclami, contratti e disservizi tecnici.
 
-*Questa risorsa è il pilastro tecnico per chi viaggia per lavoro. Se cerchi i termini per l'hotel, vai al **[Vocabolario Completo Hotel]({{ '/inglese/viaggio/vocabolario-hotel-inglese-completo/' | relative_url }})**; per i trasporti, consulta il **[Vocabolario Aeroporto]({{ '/inglese/viaggio/vocabolario-aeroporto-inglese-completo/' | relative_url }})**.*
+*Questa risorsa è il pilastro tecnico per chi viaggia per lavoro. Se cerchi una panoramica generale, consulta il nostro **[Vocabolario Essenziale per Viaggiare]({{ '/inglese/viaggio/vocabolario-essenziale-viaggio/' | relative_url }})**. Per i trasporti, consulta il **[Vocabolario Aeroporto]({{ '/inglese/viaggio/vocabolario-aeroporto-inglese-completo/' | relative_url }})**.*
 
 ---
 
@@ -132,4 +132,4 @@ Non aver paura di reclamare. Le aziende serie apprezzano il feedback professiona
 ---
 
 ### Qual è il prossimo passo?
-Ora che sai come gestire i reclami, assicurati di saper leggere ogni dettaglio del conto con il nostro **[Vocabolario Completo del Ristorante]({{ '/inglese/viaggio/vocabolario-ristorante-inglese-completo/' | relative_url }})** o preparati per ogni imprevisto logistico con la guida all'**[Aeroporto]({{ '/inglese/viaggio/vocabolario-aeroporto-inglese-completo/' | relative_url }})**.
+Ora che sai come gestire i reclami, assicurati di avere solide basi su ogni situazione di viaggio con il nostro **[Vocabolario Essenziale: Le 50 parole salvavita]({{ '/inglese/viaggio/vocabolario-essenziale-viaggio/' | relative_url }})**. Se invece devi controllare i dettagli del tuo volo, consulta la guida all'**[Aeroporto]({{ '/inglese/viaggio/vocabolario-aeroporto-inglese-completo/' | relative_url }})**.
