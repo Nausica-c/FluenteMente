@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Inglese per Viaggiare: La Guida Definitiva per il Viaggiatore Moderno"
-date: 2026-03-28
+date: 2026-03-29
 subtitle: "Dall'aeroporto alle emergenze: tutto quello che devi sapere per goderti il mondo senza barriere linguistiche."
 description: "La risorsa numero uno per l'inglese da viaggio. Guide pratiche, frasi essenziali e consigli per gestire hotel, ristoranti, trasporti e imprevisti all'estero."
 permalink: /inglese/viaggio/inglese-per-viaggiare/
-tldr: "Non serve essere bilingue per viaggiare bene. Serve sapere cosa dire nei momenti che contano. In questa guida hub abbiamo raccolto i 5 pilastri del Travel English: Logistica, Alloggio, Cibo, Vita Sociale e Sicurezza. Scegli l'area che ti preoccupa di più e inizia a prepararti."
+tldr: "Non serve essere bilingue per viaggiare bene. Serve sapere cosa dire nei momenti che contano. In questa guida hub abbiamo raccolto i pilastri del Travel English: Logistica, Alloggio, Cibo, Vita Sociale, Sicurezza e Business. Scegli l'area che ti preoccupa di più e inizia a prepararti."
 ---
 
 Viaggiare apre la mente, ma se non parli la lingua, rischi di guardare il mondo attraverso un vetro appannato. Vedi le cose, ma non le capisci davvero. Non riesci a interagire, a risolvere un problema o a cogliere un’opportunità.
@@ -16,9 +16,9 @@ Questa guida è la tua "Stazione Centrale". Qui troverai i percorsi specifici pe
 
 ---
 
-## 🧭 I 5 Pilastri della tua Sopravvivenza.
+## 🧭 I 6 Pilastri della tua Sopravvivenza
 
-Abbiamo diviso l'inglese da viaggio in 5 aree tematiche iper-pratiche. Clicca su quella che ti serve per approfondire:
+Abbiamo diviso l'inglese da viaggio in 6 aree tematiche iper-pratiche. Clicca su quella che ti serve per approfondire:
 
 ### 1. Arrivo e Spostamenti (Logistica)
 Dall'atterraggio in aeroporto alla gestione dei bagagli smarriti, fino all'acquisto di un biglietto della metro. Se hai paura di perderti o di restare bloccato al gate, questa è la tua bibbia.
@@ -29,16 +29,21 @@ Fare il check-in è facile, ma cosa succede se la camera è rumorosa o l'aria co
 👉 **[Leggi la guida a Hotel e Alloggi]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**
 
 ### 3. Cibo e Ristorazione
-Dal ristorante stellato allo street food dei mercati locali. Impara a ordinare con sicurezza e, soprattutto, a spiegare allergie e preferenze alimentari senza malintesi.
-👉 **[Leggi la guida a Ristoranti e Street Food]({{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }})**
+Dal ristorante stellato allo street food dei mercati locali, fino alla pinta al bancone. Impara a ordinare con sicurezza, gestire le allergie e pagare il conto.
+👉 **[Leggi la guida al Ristorante e Street Food]({{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }})**
+🍻 *Vuoi ordinare una birra?* 👉 **[Scopri la guida per Bar e Pub]({{ '/inglese/viaggio/inglese-al-bar-dialoghi/' | relative_url }})**
 
-### 4. Vita Sociale e Shopping
-Viaggiare significa connettersi. Scopri come fare small talk al pub, come contrattare nei mercatini e come gestire le situazioni sociali più informali.
-👉 **[Leggi la guida a Social e Shopping]({{ '/inglese/viaggio/inglese-social-shopping-viaggio/' | relative_url }})**
+### 4. Vita Sociale e Networking
+Viaggiare significa connettersi. Scopri come fare small talk, rompere il ghiaccio in ostello, fare nuove amicizie e persino gestire un appuntamento all'estero.
+👉 **[Leggi la guida a Social, Small Talk e Dating]({{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }})**
 
-### 5. Emergenze, Salute e Reclami
-Il lato "serio" del viaggio. Come spiegare un sintomo in farmacia, cosa dire a un medico o come farsi valere se un servizio non è all'altezza (voli cancellati, rimborsi, assicurazioni).
-👉 **[Leggi la guida a Emergenze e Reclami]({{ '/inglese/viaggio/inglese-emergenze-salute/' | relative_url }})**
+### 5. Emergenze e Salute
+Il lato "serio" del viaggio. Come spiegare un sintomo in farmacia, cosa dire a un medico, come chiamare un'ambulanza e gestire un infortunio in inglese.
+👉 **[Leggi la guida a Emergenze e Farmacia]({{ '/inglese/viaggio/dialoghi-emergenze-salute/' | relative_url }})**
+
+### 6. Business Travel e Reclami
+L'inglese formale e assertivo. Come farsi valere per un volo cancellato, contestare un errore in fattura o fare bella figura in un meeting di lavoro.
+👉 **[Leggi la guida a Business Travel e Reclami]({{ '/inglese/viaggio/inglese-business-reclami-viaggio/' | relative_url }})**
 
 ---
 
