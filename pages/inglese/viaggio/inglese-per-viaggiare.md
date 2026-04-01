@@ -4,11 +4,9 @@ title: "Inglese per Viaggiare: La Guida di Sopravvivenza per Adulti"
 date: 2026-04-01
 permalink: /inglese/viaggio/inglese-per-viaggiare/
 redirect_from:
-  - /inglese/pronuncia/come-migliorare-accento/
-  - /inglese/pronuncia/alfabeto-fonetico-inglese/
-  - /inglese/pronuncia/suoni-difficili-th/
-  - /inglese/errori/errori-comuni-pronuncia/
-  - 
+  - /inglese/vocabolario/parole-inglesi-viaggio/
+  - /inglese/curiosita/falsi-amici-inglese/
+
 tldr: "Dimentica la grammatica perfetta. Quando viaggi, l'unica cosa che conta è farsi capire al ristorante, in hotel e in aeroporto senza sembrare uno sprovveduto. Ecco le frasi di sopravvivenza e come prepararti prima di partire."
 ---
 
