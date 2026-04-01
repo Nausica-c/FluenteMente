@@ -3,6 +3,9 @@ layout: page
 title: "Inglese da Zero: La guida definitiva per adulti con poco tempo"
 description: "Non serve tornare a scuola. Scopri il metodo esatto per imparare l'inglese da zero, sbloccare il parlato e incastrare lo studio nella tua routine."
 permalink: /inglese/da-zero/
+redirect_from:
+  - /vita-vera/
+  - 
 bridge_type: base
 
 next_title: "Il tuo primo vero passo pratico"
