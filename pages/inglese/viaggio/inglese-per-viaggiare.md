@@ -18,10 +18,10 @@ In questo hub trovi tutto ciò che ti serve per smettere di gesticolare e inizia
 
 Abbiamo isolato le 4 situazioni in cui l'inglese diventa una questione di vita o di morte (o quasi). Scegli dove hai più bisogno di aiuto:
 
-* ✈️ **[Inglese in Aeroporto e Trasporti]({{ '/inglese-in-aeroporto/' | relative_url }})** - Dai controlli di sicurezza fino alla gestione di un bagaglio smarrito.
-* 🏨 **[Inglese in Hotel]({{ '/inglese-in-hotel/' | relative_url }})** - Come fare check-in, chiedere la password del Wi-Fi o lamentarsi di una stanza rumorosa.
-* 🍝 **[Ordinare al Ristorante]({{ '/ordinare-ristorante-inglese/' | relative_url }})** - Decifra il menù, chiedi il conto e comunica eventuali allergie senza ansia.
-* 🏥 **[Emergenze e Salute]({{ '/emergenze-mediche-inglese/' | relative_url }})** - Il frasario essenziale per farmacie, medici o polizia locale.
+* ✈️ **[Inglese in Aeroporto e Trasporti]({{ '/inglese/viaggio/inglese-aeroporto-trasporti/' | relative_url }})** - Dai controlli di sicurezza fino alla gestione di un bagaglio smarrito.
+* 🏨 **[Inglese in Hotel]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})** - Come fare check-in, chiedere la password del Wi-Fi o lamentarsi di una stanza rumorosa.
+* 🍝 **[Ordinare al Ristorante]({{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }})** - Decifra il menù, chiedi il conto e comunica eventuali allergie senza ansia.
+* 🏥 **[Emergenze e Salute]({{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }})** - Il frasario essenziale per farmacie, medici o polizia locale.
 
 {% include section-in-breve.html 
    title="La Regola d'Oro del Viaggiatore:" 
@@ -35,7 +35,7 @@ Leggere un frasario è utile, ma quando ti troverai davanti a un cameriere londi
 
 Non hai mesi di tempo? Non importa. Abbiamo creato un protocollo accelerato per chi ha un volo prenotato a breve.
 
-👉 **[Leggi la nostra guida: Preparare il Viaggio in 7 Giorni]({{ '/preparare-viaggio-7-giorni/' | relative_url }})**
+👉 **[Leggi la nostra guida: Preparare il Viaggio in 7 Giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})**
 
 ---
 
@@ -44,3 +44,4 @@ Non hai mesi di tempo? Non importa. Abbiamo creato un protocollo accelerato per 
    text="Vuoi esercitare la pronuncia esatta di queste frasi senza paura di sbagliare? Babbel ha un intero corso dedicato esclusivamente all'Inglese per Viaggiare. Lezioni di 15 minuti basate su dialoghi reali in hotel, al ristorante e per strada." 
    link_url="/recensione-babbel/" 
    link_text="Scopri il corso di Babbel per viaggiatori ➔" %}
+   
