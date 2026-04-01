@@ -4,7 +4,9 @@ title: "Inizia Qui: La Tua Roadmap per l'Inglese nel 2026"
 permalink: /inizia-qui/
 redirect_from:
   - /benefici-cervello-lingue/
-  - 
+  - /vita-vera/
+  - /inglese/frasi/frasi-motivazionali-inglese/
+
 tldr: "Benvenuto su FluenteMente. Non siamo qui per farti memorizzare liste di verbi irregolari. Siamo qui per darti un metodo pratico adatto alla vita di un adulto. Trova il tuo percorso e inizia."
 ---
 
