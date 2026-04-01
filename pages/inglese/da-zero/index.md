@@ -11,7 +11,7 @@ bridge_type: base
 next_title: "Il tuo primo vero passo pratico"
 next_text: "Ora che hai capito come funziona l'apprendimento per adulti, è il momento di agire. Non rimandare a domani: scarica la mappa esatta per la tua prima settimana."
 next_cta1: "Vai alla Checklist di 7 Giorni"
-next_url1: "/imparare-inglese-da-zero-7-giorni/"
+next_url1: "/inglese-da-zero-7-giorni//"
 next_cta2: "Scopri l'app che consigliamo"
 next_url2: "/recensione-babbel/"
 ---
