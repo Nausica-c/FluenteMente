@@ -4,7 +4,7 @@ title: "Il Metodo Consigliato: Come imparare l'inglese da adulti (2026)"
 date: 2026-03-26
 permalink: /metodo-consigliato/
 redirect_from:
-  - /metodo/errori-imparare-lingue-adulti/
+  - /errori-imparare-lingue-adulti/
   - 
 tldr: "Imparare l'inglese da adulti non significa tornare a scuola. La vera strategia si basa su 3 pilastri: vocabolario utile, costanza e pratica orale fin dal primo giorno. Ecco come smettere di 'studiare' e iniziare a parlare."
 ---
