@@ -3,6 +3,9 @@ layout: post
 title: "\"Capisco l'Inglese ma non lo Parlo\": Come sbloccarsi (Guida Definitiva)"
 date: 2026-03-26
 permalink: /capisco-ma-non-parlo/
+redirect_from:
+  - /perche-italiani-sbagliano-inglese/
+  - 
 tldr: "Capire l'inglese ma non riuscire a rispondere è un problema muscolare e psicologico, non di intelligenza. Si tratta del divario tra vocabolario passivo e attivo. Per sbloccarti devi smettere di tradurre a mente e iniziare a produrre suoni. Ecco la diagnosi esatta e la soluzione."
 ---
 
