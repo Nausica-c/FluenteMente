@@ -1,356 +1,130 @@
 ---
 layout: page
-title: "Imparare l'Inglese: Il percorso completo per adulti"
-subtitle: "Da livello zero fino alla conversazione fluida. Scopri grammatica, pronuncia, inglese per il lavoro (Business) e per viaggiare."
-description: "L'hub definitivo per imparare l'inglese da adulti. Risorse su grammatica, vocabolario, Business English, inglese in viaggio, pronuncia ed errori comuni."
-permalink: /inglese/
+title: "Imparare l'Inglese da Adulti: Il percorso pratico"
+subtitle: "Dalle fondamenta fino alla conversazione fluida. Seleziona il tuo obiettivo reale: viaggi, lavoro o superamento del blocco linguistico."
+description: "L'hub definitivo per imparare l'inglese da adulti. Risorse pratiche per Business English, viaggi, sblocco dello speaking e fondamenti."
+permalink: /inizia-qui/
 bridge_type: base
 
 next_title: "Hai trovato il tuo prossimo passo in inglese?"
-next_text: "Dopo aver esplorato i contenuti, il passo più utile è scegliere un metodo sostenibile oppure capire quale strumento usare per trasformare lo studio in pratica costante."
+next_text: "Dopo aver esplorato i contenuti, il passo più utile è scegliere uno strumento per trasformare lo studio teorico in pratica costante di soli 15 minuti al giorno."
 next_cta1: "Leggi il metodo consigliato"
 next_url1: "/metodo-consigliato/"
-next_cta2: "Leggi la recensione di Babbel"
+next_cta2: "Scopri l'App che usiamo noi"
 next_url2: "/recensione-babbel/"
-next_micro: "Se vuoi invece tornare alla panoramica generale delle lingue,"
-next_microlink: "/hub-lingue/"
-next_microanchor: "vai all’hub principale"
 ---
 
-L'inglese è la chiave che apre le porte del mondo: dal lavoro, ai viaggi, fino all'intrattenimento senza sottotitoli.
+L'inglese è la chiave che apre le porte del mondo reale: dal lavoro, ai viaggi all'estero senza ansia. 
 
-Se ti senti bloccato, se pensi di essere "negato" per le lingue o se semplicemente non sai da che parte iniziare, questa è la tua mappa. Abbiamo diviso le nostre migliori guide in categorie: parti da zero, correggi gli errori storici, arricchisci il vocabolario e inizia finalmente a pensare in inglese.
+Ma se hai superato i 30 anni, non hai tempo per lunghe lezioni scolastiche. Hai bisogno di risultati pratici. Abbiamo strutturato questo archivio per farti trovare immediatamente la soluzione al tuo problema specifico.
+
+Scegli la categoria che rispecchia la tua urgenza oggi:
 
 ---
 
-## 1. Da dove iniziare (Mindset e Livello Zero)
+## 1. Sblocca il Parlato ("Capisco ma non parlo")
+
+Se sai leggere una mail ma ti blocchi e balbetti quando devi rispondere a voce, il tuo problema non è la grammatica, ma l'ansia e la mancanza di "memoria muscolare". 
 
 <ul>
-{% assign da_zero_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/da-zero/' %}
-    {% assign da_zero_count = da_zero_count | plus: 1 %}
-    {% if da_zero_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if da_zero_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/capisco-ma-non-parlo/' | relative_url }}">La Guida Definitiva: Perché ti blocchi e come risolvere</a></strong><br>
+    <small style="color: #555;">La diagnosi del problema e i 3 step pratici per smettere di tradurre a mente e iniziare a produrre suoni.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/ansia-linguistica-parlare-inglese/' | relative_url }}">Ansia Linguistica: Come superare la paura del giudizio</a></strong><br>
+    <small style="color: #555;">La tecnica per disinnescare il panico quando devi parlare in pubblico o con un madrelingua.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/metodo/tecnica-shadowing-inglese/' | relative_url }}">Tecnica dello Shadowing: L'allenamento muscolare</a></strong><br>
+    <small style="color: #555;">L'esercizio usato dagli interpreti per sciogliere la lingua e migliorare l'accento.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/pensare-in-inglese/' | relative_url }}">3 Esercizi per pensare direttamente in Inglese</a></strong><br>
+    <small style="color: #555;">Come eliminare la traduzione mentale in italiano che ti rallenta.</small>
+  </li>
 </ul>
-
-{% if da_zero_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/da-zero/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ da_zero_count }} articoli su come iniziare ➔
-  </a>
-</div>
-{% endif %}
 
 ---
 
-## 2. Risolvi il problema della Pronuncia
+## 2. Inglese in Viaggio: Le Guide di Sopravvivenza
+
+Hai un volo prenotato e hai paura di fare scena muta alla reception o al ristorante? Dimentica la teoria, usa queste guide pratiche "copia-incolla".
 
 <ul>
-{% assign pronuncia_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/pronuncia/' %}
-    {% assign pronuncia_count = pronuncia_count | plus: 1 %}
-    {% if pronuncia_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if pronuncia_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}">L'Hub Viaggi: Scegli la tua emergenza</a></strong><br>
+    <small style="color: #555;">Il punto di partenza per chi deve partire. Scegli lo scenario di cui hai bisogno oggi.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }}">Preparare il viaggio in soli 7 giorni (Piano d'emergenza)</a></strong><br>
+    <small style="color: #555;">Il piano intensivo se il tuo aereo decolla tra una settimana e sei nel panico.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/inglese-aeroporto-trasporti/' | relative_url }}">Aeroporto, Trasporti e Indicazioni</a></strong><br>
+    <small style="color: #555;">Frasi per superare i controlli, comprare biglietti del treno e non perderti in città.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }}">In Hotel: Dal Check-in alla gestione dei problemi</a></strong><br>
+    <small style="color: #555;">Come farsi dare la stanza giusta, lamentarsi di guasti e capire il receptionist.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }}">Ordinare al Ristorante (Senza ansia)</a></strong><br>
+    <small style="color: #555;">Tradurre il menù, chiedere il conto e segnalare allergie in modo chiaro.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: Farmacia e Soccorsi</a></strong><br>
+    <small style="color: #555;">Il frasario salvavita per spiegare i sintomi o chiamare aiuto.</small>
+  </li>
 </ul>
-
-{% if pronuncia_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/pronuncia/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ pronuncia_count }} articoli sulla pronuncia ➔
-  </a>
-</div>
-{% endif %}
 
 ---
 
-## 3. Grammatica (Senza mal di testa)
+## 3. Business English: Inglese per il Lavoro
+
+L'inglese professionale non è "inglese avanzato", è un linguaggio composto da formule di cortesia specifiche per non sembrare maleducato o incompetente in ufficio.
 
 <ul>
-{% assign grammatica_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/grammatica/' %}
-    {% assign grammatica_count = grammatica_count | plus: 1 %}
-    {% if grammatica_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if grammatica_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/business/' | relative_url }}">L'Hub Business: Fai carriera in ufficio</a></strong><br>
+    <small style="color: #555;">Il cruscotto centrale per le tue esigenze professionali.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/business/scrivere-email-formali/' | relative_url }}">Come scrivere Email Formali (Template Pratici)</a></strong><br>
+    <small style="color: #555;">Le formule esatte per aprire, chiudere e gestire le comunicazioni scritte.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/business/colloquio-lavoro-inglese/' | relative_url }}">Sopravvivere al Colloquio di Lavoro</a></strong><br>
+    <small style="color: #555;">Le domande a trabocchetto e come preparare le risposte a casa.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/viaggio/inglese-business-reclami-viaggio/' | relative_url }}">Gestire imprevisti in trasferta e reclami</a></strong><br>
+    <small style="color: #555;">Come farsi rispettare con autorevolezza per voli cancellati o errori in fattura.</small>
+  </li>
 </ul>
-
-{% if grammatica_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/grammatica/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ grammatica_count }} articoli di grammatica ➔
-  </a>
-</div>
-{% endif %}
-
-{% include promo-box.html type="grammatica" lang="inglese" %}
 
 ---
 
-## 4. Vocabolario: Le parole che servono davvero
+## 4. Partire (o Ripartire) da Zero
+
+Hai studiato inglese 20 anni fa a scuola e ora non ricordi nulla? Non comprare un mattone di grammatica. Inizia da qui per costruire fondamenta solide.
 
 <ul>
-{% assign vocabolario_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/vocabolario/' %}
-    {% assign vocabolario_count = vocabolario_count | plus: 1 %}
-    {% if vocabolario_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if vocabolario_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/da-zero/' | relative_url }}">L'Hub dei Principianti</a></strong><br>
+    <small style="color: #555;">Tutte le risorse per superare lo shock iniziale senza frustrazione.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/da-zero/sfida-10-giorni-50-parole/' | relative_url }}">Sfida 10 Giorni: Le tue prime 50 parole attive</a></strong><br>
+    <small style="color: #555;">Il metodo 80/20 per imparare solo ciò che serve davvero nei primi giorni.</small>
+  </li>
+  <li style="margin-bottom: 15px;">
+    👉 <strong><a href="{{ '/inglese/grammatica/regole-essenziali-comunicare/' | relative_url }}">Grammatica Essenziale (La guida rapida)</a></strong><br>
+    <small style="color: #555;">Nessun mal di testa. Solo le regole vitali condensate in un'unica guida di consultazione.</small>
+  </li>
 </ul>
 
-{% if vocabolario_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/vocabolario/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ vocabolario_count }} articoli di vocabolario ➔
-  </a>
-</div>
-{% endif %}
+---
 
 {% include promo-box.html type="vocabolario" lang="inglese" %}
 
----
-
-## 5. Gli Errori Tipici degli Italiani
-
-<ul>
-{% assign errori_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/errori/' %}
-    {% assign errori_count = errori_count | plus: 1 %}
-    {% if errori_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if errori_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
-</ul>
-
-{% if errori_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/errori/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ errori_count }} articoli sugli errori ➔
-  </a>
-</div>
-{% endif %}
-
-{% include promo-box.html type="errori" lang="inglese" %}
-
----
-
-## 6. Frasi ed Espressioni di Vita Reale
-
-<ul>
-{% assign frasi_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/frasi/' %}
-    {% assign frasi_count = frasi_count | plus: 1 %}
-    {% if frasi_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if frasi_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
-</ul>
-
-{% if frasi_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/frasi/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ frasi_count }} articoli sulle frasi utili ➔
-  </a>
-</div>
-{% endif %}
-
----
-
-## 7. Curiosità, Idiomi e Cultura
-
-<ul>
-{% assign curiosita_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/curiosita/' %}
-    {% assign curiosita_count = curiosita_count | plus: 1 %}
-    {% if curiosita_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if curiosita_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
-</ul>
-
-{% if curiosita_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/curiosita/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ curiosita_count }} articoli su curiosità e idiomi ➔
-  </a>
-</div>
-{% endif %}
-
----
-
-## 8. Business English: L'inglese per il Lavoro
-
-<ul>
-{% assign business_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/business/' %}
-    {% assign business_count = business_count | plus: 1 %}
-    {% if business_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if business_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
-</ul>
-
-{% if business_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/business/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ business_count }} articoli di Business English ➔
-  </a>
-</div>
-{% endif %}
-
-{% include promo-box.html type="business" lang="inglese" %}
-
----
-
-## 9. Inglese in Viaggio: Sopravvivere all'estero
-
-<ul>
-{% assign viaggio_count = 0 %}
-{% for item in site.pages %}
-  {% if item.url contains '/inglese/viaggio/' %}
-    {% assign viaggio_count = viaggio_count | plus: 1 %}
-    {% if viaggio_count <= 10 %}
-      <li style="margin-bottom: 15px;">
-        👉 <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
-        <small style="color: #555;">
-          {% if item.description %}
-            {{ item.description }}
-          {% else %}
-            {{ item.excerpt | strip_html | truncatewords: 25 }}
-          {% endif %}
-        </small>
-      </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-{% if viaggio_count == 0 %}
-  <li><em>Nuovi articoli in arrivo a breve!</em></li>
-{% endif %}
-</ul>
-
-{% if viaggio_count > 10 %}
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="{{ '/inglese/viaggio/' | relative_url }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">
-    Vedi tutti i {{ viaggio_count }} articoli per viaggiare ➔
-  </a>
-</div>
-{% endif %}
-
-{% include promo-box.html type="viaggio" lang="inglese" %}
