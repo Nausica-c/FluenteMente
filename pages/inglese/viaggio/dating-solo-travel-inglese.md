@@ -8,8 +8,7 @@ permalink: /inglese/viaggio/dating-solo-travel-inglese/
 redirect_from:
   - /inglese/frasi/frasi-romantiche-inglese/
   - /inglese/curiosita/slang-internet-inglese/
-  -   - /inglese/curiosita/slang-internet-inglese/
-      - 
+  -  /inglese/curiosita/slang-internet-inglese/
 tldr: "Ordinare una birra è facile, ma cosa dici alla persona accanto a te? Questa guida ti insegna l'inglese sociale che non trovi sui libri: come iniziare una conversazione senza sembrare strano, come mantenerla viva con le 'reaction words' e come flirtare in modo naturale."
 ---
 
