@@ -7,6 +7,8 @@ description: "Evita i classici 'italianismi' nell'inglese parlato. Scopri perch�
 permalink: /inglese/da-zero/errori-traduzione-italiani/
 redirect_from:
   - /inglese/errori/errori-comuni-italiani/
+  - /inglese/curiosita/falsi-amici-inglese/
+      - 
 tldr: "Il problema non è la tua memoria, ma il 'ponte' mentale con l'italiano. Quando traduci letteralmente, inciampi in errori che segnalano subito un basso livello. Scopri i 5 errori più comuni (come 'I'm agree' o 'I have 20 years') e come correggerli per sembrare un vero locale."
 ---
 
