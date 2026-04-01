@@ -32,11 +32,11 @@ Conosci le regole, ma quando devi aprire bocca ti blocchi per paura di sbagliare
 
 ### 🟠 Voglio Viaggiare Sereno
 Il tuo obiettivo è ordinare al ristorante, gestire un imprevisto in aeroporto o fare amicizia all'estero senza provare imbarazzo sociale.
-👉 **[Vai al Pillar: Inglese per Viaggiare]({{ '/inglese-per-viaggiare/' | relative_url }})**
+👉 **[Vai al Pillar: Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**
 
 ### 💼 Mi serve per Sopravvivere in Ufficio
 Devi rispondere a email internazionali, gestire call e non vuoi sembrare incompetente davanti ai colleghi o ai clienti.
-👉 **[Accedi al Business English Hub]({{ '/business-english-hub/' | relative_url }})**
+👉 **[Accedi al Business English Hub]({{ '/inglese/business/business-english-hub/' | relative_url }})**
 
 ---
 
