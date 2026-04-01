@@ -1,53 +1,59 @@
 ---
 layout: post
-title: "I Tempi Verbali Inglesi: Guida Pratica per Adulti"
+title: "Tempi Verbali Inglesi: La Mappa Strategica 80/20"
 date: 2026-04-01
-subtitle: "Smetti di studiare formule a memoria. Scopri quali tempi ti servono davvero e come sceglierli d'istinto."
-description: "Panoramica completa dei tempi verbali inglesi: present, past, perfect e futuro. Scopri quando usarli nella vita reale e come evitare la traduzione mentale."
+subtitle: "Dimentica i manuali. Ecco i 6 tempi verbali che coprono il 90% delle tue conversazioni reali."
+description: "Guida completa ai tempi verbali inglesi per adulti. Una panoramica strategica per capire cosa studiare e cosa ignorare per essere fluenti subito."
 permalink: /inglese/grammatica/tempi-verbali-inglese/
 categories: [inglese, grammatica]
-tldr: "Per parlare inglese non ti servono tutti i tempi verbali allo stesso livello. In questa guida analizziamo i 6 pilastri fondamentali che coprono il 90% delle situazioni reali, insegnandoti a sceglierli in base al concetto che vuoi esprimere, non alla regola scolastica."
+tldr: "Non ti servono 12 tempi verbali per lavorare o viaggiare. Te ne servono 6, usati bene. In questa guida mappiamo l'inglese in base alle tue intenzioni comunicative, non alle regole scolastiche."
 ---
 
-Se i **tempi verbali inglesi** ti sembrano un muro, il problema è che li hai studiati come formule matematiche. Nella vita reale non parli per etichette, ma per esprimere concetti: abitudini, fatti finiti o piani futuri.
+Sapevi che i madrelingua usano raramente il *Future Perfect Continuous*? Eppure a scuola ci fanno perdere ore su tempi verbali che non userai mai.
+
+Se sei un adulto impegnato, devi ottimizzare. Devi applicare la **Legge di Pareto**: il 20% dei verbi ti darà l'80% della fluidità. Ecco la tua mappa di sopravvivenza.
+
+
 
 {% include trust-brand.html %}
 
-## 🗺️ La mappa di sopravvivenza (80/20)
+## 📍 La tua Bussola Verbale
 
-Non tutti i verbi hanno lo stesso peso. Ecco i 6 che devi dominare per essere considerato fluente:
+Invece di studiare le tabelle, chiediti: **cosa voglio raccontare?**
 
-* **Present Simple** ➔ Routine e fatti generali.
-* **Present Continuous** ➔ Azioni in corso adesso.
-* **Past Simple** ➔ Fatti conclusi nel passato.
-* **Past Continuous** ➔ Azioni che stavano succedendo (sfondo).
-* **Present Perfect** ➔ Esperienze e legami con il presente.
-* **Will / Going to** ➔ Decisioni e piani futuri.
+### 1. La mia realtà (Il Presente)
+Per parlare di chi sei, cosa fai e cosa ami.
+* **Present Simple:** "I work in tech." (La tua routine).
+* **Present Continuous:** "I'm working on a project." (Cosa stai facendo ora).
+* 👉 *Approfondisci: [Present Simple vs Continuous]({{ '/inglese/grammatica/present-simple-vs-present-continuous/' | relative_url }})*
+
+### 2. La mia storia (Il Passato)
+Per raccontare aneddoti, viaggi o risultati.
+* **Past Simple:** "I visited Berlin last year." (L'evento concluso).
+* **Past Continuous:** "I was sleeping when..." (Lo sfondo della storia).
+* **Present Perfect:** "I have seen that." (Il tuo bagaglio di esperienze).
+* 👉 *Approfondisci: [Guida al Passato]({{ '/inglese/grammatica/past-simple-vs-past-continuous/' | relative_url }})*
+
+### 3. I miei piani (Il Futuro)
+Per organizzare riunioni o sognare viaggi.
+* **Will / Going to:** "I will call you" / "I am going to travel."
 
 ---
 
 {% include bridge-box.html 
-   title="Trasforma la teoria in istinto" 
-   text="Capire la mappa è il primo passo. Ma il miglioramento vero arriva quando alleni il cervello a scegliere il tempo giusto senza pensarci. Con Babbel assimili i verbi usandoli in dialoghi realistici, non riempiendo tabelle." 
-   link_url="/recensionebabbel/" 
-   link_text="Allena i tempi verbali con Babbel ➔" %}
+   title="Costruisci le tue fondamenta" 
+   text="Non cercare di costruire il tetto se non hai ancora le basi. Babbel ti guida attraverso questi 6 tempi essenziali, assicurandosi che tu li sappia usare prima di passare a strutture più complesse. È il modo più intelligente di studiare." 
+   link_url="/recensione-babbel/" 
+   link_text="Inizia il tuo percorso con Babbel ➔" %}
 
 ---
 
-## 💡 Come scegliere il tempo giusto?
+## 🚀 Come passare dalla teoria alla pratica?
 
-Invece di tradurre dall'italiano, usa questo schema mentale:
+La grammatica è come il libretto di istruzioni di un'auto: leggerlo è utile, ma per imparare a guidare devi stare al volante. 
 
-1.  **È una cosa che fai 'di solito'?** ➔ [Present Simple vs Continuous]({{ '/inglese/grammatica/present-simple-vs-present-continuous/' | relative_url }})
-2.  **È successo 'ieri' o 'nel 2022'?** ➔ [Past Simple vs Continuous]({{ '/inglese/grammatica/past-simple-vs-past-continuous/' | relative_url }})
-3.  **È un'esperienza 'nella tua vita' (senza data)?** ➔ [Present Perfect vs Past Simple]({{ '/inglese/grammatica/present-perfect-vs-past-simple/' | relative_url }})
+1.  **Smetti di studiare liste di verbi irregolari.**
+2.  **Inizia a usare i 'Chunks'** (blocchi di parole già pronti).
+3.  **Usa il riconoscimento vocale** per abituare la tua lingua a produrre questi tempi senza esitazione.
 
 {% include promo-box.html %}
-
----
-
-### Approfondisci i duelli verbali:
-* 👉 **[Present Simple vs Continuous]({{ '/inglese/grammatica/present-simple-vs-present-continuous/' | relative_url }})**
-* 👉 **[Past Simple vs Continuous]({{ '/inglese/grammatica/past-simple-vs-past-continuous/' | relative_url }})**
-* 👉 **[Past Simple vs Present Perfect]({{ '/inglese/grammatica/present-perfect-vs-past-simple/' | relative_url }})**
-* 
