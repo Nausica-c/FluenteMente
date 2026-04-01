@@ -36,7 +36,7 @@ Il tuo obiettivo è ordinare al ristorante, gestire un imprevisto in aeroporto o
 
 ### 💼 Mi serve per Sopravvivere in Ufficio
 Devi rispondere a email internazionali, gestire call e non vuoi sembrare incompetente davanti ai colleghi o ai clienti.
-👉 **[Accedi al Business English Hub]({{ '/inglese/business/business-english-hub/' | relative_url }})**
+👉 **[Accedi al Business English Hub]({{ '/inglese/business/' | relative_url }})**
 
 ---
 
