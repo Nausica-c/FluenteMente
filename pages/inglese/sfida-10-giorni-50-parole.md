@@ -6,7 +6,8 @@ permalink: /inglese/da-zero/sfida-10-giorni-50-parole/
 redirect_from:
   - /inglese/frasi/100-frasi-base-inglese/
   - /inglese/vocabolario/verbi-frasali-piu-usati/
-  - 
+  - /inglese/sfida-10-giorni-50-parole/
+  - -
 tldr: "Smetti di pensare che l'inglese sia una montagna insormontabile. Le prime 50 parole di una lingua coprono quasi il 50% delle conversazioni quotidiane. In questa sfida imparerai 5 parole chiave al giorno per 10 giorni. Niente grammatica, solo risultati."
 ---
 
