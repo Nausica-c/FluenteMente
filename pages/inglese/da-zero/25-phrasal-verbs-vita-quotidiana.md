@@ -6,7 +6,7 @@ subtitle: "Smetti di studiarli a memoria. Scopri come i phrasal verbs descrivono
 description: "Guida pratica ai 25 phrasal verbs più comuni. Impara a usarli nel contesto di una giornata reale invece di memorizzare liste astratte."
 permalink: /inglese/da-zero/25-phrasal-verbs-vita-quotidiana/
 redirect_from:
-  - /inglese/vocabolario/30-phrasal-verbs-essenziali-inglese/
+  - /inglese/da-zero/30-phrasal-verbs-essenziali-inglese//
 tldr: "I phrasal verbs non sono eccezioni grammaticali, sono i verbi della vita reale. In questa guida li vediamo in azione in una storia quotidiana: dal momento in cui ti svegli a quando torni a casa. Imparali come 'blocchi di significato' e non dimenticarli più."
 ---
 
