@@ -11,7 +11,7 @@ bridge_type: base
 next_title: "Il tuo primo vero passo pratico"
 next_text: "Ora che hai capito come funziona l'apprendimento per adulti, è il momento di agire. Non rimandare a domani: scarica la mappa esatta per la tua prima settimana."
 next_cta1: "Vai alla Checklist di 7 Giorni"
-next_url1: "/inglese-da-zero-7-giorni//"
+next_url1: "/inglese/da-zero/checklist-7-giorni/"
 next_cta2: "Scopri l'app che consigliamo"
 next_url2: "/recensione-babbel/"
 ---
@@ -40,7 +40,7 @@ Per passare da zero a una conversazione base, devi focalizzarti solo su tre elem
 
 La teoria non ti farà parlare. Hai bisogno di un piano di implementazione chiaro per non perderti. Abbiamo creato un percorso esatto, passo dopo passo.
 
-👉 **Step 1:** Inizia dalla nostra **[Checklist: Imparare l'inglese in 7 giorni]({{ '/imparare-inglese-da-zero-7-giorni/' | relative_url }})**. È la tua mappa operativa per la prima settimana.
+👉 **Step 1:** Inizia dalla nostra **[Checklist: Imparare l'inglese in 7 giorni]({{ '/inglese/da-zero/checklist-7-giorni/' | relative_url }})**. È la tua mappa operativa per la prima settimana.
 
 👉 **Step 2:** Se vuoi una vera immersione per attivare il vocabolario base, accetta la nostra **[Sfida di 10 Giorni]({{ '/sfida-10-giorni/' | relative_url }})**.
 
