@@ -2,7 +2,7 @@
 layout: post
 title: "Inglese per Viaggiare: La Guida di Sopravvivenza per Adulti"
 date: 2026-04-01
-permalink: /inglese-per-viaggiare/
+permalink: /inglese/viaggio/inglese-per-viaggiare/
 tldr: "Dimentica la grammatica perfetta. Quando viaggi, l'unica cosa che conta è farsi capire al ristorante, in hotel e in aeroporto senza sembrare uno sprovveduto. Ecco le frasi di sopravvivenza e come prepararti prima di partire."
 ---
 
