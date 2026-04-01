@@ -9,6 +9,13 @@ redirect_from:
   - /inglese/grammatica/30-regole-grammatica-parte-1/
   - /inglese/grammatica/30-regole-grammatica-parte-2/
   - /inglese/grammatica/30-regole-grammatica-parte-3/
+  - /inglese/grammatica/tempi-verbali-inglese-schema/
+  - /inglese/errori/errori-comuni-pronuncia/
+  - /inglese/curiosita/falsi-amici-inglese/
+  - /inglese/pronuncia/alfabeto-fonetico-inglese/
+  - /inglese/pronuncia/suoni-difficili-th/
+  - /inglese/frasi/100-frasi-base-inglese/
+  - /inglese/vocabolario/verbi-frasali-piu-usati/
 tldr: "Da adulti, studiare la grammatica a memoria è il modo più veloce per odiare l'inglese e bloccarsi quando si parla. In questa guida abbiamo condensato (unendo le nostre storiche 30 regole) solo le strutture vitali: i 4 tempi verbali chiave, la regola dell'ordine delle parole e i modali. Leggile, ma poi passa subito alla pratica orale."
 ---
 
