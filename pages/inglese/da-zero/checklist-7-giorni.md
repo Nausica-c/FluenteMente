@@ -48,7 +48,7 @@ Dimenticare è normale. Per evitarlo, serve un algoritmo che ti ricordi le parol
 * **Azione:** Scopri come funziona la **[Ripetizione Spaziata]({{ '/metodo/ripetizione-spaziata-lingue/' | relative_url }})** e perché è inutile provare a farla "a mano" con le flashcard di carta.
 
 ## Giorno 6: Inserimento Passivo
-Imposta il tuo smartphone in inglese. Abitua il tuo cervello a vedere parole straniere senza andare in panico. Inizia a capire la differenza tra **[Ascolto Passivo e Attivo]({{ '/ascolto-passivo-attivo-inglese/' | relative_url }})**.
+Imposta il tuo smartphone in inglese. Abitua il tuo cervello a vedere parole straniere senza andare in panico. Inizia a capire la differenza tra **[Ascolto Passivo e Attivo]({{ '/inglese/ascolto/podcast-babbel-inglese/' | relative_url }})**.
 
 ## Giorno 7: Audit e Programmazione
 Guarda cos'hai fatto. Hai rispettato i tuoi 15 minuti? Se sì, hai già vinto. Ora mantieni lo strumento scelto e non guardarti più indietro.
