@@ -2,7 +2,7 @@
 layout: post
 title: "Business English: Sopravvivere e fare carriera in Ufficio (2026)"
 date: 2026-04-01
-permalink: /business/
+permalink: /inglese/business/
 tldr: "Nel mondo del lavoro non ti serve l'inglese di Shakespeare. Ti servono formule preimpostate per gestire email, call su Zoom e colloqui senza sembrare incompetente e senza farti venire attacchi di panico."
 ---
 
