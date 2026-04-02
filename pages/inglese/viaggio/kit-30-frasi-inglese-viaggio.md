@@ -13,7 +13,6 @@ featured: true
 priority: alta
 ---
 
-
 # Kit Inglese per Viaggiare: 30 Frasi Salva-Vita da Salvare sul Telefono
 
 L’ansia di non farsi capire è il bagaglio più pesante che ci portiamo in viaggio. Spesso non serve conoscere perfettamente la grammatica, ma avere la **frase giusta al momento giusto**.
@@ -34,7 +33,7 @@ Il primo impatto è sempre quello più stressante. Che tu debba recuperare un ba
 | **Does this train stop at [Station]?** | Questo treno ferma a...? |
 | **I’ve missed my connection.** | Ho perso la coincidenza. |
 
-> **Approfondimento:** Per gestire ogni dettaglio tra check-in e gate, leggi la nostra guida completa su [Inglese in Aeroporto e Trasporti](https://nausica-c.github.io/FluenteMente/inglese/viaggio/inglese-aeroporto-trasporti/).
+> **Approfondimento:** Per gestire ogni dettaglio tra check-in e gate, leggi la nostra guida completa su **[Inglese in Aeroporto e Trasporti]({{ '/inglese/viaggio/inglese-aeroporto-trasporti/' | relative_url }})**.
 
 ---
 
@@ -48,7 +47,7 @@ Dal check-in alla richiesta di un cuscino extra: ecco come gestire la tua "casa"
 | **Could I leave my luggage here?** | Posso lasciare i bagagli qui? (per il check-out) |
 | **The Wi-Fi isn’t working in my room.** | Il Wi-Fi non funziona in camera. |
 
-> **Consiglio pratico:** Se viaggi con i più piccoli, trovi i termini specifici nella guida all'[Inglese per viaggiare con bambini](https://nausica-c.github.io/FluenteMente/inglese/viaggio/viaggiare-con-bambini-inglese/). Per tutto il resto, consulta [Inglese in Hotel](https://nausica-c.github.io/FluenteMente/inglese/viaggio/inglese-in-hotel/).
+> **Consiglio pratico:** Se viaggi con i più piccoli, trovi i termini specifici nella guida all'**[Inglese per viaggiare con bambini]({{ '/inglese/viaggio/viaggiare-con-bambini-inglese/' | relative_url }})**. Per tutto il resto, consulta **[Inglese in Hotel]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**.
 
 ---
 
@@ -62,14 +61,14 @@ Ordinare cibo non dovrebbe essere una sfida olimpica.
 | **Could we have the bill, please?** | Possiamo avere il conto? |
 | **Is service included?** | Il servizio è incluso? |
 
-> **Vuoi ordinare come un pro?** Scopri come dialogare con i camerieri nella guida [Inglese al Ristorante](https://nausica-c.github.io/FluenteMente/inglese/viaggio/inglese-al-ristorante/).
+> **Vuoi ordinare come un pro?** Scopri come dialogare con i camerieri nella guida **[Inglese al Ristorante]({{ '/inglese/viaggio/inglese-al-ristorante/' | relative_url }})**.
 
 ---
 
 > ### 🛑 Hai le frasi, ma hai paura della pronuncia?
 > Saper leggere una frase è utile, ma saperla **pronunciare con sicurezza** è ciò che cambia davvero il tuo viaggio. Con il sistema di riconoscimento vocale di **Babbel**, puoi fare pratica con i dialoghi reali prima ancora di scendere dall'aereo.
 >
-> 👉 [**Prepara il tuo prossimo viaggio con Babbel (Sconto Speciale)**](https://www.babbel.com)
+> 👉 **[Prepara il tuo prossimo viaggio con Babbel (Sconto Speciale)](/recensione-babbel/)**
 
 ---
 
@@ -83,7 +82,7 @@ Speriamo che non ti servano mai, ma se succede, devi essere rapido e preciso.
 | **I would like to make a formal complaint.** | Vorrei fare un reclamo formale. |
 | **Where is the nearest pharmacy?** | Dov’è la farmacia più vicina? |
 
-> **Link Utili:** In caso di problemi di salute, consulta [Emergenze e Salute](https://nausica-c.github.io/FluenteMente/inglese/viaggio/emergenze-salute-inglese/). Se il problema riguarda un disservizio professionale o un ritardo, leggi [Reclami e Business Travel](https://nausica-c.github.io/FluenteMente/inglese/viaggio/inglese-business-reclami-viaggio/).
+> **Link Utili:** In caso di problemi di salute, consulta **[Emergenze e Salute]({{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }})**. Se il problema riguarda un disservizio professionale o un ritardo, leggi **[Reclami e Business Travel]({{ '/inglese/viaggio/inglese-business-reclami-viaggio/' | relative_url }})**.
 
 ---
 
@@ -97,13 +96,13 @@ Viaggiare significa anche conoscere persone e scoprire nuovi luoghi.
 | **Are you on Instagram?** | Sei su Instagram? (per restare in contatto) |
 | **Could you take a photo of me/us?** | Potresti scattarci una foto? |
 
-> **Per i "Solo Travelers":** Se viaggi da solo e vuoi fare amicizia, non perderti la guida al [Dating e Solo Travel](https://nausica-c.github.io/FluenteMente/inglese/viaggio/dating-solo-travel-inglese/). Se invece sei un amante dell'arte, vai su [Cultura e Musei in inglese](https://nausica-c.github.io/FluenteMente/inglese/viaggio/inglese-cultura-musei/).
+> **Per i "Solo Travelers":** Se viaggi da solo e vuoi fare amicizia, non perderti la guida al **[Dating e Solo Travel]({{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }})**. Se invece sei un amante dell'arte, vai su **[Cultura e Musei in inglese]({{ '/inglese/viaggio/inglese-cultura-musei/' | relative_url }})**.
 
 ---
 
 ## Come prepararsi in soli 7 giorni?
 Se la tua partenza è imminente, non farti prendere dal panico. È possibile rinfrescare l'inglese in una settimana con un piano d'attacco mirato che unisce ripasso e tecnologia.
 
-👉 **Scopri qui:** [Come preparare il tuo inglese per un viaggio in 7 giorni](https://nausica-c.github.io/FluenteMente/inglese/viaggio/come-preparare-viaggio-7-giorni/)
+👉 **Scopri qui:** **[Come preparare il tuo inglese per un viaggio in 7 giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})**
 
 ---
