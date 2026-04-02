@@ -12,7 +12,8 @@ Ordinare al ristorante in una lingua straniera è il test del fuoco per ogni via
 
 Che tu sia in un bistrot a Londra, in una steakhouse a New York o davanti a un chiosco asiatico, per smettere di indicare le foto sul menù dicendo il temutissimo *"This one, please"*, hai bisogno di una strategia.
 
-*Questa risorsa fa parte del nostro Hub principale **[Inglese per Viaggiare: La Guida Definitiva]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**.*
+> **🍔 Non fare scena muta davanti al cameriere!**
+> Prima di sederti a tavola, **scarica il nostro [Kit 30 Frasi Inglese per Viaggiare](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** direttamente sul tuo telefono. Troverai un'intera sezione dedicata a ristorante, cibo e intolleranze, comodissima da sbirciare in un tocco anche senza Wi-Fi.
 
 ---
 
@@ -36,6 +37,8 @@ Dimentica il traduttore del telefono, ecco i termini essenziali per capire cosa 
 > **⚠️ Attenzione al "Falso Amico": Peperoni**
 > Se ordini una **"Peperoni Pizza"** negli USA o in UK, riceverai una pizza con il **salame piccante**! Se vuoi la verdura, devi chiedere **"Bell peppers"**.
 
+---
+
 ## 🗣️ 2. Le Frasi Pronte (Il tuo Copia-Incolla)
 **Regola d'oro:** non usare *mai* l'espressione "I want" (voglio), risulta maleducata. Usa sempre *"I'll have"* o *"Could I get"*.
 
@@ -53,12 +56,9 @@ Dimentica il traduttore del telefono, ecco i termini essenziali per capire cosa 
 9. **"Is service included?"** ➔ Il servizio è incluso?
 10. **"Keep the change."** ➔ Tenga il resto.
 
-{% include bridge-box.html 
-   title="🚨 Attenzione: Leggere non basta" 
-   text="Imparare queste frasi a memoria serve a poco se poi l'ansia ti fa fare scena muta o se non capisci la pronuncia veloce del cameriere. L'unico modo per non bloccarsi al tavolo è simulare l'ordinazione ad alta voce prima di partire." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il tuo speaking con le simulazioni di Babbel ➔" 
-%}
+{% include bridge-box.html title="🚨 Attenzione: Leggere non basta" text="Imparare queste frasi a memoria serve a poco se poi l'ansia ti fa fare scena muta o se non capisci la pronuncia veloce del cameriere. L'unico modo per non bloccarsi al tavolo è simulare l'ordinazione ad alta voce prima di partire." link_url="/recensione-babbel/" link_text="Allena il tuo speaking con le simulazioni di Babbel ➔" %}
+
+---
 
 ## 🌮 3. Street Food, Mercati e Allergie
 Mangiare per strada richiede un inglese più diretto. E se hai allergie, devi essere chiarissimo.
@@ -69,6 +69,8 @@ Mangiare per strada richiede un inglese più diretto. E se hai allergie, devi es
 * **"I am allergic to [nuts/shellfish/dairy]."** ➔ Sono allergico a [frutta a guscio/crostacei/latticini].
 * **"Does this dish contain meat/fish?"** ➔ Questo piatto contiene carne/pesce?
 * **"Is this gluten-free?"** ➔ È senza glutine?
+
+---
 
 ## 🎭 4. I Dialoghi Reali (Cosa ti risponderanno)
 Ecco 2 scenari reali per abituare l'orecchio.
@@ -96,15 +98,11 @@ Ecco 2 scenari reali per abituare l'orecchio.
 ## Conclusione: Allena la tua pronuncia
 Ordinare cibo è un modo per connettersi con la cultura locale. Ma leggere un testo non preparerà i muscoli della tua bocca. Se vuoi davvero sentirti sicuro quando il cameriere si avvicina, **devi simulare la conversazione**.
 
-{% include bridge-box.html 
-   title="Allenati con i dialoghi interattivi" 
-   text="Non farti bastare il 'Point and Eat' (indicare e mangiare). Usa la funzione di riconoscimento vocale di Babbel per simulare vere ordinazioni al ristorante: l'app ascolta la tua pronuncia e ti corregge in tempo reale." 
-   link_url="/recensione-babbel/" 
-   link_text="Preparati al ristorante con Babbel ➔" 
-%}
+{% include bridge-box.html title="Allenati con i dialoghi interattivi" text="Non farti bastare il 'Point and Eat' (indicare e mangiare). Usa la funzione di riconoscimento vocale di Babbel per simulare vere ordinazioni al ristorante: l'app ascolta la tua pronuncia e ti corregge in tempo reale." link_url="/recensione-babbel/" link_text="Preparati al ristorante con Babbel ➔" %}
 
 ---
 
 ### 🎯 Qual è il prossimo passo?
 * ⏱️ **Parti a breve?** Ottimizza i tempi con il nostro piano d'emergenza: **[Come Preparare l’Inglese per un Viaggio in 7 Giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }})**.
 * ✈️ **Naviga nell'Hub:** Torna alla nostra **[Guida Completa all'Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})** per prepararti all'aeroporto, all'hotel e alle emergenze.
+* 
