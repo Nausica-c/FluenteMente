@@ -14,6 +14,9 @@ Ordinare al ristorante richiede un inglese "meccanico": fai una domanda, ottieni
 
 Se viaggi da solo (Solo Travel), vuoi fare nuove amicizie o magari speri in un appuntamento (Dating), devi imparare l'arte dello **Small Talk**.
 
+> **💬 Non restare senza parole sul più bello!**
+> Prima di buttarti nella mischia e fare nuove conoscenze, **scarica il nostro [Kit 30 Frasi Inglese per Viaggiare](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** da tenere sul telefono. Un pratico "cheat sheet" consultabile anche offline con le frasi salvavita per le emergenze, i trasporti e i locali.
+
 *Questa risorsa è un approfondimento del nostro **[Hub Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**.*
 
 ---
@@ -31,6 +34,8 @@ Il segreto per iniziare una conversazione non è inventarsi frasi geniali, ma fa
 5. **"I love your jacket! Where did you get it?"** ➔ Adoro la tua giacca! Dove l'hai presa?
 6. **"That drink looks amazing, what is it?"** ➔ Quel drink sembra buonissimo, cos'è?
 
+---
+
 ## 🗣️ 2. L'Arte dello Small Talk e le "Reaction Words"
 Hai rotto il ghiaccio. E adesso? Per non far morire la conversazione devi usare la tecnica del "rimbalzo" e le **Reaction Words** (le parole che dimostrano che stai ascoltando).
 
@@ -46,12 +51,9 @@ Quando l'altra persona parla, usa queste brevi esclamazioni per prendere tempo e
 * **"That makes sense."** ➔ Ha senso / Capisco.
 * **"I know, right?"** ➔ Vero? / Assolutamente! (Super usato per dare ragione a qualcuno).
 
-{% include bridge-box.html 
-   title="Smetti di tradurre nella tua testa" 
-   text="Se durante una conversazione sociale ti blocchi perché stai cercando di tradurre dall'italiano, perdi il ritmo e si creano silenzi imbarazzanti. Per smettere di tradurre a mente, devi allenare la tua risposta automatica ascoltando e ripetendo veri dialoghi madrelingua, non memorizzando regole grammaticali." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il parlato automatico con Babbel ➔" 
-%}
+{% include bridge-box.html title="Smetti di tradurre nella tua testa" text="Se durante una conversazione sociale ti blocchi perché stai cercando di tradurre dall'italiano, perdi il ritmo e si creano silenzi imbarazzanti. Per smettere di tradurre a mente, devi allenare la tua risposta automatica ascoltando e ripetendo veri dialoghi madrelingua, non memorizzando regole grammaticali." link_url="/recensione-babbel/" link_text="Allena il parlato automatico con Babbel ➔" %}
+
+---
 
 ## ❤️ 3. Dating e Appuntamenti (Come chiedere di uscire)
 L'inglese per il dating richiede tatto. Non usare la parola "Date" (appuntamento) subito, mette troppa pressione. Proponi qualcosa di informale.
@@ -62,6 +64,8 @@ L'inglese per il dating richiede tatto. Non usare la parola "Date" (appuntamento
 12. **"You look great."** ➔ Stai benissimo.
 13. **"I’m having a really good time."** ➔ Mi sto divertendo molto / Sto passando una bella serata.
 
+---
+
 ## 🏃‍♂️ 4. La Via di Fuga (Come chiudere la conversazione)
 Sei incastrato in una conversazione noiosa o devi andare via, ma non sai come dirlo senza sembrare maleducato. Non dire mai "Bye" girando i tacchi.
 
@@ -69,6 +73,8 @@ Sei incastrato in una conversazione noiosa o devi andare via, ma non sai come di
 15. **"I’m gonna go grab another drink. Catch you later!"** ➔ Vado a prendere un drink. Ci vediamo dopo!
 16. **"Well, I should probably get going. Have a good night!"** ➔ Beh, dovrei andare. Buona serata!
 17. **"Let’s exchange numbers! / Are you on Instagram?"** ➔ Scambiamoci i numeri! / Hai Instagram?
+
+---
 
 ## 🎭 5. I Dialoghi Reali (Scenari Social)
 
@@ -100,16 +106,10 @@ Nello small talk non c'è tempo per pensare alla grammatica. Le conversazioni so
 
 Ascoltare e ripetere ad alta voce è l'unico modo per far sì che le tue risposte diventino automatiche.
 
-{% include bridge-box.html 
-   title="Sconfiggi l'ansia da conversazione" 
-   text="Non lasciare che la paura di fare errori ti isoli in viaggio. Babbel offre moduli dedicati allo 'Small Talk' e alla socializzazione, con dialoghi interattivi che allenano il tuo orecchio al parlato veloce e la tua bocca a una pronuncia sicura in soli 15 minuti al giorno." 
-   link_url="/recensione-babbel/" 
-   link_text="Allenati allo Small Talk con Babbel ➔" 
-%}
+{% include bridge-box.html title="Sconfiggi l'ansia da conversazione" text="Non lasciare che la paura di fare errori ti isoli in viaggio. Babbel offre moduli dedicati allo 'Small Talk' e alla socializzazione, con dialoghi interattivi che allenano il tuo orecchio al parlato veloce e la tua bocca a una pronuncia sicura in soli 15 minuti al giorno." link_url="/recensione-babbel/" link_text="Allenati allo Small Talk con Babbel ➔" %}
 
 ---
 
 ### 🎯 Qual è il prossimo passo?
 * 🧠 **Sblocca la mente:** Se ti blocchi spesso a parlare e ti sale l'ansia quando qualcuno ti rivolge la parola, leggi la nostra guida: **[Capisco ma non parlo: Perché ti blocchi (e come risolvere)]({{ '/capisco-ma-non-parlo/' | relative_url }})**.
 * 🍻 **Trasferisciti al Bancone:** Scopri come destreggiarti tra ordinazioni e pinte nella guida **[Ordinare al Bar e al Pub in Inglese]({{ '/inglese/viaggio/inglese-al-bar/' | relative_url }})**.
-* 
