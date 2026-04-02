@@ -12,7 +12,8 @@ Il momento del check-in è il primo vero "esame" di inglese di ogni vacanza. Arr
 
 Se arrivi in camera e scopri che l'aria condizionata è rotta, devi sapere esattamente cosa dire (e come dirlo) per non rovinarti il viaggio. Questa guida è il tuo passpartout per gestire l'hotel dall'arrivo alla partenza.
 
-*Questa risorsa fa parte del nostro Hub principale **[Inglese per Viaggiare: La Guida Definitiva]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**.*
+> **🏨 Risolvi i problemi alla reception in un attimo!**
+> Prima di ritirare le chiavi della stanza, **scarica il nostro [Kit 30 Frasi Inglese per Viaggiare](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** direttamente sul tuo smartphone. Contiene un'intera sezione dedicata ad alloggio e hotel da consultare comodamente offline.
 
 ---
 
@@ -33,6 +34,8 @@ Assicurati di conoscere i termini esatti per descrivere cosa ti serve o cosa non
 * **Safe**: Cassaforte.
 * **Plug / Socket / Outlet**: Presa di corrente.
 
+---
+
 ## 🛎️ 2. Frasi Pronte per Check-in e Check-out
 Usa queste frasi per sbrigare le pratiche velocemente alla reception.
 
@@ -47,12 +50,9 @@ Usa queste frasi per sbrigare le pratiche velocemente alla reception.
 6. **"Could we have a late check-out?"** ➔ Potremmo fare il check-out posticipato?
 7. **"Can we leave our luggage here until this afternoon?"** ➔ Possiamo lasciare i bagagli qui fino a questo pomeriggio?
 
-{% include bridge-box.html 
-   title="Ansia da Reception?" 
-   text="Se davanti al receptionist che parla velocemente tendi ad annuire dicendo 'Yes, yes' senza aver capito nulla, sei vittima del blocco linguistico. Imparare frasi a memoria non basta. Devi abituare l'orecchio ascoltando attori madrelingua in scenari verosimili." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il tuo orecchio con Babbel ➔" 
-%}
+{% include bridge-box.html title="Ansia da Reception?" text="Se davanti al receptionist che parla velocemente tendi ad annuire dicendo 'Yes, yes' senza aver capito nulla, sei vittima del blocco linguistico. Imparare frasi a memoria non basta. Devi abituare l'orecchio ascoltando attori madrelingua in scenari verosimili." link_url="/recensione-babbel/" link_text="Allena il tuo orecchio con Babbel ➔" %}
+
+---
 
 ## 🛠️ 3. Gestione Problemi (Come lamentarsi educatamente)
 Se qualcosa non va nella stanza, devi farti valere in modo assertivo. Usa sempre *"Excuse me"* o *"I'm afraid"*.
@@ -62,6 +62,8 @@ Se qualcosa non va nella stanza, devi farti valere in modo assertivo. Usa sempre
 10. **"My keycard isn't working."** ➔ La mia chiave magnetica non funziona.
 11. **"Could we get some extra towels and toilet paper, please?"** ➔ Potremmo avere asciugamani in più e carta igienica?
 12. **"There’s a lot of noise coming from the room next door."** ➔ C'è molto rumore dalla stanza a fianco.
+
+---
 
 ## 🎭 4. I Dialoghi Reali (Scenari alla Reception)
 Sentire le frasi nel loro contesto naturale è fondamentale per non farsi cogliere alla sprovvista.
@@ -91,12 +93,7 @@ L'hotel è la tua base sicura. Essere in grado di fare una richiesta extra o ris
 
 Ma leggere un copione non è come recitarlo. Per sentirti sicuro, devi allenare i muscoli della tua bocca.
 
-{% include bridge-box.html 
-   title="Simula la Reception prima di partire" 
-   text="Non limitarti a leggere. I corsi interattivi dedicati ai viaggi di Babbel simulano veri dialoghi in hotel. La funzione di riconoscimento vocale ti corregge in tempo reale per garantirti una pronuncia chiara e sicura." 
-   link_url="/recensione-babbel/" 
-   link_text="Inizia i dialoghi in hotel su Babbel ➔" 
-%}
+{% include bridge-box.html title="Simula la Reception prima di partire" text="Non limitarti a leggere. I corsi interattivi dedicati ai viaggi di Babbel simulano veri dialoghi in hotel. La funzione di riconoscimento vocale ti corregge in tempo reale per garantirti una pronuncia chiara e sicura." link_url="/recensione-babbel/" link_text="Inizia i dialoghi in hotel su Babbel ➔" %}
 
 ---
 
