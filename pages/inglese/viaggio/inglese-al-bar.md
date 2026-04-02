@@ -14,7 +14,8 @@ Il rumore di fondo, la musica alta e la velocità del barista (*"What can I get 
 
 Per aiutarti a sopravvivere alla tua prossima serata fuori, abbiamo creato la guida definitiva per ordinare da bere, pagare e persino socializzare in inglese.
 
-*Questa risorsa è un approfondimento del nostro Hub **[Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**.*
+> **🍻 Non farti trovare impreparato al bancone!**
+> Prima di tuffarti nella mischia del pub, **scarica il nostro [Kit 30 Frasi Inglese per Viaggiare](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** da tenere comodamente salvato sul telefono. Contiene tutte le espressioni di sopravvivenza per mangiare e bere all'estero, consultabili in un tocco.
 
 ---
 
@@ -34,6 +35,8 @@ Per aiutarti a sopravvivere alla tua prossima serata fuori, abbiamo creato la gu
 * **Mixer**: La bevanda analcolica usata per allungare il drink (es. cola).
 * **Tab**: Il conto aperto al bar (molto comune negli USA).
 
+---
+
 ## 🗣️ 2. Le Frasi Pronte (Il tuo Copia-Incolla)
 Ricorda la regola d'oro: non dire **mai** *"I want a beer"*. Risulta aggressivo. Usa sempre *"I'll have"* o *"Can I get"*.
 
@@ -49,12 +52,9 @@ Ricorda la regola d'oro: non dire **mai** *"I want a beer"*. Risulta aggressivo.
 7. **"Can I try a sample of the IPA?"** ➔ Posso assaggiarne un goccio? (Nei pub veri, ti daranno un mini-sorso gratis per farti decidere).
 8. **"Could you recommend a sweet cocktail?"** ➔ Potresti consigliarmi un cocktail dolce?
 
-{% include bridge-box.html 
-   title="Non farti paralizzare dal rumore" 
-   text="Capire l'inglese in un bar affollato è impossibile se hai studiato solo la grammatica sui libri. Il tuo orecchio non è abituato al ritmo reale e agli accenti locali. Per non fare scena muta, devi allenarti ascoltando veri dialoghi registrati da madrelingua, non voci sintetiche." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il tuo orecchio al vero inglese con Babbel ➔" 
-%}
+{% include bridge-box.html title="Non farti paralizzare dal rumore" text="Capire l'inglese in un bar affollato è impossibile se hai studiato solo la grammatica sui libri. Il tuo orecchio non è abituato al ritmo reale e agli accenti locali. Per non fare scena muta, devi allenarti ascoltando veri dialoghi registrati da madrelingua, non voci sintetiche." link_url="/recensione-babbel/" link_text="Allena il tuo orecchio al vero inglese con Babbel ➔" %}
+
+---
 
 ## 💳 3. Come Pagare ("Tabs" e "Rounds")
 
@@ -69,6 +69,8 @@ Nei pub britannici si ordina al bancone. Se sei in gruppo, si fanno i "rounds" (
 * **"It’s my round."** ➔ È il mio giro (pago io).
 * **"Whose round is it?"** ➔ A chi tocca pagare questo giro?
 * **"What are you having?"** ➔ Cosa prendete? 
+
+---
 
 ## 🎭 4. I Dialoghi Reali (Al Bancone)
 
@@ -96,9 +98,9 @@ Nei pub britannici si ordina al bancone. Se sei in gruppo, si fanno i "rounds" (
 ## Conclusione: Preparati prima di entrare
 Non lasciare che l'ansia rovini la tua serata. La differenza tra restare in un angolo a sorseggiare la tua birra in silenzio e scambiare due chiacchiere con i locali è solo la pratica orale.
 
-{% include bridge-box.html 
-   title="Allenati alle conversazioni informali" 
-   text="Vuoi sentirti sicuro quando ordini e fai small talk? Babbel offre dialoghi interattivi basati su situazioni sociali reali. La funzione di riconoscimento vocale ascolta e corregge la tua pronuncia in tempo reale." 
-   link_url="/recensione-babbel/" 
-   link_text="Preparati alla tua serata fuori con Babbel ➔" 
-%}
+{% include bridge-box.html title="Allenati alle conversazioni informali" text="Vuoi sentirti sicuro quando ordini e fai small talk? Babbel offre dialoghi interattivi basati su situazioni sociali reali. La funzione di riconoscimento vocale ascolta e corregge la tua pronuncia in tempo reale." link_url="/recensione-babbel/" link_text="Preparati alla tua serata fuori con Babbel ➔" %}
+
+---
+
+### 🎯 Qual è il prossimo passo?
+* 💬 **Fai nuove amicizie:** Ora che hai il tuo drink, è il momento di attaccare bottone. Scopri come fare small talk e gestire una conversazione senza stress nella nostra guida su **[Inglese Social e Dating in Viaggio]({{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }})**.
