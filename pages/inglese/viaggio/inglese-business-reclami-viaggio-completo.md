@@ -14,7 +14,8 @@ Quando viaggiamo per lavoro (o quando subiamo un disservizio grave in vacanza), 
 
 Se vuoi ottenere un rimborso o farti cambiare stanza, devi imparare l'arte dell'**assertività educata**. 
 
-*Questa risorsa è il punto d'incontro tra il nostro Hub **[Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})** e il nostro Hub dedicato al **[Business English]({{ '/inglese/business/' | relative_url }})**.*
+> **💼 Imprevisto in trasferta? Tieni le frasi pronte.**
+> Prima di affrontare un disservizio o un ritardo, mettiti al sicuro: **scarica il nostro [Kit 30 Frasi Inglese per Viaggiare](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** da tenere sul telefono. Contiene una sezione dedicata alle emergenze e alle richieste formali, pronta all'uso.
 
 ---
 
@@ -27,6 +28,8 @@ Per contestare un addebito, usa i termini esatti.
 * **Refund / Compensation**: Rimborso / Risarcimento.
 * **Overbooked / Delayed**: In overbooking / In ritardo.
 * **To reschedule**: Riprogrammare (un volo o un meeting).
+
+---
 
 ## 🛑 2. L'Arte del Reclamo (Come farsi rispettare)
 Il segreto dell'inglese professionale è usare un linguaggio indiretto. Evita frasi come *"You made a mistake"* (Hai sbagliato). Usa la forma impersonale: *"There seems to be a mistake"*.
@@ -41,12 +44,9 @@ Il segreto dell'inglese professionale è usare un linguaggio indiretto. Evita fr
 5. **"What can you do to compensate for this inconvenience?"** ➔ Cosa potete fare per risarcirmi di questo disagio?
 6. **"I’d like to request a full refund."** ➔ Vorrei richiedere un rimborso totale.
 
-{% include bridge-box.html 
-   title="Sindrome dell'Impostore al Lavoro?" 
-   text="La paura di sembrare poco professionali frena la carriera di tantissimi adulti. Se prima di gestire un problema in inglese ti sudano le mani, non è colpa della grammatica, ma di un blocco psicologico legato al parlato. Scopri come risolverlo per sempre." 
-   link_url="/metodo/capisco-ma-non-parlo/" 
-   link_text="Sconfiggi l'ansia da prestazione in inglese ➔" 
-%}
+{% include bridge-box.html title="Sindrome dell'Impostore al Lavoro?" text="La paura di sembrare poco professionali frena la carriera di tantissimi adulti. Se prima di gestire un problema in inglese ti sudano le mani, non è colpa della grammatica, ma di un blocco psicologico legato al parlato. Scopri come risolverlo per sempre." link_url="/metodo/capisco-ma-non-parlo/" link_text="Sconfiggi l'ansia da prestazione in inglese ➔" %}
+
+---
 
 ## 🎭 3. I Dialoghi Reali (Scenari di Emergenza Business)
 Leggere le frasi non basta: devi essere pronto al botta e risposta sotto pressione.
@@ -71,16 +71,10 @@ Leggere le frasi non basta: devi essere pronto al botta e risposta sotto pressio
 ## Conclusione: L'autorevolezza passa dalla voce
 Gestire i problemi in inglese richiede prontezza. Se cerchi di tradurre dall'italiano nel momento stesso in cui sei frustrato, il tuo cervello andrà in tilt. Non basta sapere cosa dire, devi **sapere *come* dirlo** (intonazione e ritmo). 
 
-{% include bridge-box.html 
-   title="Diventa un professionista dell'inglese" 
-   text="Non farti cogliere impreparato al prossimo imprevisto in trasferta. I corsi Business di Babbel offrono scenari reali per allenare la tua pronuncia sotto stress. Impara l'inglese per i reclami, le riunioni e le trattative commerciali in soli 15 minuti al giorno." 
-   link_url="/recensione-babbel/" 
-   link_text="Scopri i pacchetti Business di Babbel ➔" 
-%}
+{% include bridge-box.html title="Diventa un professionista dell'inglese" text="Non farti cogliere impreparato al prossimo imprevisto in trasferta. I corsi Business di Babbel offrono scenari reali per allenare la tua pronuncia sotto stress. Impara l'inglese per i reclami, le riunioni e le trattative commerciali in soli 15 minuti al giorno." link_url="/recensione-babbel/" link_text="Scopri i pacchetti Business di Babbel ➔" %}
 
 ---
 
 ### 🎯 Qual è il prossimo passo?
-* 💼 **Lavori spesso all'estero?** Allora devi padroneggiare le formule di cortesia per email e call. Vai al nostro **[Hub Business English]({{ '/inglese/business/' | relative_url }})**.
-* 🏨 **Gestisci l'Albergo:** Prima del check-out, assicurati di aver compreso tutte le regole. Leggi la guida: **[Inglese in Hotel: La Guida Completa]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**.
-* 
+* 💼 **Lavori spesso all'estero?** Allora devi padroneggiare la comunicazione scritta e orale con clienti e colleghi. Esplora il nostro **[Hub Business English]({{ '/inglese/business/' | relative_url }})**.
+* 🏨 **Gestisci l'Albergo:** Prima del check-out, assicurati di aver compreso tutte le regole di base e i servizi. Leggi la guida: **[Inglese in Hotel: La Guida Completa]({{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }})**.
