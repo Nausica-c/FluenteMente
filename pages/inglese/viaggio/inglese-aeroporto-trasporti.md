@@ -14,7 +14,8 @@ Una volta atterrato, la sfida logistica continua: come si compra il biglietto de
 
 Per evitare di vagare per ore trascinando un trolley pesantissimo, abbiamo creato la guida definitiva alla logistica e agli spostamenti in inglese. 
 
-*Questa risorsa fa parte del nostro Hub principale **[Inglese per Viaggiare: La Guida Definitiva]({{ '/inglese/viaggio/' | relative_url }})**.*
+> **🛫 Hai fretta e ti imbarchi a breve?**
+> Se non hai tempo di leggere tutta la guida, **scarica il nostro [Kit 30 Frasi Salva-Vita in Inglese](/inglese/viaggio/kit-30-frasi-inglese-viaggio/)** direttamente sul tuo telefono. Troverai un'intera sezione dedicata all'aeroporto e ai mezzi pubblici, consultabile anche offline durante il volo.
 
 ---
 
@@ -57,12 +58,7 @@ Che tu scelga il treno, il bus o il taxi, ecco cosa dire per arrivare in hotel s
 13. **"How much will it cost, roughly?"** ➔ Quanto costerà, all'incirca?
 14. **"You can drop me off right here, thank you."** ➔ Può lasciarmi proprio qui, grazie.
 
-{% include bridge-box.html 
-   title="L'incubo degli annunci all'altoparlante" 
-   text="Memorizzare queste frasi è inutile se vai nel panico quando l'altoparlante annuncia un cambio di gate o il tassista ti risponde con uno slang veloce. Il tuo orecchio deve essere abituato all'inglese reale. I corsi di Babbel usano solo voci di madrelingua (non robot) proprio per prepararti a capire chi ti parla velocemente." 
-   link_url="/recensione-babbel/" 
-   link_text="Allena il tuo ascolto con Babbel ➔" 
-%}
+{% include bridge-box.html title="L'incubo degli annunci all'altoparlante" text="Memorizzare queste frasi è inutile se vai nel panico quando l'altoparlante annuncia un cambio di gate o il tassista ti risponde con uno slang veloce. Il tuo orecchio deve essere abituato all'inglese reale. I corsi di Babbel usano solo voci di madrelingua (non robot) proprio per prepararti a capire chi ti parla velocemente." link_url="/recensione-babbel/" link_text="Allena il tuo ascolto con Babbel ➔" %}
 
 ## 🗺️ 3. Chiedere (e Capire!) Indicazioni
 Il vero problema del "chiedere indicazioni" in inglese non è formulare la domanda. È **capire la risposta**. 
@@ -115,12 +111,7 @@ Conoscere le parole giuste per orientarti ti fa risparmiare tempo prezioso e, sp
 
 Se vuoi essere sicuro di padroneggiare queste conversazioni fin dal momento in cui atterri, devi passare all'allenamento attivo della bocca e dell'orecchio.
 
-{% include bridge-box.html 
-   title="Allenati prima di decollare" 
-   text="Non farti paralizzare dall'ansia davanti allo sportello dei biglietti. Il modulo 'Viaggi' di Babbel ti permette di simulare dialoghi in aeroporto e in stazione, facendoti esercitare a parlare nel microfono del tuo telefono." 
-   link_url="/recensione-babbel/" 
-   link_text="Inizia a prepararti in modo pratico con Babbel ➔" 
-%}
+{% include bridge-box.html title="Allenati prima di decollare" text="Non farti paralizzare dall'ansia davanti allo sportello dei biglietti. Il modulo 'Viaggi' di Babbel ti permette di simulare dialoghi in aeroporto e in stazione, facendoti esercitare a parlare nel microfono del tuo telefono." link_url="/recensione-babbel/" link_text="Inizia a prepararti in modo pratico con Babbel ➔" %}
 
 ---
 
