@@ -4,9 +4,8 @@ title: "Come Preparare l'Inglese per un Viaggio in 7 Giorni (Senza Panico)"
 date: 2026-03-28
 description: "Il piano definitivo per preparare il tuo inglese prima di un viaggio in soli 7 giorni. Routine, frasi chiave e consigli per gestire l'estero con sicurezza."
 permalink: /inglese/viaggio/come-preparare-viaggio-7-giorni/
+tldr: "Se il tuo volo decolla tra una settimana, non puoi diventare bilingue, ma puoi diventare un viaggiatore preparato. Smetti di ripassare la grammatica. Segui questo piano di 15 minuti al giorno focalizzato sulle uniche 4 situazioni reali che vivrai non appena atterrato."
 ---
-
-**TL;DR:** Se il tuo volo decolla tra una settimana, non puoi diventare bilingue, ma puoi diventare un viaggiatore preparato. Smetti di ripassare la grammatica. Segui questo piano di 15 minuti al giorno focalizzato sulle uniche 4 situazioni reali che vivrai non appena atterrato.
 
 Sei a -7 giorni dal volo e senti quella familiare morsa allo stomaco: *"E se non capisco niente? E se mi blocco davanti al receptionist?"*.
 
