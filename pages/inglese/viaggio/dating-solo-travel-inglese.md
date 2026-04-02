@@ -5,12 +5,11 @@ date: 2026-03-29
 subtitle: "Dal primo 'Ciao' all'appuntamento galante: le frasi naturali per fare amicizia, flirtare e gestire lo small talk all'estero."
 description: "Guida pratica per socializzare in inglese. Scopri come rompere il ghiaccio in ostello, le frasi per il dating, le reaction words e come chiudere una conversazione."
 permalink: /inglese/viaggio/dating-solo-travel-inglese/
+tldr: "Ordinare una birra è facile, ma cosa dici alla persona accanto a te? Questa guida ti insegna l'inglese sociale che non trovi sui libri: come iniziare una conversazione senza sembrare strano, come mantenerla viva con le 'reaction words' e come flirtare in modo naturale."
 redirect_from:
   - /inglese/frasi/frasi-romantiche-inglese/
   - /inglese/curiosita/slang-internet-inglese/
 ---
-
-**TL;DR:** Ordinare una birra è facile, ma cosa dici alla persona accanto a te? Questa guida ti insegna l'inglese sociale che non trovi sui libri: come iniziare una conversazione senza sembrare strano, come mantenerla viva con le "reaction words" e come flirtare in modo naturale.
 
 Ordinare al ristorante richiede un inglese "meccanico": fai una domanda, ottieni un servizio. Ma cosa succede quando sei in un ostello, a un evento di networking o al bancone di un bar e vuoi **scambiare due chiacchiere** con la persona accanto a te?
 
@@ -52,12 +51,7 @@ Per non far morire la conversazione devi usare la tecnica del "rimbalzo" e le **
 * **"That makes sense."** → Ha senso / Capisco.
 * **"I know, right?"** → Vero? / Assolutamente!
 
-{% include bridge-box.html 
-title="Smetti di tradurre nella tua testa" 
-text="Se durante una conversazione sociale ti blocchi perché stai cercando di tradurre dall'italiano, perdi il ritmo e si creano silenzi imbarazzanti. Per smettere di tradurre a mente, devi allenare la tua risposta automatica ascoltando e ripetendo veri dialoghi madrelingua." 
-link_url="/recensione-babbel/" 
-link_text="Allena il parlato automatico con Babbel →" 
-%}
+{% include bridge-box.html title="Smetti di tradurre nella tua testa" text="Se durante una conversazione sociale ti blocchi perché stai cercando di tradurre dall'italiano, perdi il ritmo e si creano silenzi imbarazzanti. Per smettere di tradurre a mente, devi allenare la tua risposta automatica ascoltando e ripetendo veri dialoghi madrelingua." link_url="/recensione-babbel/" link_text="Allena il parlato automatico con Babbel →" %}
 
 ---
 
@@ -89,12 +83,7 @@ Se devi andare via o la conversazione è finita, usa queste formule per non semb
 
 Nello small talk non c'è tempo per pensare alla grammatica. Se vuoi davvero goderti la vita sociale all'estero, devi allenare la tua prontezza di riflessi.
 
-{% include bridge-box.html 
-title="Sconfiggi l'ansia da conversazione" 
-text="Non lasciare che la paura di fare errori ti isoli in viaggio. Babbel offre moduli dedicati allo 'Small Talk' e alla socializzazione, con dialoghi interattivi che allenano il tuo orecchio al parlato veloce." 
-link_url="/recensione-babbel/" 
-link_text="Allenati allo Small Talk con Babbel →" 
-%}
+{% include bridge-box.html title="Sconfiggi l'ansia da conversazione" text="Non lasciare che la paura di fare errori ti isoli in viaggio. Babbel offre moduli dedicati allo 'Small Talk' e alla socializzazione, con dialoghi interattivi che allenano il tuo orecchio al parlato veloce." link_url="/recensione-babbel/" link_text="Allenati allo Small Talk con Babbel →" %}
 
 ### Qual è il prossimo passo?
 
