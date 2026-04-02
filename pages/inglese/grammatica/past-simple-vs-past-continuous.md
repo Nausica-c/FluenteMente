@@ -83,18 +83,15 @@ In inglese:
 
 ---
 
-## Esercizio rapido: Mettiti alla prova
+---
+{% include promo-box.html %}
 
-Prova a completare mentalmente queste frasi:
+---
 
-1.  I \_\_\_\_\_\_\_\_ (walk) in the park when it \_\_\_\_\_\_\_\_ (start) to rain.
-2.  While she \_\_\_\_\_\_\_\_ (cook), her husband \_\_\_\_\_\_\_\_ (watch) TV.
-3.  I \_\_\_\_\_\_\_\_ (see) an old friend while I \_\_\_\_\_\_\_\_ (wait) for the bus.
+## 🚀 Vuoi approfondire il passato?
+Per dominare davvero i racconti, non fermarti qui. La grammatica inglese è un puzzle: ora che hai incastrato il pezzo del Past Continuous, guarda come si collega agli altri tempi.
 
-*(Risposte: 1. was walking / started - 2. was cooking / was watching - 3. saw / was waiting)*
-
-### Vuoi approfondire il passato?
 * 👉 **[Past Simple vs Present Perfect: Il duello finale]({{ '/inglese/grammatica/present-perfect-vs-past-simple/' | relative_url }})**
 * 👉 **[10 Errori di grammatica che gli italiani fanno sempre]({{ '/inglese/errori/errori-comuni-italiani-inglese/' | relative_url }})**
 * 👉 **[Tutti i tempi verbali in un'unica mappa]({{ '/inglese/grammatica/tempi-verbali-inglese/' | relative_url }})**
-* 
+
