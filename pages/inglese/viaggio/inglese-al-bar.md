@@ -5,6 +5,8 @@ date: 2026-03-29
 subtitle: "Dalla pinta di birra al cocktail sofisticato: come ordinare, aprire un conto e socializzare al bancone senza fare scena muta."
 description: "Guida pratica per ordinare al bar in inglese. Scopri il vocabolario del pub, le frasi salvavita, come gestire un 'tab' e dialoghi reali con il barista."
 permalink: /inglese/viaggio/inglese-al-bar/
+redirec_from:
+ - /inglese/da-zero/ordinare-al-bar-inglese/
 tldr: "Ordinare al pub è una sfida: c'è rumore, il barista è veloce e lo slang abbonda. Questa guida unisce il vocabolario essenziale, le frasi copia-incolla per le ordinazioni e gli scenari reali (dal cocktail allo small talk). Salvala prima della tua serata all'estero."
 ---
 
