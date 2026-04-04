@@ -5,6 +5,8 @@ date: 2026-03-29
 subtitle: "Dalla farmacia al pronto soccorso: come spiegare i sintomi, chiedere medicine e chiamare aiuto in inglese quando conta davvero."
 description: "Guida di sopravvivenza in inglese per emergenze mediche. Vocabolario dei sintomi, frasi per la farmacia, come chiamare il 911/999 e dialoghi reali."
 permalink: /inglese/viaggio/emergenze-salute-inglese/
+redirect_from:
+  - /inglese/viaggio/social-emergenze-inglese/
 tldr: "Nessuno vuole pensare alle emergenze in viaggio, ma farsi capire in farmacia o dal medico è vitale. Abbiamo unito il vocabolario dei sintomi, le frasi per spiegare cosa fa male, le richieste in farmacia e i dialoghi per chiamare i soccorsi in un'unica guida definitiva. Salvala offline: speriamo non ti serva mai, ma è meglio averla a portata di mano."
 ---
 
