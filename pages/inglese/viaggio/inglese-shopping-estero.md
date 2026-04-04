@@ -5,6 +5,8 @@ date: 2026-04-03
 subtitle: "Dai camerini alla cassa: le frasi esatte per chiedere una taglia diversa, capire gli sconti e gestire un reso senza stress."
 description: "Guida pratica per fare shopping in inglese. Impara il vocabolario per i vestiti, come chiedere le taglie, gestire pagamenti e resi nei negozi all'estero."
 permalink: /inglese/viaggio/inglese-shopping-estero/
+qredirect_from:
+  - /inglese/viaggio/shopping-budget-inglese/
 tldr: "Fare acquisti all'estero dovrebbe essere divertente, ma non sapere come chiedere una taglia diversa o capire la politica dei resi può creare molto disagio. In questa guida trovi tutto il vocabolario e i dialoghi necessari per muoverti tra camerini, commessi e casse con assoluta sicurezza."
 ---
 
