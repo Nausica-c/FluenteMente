@@ -16,7 +16,7 @@ Da adulti, **l'inglese in viaggio non è un esame scolastico, è uno strumento d
 In questo hub trovi tutto ciò che ti serve per smettere di gesticolare e iniziare a goderti le vacanze.
 
 > **🎒 Hai poco tempo? Scarica il riassunto tascabile!**
-> Per chi vuole avere la soluzione subito in tasca, abbiamo riassunto le espressioni fondamentali nel nostro **[Kit 30 Frasi Salva-Vita per Viaggiare](../inglese/viaggio/kit-30-frasi-inglese-viaggio/)**. Salvalo sul telefono: copre aeroporto, hotel, ristorante ed emergenze in un'unica pagina pronta all'uso.
+> Per chi vuole avere la soluzione subito in tasca, abbiamo riassunto le espressioni fondamentali nel nostro **[Kit 30 Frasi Salva-Vita per Viaggiare]({{ '/inglese/viaggio/kit-30-frasi-inglese-viaggio/' | relative_url }})**. Salvalo sul telefono: copre aeroporto, hotel, ristorante ed emergenze in un'unica pagina pronta all'uso.
 
 {% include trust-brand.html %}
 
