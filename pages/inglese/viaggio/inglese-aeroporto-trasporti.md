@@ -5,6 +5,8 @@ date: 2026-03-29
 subtitle: "Dal check-in al taxi: come superare i controlli, chiedere indicazioni stradali e usare i mezzi pubblici all'estero senza perderti."
 description: "La guida completa agli spostamenti in inglese. Vocabolario per l'aeroporto, frasi per treni e bus, come chiedere indicazioni e dialoghi reali."
 permalink: /inglese/viaggio/inglese-aeroporto-trasporti/
+redirect_from:
+  - /inglese/viaggio/aeroporto-senza-stress/
 tldr: "L'aeroporto e le stazioni sono i luoghi più stressanti del viaggio: c'è fretta, rumore e annunci incomprensibili all'altoparlante. Questa guida unisce tutto ciò che ti serve per la logistica: il vocabolario per superare i controlli, le frasi per comprare biglietti, i trucchi per chiedere indicazioni stradali e i dialoghi reali. Salvala per il tuo prossimo scalo."
 ---
 
