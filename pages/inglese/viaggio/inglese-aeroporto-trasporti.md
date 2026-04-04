@@ -7,6 +7,7 @@ description: "La guida completa agli spostamenti in inglese. Vocabolario per l'a
 permalink: /inglese/viaggio/inglese-aeroporto-trasporti/
 redirect_from:
   - /inglese/viaggio/aeroporto-senza-stress/
+  - /inglese/viaggio/chiedere-indicazioni-inglese/
 tldr: "L'aeroporto e le stazioni sono i luoghi più stressanti del viaggio: c'è fretta, rumore e annunci incomprensibili all'altoparlante. Questa guida unisce tutto ciò che ti serve per la logistica: il vocabolario per superare i controlli, le frasi per comprare biglietti, i trucchi per chiedere indicazioni stradali e i dialoghi reali. Salvala per il tuo prossimo scalo."
 ---
 
