@@ -8,7 +8,7 @@ author: Redazione FluenteMente
 category: [inglese, viaggio]
 tags: [frasi utili, inglese per viaggiare, kit sopravvivenza, babbel]
 image: /assets/images/posts/kit-frasi-viaggio-inglese.jpg
-permalink: /inglese/viaggio/kit-30-frasi-inglese-viaggio
+permalink: /inglese/viaggio/kit-30-frasi-inglese-viaggio/
 featured: true
 priority: alta
 ---
