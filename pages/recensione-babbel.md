@@ -46,7 +46,6 @@ C'è molta confusione su cosa offrano davvero le app per le lingue. Spazziamo vi
 * **Non è un corso accademico:** La grammatica è ridotta al minimo indispensabile per farti usare la lingua sùbito, senza noiose lezioni teoriche.
 * **È un percorso guidato per adulti:** Prende scenari di vita reale (presentarsi a lavoro, ordinare al ristorante, fare il check-in) e ti fa ascoltare, leggere e pronunciare frasi utili dal primo giorno.
 
-{% include section-in-breve.html %}
 
 ---
 
