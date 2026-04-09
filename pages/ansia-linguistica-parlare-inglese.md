@@ -12,7 +12,6 @@ Se ti riconosci in questa situazione, sappi che non sei "negato per le lingue". 
 
 Non è un problema di intelligenza o di memoria. È il tuo cervello che entra in modalità "attacco o fuga" perché percepisce una minaccia: la paura di fallire o di essere giudicato.
 
-{% include affiliate-disclosure.html %}
 
 {% include trust-brand.html %}
 
