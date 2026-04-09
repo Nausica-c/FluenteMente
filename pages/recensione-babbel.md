@@ -13,9 +13,6 @@ Babbel è il primo nome che viene in mente a tutti. Ma il punto non è se l'app 
 
 Questa non è una brochure pubblicitaria. È una valutazione lucida e pragmatica dei vantaggi e dei limiti reali della piattaforma. Vedremo esattamente cosa compri, cosa *non* compri, quanto costa e in quali casi vale davvero la pena investire.
 
-{% include affiliate-disclosure.html %}
-
-{% include tldr-box.html %}
 
 {% include trust-brand.html %}
 
