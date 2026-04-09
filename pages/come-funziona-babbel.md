@@ -7,185 +7,150 @@ permalink: /come-funziona-babbel/
 categories: [inglese, recensioni, metodo]
 ---
 
-Se cerchi di capire come funziona Babbel, la maggior parte degli articoli online si limita a farti l'elenco delle funzioni. Ti spiegano il software, ma non ti dicono assolutamente nulla su come quest'app cambierà (o non cambierà) la tua giornata.
+Se stai cercando di capire come funziona Babbel, la maggior parte degli articoli online si limiterà a farti un elenco delle funzioni del software. Ti spiegheranno l'interfaccia, ma non ti diranno nulla su come quest'app si inserirà nella tua giornata.
 
-A un adulto con pochissimo tempo libero non interessa la scheda tecnica. Interessa rispondere a domande molto più urgenti: **se pago e scarico questa applicazione, cosa mi chiederà di fare in concreto? Come si incastrerà nella mia routine? E soprattutto, questo modo di studiare è compatibile con il mio obiettivo?**
+A un adulto con pochissimo tempo libero, però, la scheda tecnica non serve. Quello che ti interessa davvero è rispondere a domande molto più urgenti: se decido di usare questa applicazione, cosa mi chiederà di fare in concreto? Come sarà strutturata la mia routine? E soprattutto, questo modo di studiare è compatibile con i miei limiti di tempo e con il mio obiettivo?
 
-In questa pagina non troverai la solita lista di feature. Tradurremo le funzioni dell'app in conseguenze pratiche. L'obiettivo è aiutarti a decidere, con la tua testa e senza farti condizionare dal marketing, se il metodo Babbel è lo strumento giusto per sbloccare il tuo inglese.
+In questa guida non troverai la solita lista di feature. Abbiamo tradotto le funzioni dell'app in conseguenze pratiche, esplorando l'onboarding, la struttura delle lezioni e il sistema di ripasso. L'obiettivo è fornirti tutti gli elementi per decidere, in modo lucido e autonomo, se il metodo Babbel è lo strumento giusto per sbloccare il tuo inglese.
 
 {% include tldr-box.html %}
 
 {% include trust-brand.html %}
 
----
+## In breve: come funziona il metodo Babbel
 
-## In breve: come funziona Babbel davvero
+Babbel è un percorso di studio strutturato, frammentato in micro-sessioni. Invece di importi regole di grammatica astratte da imparare a memoria, ti immerge fin dal primo giorno in brevi dialoghi legati a situazioni reali, come il lavoro, i viaggi o gli imprevisti. Il sistema ti guida facendoti ascoltare, leggere e ripetere ad alta voce per 10 o 15 minuti al giorno. 
 
-Babbel è un percorso di studio strutturato, frammentato in micro-sessioni. Invece di darti regole di grammatica astratte da imparare a memoria, ti immerge fin dal primo giorno in brevi dialoghi legati a situazioni reali (lavoro, viaggi, imprevisti), facendoti ascoltare, leggere e ripetere ad alta voce per 10-15 minuti al giorno. 
-
-<div style="border: 1px solid #e0e0e0; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
-  <strong>⏳ In 30 secondi: Questo metodo fa per te?</strong>
-  <br><br>
-  <strong>👉 Sì, ha senso se:</strong>
-  <ul>
-    <li>Cerchi un percorso ordinato dove non devi scegliere tu cosa studiare ogni giorno.</li>
-    <li>Hai solo 15 minuti di tempo frammentato (in treno, in pausa pranzo, la sera).</li>
-    <li>Vuoi abituare la bocca a pronunciare l'inglese in privato, senza l'ansia del giudizio altrui.</li>
-  </ul>
-  <br>
-  <strong>👉 No, o non da sola, se:</strong>
-  <ul>
-    <li>Cerchi un tutor in carne ed ossa per fare conversazione libera e destrutturata.</li>
-    <li>Hai ore libere ogni giorno e preferisci un'immersione intensiva tradizionale.</li>
-    <li>Vuoi solo un passatempo leggero sotto forma di videogioco gratuito.</li>
-  </ul>
-</div>
+> **In 30 secondi: Questo metodo fa per te?**
+>
+> **Sì, ha senso se:**
+> * Cerchi un percorso ordinato in cui non devi scegliere tu cosa studiare ogni giorno.
+> * Hai solo 15 minuti di tempo frammentato, magari in treno, in pausa pranzo o la sera.
+> * Vuoi abituare la bocca a pronunciare l'inglese in privato, senza l'ansia del giudizio altrui.
+>
+> **No, o non da sola, se:**
+> * Cerchi un tutor in carne ed ossa per fare conversazione libera e destrutturata.
+> * Hai ore libere ogni giorno e preferisci un'immersione intensiva tradizionale.
+> * Vuoi solo un passatempo leggero sotto forma di videogioco gratuito.
 
 ---
 
-## Cos’è Babbel davvero e che tipo di esperienza offre
+## Cos’è Babbel e che tipo di esperienza offre
 
-Per capire se può esserti utile, devi prima avere chiaro che tipo di strumento hai davanti. Le delusioni nascono quasi sempre da aspettative sbagliate.
+Per valutare se l'app può esserti utile, devi prima inquadrare correttamente lo strumento. Le delusioni nascono quasi sempre da aspettative non allineate alla realtà del prodotto.
 
 ### Non è un videogioco
-Babbel usa la tecnologia per renderti lo studio fluido, ma non punta sulla *gamification* estrema. Non ci sono cuoricini che esplodono, vite da non perdere o classifiche globali ansiogene. L'esperienza è sobria, progettata per chi vuole concentrarsi senza distrazioni infantili.
+Babbel usa la tecnologia per rendere lo studio scorrevole, ma non punta sulla competizione ludica estrema. Non ci sono vite da non perdere o classifiche globali che generano ansia. L'esperienza è sobria, progettata per un adulto che vuole concentrarsi senza distrazioni visive infantili.
 
 ### Non è un corso in diretta
-Non ci sono insegnanti collegati in tempo reale (quello è un servizio a pagamento a parte, chiamato *Babbel Live*). L'app di base è un'esperienza in solitaria: il tuo unico interlocutore è il sistema di riconoscimento vocale.
+Non ci sono insegnanti collegati in tempo reale. Esiste un servizio a pagamento a parte per le videolezioni, ma l'app di base è un'esperienza in solitaria: il tuo unico interlocutore è il sistema intelligente di riconoscimento vocale.
 
 ### È un binario guidato per adulti
-Il vero valore di Babbel è prenderti per mano partendo dal tuo livello esatto. Ti toglie il fastidioso "attrito decisionale": non devi mai chiederti *"E oggi cosa ripasso?"*. L'app sa perfettamente dove ti eri fermato e quali vocaboli stai per dimenticare.
+Il vero valore di Babbel è prenderti per mano partendo dal tuo livello esatto. Il metodo elimina il fastidioso attrito decisionale: non dovrai mai chiederti cosa ripassare oggi. Il sistema sa perfettamente dove ti eri fermato, quali regole hai assimilato e quali vocaboli stai per dimenticare.
 
 ---
 
 {% include section-in-breve.html %}
 
-## Come funziona nella pratica, dal primo giorno
+## Come funziona nella pratica: dall'inizio alle lezioni quotidiane
 
-Cosa succede materialmente quando inizi a usarla? Ecco la tua routine reale, divisa in quattro step fondamentali.
+Cosa succede materialmente quando avvii l'app? Il percorso non ti abbandona alla navigazione casuale, ma segue una routine precisa in quattro fasi.
 
-### 1. Onboarding: livello e obiettivi
-Il primo giorno, l'app ti fa un sondaggio rapido. Ti chiede perché vuoi imparare l'inglese (lavoro, viaggi, cultura) e ti sottopone un test d'ingresso. Questo serve a evitarti la noia di ripartire da "Hello" se hai già un livello intermedio, inserendoti sùbito nel flusso di lezioni corretto.
+### 1. Onboarding e impostazione del livello
+Il primo giorno, l'app ti propone un sondaggio rapido. Ti chiede il motivo per cui vuoi imparare l'inglese e ti sottopone un test d'ingresso per valutare le tue competenze. Questo passaggio è fondamentale per evitarti la noia di ripartire dai saluti di base se possiedi già un livello intermedio, inserendoti da subito nel flusso di lezioni più adatto a te.
 
-### 2. Lezioni da 10-15 minuti
-Il cuore del sistema sono le lezioni brevi. Un modulo tipico introduce un piccolo gruppo di parole o una struttura (es. *come ordinare la cena al ristorante*), te le fa ascoltare da voci madrelingua, te le fa scrivere e infine ti chiede di completare un dialogo pratico. 
+### 2. Lezioni da 10-15 minuti e contesto pratico
+Il cuore del sistema sono le lezioni brevi. Un modulo tipico non inizia mai con una spiegazione teorica, ma introduce un piccolo gruppo di parole o una struttura all'interno di un contesto, come ordinare la cena al ristorante. Ti fa ascoltare le frasi da voci madrelingua, te le fa scrivere e infine ti chiede di completare un dialogo. La grammatica viene somministrata a piccole dosi, sotto forma di brevi suggerimenti, solo quando serve per capire la frase che stai componendo.
 
 ### 3. Speaking practice e dialoghi guidati
-L'app utilizza il microfono del tuo telefono. Ti viene chiesto di ripetere le frasi chiave ad alta voce. Il sistema valuta la tua pronuncia e, se è troppo imprecisa, ti fa riprovare. Non è solo un esercizio di ascolto: ti costringe ad articolare fisicamente i suoni inglesi.
+L'app utilizza il microfono del tuo telefono per farti fare pratica attiva. Ti viene richiesto di ripetere le frasi chiave ad alta voce. Il sistema valuta la tua pronuncia e ti fa riprovare se risulta imprecisa. Questo passaggio va oltre il semplice ascolto: ti costringe ad articolare fisicamente i suoni, aiutandoti a superare il blocco vocale.
 
-### 4. Review e ripasso (Ripetizione Spaziata)
-È il motore più prezioso dell'app. Il sistema registra le parole che hai sbagliato o su cui hai esitato e te le ripropone a intervalli calcolati (il giorno dopo, dopo una settimana, dopo un mese). Serve a trasferire i vocaboli dalla memoria a breve termine a quella a lungo termine, prima che il cervello li cancelli.
-
-| La funzione dell'app | A cosa ti serve davvero nella realtà |
-| :--- | :--- |
-| **Lezioni brevi (15 min)** | A non avere scuse. Si incastrano senza sforzo tra un impegno e l'altro. |
-| **Dialoghi guidati** | A imparare *frasi intere* già pronte, invece di singole parole inutilizzabili. |
-| **Riconoscimento vocale** | A sciogliere l'imbarazzo iniziale e allenare la memoria muscolare della bocca. |
-| **Sistema di Ripasso** | A evitare la frustrazione tipica dello studiare tanto per poi dimenticare tutto. |
+### 4. Il motore invisibile: la Ripetizione Spaziata
+La funzione più preziosa dell'app è la gestione del ripasso. Il sistema registra le parole che hai sbagliato o su cui hai esitato. Invece di fartele ripetere sùbito, te le ripropone a intervalli calcolati nel tempo, proprio un attimo prima che il tuo cervello le dimentichi. Puoi scegliere se ripassare scrivendo, ascoltando, parlando o usando le classiche flashcard. Questo processo trasferisce i vocaboli dalla memoria a breve termine a quella a lungo termine in modo strutturato.
 
 ---
 
 ## Cosa Babbel allena bene
 
-Se incastri Babbel nella tua quotidianità, noterai miglioramenti in aree molto specifiche, vitali per chi in passato ha studiato la lingua solo sui libri.
+Se riesci a incastrare l'app nella tua quotidianità, noterai miglioramenti in aree molto specifiche, che spesso sfuggono a chi in passato ha studiato la lingua solo sui manuali tradizionali.
 
-| Il Vantaggio del Metodo | Per chi fa davvero la differenza |
-| :--- | :--- |
-| **La frequenza quotidiana** | Per chi ha provato a studiare 3 ore la domenica per poi abbandonare tutto. Il metodo premia la costanza breve, non la maratona estenuante. |
-| **Il lessico situazionale** | Per chi conosce bene la grammatica, ma va in panico perché non trova i vocaboli per gestire un check-in in hotel o l'avvio di una call. |
-| **La confidenza iniziale** | Per chi ha il terrore di sbagliare in pubblico. Pronunciare frasi da soli, chiusi in una stanza, abbassa drasticamente l'ansia del giudizio. |
+* **La frequenza quotidiana:** Chi ha provato a studiare tre ore di fila la domenica finisce spesso per abbandonare per mesi. Il metodo Babbel premia la costanza breve, rendendo lo studio sostenibile anche per chi lavora a tempo pieno.
+* **Il lessico situazionale:** Molti adulti conoscono bene la grammatica, ma vanno in panico perché non trovano i vocaboli adatti per gestire un check-in in hotel o l'avvio di una call. L'app colma questa lacuna fornendo blocchi di parole contestualizzate.
+* **La confidenza iniziale:** Pronunciare frasi da soli, chiusi in una stanza e corretti da un software, abbassa drasticamente l'ansia del giudizio e ti prepara al confronto con persone reali.
 
 ---
 
-## Cosa Babbel allena meno bene (o non sostituisce)
+## I limiti del metodo: cosa non aspettarsi
 
-Per prendere una decisione adulta e lucida, devi sapere esattamente dove si fermano le potenzialità di questo strumento.
+Per prendere una decisione lucida, devi sapere esattamente dove si fermano le potenzialità di questo strumento. Nessuna applicazione può trasformarti in un oratore carismatico senza che tu faccia pratica nel mondo reale.
 
-<div style="background: #f8d7da; border-left: 4px solid #dc3545; padding: 15px; margin-bottom: 20px;">
-  <strong>⚠️ Non aspettarti questo da Babbel:</strong>
-  Non credere che un'applicazione possa trasformarti per magia in un oratore carismatico capace di fare battute spontanee in inglese. Babbel ti fornisce le fondamenta e i mattoni, ma l'edificio lo devi costruire tu uscendo nel mondo reale.
-</div>
-
-| Il Limite del Metodo | Cosa significa in pratica per te |
-| :--- | :--- |
-| **Nessuna conversazione libera** | L'app ti fa ripetere un copione esatto. Non ti allena a gestire le risposte imprevedibili di una persona vera. |
-| **Manca il feedback umano** | Il microfono ti dice se hai pronunciato bene le sillabe, ma non ti corregge l'intonazione emotiva o le sfumature culturali. |
-| **La motivazione è passiva** | Essendo un'app sobria, se non sei tu a inserire attivamente lo studio in una tua routine fissa, rischi di dimenticarti di aprirla. |
+* **Nessuna conversazione libera:** L'app ti fa ripetere un copione esatto. È un'ottima preparazione, ma non ti allena a gestire le risposte imprevedibili o i cambi di argomento di un madrelingua.
+* **Assenza di feedback umano:** Il microfono ti dice se hai pronunciato bene i suoni, ma non può correggere l'intonazione emotiva, la naturalezza del discorso o le sfumature culturali che solo un tutor può spiegare.
+* **Richiede costanza attiva:** Poiché non fa leva su meccanismi di dipendenza tipici dei videogiochi, l'app richiede che sia tu a inserirla volontariamente nella tua routine. Senza una tua iniziativa, rischi di dimenticarti di aprirla.
 
 ---
 
 {% include orient-box.html %}
 
-## Babbel per tipo di utente: per chi ha più senso davvero
+## Per quale tipo di utente ha più senso
 
-Il metodo Babbel non ha lo stesso impatto universale su tutti. Ecco come cambia la sua utilità in base al tuo punto di partenza.
+Il metodo Babbel si adatta in modo diverso in base al punto di partenza e all'obiettivo finale di chi lo usa. 
 
 ### Se parti da zero
-L'avanzamento a piccoli passi è l'ideale. Ti evita la paralisi da sovraccarico cognitivo e costruisce le basi senza darti mai l'impressione di studiare aride regole mnemoniche.
-👉 **[Scopri come impostare le basi: Inglese da Zero]({{ '/inglese/da-zero/' | relative_url }})**
+L'avanzamento a piccoli passi è l'ideale. Evita la paralisi da sovraccarico cognitivo e costruisce le basi senza darti mai l'impressione di studiare aride regole mnemoniche. Se sei in questa fase, [impostare le basi partendo da zero]({{ '/inglese/da-zero/' | relative_url }}) con un supporto guidato fa la differenza tra l'abbandono e il successo.
 
 ### Se capisci l'inglese ma non lo parli
-L'approccio basato sul riconoscimento vocale è esattamente ciò che ti serve per sbloccare la rigidità muscolare e trasformare l'inglese passivo (quello chiuso nella tua testa) in inglese attivo (quello sulla tua bocca).
-👉 **[Leggi la guida diagnostica: Capisco ma non parlo]({{ '/capisco-ma-non-parlo/' | relative_url }})**
+L'approccio basato sul riconoscimento vocale è esattamente ciò che serve per sbloccare la rigidità muscolare. Ti aiuta a trasformare l'inglese passivo, chiuso nella tua testa, in inglese attivo, pronto sulla tua bocca. È il passaggio cruciale per chi [capisce la lingua ma si blocca quando deve parlare]({{ '/capisco-ma-non-parlo/' | relative_url }}).
 
 ### Se ti serve per viaggiare
-Il metodo calza a pennello. L'app offre interi moduli pensati appositamente per darti le formule esatte per orientarti in città, capire i prezzi e gestire gli imprevisti in aeroporto.
-👉 **[Scopri gli scenari essenziali: Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**
+In questo caso, il metodo calza a pennello. L'app offre interi moduli pensati appositamente per darti le formule esatte per orientarti in città, capire i prezzi e gestire gli imprevisti in aeroporto, argomenti centrali se ti serve l'[inglese per viaggiare senza stress]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}).
 
 ### Se ti serve per lavoro
-Il funzionamento a dialoghi è utilissimo per le situazioni professionali standard (iniziare un meeting, scrivere un'email, presentarsi). Non sarà sufficiente, invece, se il tuo unico obiettivo è negoziare contratti complessi ad alti livelli dirigenziali.
-👉 **[Leggi la guida pratica: Business English per adulti]({{ '/inglese/business/' | relative_url }})**
+Il funzionamento a dialoghi è utilissimo per le situazioni professionali standard, come iniziare un meeting, scrivere un'email formale o presentarsi ai colleghi. Non sarà invece sufficiente se il tuo unico obiettivo è [migliorare il Business English]({{ '/inglese/business/' | relative_url }}) per negoziare contratti complessi ad alti livelli dirigenziali.
 
 ---
 
-## Com’è la routine reale con Babbel
+## Com’è una vera routine di studio per adulti
 
-Non fare l'errore classico di pensare: *"Se lo uso due ore al giorno, faccio prima"*. Il cervello di un adulto non assimila nozioni in questo modo. Ecco una prospettiva di routine realistica:
+Il cervello di un adulto non assimila le lingue attraverso sessioni estenuanti e irregolari. La forza di questo metodo sta nella ripetizione. Se lavori tutto il giorno, la strategia migliore è incastrare l'app in un'abitudine che già possiedi, come il viaggio da pendolare o i dieci minuti prima di dormire, in modo che diventi un gesto automatico.
 
-<div style="background: #eef2f5; padding: 15px; margin-bottom: 20px;">
-  <strong>👔 Se lavori tutto il giorno:</strong>
-  Incastra l'app in un'abitudine che già possiedi. Se lo fai sul treno da pendolare, o la sera subito dopo cena, quei 15 minuti diventano un gesto automatico che non richiede continui sforzi di volontà.
-</div>
-
-* **Oggi (15 minuti):** Completi una lezione nuova (es. "Al ristorante") e dedichi 3 minuti a ripassare i 10 vocaboli che avevi sbagliato ieri.
-* **Tra una settimana:** Inizi a riconoscere a orecchio le strutture di base. Guardando un video online, il tuo cervello intercetta naturalmente parole che prima ti sfuggivano.
-* **Tra un mese:** Hai incamerato decine di "frasi pronte". Se devi chiedere un'informazione rapida, non hai più bisogno di tradurla mentalmente dall'italiano, perché la frase uscirà in blocco.
+Ecco una prospettiva realistica di progressione:
+* **Il primo giorno:** Completi una lezione nuova in circa dieci minuti e dedichi i restanti tre minuti a ripassare i vocaboli su cui hai esitato durante l'onboarding.
+* **Tra una settimana:** Inizi a riconoscere a orecchio le strutture di base. Guardando un video online, il tuo cervello intercetta in modo naturale le prime combinazioni di parole.
+* **Tra un mese:** Hai incamerato decine di frasi pronte all'uso. Se devi chiedere un'informazione rapida, il tuo cervello smette progressivamente di tradurre parola per parola dall'italiano, perché la frase intera inizierà a uscire in blocco.
 
 ---
 
-## Prova gratuita: come capire se il metodo ti è adatto
+## Prova gratuita: come capire se il metodo è adatto a te
 
-Leggere di come funziona l'app è utile, ma l'unico modo per capire se il metodo si incastra davvero con il tuo stile di apprendimento è testarlo sul campo. Sfrutta i primi minuti della prova gratuita come vero e proprio banco di prova.
+Comprendere la struttura di un'app leggendo una guida è utile, ma l'unico modo per sapere con certezza se il metodo si allinea al tuo stile di apprendimento è testarlo sul campo. Usa i primi minuti della prova gratuita come vero e proprio banco di prova diagnostico.
 
-**☑️ Usa la lezione di prova per verificare queste 3 cose:**
-1. **L'interfaccia ti pesa?** La trovi pulita e rassicurante, o ti annoia dopo cinque minuti?
-2. **Il riconoscimento vocale ti blocca?** Ti senti a tuo agio a pronunciare le frasi ad alta voce guardando lo schermo? Se lo vivi come un blocco insormontabile e imbarazzante, forse hai bisogno di un approccio diverso.
-3. **Le lezioni ti sembrano pertinenti?** I dialoghi proposti ti sembrano vicini alla tua vita reale o inutili per i tuoi scopi professionali o di viaggio?
+Ti consigliamo di verificare tre aspetti fondamentali durante il test:
+1. **L'impatto dell'interfaccia:** Valuta se la trovi pulita e focalizzata, o se al contrario la ritieni troppo rigorosa.
+2. **Il blocco del microfono:** Osserva se ti senti a tuo agio a pronunciare le frasi ad alta voce. Se lo vivi come un ostacolo imbarazzante e insormontabile, potresti aver bisogno di un approccio più morbido.
+3. **La pertinenza delle lezioni:** I dialoghi che l'app ti propone ti sembrano vicini alla tua vita reale e spendibili in tempi brevi?
 
-> **Non abbonarti ancora se:** Durante la prova ti accorgi di desiderare solo lezioni frontali di grammatica pura, o se senti la forte necessità di un tutor che dialoghi liberamente con te fin dal primo istante. In quel caso, il metodo Babbel non è la risposta al tuo problema.
+Fermati e non proseguire con l'abbonamento se, durante la prova, ti accorgi di desiderare solo lunghe spiegazioni di grammatica tradizionale, o se senti la forte necessità di un tutor umano che dialoghi liberamente con te fin dal primo istante.
 
 ---
 
-## Quando leggere la recensione completa
+## Quando passare alla recensione completa
 
-A questo punto, dovresti avere un quadro nitido di **come** funziona l'app, qual è la sua routine e cosa richiederà concretamente da parte tua. Questa pagina serviva esclusivamente a chiarire se l'esperienza d'uso si adatta alla tua quotidianità.
+Questa guida aveva lo scopo di chiarire la dinamica pratica, la routine richiesta e il tipo di impegno necessario per far funzionare il metodo. Serviva a farti capire se l'esperienza d'uso è compatibile con le tue abitudini.
 
-👉 **Quando passare alla recensione:** Se hai capito che il metodo ha senso per te e ora vuoi sapere **quali piani conviene scegliere, quanto costa realmente e se l'investimento vale la pena nel tuo caso specifico**, allora è il momento di leggere il nostro verdetto commerciale.
-* **[Leggi: Recensione Babbel (2026): Vale davvero la spesa per un adulto?]({{ '/recensione-babbel/' | relative_url }})**
+Se hai stabilito che la struttura a lezioni brevi, il ripasso spaziato e l'allenamento vocale in solitaria fanno al caso tuo, il passo successivo è valutarne la convenienza economica. Per capire quali piani scegliere in base al tuo orizzonte temporale, quanto costa realmente e se l'investimento è giustificato nel tuo caso specifico, puoi leggere il nostro verdetto commerciale nella [recensione completa di Babbel]({{ '/recensione-babbel/' | relative_url }}).
 
 {% include bridge-box.html %}
 
 ---
 
-## Da dove partire adesso
+## Il tuo prossimo passo
 
-Hai chiarito il meccanismo e rimosso i dubbi sul funzionamento. Ora scegli il tuo prossimo passo in base a ciò di cui hai bisogno *in questo preciso momento*:
+Hai rimosso i dubbi sul funzionamento. Ora scegli la risorsa più adatta al momento in cui ti trovi:
 
-* **Se vuoi capire i prezzi e valutare l'investimento finale:** 👉 Vai alla **[Recensione completa di Babbel]({{ '/recensione-babbel/' | relative_url }})**.
-* **Se prima di usare un'app vuoi impostare la tua routine:** 👉 Leggi **[Il nostro Metodo Consigliato]({{ '/metodo-consigliato/' | relative_url }})**.
-* **Se il tuo focus primario è smettere di tradurre mentalmente:** 👉 Vai al pillar **[Capisco l'inglese ma non lo parlo]({{ '/capisco-ma-non-parlo/' | relative_url }})**.
-* **Se hai un volo imminente e vuoi preparare lo stretto necessario:** 👉 Esplora la guida **[Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**.
-* **Se devi sbloccarti per questioni lavorative:** 👉 Vai a **[Business English: cavartela al lavoro]({{ '/inglese/business/' | relative_url }})**.
+* **Se vuoi valutare l'investimento finale e i piani:** Vai alla nostra [analisi e recensione di Babbel]({{ '/recensione-babbel/' | relative_url }}).
+* **Se preferisci prima impostare una tua routine autonoma:** Approfondisci [il nostro metodo consigliato]({{ '/metodo-consigliato/' | relative_url }}).
+* **Se il tuo focus è superare la traduzione mentale:** Consulta la guida per chi [capisce ma non parla]({{ '/capisco-ma-non-parlo/' | relative_url }}).
+* **Se vuoi preparare lo stretto necessario per un volo imminente:** Esplora le indicazioni su [cosa serve sapere per viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}).
 
 {% include promo-box.html %}
-
