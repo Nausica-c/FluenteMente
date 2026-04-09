@@ -50,7 +50,6 @@ Il vero vantaggio è l'assenza di attrito decisionale. Quando apri l'app, non de
 
 ---
 
-{% include section-in-breve.html %}
 
 ## Come funziona nella pratica: i tuoi primi 15 minuti
 
