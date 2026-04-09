@@ -13,6 +13,8 @@ A un adulto con pochissimo tempo libero non interessa la scheda tecnica. Interes
 
 In questa pagina non troverai la solita lista di feature. Tradurremo le funzioni dell'app in conseguenze pratiche. L'obiettivo è aiutarti a decidere, con la tua testa e senza farti condizionare dal marketing, se il metodo Babbel è lo strumento giusto per sbloccare il tuo inglese.
 
+{% include tldr-box.html %}
+
 {% include trust-brand.html %}
 
 ---
@@ -55,6 +57,8 @@ Non ci sono insegnanti collegati in tempo reale (quello è un servizio a pagamen
 Il vero valore di Babbel è prenderti per mano partendo dal tuo livello esatto. Ti toglie il fastidioso "attrito decisionale": non devi mai chiederti *"E oggi cosa ripasso?"*. L'app sa perfettamente dove ti eri fermato e quali vocaboli stai per dimenticare.
 
 ---
+
+{% include section-in-breve.html %}
 
 ## Come funziona nella pratica, dal primo giorno
 
@@ -109,6 +113,8 @@ Per prendere una decisione adulta e lucida, devi sapere esattamente dove si ferm
 | **La motivazione è passiva** | Essendo un'app sobria, se non sei tu a inserire attivamente lo studio in una tua routine fissa, rischi di dimenticarti di aprirla. |
 
 ---
+
+{% include orient-box.html %}
 
 ## Babbel per tipo di utente: per chi ha più senso davvero
 
@@ -167,6 +173,8 @@ A questo punto, dovresti avere un quadro nitido di **come** funziona l'app, qual
 👉 **Quando passare alla recensione:** Se hai capito che il metodo ha senso per te e ora vuoi sapere **quali piani conviene scegliere, quanto costa realmente e se l'investimento vale la pena nel tuo caso specifico**, allora è il momento di leggere il nostro verdetto commerciale.
 * **[Leggi: Recensione Babbel (2026): Vale davvero la spesa per un adulto?]({{ '/recensione-babbel/' | relative_url }})**
 
+{% include bridge-box.html %}
+
 ---
 
 ## Da dove partire adesso
@@ -180,3 +188,4 @@ Hai chiarito il meccanismo e rimosso i dubbi sul funzionamento. Ora scegli il tu
 * **Se devi sbloccarti per questioni lavorative:** 👉 Vai a **[Business English: cavartela al lavoro]({{ '/inglese/business/' | relative_url }})**.
 
 {% include promo-box.html %}
+
