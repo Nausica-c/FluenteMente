@@ -72,16 +72,17 @@ Leggere 5 frasi al giorno su un blog è un ottimo punto di partenza. Ma c'è un 
 
 In più, non basta leggere la frase in silenzio: **devi abituare la bocca a pronunciarla**, altrimenti al momento buono la voce si blocca.
 
-Se non hai voglia di fare il lavoro sporco a mano, ti serve un sistema che organizzi il ripasso per te. Un'app come **Babbel** fa esattamente questo mestiere. Non ti fa studiare regole astratte, ma ti mette davanti a dialoghi di vita vera. Il software capisce da solo quali espressioni ti stanno sfuggendo e te le ripropone al momento giusto. 
+Se non hai tempo di fare il lavoro sporco a mano, ti serve un sistema che organizzi il ripasso per te. Un'app come **Babbel** fa esattamente questo mestiere. Non ti fa studiare regole astratte, ma ti mette davanti a dialoghi di vita vera. L' applicazione capisce da solo quali espressioni ti stanno sfuggendo e te le ripropone al momento giusto. 
 
 E la cosa più utile per chi si vergogna a parlare? Ti costringe a usare il microfono per ripetere ad alta voce, sciogliendo la lingua quando sei chiuso in stanza, senza l'ansia che qualcuno ti giudichi.
 
 {% include bridge-box.html 
    title="📱 Automatizza il tuo ripasso" 
-   text="Non sprecare tempo con bigliettini e appunti disordinati. Babbel organizza le tue micro-sessioni di studio proponendoti dialoghi reali e correggendo la tua pronuncia al microfono, fissando i vocaboli nella memoria a lungo termine senza sforzo." 
-   link_url="/recensione-babbel/" 
-   link_text="Scopri come funziona Babbel ➔" %}
+   text="Babbel organizza le tue micro-sessioni e corregge la tua pronuncia in tempo reale, fissando i vocaboli nella memoria a lungo termine." 
+   link_url="/come-funziona-babbel/" 
+   link_text="Scopri come funziona l'app ➔" %}
 
-Se vuoi capire se questo sistema si incastra bene nei tuoi ritmi e quanto costa davvero, leggi la nostra [analisi e recensione completa dell'app]({{ '/recensione-babbel/' | relative_url }}).
+Vuoi capire se si adatta davvero alla tua routine (e quanto costa)? Leggi la nostra [analisi e recensione completa]({{ '/recensione-babbel/' | relative_url }}).
+
 
 {% include promo-box.html %}
