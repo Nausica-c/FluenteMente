@@ -37,16 +37,20 @@ Gestire l'arrivo in hotel non richiede discorsi complessi, ma solo le formule gi
 
 ---
 
-### Mettiamole in pratica: un mini-dialogo reale
+### Mini Dialogo Reale: Il Check-in Completo
 
-Per non farti cogliere di sorpresa, ecco come suonano queste frasi in un vero scambio di battute:
+Per non farti cogliere di sorpresa, ecco come suonano queste frasi in un vero scambio di battute alla reception:
 
-**Receptionist:** *Welcome! How can I help you?* (Benvenuto! Come posso aiutarla?)
-**Tu:** *Hi, I have a reservation under the name Rossi.*
-**Receptionist:** *Let me check... yes, a double room for three nights.* (Controllo... sì, una doppia per tre notti).
-**Tu:** *Great. Is it possible to have a quiet room, maybe on a higher floor?*
-**Receptionist:** *Certainly, I'll give you a room facing the inner courtyard. It's very peaceful.* (Certamente, le do una stanza che affaccia sul cortile interno. È molto tranquilla).
-**Tu:** *Perfect, thank you!*
+**Tu:** **Hi, I have a reservation under the name Rossi.**
+**Receptionist:** *Welcome! Let me check... yes, a double room for three nights.* (Benvenuto! Controllo... sì, una doppia per tre notti).
+**Tu:** Great. **Is it possible to have a quiet room?**
+**Receptionist:** *Of course, I can give you a nice room facing the inner courtyard. Here is your key.* (Certamente, posso darle una bella stanza che affaccia sul cortile interno. Ecco la sua chiave).
+**Tu:** Thank you. **Can I have an extra key card, please?** My wife will join me later.
+**Receptionist:** *No problem, here is the second card.* (Nessun problema, ecco la seconda tessera).
+**Tu:** Perfect. By the way, **what time is breakfast served?**
+**Receptionist:** *From 7:00 to 10:00 AM in the main hall. Do you need anything else?* (Dalle 7:00 alle 10:00 nella sala principale. Le serve altro?)
+**Tu:** Yes, actually. **Could someone help me with my luggage?** It's quite heavy.
+**Receptionist:** *I'll call the bellboy right away. Have a wonderful stay!* (Chiamo subito il facchino. Le auguro un meraviglioso soggiorno!)
 
 ### Perché queste frasi funzionano
 In queste situazioni la brevità è la tua migliore alleata. Espressioni pronte come *"under the name"* o *"quiet room"* ti fanno sembrare subito più fluente e sicuro. Non stai imparando la grammatica a memoria, stai acquisendo strumenti pratici per controllare l'ambiente circostante e garantirti un soggiorno eccellente.
