@@ -11,7 +11,7 @@ Le porte scorrevoli si aprono, vedi l'enorme tabellone luminoso delle partenze e
 
 Non preoccuparti: l'aeroporto è un ambiente standardizzato. Non ti servono discorsi filosofici, ma solo le giuste espressioni di sopravvivenza. Con poche frasi mirate, orientarsi tra terminal e controlli di sicurezza diventerà una passeggiata.
 
-{% include affiliate-disclosure.html %}
+
 
 {% include trust-brand.html %}
 
