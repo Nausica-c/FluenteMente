@@ -73,7 +73,7 @@ Ora che sai come affrontare la visita, preparati a gestire gli step successivi c
 * **La Burocrazia:** [I vocaboli essenziali per aprire un conto in banca all'estero]({{ '/inglese/espatriati/aprire-conto-banca-inglese/' | relative_url }})
 * **Le Utenze:** [Come allacciare Wifi, Luce e Gas in inglese]({{ '/inglese/espatriati/allacciare-utenze-estero/' | relative_url }})
 * **L'Arredamento:** [Il vocabolario per comprare mobili da IKEA e dintorni]({{ '/inglese/espatriati/arredare-casa-inglese/' | relative_url }})
-* **Il Contratto:** [Glossario essenziale del contratto d'affitto]({{ '/inglese/espatriati/contratto-affitto-inglese-termini/' | relative_url }})
-* **I Guasti:** [Come scrivere un'email al landlord per guasti e riparazioni]({{ '/inglese/espatriati/email-landlord-riparazioni/' | relative_url }})
+* **Il Contratto:** [Glossario essenziale del contratto d'affitto]({{ '/inglese/espatriati/contratto-affitto-termini/' | relative_url }})
+* **I Guasti:** [Come scrivere un'email al landlord per guasti e riparazioni]({{ '/inglese/espatriati/email-landlord-guasti/' | relative_url }})
 
 {% include promo-box.html %}
