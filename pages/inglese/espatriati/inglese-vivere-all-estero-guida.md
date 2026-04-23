@@ -13,7 +13,6 @@ Il problema non è la tua grammatica. Il problema è che nessun libro ti insegna
 
 Questa è la tua *roadmap* di sopravvivenza. Una guida pratica per affrontare le sfide di tutti i giorni della tua nuova vita all'estero, senza ansia e con le parole giuste al momento giusto. Allaccia le cinture: iniziamo.
 
-{% include affiliate-disclosure.html %}
 
 {% include trust-brand.html %}
 
