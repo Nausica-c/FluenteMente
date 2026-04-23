@@ -84,6 +84,6 @@ Firmare, però, è solo l'inizio. Ora che hai le chiavi, ecco le guide pratiche 
 * 🗝️ **[Come affittare casa: la guida pratica per le visite (viewings)]({{ '/inglese/espatriati/affittare-casa-visite/' | relative_url }})**
 * 🏦 **[I vocaboli essenziali per aprire un conto in banca all'estero]({{ '/inglese/espatriati/aprire-conto-banca-inglese/' | relative_url }})**
 * 💡 **[Come allacciare le utenze in inglese (Wifi, Luce e Gas)]({{ '/inglese/espatriati/allacciare-utenze-estero/' | relative_url }})**
-* 🛠️ **[Come scrivere un'email al Landlord per guasti e riparazioni]({{ '/inglese/espatriati/email-landlord-riparazioni/' | relative_url }})**
+* 🛠️ **[Come scrivere un'email al Landlord per guasti e riparazioni]({{ '/inglese/espatriati/email-landlord-guasti/' | relative_url }})**
 
 {% include promo-box.html %}
