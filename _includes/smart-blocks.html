@@ -1,54 +1,61 @@
-{% assign t = page.type %}
-{% assign i = page.intent %}
-{% assign topic = page.topic %}
+{% assign type = include.type | default: "note" %}
+{% assign topic = include.topic | default: page.topic %}
+{% assign level = include.level | default: page.intent %}
 
-{% if include.position == "top" %}
+<div class="smart-block smart-block--{{ type }}">
 
-  {% include tldr-box.html %}
-  {% include section-in-breve.html %}
+  {% case type %}
 
-{% endif %}
+  {% when "tip" %}
 
+    <div class="smart-block__icon">💡</div>
+    <div class="smart-block__content">
+      <strong>Consiglio pratico</strong>
+      <p>
+        {% if topic == "speaking" %}
+          Per migliorare il parlato, evita lo studio passivo e ripeti frasi ad alta voce ogni giorno.
+        {% else %}
+          Applica subito ciò che stai leggendo in un contesto reale, anche per pochi minuti.
+        {% endif %}
+      </p>
+    </div>
 
-{% if include.position == "mid" %}
+  {% when "example" %}
 
-  <p>
-    <a href="/metodo-apprendimento-lingue">
-      Metodo per imparare una lingua in modo efficace
-    </a>
-  </p>
+    <div class="smart-block__icon">🧠</div>
+    <div class="smart-block__content">
+      <strong>Esempio reale</strong>
+      <p>
+        {% if topic == "speaking" %}
+          Invece di studiare “grammar rules”, prova a dire: “I need help with this” in contesti reali.
+        {% else %}
+          Trasforma ogni concetto in un’azione concreta immediata.
+        {% endif %}
+      </p>
+    </div>
 
-  {% if t == "problem" %}
-    {% include orient-box.html %}
-  {% elsif t == "method" and i == "low" %}
-    {% include orient-box.html %}
-  {% elsif t == "method" and i == "medium" %}
-    {% include bridge-box.html %}
-  {% elsif t == "method" and i == "high" %}
-    {% include promo-box.html %}
-  {% elsif t == "comparison" %}
-    {% include bridge-box.html %}
-  {% elsif t == "review" %}
-    {% include promo-box.html %}
-  {% endif %}
+  {% when "warning" %}
 
-{% endif %}
+    <div class="smart-block__icon">⚠️</div>
+    <div class="smart-block__content">
+      <strong>Errore comune</strong>
+      <p>
+        {% if level == "low" %}
+          Studiare troppo teoria senza parlare blocca i progressi.
+        {% else %}
+          Anche chi è avanzato tende a non praticare abbastanza conversazione attiva.
+        {% endif %}
+      </p>
+    </div>
 
-
-{% if include.position == "end" %}
-
-  <p>
-    <a href="/metodo-apprendimento-lingue">
-      Tutto parte da un metodo chiaro e sostenibile
-    </a>
-  </p>
-
-  {% if t == "problem" %}
-    {% include orient-box.html %}
-  {% elsif t == "method" %}
-    {% include bridge-box.html %}
   {% else %}
-    {% include promo-box.html %}
-  {% endif %}
 
-{% endif %}
+    <div class="smart-block__icon">📌</div>
+    <div class="smart-block__content">
+      <strong>Nota</strong>
+      <p>{{ include.text | default: "Questo concetto è importante per capire il resto dell'articolo." }}</p>
+    </div>
+
+  {% endcase %}
+
+</div>
