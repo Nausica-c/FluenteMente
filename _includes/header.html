@@ -1,34 +1,21 @@
 <header class="site-header">
-  <div class="wrapper header-wrapper">
+  <div class="header-inner">
 
-    <a class="site-title" href="{{ '/' | relative_url }}">
-      🌍 {{ site.title }}
-    </a>
+    <a class="site-title" href="/">FluenteMente</a>
 
-    <!-- HAMBURGER CHECKBOX -->
+    <!-- TOGGLE -->
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
 
-    <label for="nav-toggle" class="menu-icon">
-      ☰
-    </label>
+    <label for="nav-toggle" class="menu-icon">☰</label>
 
-    <nav class="site-nav" aria-label="Menu principale">
+    <!-- NAV -->
+    <nav class="site-nav">
 
       <div class="trigger">
-
-        <a href="{{ '/inizia-qui/' | relative_url }}">Inizia Qui</a>
-        <a href="{{ '/capisco-ma-non-parlo/' | relative_url }}">Sblocca il Parlato</a>
-
-        <a href="{{ '/inglese/da-zero/' | relative_url }}">Da Zero</a>
-        <a href="{{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}">Viaggio</a>
-
-        <a href="{{ '/inglese/business/' | relative_url }}">Business</a>
-        <a href="{{ '/blog/' | relative_url }}">Blog</a>
-
-        <a href="{{ '/recensione-babbel/' | relative_url }}" class="nav-cta">
-          Metodo consigliato
-        </a>
-
+        <a href="/curiosita">Curiosità</a>
+        <a href="/metodo">Metodo</a>
+        <a href="/recensioni">Recensioni</a>
+        <a class="nav-cta" href="/babbel">Inizia qui</a>
       </div>
 
     </nav>
