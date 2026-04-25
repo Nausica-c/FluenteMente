@@ -270,29 +270,38 @@ a:hover {
   .header-wrapper {
     flex-direction: column;
     align-items: flex-start;
+    gap: 10px;
     height: auto;
-    padding: 10px 0;
+    padding: 12px 0;
+  }
+
+  .site-nav {
+    width: 100%;
   }
 
   .site-nav .trigger {
-    flex-direction: column;
-    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
     width: 100%;
-    gap: 12px;
-    padding-top: 10px;
   }
 
+  /* 🔥 IMPORTANTE: NON full width */
   .site-nav a {
-    width: 100%;
-    padding: 10px 0;
-    border-bottom: 1px solid rgba(226,232,240,0.6);
+    width: auto;
+    display: inline-block;
+    padding: 6px 10px;
+    border: 1px solid rgba(226,232,240,0.8);
+    border-radius: 999px;
+    font-size: 0.9rem;
   }
 
+  /* CTA più visibile ma NON gigante */
+  .site-nav a[href*="babbel"],
   .site-nav a:last-child {
-    border-bottom: none;
+    background: rgba(217,119,6,0.08);
+    border-color: rgba(217,119,6,0.3);
   }
 
-  .post-wrapper {
-    padding: 20px;
-  }
 }
