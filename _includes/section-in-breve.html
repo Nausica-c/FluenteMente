@@ -1,8 +1,9 @@
 <div class="section-in-breve">
   <div class="sib-header">
     <span class="sib-icon">🎯</span>
-    <h3 class="sib-title">{{ include.title | default: "In breve:" }}</h3>
+    <h3 class="sib-title">In breve:</h3>
   </div>
+
   <ul class="sib-list">
     {% if include.p1 %}<li>{{ include.p1 }}</li>{% endif %}
     {% if include.p2 %}<li>{{ include.p2 }}</li>{% endif %}
