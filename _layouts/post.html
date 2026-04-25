@@ -2,54 +2,14 @@
 layout: default
 ---
 
-<article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post-wrapper">
 
-  <!-- HEADER ARTICOLO -->
   <header class="post-header">
-
-    {% if page.category %}
-      <span class="post-category">
-        {{ page.category }}
-      </span>
-    {% endif %}
-
-    <h1 class="post-title" itemprop="name headline">
-      {{ page.title | escape }}
-    </h1>
-
-    {% if page.subtitle %}
-      <p class="post-meta">
-        {{ page.subtitle }}
-      </p>
-    {% endif %}
-
+    <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  <!-- DISCLOSURE AFFILIAZIONE -->
-  {% include affiliate-disclosure.html %}
-
-  <!-- 🔥 FUNNEL ENGINE TOP (TOFU ATTENTION) -->
-  {% include smart-block.html position="top" %}
-
-  <!-- TLDR (HOOK) -->
-  {% include tldr-box.html %}
-
-  <!-- SECTION IN BREVE (SEO + SCANNING) -->
-  {% include section-in-breve.html %}
-
-  <!-- CONTENUTO PRINCIPALE -->
-  <div class="post-content" itemprop="articleBody">
-
+  <div class="post-content">
     {{ content }}
-
-    <!-- 🔥 MID FUNNEL (MOFU LOGIC) -->
-    {% include smart-block.html position="mid" %}
-
-    <hr class="section-divider">
-
-    <!-- 🔥 END FUNNEL (BOFU CONVERSION) -->
-    {% include smart-block.html position="end" %}
-
   </div>
 
 </article>
