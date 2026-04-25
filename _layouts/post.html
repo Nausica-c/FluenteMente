@@ -1,25 +1,66 @@
 ---
 layout: default
 ---
+
 <article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
 
+  <!-- HEADER UNICO -->
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <div class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        Aggiornato il {{ page.date | date: "%d/%m/%Y" }}
-      </time>
-    </div>
+
+    {% if page.type == "curiosity" %}
+      <span class="post-label">Curiosità Linguistica</span>
+    {% elsif page.type == "guide" %}
+      <span class="post-label">Guida Pratica</span>
+    {% elsif page.type == "review" %}
+      <span class="post-label">Recensione</span>
+    {% endif %}
+
+    <h1 class="post-title" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+
+    {% if page.subtitle %}
+      <p class="post-meta">{{ page.subtitle }}</p>
+    {% endif %}
+
   </header>
 
-  {% include affiliate-disclosure.html %}
+  <!-- DISCLOSURE SOLO SE SERVE -->
+  {% if page.type == "review" %}
+    {% include affiliate-disclosure.html %}
+  {% endif %}
 
   <div class="post-content" itemprop="articleBody">
-    
-    {% include tldr-box.html %}
+
+    <!-- TLDR SOLO PER GUIDE -->
+    {% if page.type == "guide" %}
+      {% include tldr-box.html %}
+    {% endif %}
 
     {{ content }}
 
+    <!-- FUNNEL LOGIC UNICO -->
+    {% case page.funnel %}
+
+      {% when "tofu" %}
+        {% include orient-box.html %}
+
+      {% when "mofu" %}
+        {% include bridge-box.html %}
+
+      {% when "bofu" %}
+        {% include promo-box.html %}
+
+      {% else %}
+        {% include orient-box.html %}
+
+    {% endcase %}
+
+    <!-- SMART LINKING SEMPRE -->
+    {% include smart-linking.html %}
+
+    <!-- CTA DINAMICA -->
+    {% include smart-cta.html funnel=page.funnel %}
 
   </div>
 
