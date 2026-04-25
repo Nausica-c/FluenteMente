@@ -1,62 +1,58 @@
 ---
 layout: default
-title: FluenteMente
+title: Impara le lingue davvero
 ---
 
-<!-- HERO / TOFU -->
+<!-- HERO (aggancio emotivo) -->
 <section class="hero-clean">
-  <div class="hero-clean__inner">
+  <div class="wrapper hero-clean__inner">
 
     <h1 class="hero-clean__title">
-      Impara una lingua anche con poco tempo
+      Non riesci a parlare una lingua?
     </h1>
 
     <p class="hero-clean__subtitle">
-      Strategie pratiche per adulti che lavorano: niente teoria inutile, solo metodo e strumenti che funzionano davvero.
+      Non è mancanza di talento. È il metodo sbagliato.
+      Qui trovi un sistema semplice per sbloccarti davvero.
     </p>
 
     <div class="hero-clean__actions">
-      <a href="/inizia-qui/" class="btn-primary">Inizia da qui</a>
-      <a href="/metodo-apprendimento-lingue/" class="btn-outline">Scopri il metodo</a>
+      <a href="{{ '/principianti/' | relative_url }}" class="btn-primary">
+        Inizia da zero
+      </a>
+
+      <a href="{{ '/pensare-in-inglese/' | relative_url }}" class="btn-outline">
+        Voglio sbloccarmi subito
+      </a>
     </div>
 
   </div>
 </section>
 
-<!-- HUB PRINCIPALE -->
+<!-- SCELTA GUIDATA (CUORE DEL FUNNEL) -->
 <section class="section-soft">
-
   <div class="wrapper">
 
-    <h2 class="section-title">Scegli il tuo punto di partenza</h2>
-    <p class="section-subtitle">
-      Non serve leggere tutto: vai dritto al tuo problema.
-    </p>
+    <h2 class="section-title">Dimmi dove sei e ti guido io</h2>
 
     <div class="start-grid">
 
-      <a class="start-card start-card-highlight" href="/inizia-qui/">
-        <div class="start-icon">🚀</div>
-        <h3>Inizia da zero</h3>
-        <p>Se non sai da dove partire.</p>
+      <!-- BLOCCO 1 -->
+      <a href="{{ '/principianti/' | relative_url }}" class="start-card start-card-highlight">
+        <h3>Parto da zero</h3>
+        <p>Non so da dove iniziare e mi sento perso</p>
       </a>
 
-      <a class="start-card" href="/capisco-ma-non-parlo/">
-        <div class="start-icon">🧠</div>
+      <!-- BLOCCO 2 -->
+      <a href="{{ '/pensare-in-inglese/' | relative_url }}" class="start-card">
         <h3>Capisco ma non parlo</h3>
-        <p>Sblocca il parlato in modo pratico.</p>
+        <p>Rimango bloccato quando devo esprimermi</p>
       </a>
 
-      <a class="start-card" href="/inglese/viaggio/inglese-per-viaggiare/">
-        <div class="start-icon">✈️</div>
-        <h3>Viaggiare</h3>
-        <p>Frasi utili per situazioni reali.</p>
-      </a>
-
-      <a class="start-card" href="/inglese/business/">
-        <div class="start-icon">💼</div>
-        <h3>Business</h3>
-        <p>Inglese per lavoro e carriera.</p>
+      <!-- BLOCCO 3 -->
+      <a href="{{ '/routine/' | relative_url }}" class="start-card">
+        <h3>Non ho tempo</h3>
+        <p>Studio poco e in modo disorganizzato</p>
       </a>
 
     </div>
@@ -64,66 +60,74 @@ title: FluenteMente
   </div>
 </section>
 
-<!-- MOFU / EDUCAZIONE -->
+<!-- PROVA + TRANSIZIONE -->
 <section class="section-alt">
-
   <div class="wrapper">
 
-    <h2 class="section-title">Il problema non è la lingua</h2>
+    <h2 class="section-title">Il problema non sei tu</h2>
 
     <p class="section-subtitle">
-      Il problema è come te l’hanno insegnata.
+      La maggior parte delle persone studia male: troppe regole, poca pratica reale.
+      Serve un sistema guidato che ti faccia parlare subito.
     </p>
 
-    <div class="trust-box">
-
-      <h3>Perché la maggior parte delle persone fallisce?</h3>
-
-      <p>
-        Studia grammatica per anni ma non riesce a parlare. Il problema non è la tua capacità,
-        ma il metodo: troppo teorico, troppo lento, troppo scolastico.
-      </p>
-
-    </div>
-
-    <div class="bridge-box">
-
-      <h3>💡 Serve un approccio diverso</h3>
-
-      <p>
-        Un metodo basato su frasi reali, ripetizione attiva e micro-sessioni da 15 minuti.
-      </p>
-
-      <a href="/metodo-apprendimento-lingue/" class="bridge-link">
-        Scopri come funziona il metodo →
+    <div style="text-align:center; margin-top:20px;">
+      <a href="{{ '/recensione-babbel/' | relative_url }}" class="btn-primary">
+        Scopri il metodo che funziona
       </a>
-
     </div>
 
   </div>
 </section>
 
-<!-- BOFU / CONVERSIONE -->
+<!-- CONTENUTI (SECONDARI, NON PROTAGONISTI) -->
 <section class="section-soft">
-
   <div class="wrapper">
 
-    <div class="promo-box">
+    <h2 class="section-title">Oppure esplora</h2>
 
-      <h3>🚀 Vuoi imparare davvero?</h3>
+    <div class="blog-grid">
 
-      <p>
-        Dopo aver testato diversi metodi, uno degli strumenti più efficaci per adulti è Babbel:
-        lezioni brevi, pratiche e orientate alla conversazione reale.
-      </p>
+      <div class="blog-card">
+        <div class="blog-card__content">
+          <h3 class="blog-card__title">
+            <a href="{{ '/tecnica-shadowing-inglese/' | relative_url }}">
+              Tecnica shadowing
+            </a>
+          </h3>
+        </div>
+      </div>
 
-      <a href="/recensione-babbel/" class="btn-primary">
-        Scopri Babbel
-      </a>
-
-      <span class="microcopy">Analisi indipendente basata su esperienza reale</span>
+      <div class="blog-card">
+        <div class="blog-card__content">
+          <h3 class="blog-card__title">
+            <a href="{{ '/inglese/grammatica/tempi-verbali-inglese/' | relative_url }}">
+              Tempi verbali inglese
+            </a>
+          </h3>
+        </div>
+      </div>
 
     </div>
 
   </div>
 </section>
+
+<!-- CTA FINALE -->
+<section class="section-alt">
+  <div class="wrapper" style="text-align:center">
+
+    <h2 class="section-title">
+      Se vuoi risultati veri, serve un metodo
+    </h2>
+
+    <p class="section-subtitle">
+      Non bastano articoli sparsi. Serve una struttura.
+    </p>
+
+    <a href="{{ '/recensione-babbel/' | relative_url }}" class="btn-primary">
+      Vai al metodo completo
+    </a>
+
+  </div>
+  </section>
