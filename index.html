@@ -1,71 +1,129 @@
 ---
 layout: default
-title: Imparare l'inglese per la vita reale
+title: FluenteMente
 ---
 
+<!-- HERO / TOFU -->
 <section class="hero-clean">
-  <div class="wrapper hero-clean__inner">
-    <h1 class="hero-clean__title">Imparare l'inglese per la vita reale.</h1>
-    <p class="hero-clean__subtitle">Niente lezioni scolastiche noiose. Metodi pratici, guide e strumenti testati per adulti che lavorano, viaggiano e hanno solo 15 minuti al giorno.</p>
-    
+  <div class="hero-clean__inner">
+
+    <h1 class="hero-clean__title">
+      Impara una lingua anche con poco tempo
+    </h1>
+
+    <p class="hero-clean__subtitle">
+      Strategie pratiche per adulti che lavorano: niente teoria inutile, solo metodo e strumenti che funzionano davvero.
+    </p>
+
     <div class="hero-clean__actions">
-      <a href="{{ '/inizia-qui/' | relative_url }}" class="btn-primary">Scegli il tuo percorso</a>
-      <a href="{{ '/recensione-babbel/' | relative_url }}" class="btn-outline">Scopri l'app che consigliamo</a>
+      <a href="/inizia-qui/" class="btn-primary">Inizia da qui</a>
+      <a href="/metodo-apprendimento-lingue/" class="btn-outline">Scopri il metodo</a>
     </div>
-    
-    <div class="hero-clean__meta">
-      <span class="hero-pill">✓ Zero grammatica accademica</span>
-      <span class="hero-pill">✓ Pensato per adulti (Over 30)</span>
-    </div>
+
   </div>
 </section>
 
+<!-- HUB PRINCIPALE -->
 <section class="section-soft">
+
   <div class="wrapper">
-    <h2 class="section-title" style="text-align: center;">Qual è il tuo obiettivo oggi?</h2>
-    <p class="section-subtitle" style="text-align: center; margin: 0 auto 40px auto;">Non perdere tempo con la teoria. Scegli la tua urgenza.</p>
-    
+
+    <h2 class="section-title">Scegli il tuo punto di partenza</h2>
+    <p class="section-subtitle">
+      Non serve leggere tutto: vai dritto al tuo problema.
+    </p>
+
     <div class="start-grid">
-      <a href="{{ '/inglese/da-zero/' | relative_url }}" class="start-card">
-        <div class="start-icon">🌱</div>
-        <h3>Parto da Zero</h3>
-        <p>Non serve tornare a scuola. Costruisci le tue fondamenta pratiche in soli 15 minuti al giorno.</p>
+
+      <a class="start-card start-card-highlight" href="/inizia-qui/">
+        <div class="start-icon">🚀</div>
+        <h3>Inizia da zero</h3>
+        <p>Se non sai da dove partire.</p>
       </a>
-      
-      <a href="{{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}" class="start-card">
-        <div class="start-icon">✈️</div>
-        <h3>Inglese in Viaggio</h3>
-        <p>Dall'hotel al ristorante: smetti di gesticolare. Le guide di sopravvivenza per gestire gli imprevisti.</p>
-      </a>
-      
-      <a href="{{ '/capisco-ma-non-parlo/' | relative_url }}" class="start-card start-card-highlight">
-        <div class="start-icon">🗣️</div>
+
+      <a class="start-card" href="/capisco-ma-non-parlo/">
+        <div class="start-icon">🧠</div>
         <h3>Capisco ma non parlo</h3>
-        <p>Ti blocchi quando devi rispondere? Scopri come superare l'ansia e sbloccare i muscoli della bocca.</p>
+        <p>Sblocca il parlato in modo pratico.</p>
       </a>
+
+      <a class="start-card" href="/inglese/viaggio/inglese-per-viaggiare/">
+        <div class="start-icon">✈️</div>
+        <h3>Viaggiare</h3>
+        <p>Frasi utili per situazioni reali.</p>
+      </a>
+
+      <a class="start-card" href="/inglese/business/">
+        <div class="start-icon">💼</div>
+        <h3>Business</h3>
+        <p>Inglese per lavoro e carriera.</p>
+      </a>
+
     </div>
+
   </div>
 </section>
 
+<!-- MOFU / EDUCAZIONE -->
 <section class="section-alt">
+
   <div class="wrapper">
-    {% include trust-brand.html %}
+
+    <h2 class="section-title">Il problema non è la lingua</h2>
+
+    <p class="section-subtitle">
+      Il problema è come te l’hanno insegnata.
+    </p>
+
+    <div class="trust-box">
+
+      <h3>Perché la maggior parte delle persone fallisce?</h3>
+
+      <p>
+        Studia grammatica per anni ma non riesce a parlare. Il problema non è la tua capacità,
+        ma il metodo: troppo teorico, troppo lento, troppo scolastico.
+      </p>
+
+    </div>
+
+    <div class="bridge-box">
+
+      <h3>💡 Serve un approccio diverso</h3>
+
+      <p>
+        Un metodo basato su frasi reali, ripetizione attiva e micro-sessioni da 15 minuti.
+      </p>
+
+      <a href="/metodo-apprendimento-lingue/" class="bridge-link">
+        Scopri come funziona il metodo →
+      </a>
+
+    </div>
+
   </div>
 </section>
 
-<section class="section-soft" style="border-top: 1px solid var(--border-color);">
-  <div class="wrapper" style="max-width: 760px;">
-    <h2 class="section-title" style="font-size: 1.6rem; text-align: center; margin-bottom: 30px;">Le ultime guide pratiche</h2>
-    
-    {% for post in site.posts limit:4 %}
-    <div class="post-row">
-      <div class="post-row__date">{{ post.date | date: "%d/%m/%Y" }}</div>
-      <a href="{{ post.url | relative_url }}" class="post-row__title">{{ post.title }}</a>
+<!-- BOFU / CONVERSIONE -->
+<section class="section-soft">
+
+  <div class="wrapper">
+
+    <div class="promo-box">
+
+      <h3>🚀 Vuoi imparare davvero?</h3>
+
+      <p>
+        Dopo aver testato diversi metodi, uno degli strumenti più efficaci per adulti è Babbel:
+        lezioni brevi, pratiche e orientate alla conversazione reale.
+      </p>
+
+      <a href="/recensione-babbel/" class="btn-primary">
+        Scopri Babbel
+      </a>
+
+      <span class="microcopy">Analisi indipendente basata su esperienza reale</span>
+
     </div>
-    {% endfor %}
-    
-    <div style="margin-top: 40px; text-align: center;">
-      <a href="{{ '/blog/' | relative_url }}" class="btn-outline" style="padding: 12px 28px; font-size: 0.95rem;">Sfoglia tutto l'archivio</a>
-    </div>
+
   </div>
 </section>
