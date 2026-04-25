@@ -1,5 +1,11 @@
 <div class="bridge-box">
-  <h3>💡 {{ include.title | default: "Non hai tempo per organizzare lo studio?" }}</h3>
-  <p>{{ include.text | default: "Il problema del 'fai-da-te' è che perdi 20 minuti al giorno solo per cercare su Google cosa studiare. Se il tuo tempo è prezioso, ti serve un percorso che ha già organizzato tutto per te." }}</p>
-  <a href="{{ include.link_url | default: '/recensione-babbel' | relative_url }}" class="bridge-link">{{ include.link_text | default: "Scopri perché noi usiamo Babbel ➔" }}</a>
+  <h3>{{ include.title | default: "💡 Non hai tempo per organizzare lo studio?" }}</h3>
+  <p>
+    {{ include.text | default: "Il problema del fai-da-te è che perdi tempo a cercare cosa studiare invece di imparare davvero." }}
+  </p>
+
+  <a href="{{ include.link_url | default: '/recensione-babbel' | relative_url }}"
+     class="bridge-link">
+    {{ include.link_text | default: "Scopri perché Babbel è efficace →" }}
+  </a>
 </div>
