@@ -2,50 +2,63 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
 
+      <!-- BRAND -->
       <div class="footer-col info-col">
         <p class="footer-heading">{{ site.title }}</p>
         <p>{{ site.description }}</p>
         <p style="margin-top:12px; color:#94a3b8; font-size:.95rem;">
-          Inglese per adulti, routine brevi e un metodo pragmatico (senza caos).
+          Inglese per adulti, metodo pratico da 15 minuti al giorno.
         </p>
       </div>
 
+      <!-- HUB STRATEGICO -->
       <div class="footer-col link-col">
-        <p class="footer-heading">Navigazione</p>
+        <p class="footer-heading">Metodo</p>
         <ul class="footer-links">
           <li><a href="{{ '/inizia-qui/' | relative_url }}">Inizia Qui</a></li>
-          <li><a href="{{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}">Inglese in Viaggio</a></li>
-          <li><a href="{{ '/inglese/business/' | relative_url }}">Business English</a></li>
           <li><a href="{{ '/capisco-ma-non-parlo/' | relative_url }}">Sblocca il Parlato</a></li>
-          <li><a href="{{ '/blog/' | relative_url }}">Tutti gli Articoli (Blog)</a></li>
-          <li><a href="{{ '/recensione-babbel/' | relative_url }}">Recensione Babbel</a></li>
+          <li><a href="{{ '/inglese/da-zero/' | relative_url }}">Inglese da Zero</a></li>
         </ul>
       </div>
 
+      <!-- CLUSTER -->
+      <div class="footer-col link-col">
+        <p class="footer-heading">Percorsi</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}">Inglese per Viaggiare</a></li>
+          <li><a href="{{ '/inglese/business/' | relative_url }}">Business English</a></li>
+          <li><a href="{{ '/blog/' | relative_url }}">Approfondimenti</a></li>
+        </ul>
+      </div>
+
+      <!-- CONVERSIONE -->
+      <div class="footer-col link-col">
+        <p class="footer-heading">Strumento consigliato</p>
+        <ul class="footer-links">
+          <li><a href="{{ '/recensione-babbel/' | relative_url }}" style="font-weight:bold; color:#d97706;">
+            Babbel (recensione completa)
+          </a></li>
+        </ul>
+
+        <p style="margin-top:12px; color:#94a3b8; font-size:.9rem;">
+          Alcuni link possono essere affiliati senza costi extra.
+        </p>
+      </div>
+
+      <!-- INFO -->
       <div class="footer-col link-col">
         <p class="footer-heading">Info</p>
         <ul class="footer-links">
           <li><a href="{{ '/chi-siamo/' | relative_url }}">Chi Siamo</a></li>
+          <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
           <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a></li>
-          <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
-          <li><a href="{{ '/cookie/' | relative_url }}">Cookie Policy</a></li>
         </ul>
-      </div>
-
-      <div class="footer-col social-col">
-        <p class="footer-heading">Seguici</p>
-        <ul class="social-links">
-          <li><a href="https://it.pinterest.com/Nausicac/" target="_blank" rel="noopener">📌 Pinterest</a></li>
-        </ul>
-        <p style="margin-top:12px; color:#94a3b8; font-size:.9rem;">
-          <strong>Nota:</strong> alcuni link possono essere affiliati (senza costi extra per te).
-        </p>
       </div>
 
     </div>
 
     <div class="footer-bottom">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Tutti i diritti riservati.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
     </div>
   </div>
 </footer>
