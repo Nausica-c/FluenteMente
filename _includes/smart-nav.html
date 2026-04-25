@@ -1,0 +1,35 @@
+{% include funnel-engine.html %}
+
+<nav class="site-nav" aria-label="Navigazione intelligente funnel">
+
+  <div class="trigger">
+
+    {% case funnel %}
+
+    {% when "tofu" %}
+
+      <a href="/inizia-qui/">Inizia Qui</a>
+      <a href="/capisco-ma-non-parlo/">Sblocca il Parlato</a>
+      <a href="/blog/">Blog</a>
+      <a href="/metodo/">Metodo</a>
+
+    {% when "mofu" %}
+
+      <a href="/metodo/">Metodo completo</a>
+      <a href="/migliori-app-lingue/">App utili</a>
+      <a href="/inglese/da-zero/">Da Zero</a>
+      <a href="/recensione-babbel/">Babbel</a>
+
+    {% when "bofu" %}
+
+      <a href="/confronti/">Confronti</a>
+      <a href="/recensione-babbel/" style="font-weight:800;color:#d97706;">
+        Babbel consigliato
+      </a>
+      <a href="/faq/">FAQ</a>
+
+    {% endcase %}
+
+  </div>
+
+</nav>
