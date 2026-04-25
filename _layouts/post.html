@@ -4,15 +4,13 @@ layout: default
 
 <article class="post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <!-- HEADER UNICO -->
+  <!-- HEADER ARTICOLO -->
   <header class="post-header">
 
-    {% if page.type == "curiosity" %}
-      <span class="post-label">Curiosità Linguistica</span>
-    {% elsif page.type == "guide" %}
-      <span class="post-label">Guida Pratica</span>
-    {% elsif page.type == "review" %}
-      <span class="post-label">Recensione</span>
+    {% if page.category %}
+      <span class="post-category">
+        {{ page.category }}
+      </span>
     {% endif %}
 
     <h1 class="post-title" itemprop="name headline">
@@ -20,47 +18,37 @@ layout: default
     </h1>
 
     {% if page.subtitle %}
-      <p class="post-meta">{{ page.subtitle }}</p>
+      <p class="post-meta">
+        {{ page.subtitle }}
+      </p>
     {% endif %}
 
   </header>
 
-  <!-- DISCLOSURE SOLO SE SERVE -->
-  {% if page.type == "review" %}
-    {% include affiliate-disclosure.html %}
-  {% endif %}
+  <!-- DISCLOSURE AFFILIAZIONE -->
+  {% include affiliate-disclosure.html %}
 
+  <!-- 🔥 FUNNEL ENGINE TOP (TOFU ATTENTION) -->
+  {% include smart-block.html position="top" %}
+
+  <!-- TLDR (HOOK) -->
+  {% include tldr-box.html %}
+
+  <!-- SECTION IN BREVE (SEO + SCANNING) -->
+  {% include section-in-breve.html %}
+
+  <!-- CONTENUTO PRINCIPALE -->
   <div class="post-content" itemprop="articleBody">
-
-    <!-- TLDR SOLO PER GUIDE -->
-    {% if page.type == "guide" %}
-      {% include tldr-box.html %}
-    {% endif %}
 
     {{ content }}
 
-    <!-- FUNNEL LOGIC UNICO -->
-    {% case page.funnel %}
+    <!-- 🔥 MID FUNNEL (MOFU LOGIC) -->
+    {% include smart-block.html position="mid" %}
 
-      {% when "tofu" %}
-        {% include orient-box.html %}
+    <hr class="section-divider">
 
-      {% when "mofu" %}
-        {% include bridge-box.html %}
-
-      {% when "bofu" %}
-        {% include promo-box.html %}
-
-      {% else %}
-        {% include orient-box.html %}
-
-    {% endcase %}
-
-    <!-- SMART LINKING SEMPRE -->
-    {% include smart-linking.html %}
-
-    <!-- CTA DINAMICA -->
-    {% include smart-cta.html funnel=page.funnel %}
+    <!-- 🔥 END FUNNEL (BOFU CONVERSION) -->
+    {% include smart-block.html position="end" %}
 
   </div>
 
