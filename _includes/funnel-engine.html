@@ -1,0 +1,13 @@
+{%- assign funnel = page.funnel -%}
+
+{%- if funnel == nil or funnel == "" -%}
+
+  {%- if page.type == "review" -%}
+    {%- assign funnel = "bofu" -%}
+  {%- elsif page.type == "guide" -%}
+    {%- assign funnel = "mofu" -%}
+  {%- else -%}
+    {%- assign funnel = "tofu" -%}
+  {%- endif -%}
+
+{%- endif -%}
