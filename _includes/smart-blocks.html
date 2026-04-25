@@ -1,0 +1,54 @@
+{% assign t = page.type %}
+{% assign i = page.intent %}
+{% assign topic = page.topic %}
+
+{% if include.position == "top" %}
+
+  {% include tldr-box.html %}
+  {% include section-in-breve.html %}
+
+{% endif %}
+
+
+{% if include.position == "mid" %}
+
+  <p>
+    <a href="/metodo-apprendimento-lingue">
+      Metodo per imparare una lingua in modo efficace
+    </a>
+  </p>
+
+  {% if t == "problem" %}
+    {% include orient-box.html %}
+  {% elsif t == "method" and i == "low" %}
+    {% include orient-box.html %}
+  {% elsif t == "method" and i == "medium" %}
+    {% include bridge-box.html %}
+  {% elsif t == "method" and i == "high" %}
+    {% include promo-box.html %}
+  {% elsif t == "comparison" %}
+    {% include bridge-box.html %}
+  {% elsif t == "review" %}
+    {% include promo-box.html %}
+  {% endif %}
+
+{% endif %}
+
+
+{% if include.position == "end" %}
+
+  <p>
+    <a href="/metodo-apprendimento-lingue">
+      Tutto parte da un metodo chiaro e sostenibile
+    </a>
+  </p>
+
+  {% if t == "problem" %}
+    {% include orient-box.html %}
+  {% elsif t == "method" %}
+    {% include bridge-box.html %}
+  {% else %}
+    {% include promo-box.html %}
+  {% endif %}
+
+{% endif %}
