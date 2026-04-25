@@ -25,7 +25,7 @@
 }
 
 /* ==========================================================================
-   RESET & BASE
+   RESET
    ========================================================================== */
 * {
   box-sizing: border-box;
@@ -63,7 +63,7 @@ a:hover {
 }
 
 /* ==========================================================================
-   HEADER & NAV
+   HEADER + NAV DESKTOP
    ========================================================================== */
 .site-header {
   background-color: var(--bg-header);
@@ -94,7 +94,6 @@ a:hover {
   text-decoration: none;
 }
 
-/* NAV */
 .site-nav {
   display: flex;
   align-items: center;
@@ -102,24 +101,21 @@ a:hover {
 
 .site-nav .trigger {
   display: flex;
-  align-items: center;
   gap: 22px;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
 .site-nav a {
   color: var(--text-main);
   font-weight: 500;
   font-size: 1rem;
-  transition: color .2s ease;
 }
 
 .site-nav a:hover {
   color: var(--primary-color);
-  text-decoration: none;
 }
 
-/* CTA NAV (Babbel / affiliate) */
+/* CTA NAV */
 .site-nav a[href*="babbel"],
 .site-nav a[href*="recensione"],
 .site-nav a:last-child {
@@ -131,9 +127,19 @@ a:hover {
   background: rgba(217,119,6,0.05);
 }
 
-.site-nav a[href*="babbel"]:hover,
-.site-nav a:last-child:hover {
-  background: rgba(217,119,6,0.12);
+/* ==========================================================================
+   HAMBURGER SYSTEM
+   ========================================================================== */
+
+.nav-toggle {
+  display: none;
+}
+
+.menu-icon {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  user-select: none;
 }
 
 /* ==========================================================================
@@ -160,24 +166,10 @@ a:hover {
   font-size: 2.4rem;
   line-height: 1.2;
   color: #1a202c;
-  margin-bottom: 10px;
-}
-
-.post-content h2 {
-  font-size: 1.8rem;
-  margin: 2em 0 .8em;
-  border-bottom: 2px solid var(--primary-color);
-  display: inline-block;
-  padding-bottom: 5px;
-}
-
-.post-content p {
-  margin-bottom: 1.2em;
-  font-size: 1.08rem;
 }
 
 /* ==========================================================================
-   BUTTONS
+   CTA BUTTON
    ========================================================================== */
 .btn-primary {
   display: inline-block;
@@ -195,20 +187,17 @@ a:hover {
 }
 
 /* ==========================================================================
-   FUNNEL BLOCKS (CORE UX)
+   FUNNEL BLOCKS
    ========================================================================== */
 
-/* TOFU */
 .orient-box {
   background: #0f172a;
   color: #fff;
   border-radius: var(--radius-md);
   padding: 32px 24px;
   text-align: center;
-  box-shadow: var(--shadow-md);
 }
 
-/* MOFU */
 .bridge-box {
   margin: 40px 0;
   padding: 26px 22px;
@@ -217,7 +206,6 @@ a:hover {
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 
-/* BOFU */
 .promo-box {
   margin: 45px 0;
   padding: 34px 26px;
@@ -225,19 +213,15 @@ a:hover {
   border-radius: var(--radius-md);
   text-align: center;
   background: linear-gradient(180deg, rgba(255,128,0,0.10), #fff);
-  box-shadow: var(--shadow-md);
 }
 
-/* TRUST */
 .trust-box {
   margin: 40px 0;
   padding: 26px;
-  border-radius: var(--radius-md);
   border: 1px solid var(--border-color);
-  background: #ffffff;
+  background: #fff;
 }
 
-/* TLDR */
 .tldr-box {
   background: #f1f5f9;
   border-left: 4px solid var(--text-light);
@@ -246,7 +230,7 @@ a:hover {
 }
 
 /* ==========================================================================
-   SECTION IN BREVE (CRO)
+   SECTION IN BREVE
    ========================================================================== */
 .section-in-breve {
   background: #f8fafc;
@@ -254,11 +238,10 @@ a:hover {
   padding: 28px;
   margin: 36px 0;
   border-radius: 0 10px 10px 0;
-  box-shadow: var(--shadow-sm);
 }
 
 /* ==========================================================================
-   SMART BLOCK (MICRO UX ENGINE)
+   SMART BLOCK
    ========================================================================== */
 .smart-block {
   display: flex;
@@ -268,27 +251,11 @@ a:hover {
   border-radius: 12px;
   background: #f8fafc;
   border-left: 4px solid var(--primary-color);
-  transition: transform .2s ease;
-}
-
-.smart-block:hover {
-  transform: translateY(-2px);
-}
-
-.smart-block__icon {
-  font-size: 1.3rem;
 }
 
 .smart-block__content strong {
-  display: block;
-  margin-bottom: 4px;
   font-weight: 800;
   color: #1a202c;
-}
-
-.smart-block__content p {
-  margin: 0;
-  color: var(--text-main);
 }
 
 /* ==========================================================================
@@ -301,7 +268,7 @@ a:hover {
 }
 
 /* ==========================================================================
-   MOBILE NAV FIX (CRITICAL)
+   MOBILE MENU (FIX DEFINITIVO DROPDOWN)
    ========================================================================== */
 @media (max-width: 768px) {
 
@@ -311,27 +278,39 @@ a:hover {
     gap: 12px;
   }
 
-  .site-nav .trigger {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+  .menu-icon {
+    display: block;
+  }
+
+  .site-nav {
     width: 100%;
   }
 
+  .site-nav .trigger {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+    padding-top: 10px;
+  }
+
+  /* 🔥 OPEN MENU */
+  .nav-toggle:checked ~ .site-nav .trigger {
+    display: flex;
+  }
+
   .site-nav a {
-    display: inline-flex;
-    padding: 6px 12px;
-    border-radius: 999px;
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
     border: 1px solid var(--border-color);
+    border-radius: 10px;
     background: #fff;
-    font-size: 0.9rem;
-    white-space: nowrap;
   }
 
   .site-nav a[href*="babbel"],
   .site-nav a:last-child {
     background: rgba(217,119,6,0.08);
-    border-color: rgba(217,119,6,0.3);
     font-weight: 800;
   }
-   }
+}
