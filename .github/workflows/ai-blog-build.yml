@@ -1,4 +1,4 @@
-name: AI Blog Build (V1 CLEAN)
+name: AI Blog Build (LOCKED)
 
 on:
   push:
@@ -8,64 +8,43 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ai-blog-build
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # =========================
-      # 1. CHECKOUT
-      # =========================
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # =========================
-      # 2. SYNC CON REMOTE (🔥 FIX CRITICO)
-      # =========================
-      - name: Sync with remote
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
-
-      # =========================
-      # 3. SETUP PYTHON
-      # =========================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # =========================
-      # 4. INSTALL DEPS
-      # =========================
-      - name: Install dependencies
-        run: pip install pyyaml
+      - name: Install deps
+        run: pip install pyyaml openai
 
-      # =========================
-      # 5. BUILD
-      # =========================
-      - name: Build articles
+      - name: Build
         run: python build_seo_engine.py
 
-      # =========================
-      # 6. COMMIT ONLY IF CHANGES
-      # =========================
-      - name: Commit changes
+      - name: Commit & Push
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add .
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
             exit 0
           fi
 
-          git commit -m "AI blog update (V1 CLEAN)"
+          git commit -m "AI build"
 
-      # =========================
-      # 7. PUSH SAFE
-      # =========================
-      - name: Push changes
-        run: git push origin main
+          git push origin main
