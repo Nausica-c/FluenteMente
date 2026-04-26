@@ -7,23 +7,32 @@ def build_article(article):
     cluster = article.get("cluster", "base")
     funnel = article.get("funnel", "tofu")
 
-    # 🔥 SEO CONTEXT ENRICHMENT
     seed = random.randint(1000, 9999)
 
-    context = {
-        "title": title,
-        "cluster": cluster,
-        "funnel": funnel,
-        "seed": seed,
-        "intent": "learn english fluency practical usage",
-        "tone": "teacher practical simple"
-    }
+    # ✔ mantenere compatibilità con AI writer classico
+    body = generate_article_body(
+        title=title,
+        cluster=cluster,
+        funnel=funnel,
+        seed=seed
+    )
 
-    body = generate_article_body(context)
+    # 🔥 fallback robusto
+    if not body or len(body) < 800:
+        body = f"""
+## Introduzione
+Guida pratica su {title}.
 
-    # 🔥 VALIDAZIONE MINIMA (IMPORTANTISSIMO)
-    if not body or len(body) < 500:
-        body = f"## Contenuto base\n\nSpiegazione di {title} con esempi pratici."
+## Spiegazione
+Contenuto educativo con esempi.
+
+## Esempi
+- esempio 1
+- esempio 2
+
+## Conclusione
+Applicazione pratica nel mondo reale.
+""".strip()
 
     article["ai_body"] = body
     article["seed"] = seed
