@@ -2,7 +2,7 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
-content_hash: 8c82cdb0d0315a08345c4e7e81ee8032dd8831c0082819fa40a21dc0c963a82d
+content_hash: 7854db9b2b020656343cae9255822ebff20020753d61de0c8959a2b7333e52f5
 ---
 
 # Meccanico e auto inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7492
+SEED: 5648
 CLUSTER: expat
 FUNNEL: mofu
 

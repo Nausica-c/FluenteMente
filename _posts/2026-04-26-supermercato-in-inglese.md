@@ -2,7 +2,7 @@
 title: "Supermercato in inglese"
 permalink: /supermercato-in-inglese/
 layout: post
-content_hash: 73c165ef139fb8e63b39dc397790c17a8d4b8fdc4aadefa862e3860ea28eaab3
+content_hash: a332f6f3eb495efdd87043c7f6e8002db79e9992d4e031b99878b0c564056186
 ---
 
 # Supermercato in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5072
+SEED: 2239
 CLUSTER: expat
 FUNNEL: mofu
 

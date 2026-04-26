@@ -2,7 +2,7 @@
 title: "Pronomi inglesi"
 permalink: /pronomi-inglesi/
 layout: post
-content_hash: 332eeff14ff1a7113be0e966b42fc59ba0fd0ef348391ac0dd80b56b873ca3e8
+content_hash: 1e8532f147334c5806476eb8b5f1a6e98d37855ddaca369e8006a67fbe77340a
 ---
 
 # Pronomi inglesi
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5533
+SEED: 3065
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Parole base inglese"
 permalink: /parole-base-inglese/
 layout: post
-content_hash: 3ebb7b5fa40615e1020ffbb63a26a0fdadf1eb0e1e5f9e6b21c0ca86f9413fc6
+content_hash: cd298184c7644267feb7ac41aa38ec21153bfa13e54b95acbc671c6b058de317
 ---
 
 # Parole base inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7999
+SEED: 1190
 CLUSTER: base
 FUNNEL: tofu
 

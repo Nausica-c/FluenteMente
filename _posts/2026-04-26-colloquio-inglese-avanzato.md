@@ -2,7 +2,7 @@
 title: "Colloquio inglese avanzato"
 permalink: /colloquio-inglese-avanzato/
 layout: post
-content_hash: 6e4c469752695cbf75b231273040c25fcf295026bf9d81925323676e83e8db1d
+content_hash: 6e7efb17db081397f3b1fb7e876d1f378a9e9c5247334833ada4f20107c273f8
 ---
 
 # Colloquio inglese avanzato
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4887
+SEED: 1908
 CLUSTER: business
 FUNNEL: mofu
 
