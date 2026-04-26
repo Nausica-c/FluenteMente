@@ -2,7 +2,7 @@
 title: "Come presentarsi in inglese in modo naturale"
 permalink: /come-presentarsi-in-inglese-in-modo-naturale/
 layout: post
-content_hash: 5ca0cfda2108cb5910ba3e405c9fb95237a1c706ce1e799751614e123b65328d
+content_hash: 2e64192646e0c4921476281b877bf1e223cd73a1b2458a6b84c9cc7ef5cf1a3a
 ---
 
 # Come presentarsi in inglese in modo naturale
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4532
+SEED: 5166
 CLUSTER: base
 FUNNEL: tofu
 

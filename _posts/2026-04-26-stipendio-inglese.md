@@ -2,7 +2,7 @@
 title: "Stipendio inglese"
 permalink: /stipendio-inglese/
 layout: post
-content_hash: abb6f0f0044caa242074fe9c120d08a9432ce1ef52090d45571dd3c304e15ea9
+content_hash: db4177cf77bb0f2dd28e5e62dcd4fe0281b4bc9f0f7e8ba4ffc039b5269f321f
 ---
 
 # Stipendio inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5365
+SEED: 7585
 CLUSTER: business
 FUNNEL: mofu
 

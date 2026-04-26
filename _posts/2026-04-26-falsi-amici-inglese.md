@@ -2,7 +2,7 @@
 title: "Falsi amici inglese"
 permalink: /falsi-amici-inglese/
 layout: post
-content_hash: 82498c146253a9dd181f2dbafdae06e00031fc9a4da27a0692585caaff1f2062
+content_hash: b8f0f0005e08f9c1fa24b6bc812896adddd2fb74dacd1f86913a339af8610183
 ---
 
 # Falsi amici inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6559
+SEED: 2674
 CLUSTER: cultura
 FUNNEL: tofu
 

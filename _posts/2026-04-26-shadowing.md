@@ -2,7 +2,7 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: 5c75df20e3cbd582b8be562c2a9ec6c491d639ea806f29c7ded25f3b3f7dbd53
+content_hash: 472d787f5422d00e1b46bf48527a66a108144a844bd69b649afd176ee7f7dd86
 ---
 
 # Shadowing
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4457
+SEED: 6559
 CLUSTER: method
 FUNNEL: mofu
 

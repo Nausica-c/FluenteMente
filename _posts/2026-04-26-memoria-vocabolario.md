@@ -2,7 +2,7 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 4299b1096b74c1bfc2016469ce986ecda21140ac8f7f623b5f742f524df88fda
+content_hash: 712717567e1a40a9cf4120f8d271d8cb32cdc361071c15c84ed58c3173948738
 ---
 
 # Memoria vocabolario
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7255
+SEED: 6461
 CLUSTER: method
 FUNNEL: mofu
 
