@@ -2,8 +2,8 @@ import os
 import json
 import yaml
 import re
-import random
 import hashlib
+import random
 from datetime import datetime
 from collections import defaultdict
 
@@ -14,48 +14,12 @@ from collections import defaultdict
 INPUT_FILE = "_data/articles.yml"
 OUTPUT_LINKED = "_data/articles-linked.yml"
 POSTS_DIR = "_posts"
-CACHE_FILE = ".ai_cache.json"
-
-CLUSTER_LINKS = {
-    "base": ["travel", "social"],
-    "travel": ["expat", "social"],
-    "social": ["expat", "business"],
-    "expat": ["business", "method"],
-    "business": ["method"],
-    "culture": ["social", "business"],
-    "method": ["bofu"],
-}
-
-FUNNEL_PRIORITY = {
-    "tofu": 1,
-    "mofu": 2,
-    "bofu": 3
-}
-
-# =========================
-# CACHE SYSTEM (V6)
-# =========================
-
-def load_cache():
-    if not os.path.exists(CACHE_FILE):
-        return {}
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def save_cache(cache):
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, indent=2, ensure_ascii=False)
-
-def cache_key(article):
-    return hashlib.sha256(
-        f"{article.get('title','')}-{article.get('seed',0)}".encode("utf-8")
-    ).hexdigest()
 
 # =========================
 # UTIL
 # =========================
 
-def slugify(text):
+def slugify(text: str) -> str:
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s-]", "", text)
     text = re.sub(r"\s+", "-", text)
@@ -64,25 +28,17 @@ def slugify(text):
 def today_date():
     return datetime.now().strftime("%Y-%m-%d")
 
-def compute_hash(content: str) -> str:
+def hash_content(content: str) -> str:
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 # =========================
-# LOAD
+# LOAD DATA
 # =========================
 
 def load_articles():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        raw = f.read().strip()
-
-    try:
-        data = yaml.safe_load(raw)
-        if isinstance(data, list):
-            return data
-    except:
-        pass
-
-    return json.loads(raw)
+        data = yaml.safe_load(f)
+    return data if isinstance(data, list) else []
 
 # =========================
 # INDEX
@@ -99,143 +55,78 @@ def index_articles(articles):
     return by_cluster, by_funnel
 
 # =========================
-# LINKS
+# LINKS (SIMPLE + SAFE)
 # =========================
 
-def pick_links(article, by_cluster, by_funnel):
+def pick_links(article, by_cluster):
     cluster = article.get("cluster", "base")
-    funnel = article.get("funnel", "tofu")
 
+    candidates = by_cluster.get(cluster, [])
     links = []
-    seen = set()
 
-    def add(items):
-        for i in items:
-            if not isinstance(i, dict):
-                continue
-            uid = i.get("id")
-            if not uid or uid in seen or uid == article.get("id"):
-                continue
-            links.append(i)
-            seen.add(uid)
+    for c in candidates:
+        if c.get("id") != article.get("id"):
+            links.append({
+                "title": c.get("title"),
+                "url": c.get("url", "#")
+            })
 
-    add(by_cluster.get(cluster, [])[:3])
-
-    for c in CLUSTER_LINKS.get(cluster, []):
-        add(by_cluster.get(c, [])[:1])
-
-    current = FUNNEL_PRIORITY.get(funnel, 1)
-    for f, lvl in FUNNEL_PRIORITY.items():
-        if lvl > current:
-            add(by_funnel.get(f, [])[:1])
-            break
-
-    add(by_funnel.get("bofu", [])[:1])
-
-    return links[:6]
+    return links[:5]
 
 # =========================
-# LAYOUT
+# CONTENT ENGINE (STABLE)
 # =========================
 
-def assign_include_layout(article):
+def generate_body(article):
+    title = article.get("title", "")
     cluster = article.get("cluster", "base")
     funnel = article.get("funnel", "tofu")
 
-    return {
-        "after_intro": ["tldr-box.html"],
-        "after_h1": ["section-in-breve.html"],
-        "mid_article": ["bridge-box.html"] if cluster == "expat" else [],
-        "before_cta": ["promo-box.html"] if funnel == "bofu" else [],
-        "footer": ["trust-box.html", "affiliate-disclosure.html"]
-        if funnel == "bofu"
-        else ["trust-box.html"]
-    }
-
-# =========================
-# AI ENGINE (STABLE)
-# =========================
-
-def generate_ai_body(article):
-    title = article.get("title", "")
-    cluster = article.get("cluster", "")
-    funnel = article.get("funnel", "")
-    seed = article.get("seed", 0)
-
+    seed = article.get("seed") or random.randint(1000, 9999)
     random.seed(seed)
 
     return f"""
 ## Introduzione
-Guida pratica su {title} con contesto reale.
+Guida pratica su {title}.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
+---
 SEED: {seed}
 CLUSTER: {cluster}
 FUNNEL: {funnel}
 """.strip()
 
 # =========================
-# AI CACHE WRAPPER (V6 CORE)
+# ARTICLE BUILDER
 # =========================
 
-def generate_ai_cached(article, cache):
-    key = cache_key(article)
-
-    if key in cache:
-        return cache[key]
-
-    body = generate_ai_body(article)
-    cache[key] = body
-    return body
-
-# =========================
-# ARTICLE BUILD
-# =========================
-
-def generate_article(article):
+def build_article(article, links):
     title = article.get("title", "Untitled")
-    layout = article.get("include_layout", {})
 
-    body = article["ai_body"]
+    body = generate_body(article)
 
     content = f"# {title}\n\n"
-
-    for b in layout.get("after_intro", []):
-        content += f"{{% include {b} %}}\n\n"
-
-    for b in layout.get("after_h1", []):
-        content += f"{{% include {b} %}}\n\n"
-
     content += body + "\n\n"
 
-    for b in layout.get("mid_article", []):
-        content += f"{{% include {b} %}}\n\n"
-
-    if article.get("internal_links"):
+    if links:
         content += "## Articoli correlati\n\n"
-        for l in article["internal_links"]:
+        for l in links:
             content += f"- [{l['title']}]({l['url']})\n"
-
-    for b in layout.get("before_cta", []):
-        content += f"\n{{% include {b} %}}\n"
-
-    for b in layout.get("footer", []):
-        content += f"\n{{% include {b} %}}\n"
 
     return content
 
@@ -243,22 +134,21 @@ def generate_article(article):
 # EXPORT (NO REGEN IF NOT CHANGED)
 # =========================
 
-def export_markdown(article):
+def export_post(article, content):
 
     os.makedirs(POSTS_DIR, exist_ok=True)
 
     slug = slugify(article.get("title", "untitled"))
     path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
 
-    new_content = article["final_article"]
-    new_hash = compute_hash(new_content)
+    new_hash = hash_content(content)
 
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
-            old_content = f.read()
+            old = f.read()
 
-        if compute_hash(old_content) == new_hash:
-            print(f"⏭ SKIP: {slug}")
+        if hash_content(old) == new_hash:
+            print(f"⏭ SKIP {slug}")
             return
 
     with open(path, "w", encoding="utf-8") as f:
@@ -268,17 +158,17 @@ def export_markdown(article):
         f.write("layout: post\n")
         f.write(f"content_hash: {new_hash}\n")
         f.write("---\n\n")
-        f.write(new_content)
+        f.write(content)
 
-    print(f"✔ UPDATED: {slug}")
+    print(f"✔ UPDATED {slug}")
 
 # =========================
-# PIPELINE (V6)
+# PIPELINE
 # =========================
 
 def build_output(articles):
+
     by_cluster, by_funnel = index_articles(articles)
-    cache = load_cache()
 
     output = []
 
@@ -289,20 +179,17 @@ def build_output(articles):
         if not a.get("seed"):
             a["seed"] = random.randint(1000, 9999)
 
-        a["internal_links"] = pick_links(a, by_cluster, by_funnel)
-        a["include_layout"] = assign_include_layout(a)
+        links = pick_links(a, by_cluster)
 
-        # 🔥 CACHE AI
-        a["ai_body"] = generate_ai_cached(a, cache)
+        content = build_article(a, links)
 
-        a["final_article"] = generate_article(a)
-        a["content_hash"] = compute_hash(a["final_article"])
+        export_post(a, content)
 
-        export_markdown(a)
+        a["final_article"] = content
+        a["internal_links"] = links
 
         output.append(a)
 
-    save_cache(cache)
     return output
 
 # =========================
@@ -321,7 +208,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 V6 CACHE ENGINE ACTIVE")
+    print("🚀 V1 CLEAN SYSTEM ACTIVE")
 
 if __name__ == "__main__":
     main()
