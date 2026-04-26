@@ -21,7 +21,7 @@
   priority: 95
 
 # =========================
-# ✈️ VIAGGIO (TOFU TRAFFICO)
+# ✈️ VIAGGIO
 # =========================
 
 - id: 3
@@ -52,7 +52,7 @@
   priority: 100
 
 # =========================
-# 🔤 BASE (TOFU SEO)
+# 🔤 BASE
 # =========================
 
 - id: 6
@@ -83,7 +83,7 @@
   priority: 85
 
 # =========================
-# ✈️ VIAGGIO (ESPANSIONE TRAFFICO)
+# ✈️ VIAGGIO (2)
 # =========================
 
 - id: 9
@@ -149,12 +149,12 @@
   role: spoke
   priority: 85
 
-  # =========================
-# 🏠 EXPAT (MOFU - vita reale)
+# =========================
+# 🏠 EXPAT
 # =========================
 
 - id: 16
-  title: "Affittare casa all’estero in inglese: guida completa"
+  title: "Affittare casa all’estero in inglese"
   url: "/inglese/expat/affittare-casa/"
   type: informational
   funnel: mofu
@@ -163,7 +163,7 @@
   priority: 95
 
 - id: 17
-  title: "Contratto d’affitto in inglese: termini essenziali"
+  title: "Contratto d’affitto in inglese"
   url: "/inglese/expat/contratto-affitto/"
   type: informational
   funnel: mofu
@@ -172,7 +172,7 @@
   priority: 85
 
 - id: 18
-  title: "Utenze casa all’estero: luce, gas e internet in inglese"
+  title: "Utenze casa all’estero in inglese"
   url: "/inglese/expat/utenze-casa/"
   type: informational
   funnel: mofu
@@ -181,7 +181,7 @@
   priority: 85
 
 - id: 19
-  title: "Andare dal medico all’estero: frasi in inglese"
+  title: "Andare dal medico all’estero in inglese"
   url: "/inglese/expat/medico-inglese/"
   type: informational
   funnel: mofu
@@ -190,7 +190,7 @@
   priority: 90
 
 - id: 20
-  title: "Aprire un conto bancario all’estero in inglese"
+  title: "Aprire un conto bancario all’estero"
   url: "/inglese/expat/banca-inglese/"
   type: informational
   funnel: mofu
@@ -199,7 +199,7 @@
   priority: 85
 
 - id: 21
-  title: "Lavori part-time all’estero: inglese utile per sopravvivere"
+  title: "Lavori part-time all’estero"
   url: "/inglese/expat/lavoro-estero/"
   type: informational
   funnel: mofu
@@ -208,11 +208,11 @@
   priority: 90
 
 # =========================
-# 🧑‍🤝‍🧑 SOCIAL (TOFU → MOFU EMOTIVO)
+# 🧑‍🤝‍🧑 SOCIAL
 # =========================
 
 - id: 22
-  title: "Fare amicizia in inglese: frasi e strategie reali"
+  title: "Fare amicizia in inglese"
   url: "/inglese/social/amicizia-inglese/"
   type: informational
   funnel: tofu
@@ -221,7 +221,7 @@
   priority: 90
 
 - id: 23
-  title: "Small talk in inglese: come rompere il ghiaccio"
+  title: "Small talk in inglese"
   url: "/inglese/social/small-talk/"
   type: informational
   funnel: mofu
@@ -230,7 +230,7 @@
   priority: 90
 
 - id: 24
-  title: "Slang inglese moderno: cosa dicono i madrelingua"
+  title: "Slang inglese moderno"
   url: "/inglese/social/slang-inglese/"
   type: informational
   funnel: tofu
@@ -239,7 +239,7 @@
   priority: 85
 
 - id: 25
-  title: "Dating in inglese: frasi per appuntamenti"
+  title: "Dating in inglese"
   url: "/inglese/social/dating-inglese/"
   type: informational
   funnel: mofu
@@ -248,7 +248,7 @@
   priority: 85
 
 - id: 26
-  title: "Parlare al pub in inglese: situazioni reali"
+  title: "Parlare al pub in inglese"
   url: "/inglese/social/pub-inglese/"
   type: informational
   funnel: tofu
@@ -257,11 +257,11 @@
   priority: 80
 
 # =========================
-# 💼 BUSINESS (ENTRY LEVEL MOFU)
+# 💼 BUSINESS
 # =========================
 
 - id: 27
-  title: "CV in inglese: come scriverlo perfettamente"
+  title: "CV in inglese"
   url: "/inglese/business/cv/"
   type: method
   funnel: mofu
@@ -270,7 +270,7 @@
   priority: 95
 
 - id: 28
-  title: "Colloquio di lavoro in inglese: domande e risposte"
+  title: "Colloquio di lavoro in inglese"
   url: "/inglese/business/interview/"
   type: method
   funnel: mofu
@@ -279,7 +279,7 @@
   priority: 95
 
 - id: 29
-  title: "Email formali in inglese per lavoro"
+  title: "Email formali in inglese"
   url: "/inglese/business/email-formali/"
   type: method
   funnel: mofu
@@ -288,7 +288,7 @@
   priority: 90
 
 - id: 30
-  title: "LinkedIn in inglese: come creare profilo professionale"
+  title: "LinkedIn in inglese"
   url: "/inglese/business/linkedin/"
   type: informational
   funnel: mofu
@@ -296,8 +296,12 @@
   role: spoke
   priority: 85
 
-  - id: 31
-  title: "Affittare Casa all’Estero: Frasi e Contratti in Inglese"
+# =========================
+# EXPAT + SOCIAL + BUSINESS CLEAN (31–45)
+# =========================
+
+- id: 31
+  title: "Affittare casa all’estero"
   url: "/inglese/expat/affitto-casa-inglese/"
   type: informational
   funnel: mofu
@@ -306,7 +310,7 @@
   priority: 95
 
 - id: 32
-  title: "Parlare con il Landlord in Inglese senza Stress"
+  title: "Landlord e problemi casa"
   url: "/inglese/expat/landlord-problemi-casa/"
   type: problem
   funnel: mofu
@@ -315,7 +319,7 @@
   priority: 85
 
 - id: 33
-  title: "Aprire un Conto Corrente all’Estero in Inglese"
+  title: "Conto corrente estero"
   url: "/inglese/expat/conto-corrente-inglese/"
   type: informational
   funnel: mofu
@@ -324,7 +328,7 @@
   priority: 88
 
 - id: 34
-  title: "Iscriversi al Medico di Base (GP) in Inglese"
+  title: "Medico di base all’estero"
   url: "/inglese/expat/medico-base-inglese/"
   type: informational
   funnel: mofu
@@ -333,7 +337,7 @@
   priority: 87
 
 - id: 35
-  title: "Utenze Casa in Inglese: Luce, Gas e Internet"
+  title: "Utenze casa inglese"
   url: "/inglese/expat/utenze-casa-inglese/"
   type: informational
   funnel: mofu
@@ -342,7 +346,7 @@
   priority: 85
 
 - id: 36
-  title: "Fare la Spesa all’Estero in Inglese (Supermercato)"
+  title: "Supermercato in inglese"
   url: "/inglese/expat/supermercato-inglese/"
   type: informational
   funnel: mofu
@@ -351,7 +355,7 @@
   priority: 80
 
 - id: 37
-  title: "Salute e Farmacia in Inglese: Frasi Essenziali"
+  title: "Salute e farmacia inglese"
   url: "/inglese/expat/salute-inglese/"
   type: informational
   funnel: mofu
@@ -360,7 +364,7 @@
   priority: 85
 
 - id: 38
-  title: "Problemi con Auto e Meccanico in Inglese"
+  title: "Meccanico e auto inglese"
   url: "/inglese/expat/meccanico-auto-inglese/"
   type: informational
   funnel: mofu
@@ -368,8 +372,8 @@
   role: spoke
   priority: 75
 
-  - id: 39
-  title: "Fare Amicizia in Inglese: Situazioni Reali"
+- id: 39
+  title: "Fare amicizia in inglese"
   url: "/inglese/social/amicizia-inglese/"
   type: informational
   funnel: mofu
@@ -378,7 +382,7 @@
   priority: 90
 
 - id: 40
-  title: "Small Talk in Inglese: Come Non Restare in Silenzio"
+  title: "Small talk senza silenzi"
   url: "/inglese/social/small-talk-inglese/"
   type: bridge
   funnel: mofu
@@ -387,8 +391,8 @@
   priority: 95
 
 - id: 41
-  title: "Slang Inglese Reale: Parla Come un Madrelingua"
-  url: "/inglese/social/slang-inglese/"
+  title: "Slang reale inglese"
+  url: "/inglese/social/slang-reale/"
   type: informational
   funnel: tofu
   cluster: social
@@ -396,7 +400,7 @@
   priority: 85
 
 - id: 42
-  title: "Dating in Inglese: Frasi per App e Vita Reale"
+  title: "Dating in inglese"
   url: "/inglese/social/dating-inglese/"
   type: informational
   funnel: mofu
@@ -404,8 +408,8 @@
   role: spoke
   priority: 80
 
-  - id: 43
-  title: "CV in Inglese Perfetto per Lavorare all’Estero"
+- id: 43
+  title: "CV inglese avanzato"
   url: "/inglese/business/cv-inglese/"
   type: method
   funnel: mofu
@@ -414,7 +418,7 @@
   priority: 95
 
 - id: 44
-  title: "Colloquio di Lavoro in Inglese: Domande e Risposte"
+  title: "Colloquio inglese avanzato"
   url: "/inglese/business/colloquio-inglese/"
   type: method
   funnel: mofu
@@ -423,7 +427,7 @@
   priority: 92
 
 - id: 45
-  title: "Email e Comunicazione Professionale in Inglese"
+  title: "Email professionali inglese"
   url: "/inglese/business/email-inglese/"
   type: method
   funnel: mofu
@@ -431,12 +435,12 @@
   role: spoke
   priority: 90
 
-  # =========================
-# 🔤 GRAMMATICA BASE (46–52)
+# =========================
+# BASE + VOCAB + GRAMMAR (46–60)
 # =========================
 
 - id: 46
-  title: "Pronomi Personali in Inglese: Guida Facile"
+  title: "Pronomi inglesi"
   url: "/inglese/base/pronomi-personali-inglese/"
   type: informational
   funnel: tofu
@@ -445,7 +449,7 @@
   priority: 90
 
 - id: 47
-  title: "Articoli in Inglese: A, An, The Spiegati Bene"
+  title: "Articoli inglesi"
   url: "/inglese/base/articoli-inglese/"
   type: informational
   funnel: tofu
@@ -454,7 +458,7 @@
   priority: 92
 
 - id: 48
-  title: "Plurale in Inglese: Regole e Eccezioni"
+  title: "Plurale inglese"
   url: "/inglese/base/plurale-inglese/"
   type: informational
   funnel: tofu
@@ -463,7 +467,7 @@
   priority: 85
 
 - id: 49
-  title: "Dimostrativi in Inglese: This, That, These, Those"
+  title: "Dimostrativi inglesi"
   url: "/inglese/base/dimostrativi-inglese/"
   type: informational
   funnel: tofu
@@ -472,7 +476,7 @@
   priority: 80
 
 - id: 50
-  title: "Aggettivi in Inglese: Come Usarli Correttamente"
+  title: "Aggettivi inglese"
   url: "/inglese/base/aggettivi-inglese/"
   type: informational
   funnel: tofu
@@ -481,7 +485,7 @@
   priority: 85
 
 - id: 51
-  title: "Verbo Essere (To Be): Guida Completa"
+  title: "Verbo essere"
   url: "/inglese/base/verbo-essere/"
   type: informational
   funnel: tofu
@@ -490,7 +494,7 @@
   priority: 100
 
 - id: 52
-  title: "Verbo Avere (Have / Has): Spiegazione Facile"
+  title: "Verbo avere"
   url: "/inglese/base/verbo-avere/"
   type: informational
   funnel: tofu
@@ -498,12 +502,8 @@
   role: spoke
   priority: 95
 
-# =========================
-# 🔤 VOCABOLARIO CORE (53–57)
-# =========================
-
 - id: 53
-  title: "Parole Inglesi Base: Le 100 Più Usate"
+  title: "Parole base inglese"
   url: "/inglese/base/parole-base/"
   type: informational
   funnel: tofu
@@ -512,7 +512,7 @@
   priority: 100
 
 - id: 54
-  title: "Numeri in Inglese da 1 a 100"
+  title: "Numeri inglese"
   url: "/inglese/base/numeri-inglese/"
   type: informational
   funnel: tofu
@@ -521,7 +521,7 @@
   priority: 95
 
 - id: 55
-  title: "Colori in Inglese: Lista Completa"
+  title: "Colori inglese"
   url: "/inglese/base/colori-inglese/"
   type: informational
   funnel: tofu
@@ -530,7 +530,7 @@
   priority: 80
 
 - id: 56
-  title: "Tempo e Orari in Inglese: Come Dirli"
+  title: "Tempo inglese"
   url: "/inglese/base/tempo-inglese/"
   type: informational
   funnel: tofu
@@ -539,7 +539,7 @@
   priority: 85
 
 - id: 57
-  title: "Vocabolario Viaggio Base in Inglese"
+  title: "Vocabolario viaggio"
   url: "/inglese/base/vocabolario-viaggio/"
   type: informational
   funnel: tofu
@@ -547,12 +547,8 @@
   role: hub
   priority: 95
 
-# =========================
-# 🔤 GRAMMATICA FUNZIONALE (58–60)
-# =========================
-
 - id: 58
-  title: "Preposizioni in Inglese: In, On, At"
+  title: "Preposizioni inglesi"
   url: "/inglese/base/preposizioni-in-on-at/"
   type: informational
   funnel: tofu
@@ -561,7 +557,7 @@
   priority: 90
 
 - id: 59
-  title: "Much, Many, A Lot Of: Differenze Facili"
+  title: "Much many a lot"
   url: "/inglese/base/much-many-a-lot-of/"
   type: informational
   funnel: tofu
@@ -570,7 +566,7 @@
   priority: 85
 
 - id: 60
-  title: "Do vs Make: Gli Errori Più Comuni"
+  title: "Do vs Make"
   url: "/inglese/base/do-vs-make/"
   type: informational
   funnel: tofu
@@ -578,12 +574,12 @@
   role: spoke
   priority: 88
 
-  # =========================
-# 💼 BUSINESS (61–68)
+# =========================
+# BUSINESS + CULTURA + METHOD (61–88)
 # =========================
 
 - id: 61
-  title: "CV in Inglese Perfetto per Lavorare all’Estero"
+  title: "CV inglese avanzato"
   url: "/inglese/business/cv-inglese/"
   type: method
   funnel: mofu
@@ -592,7 +588,7 @@
   priority: 100
 
 - id: 62
-  title: "Colloquio di Lavoro in Inglese: Domande e Risposte"
+  title: "Colloquio inglese"
   url: "/inglese/business/colloquio-inglese/"
   type: method
   funnel: mofu
@@ -601,7 +597,7 @@
   priority: 95
 
 - id: 63
-  title: "Email Professionali in Inglese per il Lavoro"
+  title: "Email inglese"
   url: "/inglese/business/email-inglese/"
   type: method
   funnel: mofu
@@ -610,7 +606,7 @@
   priority: 95
 
 - id: 64
-  title: "Presentazioni in Inglese: Come Parlare in Public Speaking"
+  title: "Presentazioni inglese"
   url: "/inglese/business/presentazioni-inglese/"
   type: method
   funnel: mofu
@@ -619,7 +615,7 @@
   priority: 90
 
 - id: 65
-  title: "Meeting in Inglese: Frasi e Strutture Utili"
+  title: "Meeting inglese"
   url: "/inglese/business/meeting-inglese/"
   type: method
   funnel: mofu
@@ -628,7 +624,7 @@
   priority: 90
 
 - id: 66
-  title: "Small Talk Professionale in Inglese (Networking)"
+  title: "Networking inglese"
   url: "/inglese/business/small-talk-business/"
   type: informational
   funnel: mofu
@@ -637,7 +633,7 @@
   priority: 88
 
 - id: 67
-  title: "Negoziare Stipendio in Inglese: Frasi Strategiche"
+  title: "Stipendio inglese"
   url: "/inglese/business/stipendio-inglese/"
   type: method
   funnel: mofu
@@ -646,7 +642,7 @@
   priority: 92
 
 - id: 68
-  title: "LinkedIn in Inglese: Profilo Perfetto per Lavoro Estero"
+  title: "LinkedIn inglese"
   url: "/inglese/business/linkedin-inglese/"
   type: method
   funnel: mofu
@@ -654,12 +650,8 @@
   role: spoke
   priority: 94
 
-# =========================
-# 🌍 CULTURA AVANZATA (69–75)
-# =========================
-
 - id: 69
-  title: "Falsi Amici Inglese: Errori che Cambiano il Significato"
+  title: "Falsi amici inglese"
   url: "/inglese/cultura/falsi-amici/"
   type: informational
   funnel: tofu
@@ -668,7 +660,7 @@
   priority: 95
 
 - id: 70
-  title: "Parole Inglesi Intraducibili: Significati Nascosti"
+  title: "Parole intraducibili"
   url: "/inglese/cultura/parole-intraducibili/"
   type: informational
   funnel: tofu
@@ -677,7 +669,7 @@
   priority: 85
 
 - id: 71
-  title: "Inglese Britannico vs Americano: Differenze Reali"
+  title: "UK vs US"
   url: "/inglese/cultura/uk-vs-us/"
   type: informational
   funnel: tofu
@@ -686,7 +678,7 @@
   priority: 90
 
 - id: 72
-  title: "Storia della Lingua Inglese: Come è Nata Davvero"
+  title: "Storia inglese"
   url: "/inglese/cultura/storia-inglese/"
   type: informational
   funnel: tofu
@@ -695,7 +687,7 @@
   priority: 80
 
 - id: 73
-  title: "Pronuncia Inglese: Errori Tipici degli Italiani"
+  title: "Pronuncia italiani"
   url: "/inglese/pronuncia/errori-italiani/"
   type: informational
   funnel: mofu
@@ -704,16 +696,16 @@
   priority: 90
 
 - id: 74
-  title: "Slang Inglese Reale: Come Parlano i Madrelingua"
+  title: "Slang reale"
   url: "/inglese/cultura/slang-reale/"
   type: informational
   funnel: mofu
-  cluster: culture
+  cluster: cultura
   role: spoke
   priority: 88
 
 - id: 75
-  title: "Mentalità Inglese: Come Pensano Davvero"
+  title: "Mentalità inglese"
   url: "/inglese/cultura/mentalita-inglese/"
   type: informational
   funnel: mofu
@@ -721,12 +713,8 @@
   role: spoke
   priority: 92
 
-  # =========================
-# 🧠 METODO FLUENTEMENTE (76–82)
-# =========================
-
 - id: 76
-  title: "Come Imparare l’Inglese da Zero Senza Studiare Ore"
+  title: "Inglese da zero"
   url: "/metodo/studiare-inglese-zero/"
   type: method
   funnel: mofu
@@ -735,7 +723,7 @@
   priority: 95
 
 - id: 77
-  title: "Perché non riesci a parlare inglese (anche se lo capisci)"
+  title: "Blocco parlare inglese"
   url: "/metodo/blocco-parlato-inglese/"
   type: problem
   funnel: mofu
@@ -744,7 +732,7 @@
   priority: 100
 
 - id: 78
-  title: "Pensare in Inglese: Il Metodo Definitivo"
+  title: "Pensare in inglese"
   url: "/metodo/pensare-in-inglese/"
   type: method
   funnel: mofu
@@ -753,7 +741,7 @@
   priority: 95
 
 - id: 79
-  title: "Shadowing in Inglese: Tecnica per Parlare Fluente"
+  title: "Shadowing"
   url: "/metodo/shadowing-inglese/"
   type: method
   funnel: mofu
@@ -762,7 +750,7 @@
   priority: 90
 
 - id: 80
-  title: "Input Comprensibile: Il Segreto per Imparare Veloce"
+  title: "Input comprensibile"
   url: "/metodo/input-comprensibile/"
   type: method
   funnel: mofu
@@ -771,7 +759,7 @@
   priority: 90
 
 - id: 81
-  title: "Metodo FluenteMente: Il Sistema Completo"
+  title: "Metodo FluenteMente"
   url: "/metodo/fluentemente-metodo/"
   type: method
   funnel: bofu
@@ -779,12 +767,8 @@
   role: hub
   priority: 100
 
-# =========================
-# 🧠 MEMORIA + FLUENCY (82–85)
-# =========================
-
 - id: 82
-  title: "Ripetizione Spaziata: Come Non Dimenticare Più le Parole"
+  title: "Ripetizione spaziata"
   url: "/metodo/ripetizione-spaziata/"
   type: method
   funnel: mofu
@@ -793,7 +777,7 @@
   priority: 88
 
 - id: 83
-  title: "Routine Giornaliera per Imparare Inglese in 15 Minuti"
+  title: "Routine inglese"
   url: "/metodo/routine-inglese/"
   type: method
   funnel: mofu
@@ -802,7 +786,7 @@
   priority: 90
 
 - id: 84
-  title: "Come Smettere di Tradurre Mentalmente in Italiano"
+  title: "Smettere tradurre"
   url: "/metodo/smettere-tradurre/"
   type: method
   funnel: mofu
@@ -811,7 +795,7 @@
   priority: 92
 
 - id: 85
-  title: "Memoria a Lungo Termine per il Vocabolario Inglese"
+  title: "Memoria vocabolario"
   url: "/metodo/memoria-vocabolario/"
   type: method
   funnel: mofu
@@ -819,12 +803,8 @@
   role: spoke
   priority: 88
 
-# =========================
-# 🚀 CONVERSIONE + BABBEL (86–88)
-# =========================
-
 - id: 86
-  title: "Errori che Ti Impediscono di Parlare Inglese Fluente"
+  title: "Errori inglese"
   url: "/metodo/errori-inglese/"
   type: problem
   funnel: bofu
@@ -833,7 +813,7 @@
   priority: 95
 
 - id: 87
-  title: "Perché i Metodi Tradizionali Non Funzionano"
+  title: "Metodi tradizionali"
   url: "/metodo/metodi-tradizionali-inglese/"
   type: comparison
   funnel: bofu
@@ -842,11 +822,10 @@
   priority: 100
 
 - id: 88
-  title: "Babbel Funziona Davvero? Recensione Completa"
+  title: "Recensione Babbel"
   url: "/recensione-babbel/"
   type: review
   funnel: bofu
   cluster: monetization
   role: money
   priority: 100
-  
