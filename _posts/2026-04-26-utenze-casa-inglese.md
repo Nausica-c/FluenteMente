@@ -2,7 +2,7 @@
 title: "Utenze casa inglese"
 permalink: /utenze-casa-inglese/
 layout: post
-content_hash: 8bc5d5fde52da1db73ab1c1b5daae71796c149bfd886bf1d7d673558c1653088
+content_hash: a6a7740693a28b79a3afa121199a0a21de0fb34f39f700db87b0b5c5bc14ec02
 ---
 
 # Utenze casa inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 3546
+SEED: 8829
 CLUSTER: expat
 FUNNEL: mofu
 

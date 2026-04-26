@@ -2,7 +2,7 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: a78684e5d63d94dcaf879bc47736972af326a600c9f423f1b683c5391b8f1156
+content_hash: 55408e582dbbb8744dd9421de62758e101cb7bb3e8ef75f5fb36e028413db98c
 ---
 
 # Slang inglese moderno
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7296
+SEED: 8449
 CLUSTER: social
 FUNNEL: tofu
 

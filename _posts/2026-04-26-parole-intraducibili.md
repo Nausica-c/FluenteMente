@@ -2,7 +2,7 @@
 title: "Parole intraducibili"
 permalink: /parole-intraducibili/
 layout: post
-content_hash: 2f3baaa2a2cb27c846b7e4a85e881bc6f7f8c15a0423cd213c58cdcfdf2a2347
+content_hash: a7fc74e14c8fb8cb2749db7a545fc023f667b50ea1b763017690d673727566cc
 ---
 
 # Parole intraducibili
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2705
+SEED: 1038
 CLUSTER: cultura
 FUNNEL: tofu
 

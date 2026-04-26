@@ -2,7 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: 086825acc091f78df9185ef1d7c00adc62e0d57d8491243b05260b9d82863f08
+content_hash: cc699bc00fe96f001f066388ca980caac4200adaa8150700e321b78d3209feaa
 ---
 
 # Email inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5046
+SEED: 8669
 CLUSTER: business
 FUNNEL: mofu
 

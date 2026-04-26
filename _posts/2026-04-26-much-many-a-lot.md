@@ -2,7 +2,7 @@
 title: "Much many a lot"
 permalink: /much-many-a-lot/
 layout: post
-content_hash: 01a717718deb9e938bc9676371f77a9a13c897176ba81dcdfc95dd1830e78bf1
+content_hash: 3f42f90c87f25509f1a2bd98990ff6ea3b7dda759806274bca375d339bd4d7d3
 ---
 
 # Much many a lot
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4192
+SEED: 4298
 CLUSTER: base
 FUNNEL: tofu
 

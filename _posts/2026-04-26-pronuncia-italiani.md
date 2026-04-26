@@ -2,7 +2,7 @@
 title: "Pronuncia italiani"
 permalink: /pronuncia-italiani/
 layout: post
-content_hash: 42fb818750382a4c81a6fcaf95714956b556e9ebf944364bd23919af81967fb0
+content_hash: 73b133d64268652ba471b18046f3429759431e128cce8a9748155122b4e497ea
 ---
 
 # Pronuncia italiani
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2939
+SEED: 1152
 CLUSTER: pronuncia
 FUNNEL: mofu
 
