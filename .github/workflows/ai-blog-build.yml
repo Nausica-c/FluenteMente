@@ -18,6 +18,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Sync repo safely
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -26,22 +34,19 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml openai
 
-      # 🔥 STEP 1: GENERAZIONE PRIMA DI GIT OPS
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      # 🔥 STEP 2: Sync sicuro dopo generazione
-      - name: Sync with remote safely
+      - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
 
-          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
-          git commit -m "AI blog update" || echo "no changes"
+          git commit -m "AI blog update"
 
-          git pull origin main --no-rebase || echo "no remote changes"
-
-      # 🔥 STEP 3: PUSH SAFE
       - name: Push changes
-        run: git push origin main
+        run: git push origin main --force-with-lease
