@@ -2,7 +2,7 @@
 title: "Parole base inglese"
 permalink: /parole-base-inglese/
 layout: post
-content_hash: d5d6739313ec532c7c8685786fee8a4b4b636575e4aea41a21a7e6baf93065bb
+content_hash: 923dc751fc95f7067677f1127a67e475fc079efd8b8efc5d31d3a55ef12fbe45
 ---
 
 # Parole base inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6475
+SEED: 5172
 CLUSTER: base
 FUNNEL: tofu
 

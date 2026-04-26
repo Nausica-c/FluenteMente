@@ -2,7 +2,7 @@
 title: "Frasi inglese aeroporto: check-in, gate e bagagli"
 permalink: /frasi-inglese-aeroporto:-check-in,-gate-e-bagagli/
 layout: post
-content_hash: deb050c37fb3549d8fcc7cff3568226300160097b6bf12fc651dda9cb5ed7afe
+content_hash: 98427f1567881ffbc846cc3b0a286ef39552bf19b48a97caa84804e68c606be2
 ---
 
 # Frasi inglese aeroporto: check-in, gate e bagagli
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8943
+SEED: 4725
 CLUSTER: travel
 FUNNEL: tofu
 

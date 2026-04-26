@@ -2,7 +2,7 @@
 title: "Inglese in hotel: frasi essenziali per viaggiare"
 permalink: /inglese-in-hotel:-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: c8bbb732605de1a14d3405013b34197eb47428f0bd6631334ea103759c9bb75b
+content_hash: 16d55b03dcf9687910ad6173acc6fa3f487a1bfcba63b047584b8583b4bda74d
 ---
 
 # Inglese in hotel: frasi essenziali per viaggiare
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6125
+SEED: 7068
 CLUSTER: travel
 FUNNEL: tofu
 

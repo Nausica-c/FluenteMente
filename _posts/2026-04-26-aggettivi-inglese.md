@@ -2,7 +2,7 @@
 title: "Aggettivi inglese"
 permalink: /aggettivi-inglese/
 layout: post
-content_hash: 79222af05f7863668d3c775a7b127977761835aab96735ec151c63439f54fa04
+content_hash: e20791008da17c1b266d91244271da57318124cd1671402530d53c69724c5a10
 ---
 
 # Aggettivi inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9347
+SEED: 6759
 CLUSTER: base
 FUNNEL: tofu
 
