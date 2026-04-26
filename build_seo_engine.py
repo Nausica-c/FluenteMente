@@ -3,6 +3,7 @@ import json
 import yaml
 import re
 import random
+import hashlib
 from datetime import datetime
 from collections import defaultdict
 
@@ -42,6 +43,9 @@ def slugify(text):
 
 def today_date():
     return datetime.now().strftime("%Y-%m-%d")
+
+def compute_hash(content: str) -> str:
+    return hashlib.md5(content.encode("utf-8")).hexdigest()
 
 # =========================
 # LOAD
@@ -127,36 +131,38 @@ def assign_include_layout(article):
     }
 
 # =========================
-# 🔥 FIX 2: AI ENGINE CORRETTO
+# AI ENGINE (semplice stabile)
 # =========================
 
 def generate_ai_body(article):
     title = article.get("title", "")
     cluster = article.get("cluster", "")
     funnel = article.get("funnel", "")
-
     seed = random.randint(1000, 9999)
 
     return f"""
-# {title}
-
-Questo articolo fa parte del cluster {cluster} e funnel {funnel}.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su {title} con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
 SEED: {seed}
+CLUSTER: {cluster}
+FUNNEL: {funnel}
 """.strip()
 
 # =========================
@@ -167,7 +173,6 @@ def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
 
-    # 🔥 FIX 2 APPLICATO: SEMPRE GENERAZIONE FRESCA
     body = generate_ai_body(article)
 
     content = f"# {title}\n\n"
@@ -197,22 +202,40 @@ def generate_article(article):
     return content
 
 # =========================
-# EXPORT
+# EXPORT (FIX VERO)
 # =========================
 
 def export_markdown(article):
+
     os.makedirs(POSTS_DIR, exist_ok=True)
 
     slug = slugify(article.get("title", "untitled"))
     path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
+
+    content = article["final_article"]
+    new_hash = compute_hash(content)
+
+    # se esiste già, controlla se è cambiato
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            old_content = f.read()
+
+        old_hash = compute_hash(old_content)
+
+        if old_hash == new_hash:
+            print(f"SKIP (unchanged): {slug}")
+            return
 
     with open(path, "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write(f"title: \"{article['title']}\"\n")
         f.write(f"permalink: /{slug}/\n")
         f.write("layout: post\n")
+        f.write(f"content_hash: {new_hash}\n")
         f.write("---\n\n")
-        f.write(article["final_article"])
+        f.write(content)
+
+    print(f"UPDATED: {slug}")
 
 # =========================
 # PIPELINE
@@ -254,7 +277,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 V4 FIXED ENGINE ACTIVE")
+    print("🚀 FIX 1 ENGINE ACTIVE (STABLE MODE)")
 
 if __name__ == "__main__":
     main()
