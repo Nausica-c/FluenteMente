@@ -2,35 +2,32 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: 147587a1cfc59aba4fe2bbd855b6706e44f13940567cbd77827233c4e9360145
+content_hash: e2bc48276677ea887b9d3c4c67c471d1a89fdc81fa75e9b9042cf3b1d53fa6ca
 ---
 
 # Colloquio inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Colloquio inglese con contesto reale.
+Guida pratica su Colloquio inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7956
+---
+SEED: 6461
 CLUSTER: business
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [CV in inglese](/inglese/business/cv/)
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
 - [Email formali in inglese](/inglese/business/email-formali/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)

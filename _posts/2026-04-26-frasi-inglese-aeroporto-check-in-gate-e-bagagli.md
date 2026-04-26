@@ -2,35 +2,32 @@
 title: "Frasi inglese aeroporto: check-in, gate e bagagli"
 permalink: /frasi-inglese-aeroporto-check-in-gate-e-bagagli/
 layout: post
-content_hash: dd1721041ae097f75865004fea331838487566373c4bb19f284ff847a06c73c5
+content_hash: ecc3b2367f8759a91deced7e6843b9cc8dab1c03a792df5a3b55a582929e0fbf
 ---
 
 # Frasi inglese aeroporto: check-in, gate e bagagli
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Frasi inglese aeroporto: check-in, gate e bagagli con contesto reale.
+Guida pratica su Frasi inglese aeroporto: check-in, gate e bagagli.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1397
+---
+SEED: 5580
 CLUSTER: travel
 FUNNEL: tofu
 
@@ -38,9 +35,6 @@ FUNNEL: tofu
 
 - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
 - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
+- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
+- [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)

@@ -2,35 +2,32 @@
 title: "Articoli inglesi"
 permalink: /articoli-inglesi/
 layout: post
-content_hash: 3502763e751e03c5a3a01dc6eab62b6f786d20851a208db36b7a75558ac236a2
+content_hash: 24850e0096914d8767176346e5d8b6b66885ec9a6c9b270a3461d48e8b4c85fb
 ---
 
 # Articoli inglesi
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Articoli inglesi con contesto reale.
+Guida pratica su Articoli inglesi.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4057
+---
+SEED: 1560
 CLUSTER: base
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
 - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
 - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
+- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

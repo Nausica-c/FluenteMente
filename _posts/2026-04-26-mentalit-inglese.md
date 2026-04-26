@@ -2,35 +2,32 @@
 title: "Mentalità inglese"
 permalink: /mentalit-inglese/
 layout: post
-content_hash: 9d0c6c51642bcbb6efd3011923c2a8951b9b5cb6ee970a555f3a446cbf763603
+content_hash: e3fcee879e77345a2ab8558122329d80e0049625c64053e02823832dcce980e7
 ---
 
 # Mentalità inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Mentalità inglese con contesto reale.
+Guida pratica su Mentalità inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7356
+---
+SEED: 8380
 CLUSTER: cultura
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
 - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
 - [UK vs US](/inglese/cultura/uk-vs-us/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Storia inglese](/inglese/cultura/storia-inglese/)
+- [Slang reale](/inglese/cultura/slang-reale/)

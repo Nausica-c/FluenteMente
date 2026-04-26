@@ -2,35 +2,32 @@
 title: "Falsi amici inglese"
 permalink: /falsi-amici-inglese/
 layout: post
-content_hash: 8c01a14ff843bb3be57ebeaf8c2a6c2f46dd0c5de53353d29c5a75c0ecf633da
+content_hash: 3d8e54f0a488eb71cc23c9a3302d6225ec33b70e8e6e9b5c0ba837dd8ace4df6
 ---
 
 # Falsi amici inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Falsi amici inglese con contesto reale.
+Guida pratica su Falsi amici inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5879
+---
+SEED: 4949
 CLUSTER: cultura
 FUNNEL: tofu
 
@@ -38,7 +35,6 @@ FUNNEL: tofu
 
 - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
 - [UK vs US](/inglese/cultura/uk-vs-us/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Storia inglese](/inglese/cultura/storia-inglese/)
+- [Slang reale](/inglese/cultura/slang-reale/)
+- [Mentalità inglese](/inglese/cultura/mentalita-inglese/)

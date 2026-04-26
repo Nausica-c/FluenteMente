@@ -2,40 +2,32 @@
 title: "Pronuncia italiani"
 permalink: /pronuncia-italiani/
 layout: post
-content_hash: 7b0932850edd644e97f52218d2a4bf0412dcf3817c124b8d77e17f9b6364d288
+content_hash: 280156648d78c2ec467a59a9980b3e92cc126e105e364df0db9b1f38c30afb30
 ---
 
 # Pronuncia italiani
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Pronuncia italiani con contesto reale.
+Guida pratica su Pronuncia italiani.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7987
+---
+SEED: 6330
 CLUSTER: pronuncia
 FUNNEL: mofu
 
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}

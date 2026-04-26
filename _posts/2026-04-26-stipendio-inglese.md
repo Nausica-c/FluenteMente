@@ -2,35 +2,32 @@
 title: "Stipendio inglese"
 permalink: /stipendio-inglese/
 layout: post
-content_hash: 07ccac8ad8dbdad6e7aaf03ccd62c4aa326cad1ebb4a1f77d29d4d8b461eb5e6
+content_hash: 25cc4c060289c1c2ea83b988c65486c050abd03863ac71ac5b951c24f05875ae
 ---
 
 # Stipendio inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Stipendio inglese con contesto reale.
+Guida pratica su Stipendio inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6522
+---
+SEED: 3065
 CLUSTER: business
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [CV in inglese](/inglese/business/cv/)
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
 - [Email formali in inglese](/inglese/business/email-formali/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)

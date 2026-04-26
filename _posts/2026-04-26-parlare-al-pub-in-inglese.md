@@ -2,35 +2,32 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: f8873dbc921a36d229515eef4e2399ff2ba14697a1265ad7ee75a7a815a92b6a
+content_hash: 6232812c098665d002adbef2d99d6b36fc1165eebb1a0c95648e4486820acd81
 ---
 
 # Parlare al pub in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Parlare al pub in inglese con contesto reale.
+Guida pratica su Parlare al pub in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2383
+---
+SEED: 7255
 CLUSTER: social
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Small talk in inglese](/inglese/social/small-talk/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)

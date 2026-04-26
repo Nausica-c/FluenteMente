@@ -2,35 +2,32 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: 28f3dfa2bcc663fc4b9e626779c5720897fafed46bfbdfa15e6ee45a95df1112
+content_hash: a4672a81fc9467c3c2e3c4b6123d4effd86141e6b7ca2f688020c51ee97a789b
 ---
 
 # Slang reale
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Slang reale con contesto reale.
+Guida pratica su Slang reale.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9609
+---
+SEED: 1190
 CLUSTER: cultura
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
 - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
 - [UK vs US](/inglese/cultura/uk-vs-us/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Storia inglese](/inglese/cultura/storia-inglese/)
+- [Mentalità inglese](/inglese/cultura/mentalita-inglese/)

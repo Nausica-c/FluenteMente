@@ -2,35 +2,32 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: f5b055c792103ea3447ba29a97edab9f2f9ab7b2cdd88c14893135384b853676
+content_hash: 0d9e24a626ed20e6ace79b537831b338535ebfca698226ea8bc5d24e2f2eb7a9
 ---
 
 # Storia inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Storia inglese con contesto reale.
+Guida pratica su Storia inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1991
+---
+SEED: 7255
 CLUSTER: cultura
 FUNNEL: tofu
 
@@ -39,7 +36,5 @@ FUNNEL: tofu
 - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
 - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
 - [UK vs US](/inglese/cultura/uk-vs-us/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Slang reale](/inglese/cultura/slang-reale/)
+- [Mentalità inglese](/inglese/cultura/mentalita-inglese/)

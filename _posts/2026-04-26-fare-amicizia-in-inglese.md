@@ -2,35 +2,32 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: 6c21bc31643632cd105a7b2ab56389cfbafd05e54f9df878d74e70c08415315c
+content_hash: c73eede3340479fd8a6b347d44c1c950367d8476d7dba78bf76824ade8ab1136
 ---
 
 # Fare amicizia in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Fare amicizia in inglese con contesto reale.
+Guida pratica su Fare amicizia in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4282
+---
+SEED: 3154
 CLUSTER: social
 FUNNEL: mofu
 
@@ -39,8 +36,5 @@ FUNNEL: mofu
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Small talk in inglese](/inglese/social/small-talk/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

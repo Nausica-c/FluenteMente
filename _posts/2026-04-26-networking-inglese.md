@@ -2,35 +2,32 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: 57a71cfcfca184471ca5d6eb1196181044e415e86b6a2c92af21bd3e636e5b15
+content_hash: 9387f837215de32bf6dd24035f374c07f7f443c83e6c680611a0f61d79f37300
 ---
 
 # Networking inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Networking inglese con contesto reale.
+Guida pratica su Networking inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8383
+---
+SEED: 4457
 CLUSTER: business
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [CV in inglese](/inglese/business/cv/)
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
 - [Email formali in inglese](/inglese/business/email-formali/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)

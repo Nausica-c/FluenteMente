@@ -2,35 +2,32 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
-content_hash: 4febaac29e5e43a939193a787795a0869f1afb6be72c7fec9fc56ab33e93f215
+content_hash: f6ca7da3195c5c1b2c8d7cba1485a686a262d33f137f61c3853c5d1af43b773f
 ---
 
 # Ripetizione spaziata
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Ripetizione spaziata con contesto reale.
+Guida pratica su Ripetizione spaziata.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2317
+---
+SEED: 5574
 CLUSTER: method
 FUNNEL: mofu
 
@@ -39,5 +36,5 @@ FUNNEL: mofu
 - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
 - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-{% include trust-box.html %}
+- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
+- [Pensare in inglese](/metodo/pensare-in-inglese/)

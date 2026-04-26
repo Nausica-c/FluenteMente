@@ -2,35 +2,32 @@
 title: "Blocco parlare inglese"
 permalink: /blocco-parlare-inglese/
 layout: post
-content_hash: 1f0ac41c8801f08e8e707a3247c7b4fb786aaa06bbaefbea7a62f94771c2364e
+content_hash: b3fd729b14ce543c766d52328116813fde2db1d6f538a7cf62b532fe2a46049b
 ---
 
 # Blocco parlare inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Blocco parlare inglese con contesto reale.
+Guida pratica su Blocco parlare inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6250
+---
+SEED: 5166
 CLUSTER: method
 FUNNEL: mofu
 
@@ -39,5 +36,5 @@ FUNNEL: mofu
 - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
 - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-{% include trust-box.html %}
+- [Pensare in inglese](/metodo/pensare-in-inglese/)
+- [Shadowing](/metodo/shadowing-inglese/)

@@ -2,35 +2,32 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: 65a692430c423449da73554bf578af020306a492d499b7929f47a8dcdec6d93e
+content_hash: a0eb77676015aecbd5f383a9ae450b65fef8af7430079096678e90f41d8a2fe0
 ---
 
 # Small talk in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Small talk in inglese con contesto reale.
+Guida pratica su Small talk in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3102
+---
+SEED: 4949
 CLUSTER: social
 FUNNEL: mofu
 
@@ -38,8 +35,6 @@ FUNNEL: mofu
 
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Parlare al pub in inglese](/inglese/social/pub-inglese/)
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)

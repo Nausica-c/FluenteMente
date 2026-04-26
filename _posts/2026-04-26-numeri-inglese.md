@@ -2,35 +2,32 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: fd96aedb2602e9f8cef197c7ebfd8d651b521746ac1b7a4e322557c04153571d
+content_hash: 24b1d1369665ce7823949b6af7902ceedf5cf84156a864ec912c42b163bdc062
 ---
 
 # Numeri inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Numeri inglese con contesto reale.
+Guida pratica su Numeri inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1881
+---
+SEED: 5365
 CLUSTER: base
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
 - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
 - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
+- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

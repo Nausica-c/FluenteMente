@@ -2,35 +2,32 @@
 title: "Email formali in inglese"
 permalink: /email-formali-in-inglese/
 layout: post
-content_hash: e4060a8be4a44b6ecf464f9fc4be1cf6d0982c00abff1288ae74036a0c72c3ee
+content_hash: 2aaaec24434b8429fef70ba07a9c8afc91fc7a8df8c40ff07209896654681e08
 ---
 
 # Email formali in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Email formali in inglese con contesto reale.
+Guida pratica su Email formali in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8725
+---
+SEED: 8380
 CLUSTER: business
 FUNNEL: mofu
 
@@ -38,6 +35,6 @@ FUNNEL: mofu
 
 - [CV in inglese](/inglese/business/cv/)
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)
+- [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)

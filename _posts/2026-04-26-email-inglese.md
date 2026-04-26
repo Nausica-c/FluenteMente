@@ -2,35 +2,32 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: d025b8abb7cb7e6c1fbcdd6efd0139168f830109b1284bb44d33d8b40d1bd707
+content_hash: 363fbcadba7fb4757dfe2af48aa1eb47342eaac3b23f75fc488a822c0422dd1a
 ---
 
 # Email inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Email inglese con contesto reale.
+Guida pratica su Email inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7957
+---
+SEED: 1434
 CLUSTER: business
 FUNNEL: mofu
 
@@ -39,6 +36,5 @@ FUNNEL: mofu
 - [CV in inglese](/inglese/business/cv/)
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
 - [Email formali in inglese](/inglese/business/email-formali/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)

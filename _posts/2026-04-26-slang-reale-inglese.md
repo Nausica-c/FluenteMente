@@ -2,35 +2,32 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: 293e4b99c6954c0d64fd4b27567891ca57a4b98a8087d492e1926bb544586e6a
+content_hash: 994928dedeff81d68880332cc1695285ed4904a930b981255396d4a046efb001
 ---
 
 # Slang reale inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Slang reale inglese con contesto reale.
+Guida pratica su Slang reale inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7296
+---
+SEED: 1103
 CLUSTER: social
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Small talk in inglese](/inglese/social/small-talk/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

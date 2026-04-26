@@ -2,35 +2,32 @@
 title: "Inglese per shopping: negozi, prezzi e acquisti"
 permalink: /inglese-per-shopping-negozi-prezzi-e-acquisti/
 layout: post
-content_hash: 6b1a4368235da44e95e66694971448e5c44caaf258698e8f87ce35599c018f07
+content_hash: 3a90c0ef3481d0ffc20bc3d4c6330c6ba4af6097342c1d1de1109be7787bdaad
 ---
 
 # Inglese per shopping: negozi, prezzi e acquisti
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Inglese per shopping: negozi, prezzi e acquisti con contesto reale.
+Guida pratica su Inglese per shopping: negozi, prezzi e acquisti.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8127
+---
+SEED: 5177
 CLUSTER: travel
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
 - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
 - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
+- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)

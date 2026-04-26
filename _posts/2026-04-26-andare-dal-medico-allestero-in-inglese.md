@@ -2,46 +2,39 @@
 title: "Andare dal medico all’estero in inglese"
 permalink: /andare-dal-medico-allestero-in-inglese/
 layout: post
-content_hash: 9febd8005af46fa1d3c2e0744aedd58a48756d26b0d7dfab16123c2860d7d810
+content_hash: 7c81002af20c7634568d530e018adff4d71ca24996917c360059eafc818e0836
 ---
 
 # Andare dal medico all’estero in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Andare dal medico all’estero in inglese con contesto reale.
+Guida pratica su Andare dal medico all’estero in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6848
+---
+SEED: 1908
 CLUSTER: expat
 FUNNEL: mofu
-
-{% include bridge-box.html %}
 
 ## Articoli correlati
 
 - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
 - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
 - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
+- [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)

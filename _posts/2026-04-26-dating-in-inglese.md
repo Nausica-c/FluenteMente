@@ -2,35 +2,32 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: c152dfbb712542bc2b945279c122a2eb21058a5844d73f97b92732e0055d8389
+content_hash: eba25e60178408e7a7e5f865ee32b352eba07560c15b6d1d0fcd1e3b21ea6bba
 ---
 
 # Dating in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Dating in inglese con contesto reale.
+Guida pratica su Dating in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3140
+---
+SEED: 7574
 CLUSTER: social
 FUNNEL: mofu
 
@@ -39,8 +36,5 @@ FUNNEL: mofu
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Small talk in inglese](/inglese/social/small-talk/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

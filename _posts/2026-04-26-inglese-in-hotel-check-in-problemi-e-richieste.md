@@ -2,35 +2,32 @@
 title: "Inglese in hotel: check-in, problemi e richieste"
 permalink: /inglese-in-hotel-check-in-problemi-e-richieste/
 layout: post
-content_hash: 741cf967b37e0cfa7483be5d8ffef51d85c479ff549973917395afb5337ac132
+content_hash: a5eb26bb635f61c0ece81a7b4bd40c1a312eae1f0c104864638173938b5d9a74
 ---
 
 # Inglese in hotel: check-in, problemi e richieste
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Inglese in hotel: check-in, problemi e richieste con contesto reale.
+Guida pratica su Inglese in hotel: check-in, problemi e richieste.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7209
+---
+SEED: 2731
 CLUSTER: travel
 FUNNEL: tofu
 
@@ -38,9 +35,6 @@ FUNNEL: tofu
 
 - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
 - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
+- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
+- [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)

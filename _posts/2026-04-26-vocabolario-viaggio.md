@@ -2,35 +2,32 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: 710a1060874c5774814f723562a004bb0ecef9015898b2c543b7dd3c694809d3
+content_hash: 609d4faed0b5c85ab74a541adcc0c7d4f82466c7ce5252248befbc66716dc113
 ---
 
 # Vocabolario viaggio
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Vocabolario viaggio con contesto reale.
+Guida pratica su Vocabolario viaggio.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9243
+---
+SEED: 2239
 CLUSTER: base
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
 - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
 - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
+- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

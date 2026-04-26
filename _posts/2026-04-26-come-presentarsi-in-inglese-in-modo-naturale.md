@@ -2,35 +2,32 @@
 title: "Come presentarsi in inglese in modo naturale"
 permalink: /come-presentarsi-in-inglese-in-modo-naturale/
 layout: post
-content_hash: 4b78e3f1b02463a85da933c5353b9312a8dfaa2db406b02859d071f282bc036f
+content_hash: 72359493c690def27860a69bac0edc071ef78f02a366927a008d58354222c608
 ---
 
 # Come presentarsi in inglese in modo naturale
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Come presentarsi in inglese in modo naturale con contesto reale.
+Guida pratica su Come presentarsi in inglese in modo naturale.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5095
+---
+SEED: 2425
 CLUSTER: base
 FUNNEL: tofu
 
@@ -39,8 +36,5 @@ FUNNEL: tofu
 - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
 - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
 - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
-
-{% include trust-box.html %}
+- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
+- [Articoli inglesi](/inglese/base/articoli-inglese/)

@@ -2,35 +2,32 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: 522d6e4ed19f6d57c96e53011c6dc526d4641850c300f9a4fcfc2800a20d82cc
+content_hash: 7f8e7c4a9b484e55a140d2a86f233728b6ff5621fe8211bd7b24aba04838f8c9
 ---
 
 # Smettere tradurre
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Smettere tradurre con contesto reale.
+Guida pratica su Smettere tradurre.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7612
+---
+SEED: 6224
 CLUSTER: method
 FUNNEL: mofu
 
@@ -39,5 +36,5 @@ FUNNEL: mofu
 - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
 - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-{% include trust-box.html %}
+- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
+- [Pensare in inglese](/metodo/pensare-in-inglese/)

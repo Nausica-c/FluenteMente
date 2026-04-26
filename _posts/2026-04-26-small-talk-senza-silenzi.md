@@ -2,35 +2,32 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: d900405d5192e442cd96e23e32874268acf92c8755d7313be20cd6f7353bace5
+content_hash: 84c570961ff48b830318c61108563cb212ff800c05401855834f3b3aa5530aa1
 ---
 
 # Small talk senza silenzi
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Small talk senza silenzi con contesto reale.
+Guida pratica su Small talk senza silenzi.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1883
+---
+SEED: 4525
 CLUSTER: social
 FUNNEL: mofu
 
@@ -39,8 +36,5 @@ FUNNEL: mofu
 - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
 - [Small talk in inglese](/inglese/social/small-talk/)
 - [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Dating in inglese](/inglese/social/dating-inglese/)
+- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

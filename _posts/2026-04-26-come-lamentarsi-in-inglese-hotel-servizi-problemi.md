@@ -2,35 +2,32 @@
 title: "Come lamentarsi in inglese (hotel, servizi, problemi)"
 permalink: /come-lamentarsi-in-inglese-hotel-servizi-problemi/
 layout: post
-content_hash: d0f575bcac4f4a437de9d8b140355b70f9fa2e8ee7b8cb145b800cd7b9302ddd
+content_hash: 0160b1a0645eb655323def3267005d2492f6b172c62b93f49557427046c7c72a
 ---
 
 # Come lamentarsi in inglese (hotel, servizi, problemi)
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Come lamentarsi in inglese (hotel, servizi, problemi) con contesto reale.
+Guida pratica su Come lamentarsi in inglese (hotel, servizi, problemi).
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3179
+---
+SEED: 1854
 CLUSTER: travel
 FUNNEL: mofu
 
@@ -39,8 +36,5 @@ FUNNEL: mofu
 - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
 - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
 - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
+- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)

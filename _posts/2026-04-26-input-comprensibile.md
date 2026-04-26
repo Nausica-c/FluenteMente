@@ -2,35 +2,32 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: cbecc8b561479e43192d60655b864525476102bed02a09ececa1b8e82e0ddad1
+content_hash: fc61f4f94bc89e20c56a022a8f4962259278aba62b7234dc29e5120c66fc7003
 ---
 
 # Input comprensibile
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Input comprensibile con contesto reale.
+Guida pratica su Input comprensibile.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5046
+---
+SEED: 1802
 CLUSTER: method
 FUNNEL: mofu
 
@@ -39,5 +36,5 @@ FUNNEL: mofu
 - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
 - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-{% include trust-box.html %}
+- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
+- [Pensare in inglese](/metodo/pensare-in-inglese/)

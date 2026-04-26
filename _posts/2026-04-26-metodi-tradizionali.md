@@ -2,45 +2,35 @@
 title: "Metodi tradizionali"
 permalink: /metodi-tradizionali/
 layout: post
-content_hash: 3abb89ca8b74386b80a0f6522f62cfe8c0d88f22c22b63ecdccaf1419ed3e14e
+content_hash: 85df3bf252c46b607bb53f81f95968d280c778ecaf5d07541d6da1936f820da8
 ---
 
 # Metodi tradizionali
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Metodi tradizionali con contesto reale.
+Guida pratica su Metodi tradizionali.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2705
+---
+SEED: 1103
 CLUSTER: conversion
 FUNNEL: bofu
 
 ## Articoli correlati
 
 - [Errori inglese](/metodo/errori-inglese/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include promo-box.html %}
-
-{% include trust-box.html %}
-
-{% include affiliate-disclosure.html %}

@@ -2,35 +2,32 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: 5b9813f06809e83580e505630018b268893a43d5991a27dd50986d5b4ce7dae6
+content_hash: 403b23517cb33d7806808b2b16e68d2c16bdbf53f12ce6de8ab90f403c824c29
 ---
 
 # CV in inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su CV in inglese con contesto reale.
+Guida pratica su CV in inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7813
+---
+SEED: 6330
 CLUSTER: business
 FUNNEL: mofu
 
@@ -38,6 +35,6 @@ FUNNEL: mofu
 
 - [Colloquio di lavoro in inglese](/inglese/business/interview/)
 - [Email formali in inglese](/inglese/business/email-formali/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [LinkedIn in inglese](/inglese/business/linkedin/)
+- [CV inglese avanzato](/inglese/business/cv-inglese/)
+- [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)

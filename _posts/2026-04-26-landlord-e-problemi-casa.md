@@ -2,46 +2,39 @@
 title: "Landlord e problemi casa"
 permalink: /landlord-e-problemi-casa/
 layout: post
-content_hash: d9ac1506bd03cf7c9449ee8d2f71fb44512c78f3f56098f6e817cf6771853030
+content_hash: 32f8120438d9b0a7ab49f42daa9b497173bc25a7efbf810ed4a4974251fb4962
 ---
 
 # Landlord e problemi casa
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Landlord e problemi casa con contesto reale.
+Guida pratica su Landlord e problemi casa.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8561
+---
+SEED: 8781
 CLUSTER: expat
 FUNNEL: mofu
-
-{% include bridge-box.html %}
 
 ## Articoli correlati
 
 - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
 - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
 - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
+- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)

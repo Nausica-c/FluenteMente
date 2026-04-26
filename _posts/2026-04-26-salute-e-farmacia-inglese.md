@@ -2,46 +2,39 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: 8c853c01ef81c6461a543d981f55d1f352bbfc02f2e012b968127ed22767f206
+content_hash: f5c6f5fd3ba0841c972c7f23beed51dc0d05bc5a7a7620be38cf87ec3e7a6529
 ---
 
 # Salute e farmacia inglese
 
-{% include tldr-box.html %}
-
-{% include section-in-breve.html %}
-
 ## Introduzione
-Guida pratica su Salute e farmacia inglese con contesto reale.
+Guida pratica su Salute e farmacia inglese.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Spiegazione semplice e chiara del concetto.
 
 ## Esempi pratici
-- esempio 1 reale
-- esempio 2 reale
-- esempio 3 reale
-- esempio 4 reale
-- esempio 5 reale
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-- errori tipici italiani nell’uso
+Attenzione agli errori tipici degli italiani.
 
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3234
+---
+SEED: 9156
 CLUSTER: expat
 FUNNEL: mofu
-
-{% include bridge-box.html %}
 
 ## Articoli correlati
 
 - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
 - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
 - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [CV in inglese](/inglese/business/cv/)
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-{% include trust-box.html %}
+- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
+- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
