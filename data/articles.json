@@ -1,0 +1,831 @@
+# =========================
+# 🧠 CORE METHOD (FUNNEL BASE)
+# =========================
+
+- id: 1
+  title: "Paura di parlare inglese: come sbloccarla definitivamente"
+  url: "/paura-parlare-inglese/"
+  type: problem
+  funnel: bofu
+  cluster: method
+  role: hub
+  priority: 100
+
+- id: 2
+  title: "Perché capisci l’inglese ma non riesci a parlare"
+  url: "/metodo/blocco-parlare-inglese/"
+  type: problem
+  funnel: bofu
+  cluster: method
+  role: bridge
+  priority: 95
+
+# =========================
+# ✈️ VIAGGIO
+# =========================
+
+- id: 3
+  title: "Inglese in aeroporto: frasi essenziali per viaggiare"
+  url: "/inglese/viaggio/aeroporto/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: hub
+  priority: 95
+
+- id: 4
+  title: "Inglese in hotel: check-in, problemi e richieste"
+  url: "/inglese/viaggio/hotel/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 85
+
+- id: 5
+  title: "100 parole inglesi più usate per iniziare subito"
+  url: "/inglese/base/100-parole-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+
+# =========================
+# 🔤 BASE
+# =========================
+
+- id: 6
+  title: "Alfabeto inglese e spelling: guida semplice per principianti"
+  url: "/inglese/base/alfabeto-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+- id: 7
+  title: "Numeri in inglese da 1 a 100: guida completa"
+  url: "/inglese/base/numeri-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+
+- id: 8
+  title: "Come presentarsi in inglese in modo naturale"
+  url: "/inglese/base/presentarsi-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+# =========================
+# ✈️ VIAGGIO (2)
+# =========================
+
+- id: 9
+  title: "Frasi inglese aeroporto: check-in, gate e bagagli"
+  url: "/inglese/viaggio/frasi-aeroporto/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 95
+
+- id: 10
+  title: "Inglese in hotel: frasi essenziali per viaggiare"
+  url: "/inglese/viaggio/hotel-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 90
+
+- id: 11
+  title: "Inglese per trasporti pubblici: metro, bus e taxi"
+  url: "/inglese/viaggio/trasporti-pubblici/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 85
+
+- id: 12
+  title: "Inglese per shopping: negozi, prezzi e acquisti"
+  url: "/inglese/viaggio/shopping-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 85
+
+- id: 13
+  title: "Inglese per emergenze in viaggio: frasi salvavita"
+  url: "/inglese/viaggio/emergenze-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 90
+
+- id: 14
+  title: "Inglese per Airbnb e case vacanza"
+  url: "/inglese/viaggio/airbnb-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: travel
+  role: spoke
+  priority: 80
+
+- id: 15
+  title: "Come lamentarsi in inglese (hotel, servizi, problemi)"
+  url: "/inglese/viaggio/reclami-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: travel
+  role: spoke
+  priority: 85
+
+# =========================
+# 🏠 EXPAT
+# =========================
+
+- id: 16
+  title: "Affittare casa all’estero in inglese"
+  url: "/inglese/expat/affittare-casa/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: hub
+  priority: 95
+
+- id: 17
+  title: "Contratto d’affitto in inglese"
+  url: "/inglese/expat/contratto-affitto/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 18
+  title: "Utenze casa all’estero in inglese"
+  url: "/inglese/expat/utenze-casa/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 19
+  title: "Andare dal medico all’estero in inglese"
+  url: "/inglese/expat/medico-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 90
+
+- id: 20
+  title: "Aprire un conto bancario all’estero"
+  url: "/inglese/expat/banca-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 21
+  title: "Lavori part-time all’estero"
+  url: "/inglese/expat/lavoro-estero/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 90
+
+# =========================
+# 🧑‍🤝‍🧑 SOCIAL
+# =========================
+
+- id: 22
+  title: "Fare amicizia in inglese"
+  url: "/inglese/social/amicizia-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: hub
+  priority: 90
+
+- id: 23
+  title: "Small talk in inglese"
+  url: "/inglese/social/small-talk/"
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 90
+
+- id: 24
+  title: "Slang inglese moderno"
+  url: "/inglese/social/slang-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 85
+
+- id: 25
+  title: "Dating in inglese"
+  url: "/inglese/social/dating-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 85
+
+- id: 26
+  title: "Parlare al pub in inglese"
+  url: "/inglese/social/pub-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 80
+
+# =========================
+# 💼 BUSINESS
+# =========================
+
+- id: 27
+  title: "CV in inglese"
+  url: "/inglese/business/cv/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 95
+
+- id: 28
+  title: "Colloquio di lavoro in inglese"
+  url: "/inglese/business/interview/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 95
+
+- id: 29
+  title: "Email formali in inglese"
+  url: "/inglese/business/email-formali/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+
+- id: 30
+  title: "LinkedIn in inglese"
+  url: "/inglese/business/linkedin/"
+  type: informational
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 85
+
+# =========================
+# EXPAT + SOCIAL + BUSINESS CLEAN (31–45)
+# =========================
+
+- id: 31
+  title: "Affittare casa all’estero"
+  url: "/inglese/expat/affitto-casa-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: hub
+  priority: 95
+
+- id: 32
+  title: "Landlord e problemi casa"
+  url: "/inglese/expat/landlord-problemi-casa/"
+  type: problem
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 33
+  title: "Conto corrente estero"
+  url: "/inglese/expat/conto-corrente-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 88
+
+- id: 34
+  title: "Medico di base all’estero"
+  url: "/inglese/expat/medico-base-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 87
+
+- id: 35
+  title: "Utenze casa inglese"
+  url: "/inglese/expat/utenze-casa-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 36
+  title: "Supermercato in inglese"
+  url: "/inglese/expat/supermercato-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 80
+
+- id: 37
+  title: "Salute e farmacia inglese"
+  url: "/inglese/expat/salute-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+
+- id: 38
+  title: "Meccanico e auto inglese"
+  url: "/inglese/expat/meccanico-auto-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 75
+
+- id: 39
+  title: "Fare amicizia in inglese"
+  url: "/inglese/social/amicizia-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: hub
+  priority: 90
+
+- id: 40
+  title: "Small talk senza silenzi"
+  url: "/inglese/social/small-talk-inglese/"
+  type: bridge
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 95
+
+- id: 41
+  title: "Slang reale inglese"
+  url: "/inglese/social/slang-reale/"
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 85
+
+- id: 42
+  title: "Dating in inglese"
+  url: "/inglese/social/dating-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 80
+
+- id: 43
+  title: "CV inglese avanzato"
+  url: "/inglese/business/cv-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 95
+
+- id: 44
+  title: "Colloquio inglese avanzato"
+  url: "/inglese/business/colloquio-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 92
+
+- id: 45
+  title: "Email professionali inglese"
+  url: "/inglese/business/email-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+
+# =========================
+# BASE + VOCAB + GRAMMAR (46–60)
+# =========================
+
+- id: 46
+  title: "Pronomi inglesi"
+  url: "/inglese/base/pronomi-personali-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+
+- id: 47
+  title: "Articoli inglesi"
+  url: "/inglese/base/articoli-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 92
+
+- id: 48
+  title: "Plurale inglese"
+  url: "/inglese/base/plurale-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+- id: 49
+  title: "Dimostrativi inglesi"
+  url: "/inglese/base/dimostrativi-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+
+- id: 50
+  title: "Aggettivi inglese"
+  url: "/inglese/base/aggettivi-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+- id: 51
+  title: "Verbo essere"
+  url: "/inglese/base/verbo-essere/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+
+- id: 52
+  title: "Verbo avere"
+  url: "/inglese/base/verbo-avere/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+
+- id: 53
+  title: "Parole base inglese"
+  url: "/inglese/base/parole-base/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+
+- id: 54
+  title: "Numeri inglese"
+  url: "/inglese/base/numeri-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+
+- id: 55
+  title: "Colori inglese"
+  url: "/inglese/base/colori-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+
+- id: 56
+  title: "Tempo inglese"
+  url: "/inglese/base/tempo-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+- id: 57
+  title: "Vocabolario viaggio"
+  url: "/inglese/base/vocabolario-viaggio/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 95
+
+- id: 58
+  title: "Preposizioni inglesi"
+  url: "/inglese/base/preposizioni-in-on-at/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+
+- id: 59
+  title: "Much many a lot"
+  url: "/inglese/base/much-many-a-lot-of/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+
+- id: 60
+  title: "Do vs Make"
+  url: "/inglese/base/do-vs-make/"
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 88
+
+# =========================
+# BUSINESS + CULTURA + METHOD (61–88)
+# =========================
+
+- id: 61
+  title: "CV inglese avanzato"
+  url: "/inglese/business/cv-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 100
+
+- id: 62
+  title: "Colloquio inglese"
+  url: "/inglese/business/colloquio-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 95
+
+- id: 63
+  title: "Email inglese"
+  url: "/inglese/business/email-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 95
+
+- id: 64
+  title: "Presentazioni inglese"
+  url: "/inglese/business/presentazioni-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+
+- id: 65
+  title: "Meeting inglese"
+  url: "/inglese/business/meeting-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+
+- id: 66
+  title: "Networking inglese"
+  url: "/inglese/business/small-talk-business/"
+  type: informational
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 88
+
+- id: 67
+  title: "Stipendio inglese"
+  url: "/inglese/business/stipendio-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 92
+
+- id: 68
+  title: "LinkedIn inglese"
+  url: "/inglese/business/linkedin-inglese/"
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 94
+
+- id: 69
+  title: "Falsi amici inglese"
+  url: "/inglese/cultura/falsi-amici/"
+  type: informational
+  funnel: tofu
+  cluster: cultura
+  role: hub
+  priority: 95
+
+- id: 70
+  title: "Parole intraducibili"
+  url: "/inglese/cultura/parole-intraducibili/"
+  type: informational
+  funnel: tofu
+  cluster: cultura
+  role: spoke
+  priority: 85
+
+- id: 71
+  title: "UK vs US"
+  url: "/inglese/cultura/uk-vs-us/"
+  type: informational
+  funnel: tofu
+  cluster: cultura
+  role: spoke
+  priority: 90
+
+- id: 72
+  title: "Storia inglese"
+  url: "/inglese/cultura/storia-inglese/"
+  type: informational
+  funnel: tofu
+  cluster: cultura
+  role: spoke
+  priority: 80
+
+- id: 73
+  title: "Pronuncia italiani"
+  url: "/inglese/pronuncia/errori-italiani/"
+  type: informational
+  funnel: mofu
+  cluster: pronuncia
+  role: spoke
+  priority: 90
+
+- id: 74
+  title: "Slang reale"
+  url: "/inglese/cultura/slang-reale/"
+  type: informational
+  funnel: mofu
+  cluster: cultura
+  role: spoke
+  priority: 88
+
+- id: 75
+  title: "Mentalità inglese"
+  url: "/inglese/cultura/mentalita-inglese/"
+  type: informational
+  funnel: mofu
+  cluster: cultura
+  role: spoke
+  priority: 92
+
+- id: 76
+  title: "Inglese da zero"
+  url: "/metodo/studiare-inglese-zero/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 95
+
+- id: 77
+  title: "Blocco parlare inglese"
+  url: "/metodo/blocco-parlato-inglese/"
+  type: problem
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 100
+
+- id: 78
+  title: "Pensare in inglese"
+  url: "/metodo/pensare-in-inglese/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 95
+
+- id: 79
+  title: "Shadowing"
+  url: "/metodo/shadowing-inglese/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 90
+
+- id: 80
+  title: "Input comprensibile"
+  url: "/metodo/input-comprensibile/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 90
+
+- id: 81
+  title: "Metodo FluenteMente"
+  url: "/metodo/fluentemente-metodo/"
+  type: method
+  funnel: bofu
+  cluster: method
+  role: hub
+  priority: 100
+
+- id: 82
+  title: "Ripetizione spaziata"
+  url: "/metodo/ripetizione-spaziata/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 88
+
+- id: 83
+  title: "Routine inglese"
+  url: "/metodo/routine-inglese/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 90
+
+- id: 84
+  title: "Smettere tradurre"
+  url: "/metodo/smettere-tradurre/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 92
+
+- id: 85
+  title: "Memoria vocabolario"
+  url: "/metodo/memoria-vocabolario/"
+  type: method
+  funnel: mofu
+  cluster: method
+  role: spoke
+  priority: 88
+
+- id: 86
+  title: "Errori inglese"
+  url: "/metodo/errori-inglese/"
+  type: problem
+  funnel: bofu
+  cluster: conversion
+  role: bridge
+  priority: 95
+
+- id: 87
+  title: "Metodi tradizionali"
+  url: "/metodo/metodi-tradizionali-inglese/"
+  type: comparison
+  funnel: bofu
+  cluster: conversion
+  role: bridge
+  priority: 100
+
+- id: 88
+  title: "Recensione Babbel"
+  url: "/recensione-babbel/"
+  type: review
+  funnel: bofu
+  cluster: monetization
+  role: money
+  priority: 100
