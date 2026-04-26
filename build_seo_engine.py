@@ -1,5 +1,4 @@
 import os
-import json
 import yaml
 import re
 import hashlib
@@ -32,7 +31,7 @@ def hash_content(content: str) -> str:
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 # =========================
-# LOAD DATA
+# LOAD
 # =========================
 
 def load_articles():
@@ -46,35 +45,40 @@ def load_articles():
 
 def index_articles(articles):
     by_cluster = defaultdict(list)
-    by_funnel = defaultdict(list)
 
     for a in articles:
         by_cluster[a.get("cluster", "base")].append(a)
-        by_funnel[a.get("funnel", "tofu")].append(a)
 
-    return by_cluster, by_funnel
+    return by_cluster
 
 # =========================
-# LINKS (SIMPLE + SAFE)
+# LINKS
 # =========================
 
 def pick_links(article, by_cluster):
     cluster = article.get("cluster", "base")
 
-    candidates = by_cluster.get(cluster, [])
     links = []
+    seen = set()
 
-    for c in candidates:
-        if c.get("id") != article.get("id"):
-            links.append({
-                "title": c.get("title"),
-                "url": c.get("url", "#")
-            })
+    for c in by_cluster.get(cluster, []):
+        if c.get("id") == article.get("id"):
+            continue
+
+        uid = c.get("id")
+        if uid in seen:
+            continue
+
+        links.append({
+            "title": c.get("title"),
+            "url": c.get("url", "#")
+        })
+        seen.add(uid)
 
     return links[:5]
 
 # =========================
-# CONTENT ENGINE (STABLE)
+# CONTENT ENGINE
 # =========================
 
 def generate_body(article):
@@ -82,7 +86,12 @@ def generate_body(article):
     cluster = article.get("cluster", "base")
     funnel = article.get("funnel", "tofu")
 
-    seed = article.get("seed") or random.randint(1000, 9999)
+    # seed stabile
+    seed = article.get("seed")
+    if seed is None:
+        seed = random.randint(1000, 9999)
+        article["seed"] = seed
+
     random.seed(seed)
 
     return f"""
@@ -117,37 +126,33 @@ FUNNEL: {funnel}
 
 def build_article(article, links):
     title = article.get("title", "Untitled")
-
     body = generate_body(article)
 
-    content = f"# {title}\n\n"
-    content += body + "\n\n"
-
-    if links:
-        content += "## Articoli correlati\n\n"
-        for l in links:
-            content += f"- [{l['title']}]({l['url']})\n"
-
-    return content
+    return f"# {title}\n\n{body}\n\n" + (
+        "## Articoli correlati\n\n" +
+        "\n".join([f"- [{l['title']}]({l['url']})" for l in links])
+        if links else ""
+    )
 
 # =========================
-# EXPORT (NO REGEN IF NOT CHANGED)
+# EXPORT (FIXED HASH STRATEGY)
 # =========================
 
-def export_post(article, content):
+def export_post(article, content_body):
 
     os.makedirs(POSTS_DIR, exist_ok=True)
 
     slug = slugify(article.get("title", "untitled"))
     path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
 
-    new_hash = hash_content(content)
+    new_hash = hash_content(content_body)
 
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
-            old = f.read()
+            existing = f.read()
 
-        if hash_content(old) == new_hash:
+        # confronta solo corpo, non frontmatter
+        if content_body in existing:
             print(f"⏭ SKIP {slug}")
             return
 
@@ -158,7 +163,7 @@ def export_post(article, content):
         f.write("layout: post\n")
         f.write(f"content_hash: {new_hash}\n")
         f.write("---\n\n")
-        f.write(content)
+        f.write(content_body)
 
     print(f"✔ UPDATED {slug}")
 
@@ -168,19 +173,14 @@ def export_post(article, content):
 
 def build_output(articles):
 
-    by_cluster, by_funnel = index_articles(articles)
+    by_cluster = index_articles(articles)
 
     output = []
 
     for a in articles:
         a["cluster"] = a.get("cluster", "base")
-        a["funnel"] = a.get("funnel", "tofu")
-
-        if not a.get("seed"):
-            a["seed"] = random.randint(1000, 9999)
 
         links = pick_links(a, by_cluster)
-
         content = build_article(a, links)
 
         export_post(a, content)
@@ -208,7 +208,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 V1 CLEAN SYSTEM ACTIVE")
+    print("🚀 V1 CLEAN FIXED ACTIVE")
 
 if __name__ == "__main__":
     main()
