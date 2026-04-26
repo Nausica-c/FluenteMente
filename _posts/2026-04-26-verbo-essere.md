@@ -2,7 +2,7 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: 67bc72e7fe78833cebd1b0040874787f2477b6292b92823022f577b2ec3a55d0
+content_hash: 4f6e5f8a5ddf48fa931a6ebe788bf95f48312878036c72cef1d35ee130773ef5
 ---
 
 # Verbo essere
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8477
+SEED: 7432
 CLUSTER: base
 FUNNEL: tofu
 

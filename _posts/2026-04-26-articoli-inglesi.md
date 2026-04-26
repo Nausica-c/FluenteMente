@@ -2,7 +2,7 @@
 title: "Articoli inglesi"
 permalink: /articoli-inglesi/
 layout: post
-content_hash: 5905761e25e6b246b928ce4b47038f0fb9d87e652d7e1de1e69eb5f75b7341dd
+content_hash: 3502763e751e03c5a3a01dc6eab62b6f786d20851a208db36b7a75558ac236a2
 ---
 
 # Articoli inglesi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5532
+SEED: 4057
 CLUSTER: base
 FUNNEL: tofu
 

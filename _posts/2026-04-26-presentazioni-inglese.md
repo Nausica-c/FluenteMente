@@ -2,7 +2,7 @@
 title: "Presentazioni inglese"
 permalink: /presentazioni-inglese/
 layout: post
-content_hash: fbd13cccea138c95bd90bf3cf9e0bb66d56645f67a240797bfe00906fcbe4387
+content_hash: 422f901744757c43d8b44c06752e3bca37c9a08474eed3b4622d0f1630366a79
 ---
 
 # Presentazioni inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2932
+SEED: 5888
 CLUSTER: business
 FUNNEL: mofu
 

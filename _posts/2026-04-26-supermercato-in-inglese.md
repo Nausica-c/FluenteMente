@@ -2,7 +2,7 @@
 title: "Supermercato in inglese"
 permalink: /supermercato-in-inglese/
 layout: post
-content_hash: 2cb18c8b77f85102c36bbd728e3d7228de1b2c9e0f417fe692a2f82fb8e113bf
+content_hash: f68c149be1e4c5053d918b19a7ca0ca5f00c484ac039be46e0e0ddfe69890968
 ---
 
 # Supermercato in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1367
+SEED: 1391
 CLUSTER: expat
 FUNNEL: mofu
 

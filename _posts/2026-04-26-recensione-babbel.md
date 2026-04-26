@@ -2,7 +2,7 @@
 title: "Recensione Babbel"
 permalink: /recensione-babbel/
 layout: post
-content_hash: e4a75ec63f2d25b48abeccedabfcb0bcabd651d65170047392cf5e7b43cd3d4f
+content_hash: 7284cab69ff51c36d5b79a6da22db2497ba3d7214cfc01b8a042d9f447222d4f
 ---
 
 # Recensione Babbel
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6724
+SEED: 3878
 CLUSTER: monetization
 FUNNEL: bofu
 
