@@ -2,6 +2,7 @@ import os
 import json
 import yaml
 import re
+from datetime import datetime
 from collections import defaultdict
 
 # =========================
@@ -38,6 +39,9 @@ def slugify(text):
     text = re.sub(r"\s+", "-", text)
     return text.strip("-")
 
+def today_date():
+    return datetime.now().strftime("%Y-%m-%d")
+
 # =========================
 # SAFE LOAD
 # =========================
@@ -59,7 +63,10 @@ def load_articles():
     except:
         pass
 
-    return json.loads(raw)
+    data = json.loads(raw)
+    if not isinstance(data, list):
+        raise ValueError("Root must be LIST")
+    return data
 
 # =========================
 # INDEX
@@ -70,13 +77,16 @@ def index_articles(articles):
     by_funnel = defaultdict(list)
 
     for a in articles:
+        if not isinstance(a, dict):
+            continue
+
         by_cluster[a.get("cluster", "base")].append(a)
         by_funnel[a.get("funnel", "tofu")].append(a)
 
     return by_cluster, by_funnel
 
 # =========================
-# INTERNAL LINKS
+# INTERNAL LINKS ENGINE
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
@@ -112,7 +122,7 @@ def pick_links(article, by_cluster, by_funnel):
     return links[:6]
 
 # =========================
-# INCLUDES SYSTEM
+# INCLUDE SYSTEM
 # =========================
 
 def assign_include_layout(article):
@@ -140,6 +150,26 @@ def assign_include_layout(article):
     return layout
 
 # =========================
+# 🔥 AI CONTENT ENGINE (FIX CRITICO)
+# =========================
+
+def generate_ai_body(article):
+    title = article.get("title", "")
+
+    # placeholder robusto (MA NON vuoto)
+    return f"""
+Questo articolo esplora in modo approfondito: {title}.
+
+Analizziamo:
+- definizione
+- esempi pratici
+- errori comuni
+- strategie applicabili subito
+
+L’obiettivo è fornire una guida chiara e applicabile.
+""".strip()
+
+# =========================
 # ARTICLE GENERATOR
 # =========================
 
@@ -147,7 +177,7 @@ def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
 
-    body = article.get("ai_body") or f"Contenuto generato per {title}"
+    body = article.get("ai_body") or generate_ai_body(article)
 
     content = f"# {title}\n\n"
 
@@ -174,7 +204,7 @@ def generate_article(article):
     return content
 
 # =========================
-# MARKDOWN EXPORT (🔥 AUTOPUBLISH CORE)
+# MARKDOWN AUTOPUBLISH
 # =========================
 
 def export_markdown(article):
@@ -183,7 +213,7 @@ def export_markdown(article):
     title = article.get("title", "untitled")
     slug = slugify(title)
 
-    path = f"{POSTS_DIR}/{slug}.md"
+    path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
 
     content = article["final_article"]
 
@@ -191,11 +221,12 @@ def export_markdown(article):
         f.write("---\n")
         f.write(f"title: \"{title}\"\n")
         f.write(f"permalink: /{slug}/\n")
+        f.write("layout: post\n")
         f.write("---\n\n")
         f.write(content)
 
 # =========================
-# BUILD PIPELINE
+# PIPELINE
 # =========================
 
 def build_output(articles):
@@ -226,7 +257,7 @@ def build_output(articles):
 
         a["final_article"] = generate_article(a)
 
-        # 🔥 AUTOPUBLISH STEP
+        # AUTOPUBLISH REAL
         export_markdown(a)
 
         output.append(a)
@@ -254,7 +285,7 @@ def main():
 
     save_yaml(output)
 
-    print("🚀 AUTOPUBLISH COMPLETATO")
+    print("🚀 V2 FULL AUTONOMOUS BLOG COMPLETED")
 
 if __name__ == "__main__":
     main()
