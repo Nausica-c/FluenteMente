@@ -2,7 +2,7 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
-content_hash: 04bc65143a0b5f9e70e0645bfe454ffc92f774b673bd7c2acfd6a104409c2898
+content_hash: ffca0b633c43858b378b272c7a6ea9e6c0cb6d24116e5100a15b96247b717e8a
 ---
 
 # Pensare in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 8829
+SEED: 5308
 CLUSTER: method
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: bdd1ae5a3bf699d50a8762bff8ff7889b7b2ac01b7203eab5b24a60dbb4657e6
+content_hash: 51541f167f9dc17b66c48183620d69dbdbdcd31cf9b54fdd97c6c38f6a81265c
 ---
 
 # Small talk in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9453
+SEED: 9381
 CLUSTER: social
 FUNNEL: mofu
 

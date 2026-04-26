@@ -2,7 +2,7 @@
 title: "Dimostrativi inglesi"
 permalink: /dimostrativi-inglesi/
 layout: post
-content_hash: cd053030426c1892a81378cfb2ae7fd18dec4d2d7389a9b20950d28d5bb960a6
+content_hash: 42fbc00710ac20c97a996091a396af6066a0f0004caf87d088efe634df5ab479
 ---
 
 # Dimostrativi inglesi
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 3789
+SEED: 9863
 CLUSTER: base
 FUNNEL: tofu
 

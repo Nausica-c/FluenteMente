@@ -2,7 +2,7 @@
 title: "Aprire un conto bancario all’estero"
 permalink: /aprire-un-conto-bancario-allestero/
 layout: post
-content_hash: 336c13ae7a5bb1eadfd8151c8aef46a8fe85f64575ebadc30da07e221d6c433d
+content_hash: 6941b3aa4c5cfb437699a43b0620d7c8d067aa168bd7e55012381422906be267
 ---
 
 # Aprire un conto bancario all’estero
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7019
+SEED: 9616
 CLUSTER: expat
 FUNNEL: mofu
 

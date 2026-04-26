@@ -2,7 +2,7 @@
 title: "Mentalità inglese"
 permalink: /mentalit-inglese/
 layout: post
-content_hash: 0a905b229c582e65c04c8edd3042c1c8263f582f97a05143cb97dda0e72136d7
+content_hash: ab2aeb9675142a71cf1f0a139cb994709c58f322bfdf1b37336a8ec1d14e6d51
 ---
 
 # Mentalità inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4426
+SEED: 5072
 CLUSTER: cultura
 FUNNEL: mofu
 

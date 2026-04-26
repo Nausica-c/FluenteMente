@@ -2,7 +2,7 @@
 title: "Colori inglese"
 permalink: /colori-inglese/
 layout: post
-content_hash: c988184fc49a09fb1ca46782c18377a6679a0300dbc826502a9e965314b0702a
+content_hash: 1f8804c2ceeefbc7602e26ef9270f99a17e354e7c80db318ca1157b51d8d0993
 ---
 
 # Colori inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6843
+SEED: 7555
 CLUSTER: base
 FUNNEL: tofu
 
