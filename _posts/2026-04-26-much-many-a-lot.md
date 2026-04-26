@@ -2,7 +2,7 @@
 title: "Much many a lot"
 permalink: /much-many-a-lot/
 layout: post
-content_hash: 6861a390666d7ce0948ad5b8228eeced
+content_hash: 140d8eea12331a77582ff1688fe03a36
 ---
 
 # Much many a lot
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2508
+SEED: 5935
 CLUSTER: base
 FUNNEL: tofu
 

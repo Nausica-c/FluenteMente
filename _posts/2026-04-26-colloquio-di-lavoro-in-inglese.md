@@ -2,7 +2,7 @@
 title: "Colloquio di lavoro in inglese"
 permalink: /colloquio-di-lavoro-in-inglese/
 layout: post
-content_hash: 1f4da20ee1dbab88427c5c8187b9dd1b
+content_hash: 99095c6cedbd3dfbd3fc8d7208c3d1bc
 ---
 
 # Colloquio di lavoro in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5397
+SEED: 6304
 CLUSTER: business
 FUNNEL: mofu
 

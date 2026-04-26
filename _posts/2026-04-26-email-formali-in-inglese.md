@@ -2,7 +2,7 @@
 title: "Email formali in inglese"
 permalink: /email-formali-in-inglese/
 layout: post
-content_hash: 7126c861b165f02e01b74fd66a1f3f85
+content_hash: ceec7ea429e052a4e662634f2ce6913b
 ---
 
 # Email formali in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1168
+SEED: 7807
 CLUSTER: business
 FUNNEL: mofu
 

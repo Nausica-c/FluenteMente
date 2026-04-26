@@ -2,7 +2,7 @@
 title: "Stipendio inglese"
 permalink: /stipendio-inglese/
 layout: post
-content_hash: cb7f95b953fa2809c7b465c0150f37ff
+content_hash: 3d07044fe7564d630ded2b44e0dec5f2
 ---
 
 # Stipendio inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4775
+SEED: 3345
 CLUSTER: business
 FUNNEL: mofu
 

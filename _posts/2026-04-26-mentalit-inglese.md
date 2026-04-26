@@ -2,7 +2,7 @@
 title: "Mentalità inglese"
 permalink: /mentalit-inglese/
 layout: post
-content_hash: 9a36a95116243beedbc4937f524ba469
+content_hash: e656d4f76d17b83c3a83dd96e809f719
 ---
 
 # Mentalità inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8488
+SEED: 4453
 CLUSTER: cultura
 FUNNEL: mofu
 

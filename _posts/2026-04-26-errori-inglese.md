@@ -2,7 +2,7 @@
 title: "Errori inglese"
 permalink: /errori-inglese/
 layout: post
-content_hash: 14ed9370ddb8c2f256be7a7b2a5abdee
+content_hash: 6f9ad6dd1a8803b4e1f7cbb4f2ea3307
 ---
 
 # Errori inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1895
+SEED: 7665
 CLUSTER: conversion
 FUNNEL: bofu
 

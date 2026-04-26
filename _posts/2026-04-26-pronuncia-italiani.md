@@ -2,7 +2,7 @@
 title: "Pronuncia italiani"
 permalink: /pronuncia-italiani/
 layout: post
-content_hash: 1e50abac8b15ca5a467bf70311f4beac
+content_hash: 8ec110da45a24669987a36b1ac7d804f
 ---
 
 # Pronuncia italiani
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9169
+SEED: 8696
 CLUSTER: pronuncia
 FUNNEL: mofu
 

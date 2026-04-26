@@ -2,7 +2,7 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: 3d2596c91e0b6d194dfa1464b7672cdf
+content_hash: bd5865cc2cccbe403e80a7eea6439307
 ---
 
 # Numeri inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5755
+SEED: 5742
 CLUSTER: base
 FUNNEL: tofu
 

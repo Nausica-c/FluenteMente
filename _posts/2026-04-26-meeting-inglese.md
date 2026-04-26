@@ -2,7 +2,7 @@
 title: "Meeting inglese"
 permalink: /meeting-inglese/
 layout: post
-content_hash: 65e09427d933a67e7cf59a46bc83c968
+content_hash: ada0bfa8ce99a3017e5d6222c6bad8c5
 ---
 
 # Meeting inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6104
+SEED: 2921
 CLUSTER: business
 FUNNEL: mofu
 

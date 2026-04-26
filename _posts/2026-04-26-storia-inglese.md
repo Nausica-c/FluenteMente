@@ -2,7 +2,7 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: 2490a3e54d82c81cda62e069467e22e5
+content_hash: d5e527d3f9ae9c8c231641e56ff49a3e
 ---
 
 # Storia inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7863
+SEED: 2182
 CLUSTER: cultura
 FUNNEL: tofu
 

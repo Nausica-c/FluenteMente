@@ -2,7 +2,7 @@
 title: "Colori inglese"
 permalink: /colori-inglese/
 layout: post
-content_hash: 07650556b686a6dbe64372f2d4b587c8
+content_hash: 86ae554f3ec01d3fa6d6563bb8bc2f08
 ---
 
 # Colori inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5406
+SEED: 3188
 CLUSTER: base
 FUNNEL: tofu
 
