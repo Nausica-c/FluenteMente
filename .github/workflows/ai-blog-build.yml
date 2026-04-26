@@ -1,4 +1,4 @@
-name: AI Blog Build (LOCKED)
+name: AI Blog Build V3
 
 on:
   push:
@@ -7,9 +7,10 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
-  group: ai-blog-build
+  group: ai-blog-v3
   cancel-in-progress: true
 
 jobs:
@@ -17,26 +18,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      # =========================
+      # 1. CHECKOUT
+      # =========================
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # =========================
+      # 2. SETUP PYTHON
+      # =========================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      # =========================
+      # 3. DEPENDENCIES
+      # =========================
+      - name: Install dependencies
         run: pip install pyyaml openai
 
-      - name: Build
+      # =========================
+      # 4. BUILD CONTENT
+      # =========================
+      - name: Build SEO engine
         run: python build_seo_engine.py
 
-      - name: Commit & Push
+      # =========================
+      # 5. SWITCH TO AI BRANCH
+      # =========================
+      - name: Commit to AI branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="ai-build"
+
+          git checkout -B $BRANCH
 
           git add .
 
@@ -45,6 +65,19 @@ jobs:
             exit 0
           fi
 
-          git commit -m "AI build"
+          git commit -m "AI blog update (V3)"
 
-          git push origin main
+          git push origin $BRANCH --force
+
+      # =========================
+      # 6. CREATE PR AUTOMATICO
+      # =========================
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ai-build
+          base: main
+          title: "AI Blog Update (V3)"
+          body: "Auto-generated SEO articles update"
+          delete-branch: false
