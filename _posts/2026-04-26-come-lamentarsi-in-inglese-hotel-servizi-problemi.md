@@ -2,7 +2,7 @@
 title: "Come lamentarsi in inglese (hotel, servizi, problemi)"
 permalink: /come-lamentarsi-in-inglese-hotel-servizi-problemi/
 layout: post
-content_hash: 7ec32831c5e78c3da1d6d6f3e61a7dda9c01aa7ae9f1dbbc01f3036a31a0e105
+content_hash: 0eaef2bcccc3bb489292ccf48faab51112310b90dfba0c923e8256e1e729ef8a
 ---
 
 # Come lamentarsi in inglese (hotel, servizi, problemi)
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7585
+SEED: 6125
 CLUSTER: travel
 FUNNEL: mofu
 

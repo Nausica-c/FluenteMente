@@ -2,7 +2,7 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: 752f6b0fa30631b74462c660943e37543965fec9efe6fca0cd293af2ac3c2c80
+content_hash: 93295669c38575efa9538638ddd13c31c7d7747d32c6592921d37b0357120069
 ---
 
 # Verbo essere
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1802
+SEED: 7555
 CLUSTER: base
 FUNNEL: tofu
 

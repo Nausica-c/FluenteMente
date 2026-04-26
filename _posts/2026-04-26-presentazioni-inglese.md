@@ -2,7 +2,7 @@
 title: "Presentazioni inglese"
 permalink: /presentazioni-inglese/
 layout: post
-content_hash: a905efb64ea50f2492e2314163300eb7e231f6d02a0b3fa5592a9f211269848a
+content_hash: b2ae3f50cb1eefb5de7e6e23aff2f99810e4fb078c57048ad1e94e738d827bb7
 ---
 
 # Presentazioni inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1560
+SEED: 8697
 CLUSTER: business
 FUNNEL: mofu
 

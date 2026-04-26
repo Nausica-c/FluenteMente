@@ -2,7 +2,7 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: b38fe403ae8c6fcc6a214a846235a2f914ce641ee4a98c570d35beb5f115feba
+content_hash: 1574922e6a2d50d6fc6861d7356e603eb78c72571f1606b6923863a813ea5996
 ---
 
 # Email professionali inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1190
+SEED: 9863
 CLUSTER: business
 FUNNEL: mofu
 

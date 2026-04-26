@@ -2,7 +2,7 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: d2486e09cdf61c2f311b0c1e39c5db6d389e4d08d90647f5bf3530381f985be4
+content_hash: ae8751fd9fac16b264eed499b500db85d13f2b0d45bdb07123154f10d2f36047
 ---
 
 # Slang reale
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2239
+SEED: 5308
 CLUSTER: cultura
 FUNNEL: mofu
 

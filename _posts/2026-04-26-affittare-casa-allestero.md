@@ -2,7 +2,7 @@
 title: "Affittare casa all’estero"
 permalink: /affittare-casa-allestero/
 layout: post
-content_hash: 92c1b4cd38e92939ce712657bcb89e5dd75ffb73ee13938e772fc09f7dc60b07
+content_hash: 60ab37dcaced3d47d48e019b6527b9dd0ebc476c31d7cbb9db9c344da5c2d7d3
 ---
 
 # Affittare casa all’estero
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4528
+SEED: 6599
 CLUSTER: expat
 FUNNEL: mofu
 

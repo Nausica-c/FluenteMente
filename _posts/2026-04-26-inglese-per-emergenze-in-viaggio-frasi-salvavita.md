@@ -2,7 +2,7 @@
 title: "Inglese per emergenze in viaggio: frasi salvavita"
 permalink: /inglese-per-emergenze-in-viaggio-frasi-salvavita/
 layout: post
-content_hash: 910561c7e5e9215338634afc623ce2c78669c94e4212e8650374349491ee4233
+content_hash: da82a1d19b3eab7a4f3191d85f4a6a34ddd8d08bac8f2b89de8ee4c605d05de0
 ---
 
 # Inglese per emergenze in viaggio: frasi salvavita
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1568
+SEED: 6724
 CLUSTER: travel
 FUNNEL: tofu
 
