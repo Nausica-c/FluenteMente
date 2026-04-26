@@ -1,5 +1,4 @@
 import yaml
-import re
 from collections import defaultdict
 
 # =========================
@@ -9,16 +8,6 @@ from collections import defaultdict
 INPUT_FILE = "_data/articles.yml"
 OUTPUT_FILE = "_data/articles-linked.yml"
 
-CLUSTER_LINKS = {
-    "base": ["travel", "social"],
-    "travel": ["expat", "social"],
-    "social": ["expat", "business"],
-    "expat": ["business", "method"],
-    "business": ["method"],
-    "culture": ["social", "business"],
-    "method": ["bofu"],
-}
-
 FUNNEL_PRIORITY = {
     "tofu": 1,
     "mofu": 2,
@@ -26,15 +15,26 @@ FUNNEL_PRIORITY = {
 }
 
 # =========================
-# SAFE LOAD YAML
+# LOAD SAFE YAML
 # =========================
 
 def load_articles():
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+    try:
+        with open(INPUT_FILE, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+    except FileNotFoundError:
+        raise ValueError(f"File non trovato: {INPUT_FILE}")
+
+    if not data:
+        raise ValueError("articles.yml è vuoto o non valido")
+
+    if not isinstance(data, list):
+        raise ValueError("articles.yml deve essere una LISTA di articoli")
+
+    return data
 
 # =========================
-# GROUP BY CLUSTER / FUNNEL
+# INDEX ARTICLES
 # =========================
 
 def index_articles(articles):
@@ -44,53 +44,66 @@ def index_articles(articles):
     for a in articles:
         if not isinstance(a, dict):
             continue
-        if "cluster" in a:
-            by_cluster[a["cluster"]].append(a)
-        if "funnel" in a:
-            by_funnel[a["funnel"]].append(a)
+
+        cluster = a.get("cluster")
+        funnel = a.get("funnel")
+
+        if cluster:
+            by_cluster[cluster].append(a)
+        if funnel:
+            by_funnel[funnel].append(a)
 
     return by_cluster, by_funnel
 
 # =========================
-# INTERNAL LINK SELECTOR
+# PICK LINKS (SAFE + NO SELF LINK)
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
     cluster = article.get("cluster")
     funnel = article.get("funnel")
+    article_id = article.get("id")
 
     links = []
 
-    # 1. stesso cluster
-    same_cluster = by_cluster.get(cluster, [])
-    links += same_cluster[:3]
+    # 1. stesso cluster (senza self-link)
+    for a in by_cluster.get(cluster, []):
+        if a.get("id") != article_id:
+            links.append(a)
+        if len(links) >= 3:
+            break
 
     # 2. funnel successivo
     current_level = FUNNEL_PRIORITY.get(funnel, 1)
+
     for f, level in FUNNEL_PRIORITY.items():
         if level > current_level:
-            links += by_funnel.get(f, [])[:1]
+            for a in by_funnel.get(f, []):
+                if a.get("id") != article_id:
+                    links.append(a)
+                    break
             break
 
-    # 3. metodo (conversione)
+    # 3. link a metodo (BOFU)
     for a in by_funnel.get("bofu", []):
-        if a.get("cluster") == "method":
+        if a.get("cluster") == "method" and a.get("id") != article_id:
             links.append(a)
             break
 
-    # remove self duplicates
+    # remove duplicates
     seen = set()
     clean = []
+
     for l in links:
-        uid = l.get("id")
-        if uid and uid not in seen:
+        lid = l.get("id")
+        if lid and lid not in seen:
             clean.append(l)
-            seen.add(uid)
+            seen.add(lid)
 
     return clean[:5]
 
 # =========================
-# BUILD OUTPUT SAFE YAML
+# BUILD OUTPUT
 # =========================
 
 def build_output(articles):
@@ -106,6 +119,7 @@ def build_output(articles):
 
         a["internal_links"] = [
             {
+                "id": x.get("id"),
                 "title": x.get("title"),
                 "url": x.get("url"),
                 "cluster": x.get("cluster"),
@@ -119,7 +133,7 @@ def build_output(articles):
     return output
 
 # =========================
-# SAFE WRITE (FIX YAML CRASH)
+# SAFE WRITE YAML
 # =========================
 
 def save_yaml(data):
@@ -133,34 +147,37 @@ def save_yaml(data):
         )
 
 # =========================
-# VALIDATION (ANTI-CRASH)
+# VALIDATION (ANTI CRASH)
 # =========================
 
-def validate(data):
-    for i, a in enumerate(data):
-        if "id" not in a:
-            raise ValueError(f"Missing id at index {i}")
-        if "title" not in a:
-            raise ValueError(f"Missing title at id {a.get('id')}")
-        if "url" not in a:
-            raise ValueError(f"Missing url at id {a.get('id')}")
+def validate(articles):
+    required_fields = ["id", "title", "url"]
+
+    for i, a in enumerate(articles):
+        if not isinstance(a, dict):
+            raise ValueError(f"Elemento non valido in posizione {i}")
+
+        for field in required_fields:
+            if field not in a:
+                raise ValueError(f"Missing '{field}' in article id={a.get('id')}")
 
 # =========================
-# RUN
+# MAIN
 # =========================
 
 def main():
     articles = load_articles()
 
-    if not isinstance(articles, list):
-        raise ValueError("articles.yml must be a LIST at root level")
-
     validate(articles)
 
     output = build_output(articles)
+
+    if not output:
+        raise ValueError("Output vuoto: controlla articles.yml")
+
     save_yaml(output)
 
-    print("✅ _articles-linked.yml generated successfully")
+    print("✅ _articles-linked.yml generato con successo")
 
 if __name__ == "__main__":
     main()
