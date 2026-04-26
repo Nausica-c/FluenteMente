@@ -2,39 +2,31 @@
 title: "LinkedIn inglese"
 permalink: /linkedin-inglese/
 layout: post
-content_hash: 3cc9a779e6efcf93a408f43c6432468f3a10c272f069d0194699d19a6d38df54
+content_hash: 725454af3581ac45a9c094c9a957f6b23dcec780c78f582a76306c51663fcc10
 ---
 
 # LinkedIn inglese
 
 ## Introduzione
-Guida pratica su LinkedIn inglese.
+Guida pratica su LinkedIn inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7085
+SEED: 7612
 CLUSTER: business
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [CV in inglese](/inglese/business/cv/)
-- [Colloquio di lavoro in inglese](/inglese/business/interview/)
-- [Email formali in inglese](/inglese/business/email-formali/)
-- [LinkedIn in inglese](/inglese/business/linkedin/)
-- [CV inglese avanzato](/inglese/business/cv-inglese/)

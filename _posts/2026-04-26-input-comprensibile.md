@@ -2,39 +2,31 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: aa4d6ba1f69ab07922a60b16c1133c761f976ece678fcda56c95a4e19caca24b
+content_hash: 21e14881a6abd1af71858982402755534139a149cb38b7fe850483051064b0b0
 ---
 
 # Input comprensibile
 
 ## Introduzione
-Guida pratica su Input comprensibile.
+Guida pratica su Input comprensibile con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5580
+SEED: 8142
 CLUSTER: method
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-- [Inglese da zero](/metodo/studiare-inglese-zero/)
-- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-- [Pensare in inglese](/metodo/pensare-in-inglese/)

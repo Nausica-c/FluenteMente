@@ -2,39 +2,31 @@
 title: "Andare dal medico all’estero in inglese"
 permalink: /andare-dal-medico-allestero-in-inglese/
 layout: post
-content_hash: 7f531e056a7ec6458239bff9904d8f69564df9e1c448eace72c393b301860941
+content_hash: 2b7098b0c88d51cf31d5505cc9d9a268b58f82803f247294c04d1b2544e2025f
 ---
 
 # Andare dal medico all’estero in inglese
 
 ## Introduzione
-Guida pratica su Andare dal medico all’estero in inglese.
+Guida pratica su Andare dal medico all’estero in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4525
+SEED: 7674
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-- [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)

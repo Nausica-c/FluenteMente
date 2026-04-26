@@ -2,39 +2,31 @@
 title: "Colloquio di lavoro in inglese"
 permalink: /colloquio-di-lavoro-in-inglese/
 layout: post
-content_hash: 94ce165a2e251ccd34610116b97912a679e047891950b436371cd91a657c1e3a
+content_hash: 8ad5bac42aa1d56f1ba42bf8508fa764f411e9b20c1e69687af3aee1995242b4
 ---
 
 # Colloquio di lavoro in inglese
 
 ## Introduzione
-Guida pratica su Colloquio di lavoro in inglese.
+Guida pratica su Colloquio di lavoro in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9556
+SEED: 8144
 CLUSTER: business
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [CV in inglese](/inglese/business/cv/)
-- [Email formali in inglese](/inglese/business/email-formali/)
-- [LinkedIn in inglese](/inglese/business/linkedin/)
-- [CV inglese avanzato](/inglese/business/cv-inglese/)
-- [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)

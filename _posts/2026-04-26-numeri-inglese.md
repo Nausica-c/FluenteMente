@@ -2,39 +2,31 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: c83b29d066deffb5f17f85a20ebfbd3b252b1646c8bbbd284687feee57af0a3c
+content_hash: 4145fee3bbb7a53e03dc4370dadc5d4a8884d587f65a62925dc37568f507f408
 ---
 
 # Numeri inglese
 
 ## Introduzione
-Guida pratica su Numeri inglese.
+Guida pratica su Numeri inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8380
+SEED: 5771
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

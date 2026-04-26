@@ -2,39 +2,31 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
-content_hash: 7854db9b2b020656343cae9255822ebff20020753d61de0c8959a2b7333e52f5
+content_hash: 58a57ede43f345db9f793b2d0ec8b106970ed74805b5d453cc4e90fa1521dad3
 ---
 
 # Meccanico e auto inglese
 
 ## Introduzione
-Guida pratica su Meccanico e auto inglese.
+Guida pratica su Meccanico e auto inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5648
+SEED: 1881
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)

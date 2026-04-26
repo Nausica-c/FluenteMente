@@ -2,39 +2,31 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: 909b08c0da1ee922b70e0d916bb8b39ebed77c53c18b3b2e59ec0fb1629fc97e
+content_hash: a70ae594d196954ac97a2a4c9c84f67859d0f4a8ab2810e5ddd72068cbc09494
 ---
 
 # Small talk in inglese
 
 ## Introduzione
-Guida pratica su Small talk in inglese.
+Guida pratica su Small talk in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7585
+SEED: 4282
 CLUSTER: social
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)

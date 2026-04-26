@@ -2,39 +2,31 @@
 title: "Affittare casa all’estero in inglese"
 permalink: /affittare-casa-allestero-in-inglese/
 layout: post
-content_hash: 51c2052478e7cb75ea0ac6b2125c61c052871541c5e36659a3b2bfef2ae4efae
+content_hash: d46bd89bb325ed71427dc642af725de18a8b51ab42d50d549db7c5939a9b8162
 ---
 
 # Affittare casa all’estero in inglese
 
 ## Introduzione
-Guida pratica su Affittare casa all’estero in inglese.
+Guida pratica su Affittare casa all’estero in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9156
+SEED: 8561
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-- [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)

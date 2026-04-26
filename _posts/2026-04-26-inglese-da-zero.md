@@ -2,39 +2,31 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: 3bff8be061c6bca3555b37bdc1385f08896b593737f2e1965aa6a7ed6aa96758
+content_hash: 979614dd565134816aa8a044699b4d81ddd4f4a953581c2d1916c53d0bc3e957
 ---
 
 # Inglese da zero
 
 ## Introduzione
-Guida pratica su Inglese da zero.
+Guida pratica su Inglese da zero con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9973
+SEED: 4044
 CLUSTER: method
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-- [Pensare in inglese](/metodo/pensare-in-inglese/)
-- [Shadowing](/metodo/shadowing-inglese/)

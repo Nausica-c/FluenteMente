@@ -2,39 +2,31 @@
 title: "Colori inglese"
 permalink: /colori-inglese/
 layout: post
-content_hash: 4a39545311a97687c85ffbe01288067ab6fe924a7a3d63daa26ddbe3b70bed55
+content_hash: b7037d66675504245362ef2d7a180e021030f5cdb156aaa84c39466804e040ab
 ---
 
 # Colori inglese
 
 ## Introduzione
-Guida pratica su Colori inglese.
+Guida pratica su Colori inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4321
+SEED: 7460
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

@@ -2,39 +2,31 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: a72686ba044af5d4d7281afff3507c628bd5140e8583062966a475d72d29d557
+content_hash: 612b3bf362c6292decf97d39b9886cbfab78cc6cece1c7c48d8cd328d4517ec4
 ---
 
 # Dating in inglese
 
 ## Introduzione
-Guida pratica su Dating in inglese.
+Guida pratica su Dating in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1434
+SEED: 1289
 CLUSTER: social
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Small talk in inglese](/inglese/social/small-talk/)
-- [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

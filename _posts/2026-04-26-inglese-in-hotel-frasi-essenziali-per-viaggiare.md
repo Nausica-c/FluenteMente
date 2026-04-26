@@ -2,39 +2,31 @@
 title: "Inglese in hotel: frasi essenziali per viaggiare"
 permalink: /inglese-in-hotel-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: 581815f46800bfd47e8055fa66901e39fdfc7baa54f5b7e62b253f183cbdc365
+content_hash: 57e9ca000a3fb058035b3bbf9b7923ebbffcbb42d0a106239f685cfc53f5cb3b
 ---
 
 # Inglese in hotel: frasi essenziali per viaggiare
 
 ## Introduzione
-Guida pratica su Inglese in hotel: frasi essenziali per viaggiare.
+Guida pratica su Inglese in hotel: frasi essenziali per viaggiare con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5166
+SEED: 2708
 CLUSTER: travel
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-- [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)

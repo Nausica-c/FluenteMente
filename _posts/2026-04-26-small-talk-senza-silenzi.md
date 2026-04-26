@@ -2,39 +2,31 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: 14b8d97ea4c258d74b97308c0d851e41b256d28cbc040bff52848bdb0cad63ef
+content_hash: c566b5adf02712453fa56c20e2c415f338e0991b6f66c7a7893c733698c8f48a
 ---
 
 # Small talk senza silenzi
 
 ## Introduzione
-Guida pratica su Small talk senza silenzi.
+Guida pratica su Small talk senza silenzi con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1854
+SEED: 5096
 CLUSTER: social
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Small talk in inglese](/inglese/social/small-talk/)
-- [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

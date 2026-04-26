@@ -2,39 +2,31 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: 82d513d8939bf5fb8cdadf7d2f645a9693b9dac3b2f7f7a43bb635c9a56990d9
+content_hash: e022be406713c0365e37d8df1f8b60decec0e890a6aca0d8d043f1c62eec194f
 ---
 
 # Verbo avere
 
 ## Introduzione
-Guida pratica su Verbo avere.
+Guida pratica su Verbo avere con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6330
+SEED: 3015
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

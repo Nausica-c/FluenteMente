@@ -2,39 +2,31 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 30e10090eb48f1486983e80999997bd3ee7489d6458a912d1d8e7cd754b43132
+content_hash: 5c3551aa0e0216a61af90c4f3226b704c7aa4c950ba255e2f7e52e9d2e44eca3
 ---
 
 # Memoria vocabolario
 
 ## Introduzione
-Guida pratica su Memoria vocabolario.
+Guida pratica su Memoria vocabolario con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4528
+SEED: 3516
 CLUSTER: method
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-- [Inglese da zero](/metodo/studiare-inglese-zero/)
-- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-- [Pensare in inglese](/metodo/pensare-in-inglese/)

@@ -2,39 +2,31 @@
 title: "Lavori part-time all’estero"
 permalink: /lavori-part-time-allestero/
 layout: post
-content_hash: f450c9e0ae26ff4ddbf5314d6f0b504b83b04b184672c6d2fa468a1d941b86c6
+content_hash: eeab92429abb575647a2873b05ffbf5a819a74bf4cbcec97b8d0220435652e4a
 ---
 
 # Lavori part-time all’estero
 
 ## Introduzione
-Guida pratica su Lavori part-time all’estero.
+Guida pratica su Lavori part-time all’estero con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7574
+SEED: 3234
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)

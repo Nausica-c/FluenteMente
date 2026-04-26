@@ -2,39 +2,31 @@
 title: "Inglese in hotel: check-in, problemi e richieste"
 permalink: /inglese-in-hotel-check-in-problemi-e-richieste/
 layout: post
-content_hash: f86b3dd54261e779dd012a79bf57bdb1974d2f67061fb2d52386dd3dd0b7f26b
+content_hash: 1d205f3b2d0fdcf078a76030b4970f895adaadc7e75d1b49a8ddc7e738c28c62
 ---
 
 # Inglese in hotel: check-in, problemi e richieste
 
 ## Introduzione
-Guida pratica su Inglese in hotel: check-in, problemi e richieste.
+Guida pratica su Inglese in hotel: check-in, problemi e richieste con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3150
+SEED: 9432
 CLUSTER: travel
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-- [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)

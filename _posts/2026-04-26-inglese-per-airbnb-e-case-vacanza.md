@@ -2,39 +2,31 @@
 title: "Inglese per Airbnb e case vacanza"
 permalink: /inglese-per-airbnb-e-case-vacanza/
 layout: post
-content_hash: 26bf74d2d402bdedeeea1b1c0ead0884a8559704ee907c53c234906d7d5288e0
+content_hash: c7f3c4592aabd1060da267bbd5cd9fc1b52ccbdf2b17c9942edca718e825d374
 ---
 
 # Inglese per Airbnb e case vacanza
 
 ## Introduzione
-Guida pratica su Inglese per Airbnb e case vacanza.
+Guida pratica su Inglese per Airbnb e case vacanza con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9869
+SEED: 4497
 CLUSTER: travel
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)

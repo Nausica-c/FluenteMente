@@ -2,39 +2,31 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
-content_hash: abe14bb2bde94933ca4066825e88b5b4a82d4910d2a69b163c631162ae67c043
+content_hash: c877eec410e6591e3bd949de6623e4871dd45c4b3ac28f495a41b9b3022fd10c
 ---
 
 # Pensare in inglese
 
 ## Introduzione
-Guida pratica su Pensare in inglese.
+Guida pratica su Pensare in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4541
+SEED: 1413
 CLUSTER: method
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-- [Inglese da zero](/metodo/studiare-inglese-zero/)
-- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-- [Shadowing](/metodo/shadowing-inglese/)

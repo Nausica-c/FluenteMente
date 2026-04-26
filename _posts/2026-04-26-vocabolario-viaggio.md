@@ -2,39 +2,31 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: 297ecd2dd3707dd369f7ecc5be2541846be8dc9abd0ab76246402871a332cf00
+content_hash: 128ef42b207f27a8ddac84d57831746f266a365a34c285ea8c51f96dc38f19ee
 ---
 
 # Vocabolario viaggio
 
 ## Introduzione
-Guida pratica su Vocabolario viaggio.
+Guida pratica su Vocabolario viaggio con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8781
+SEED: 7987
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

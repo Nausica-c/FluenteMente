@@ -2,39 +2,31 @@
 title: "Supermercato in inglese"
 permalink: /supermercato-in-inglese/
 layout: post
-content_hash: a332f6f3eb495efdd87043c7f6e8002db79e9992d4e031b99878b0c564056186
+content_hash: 5c02dbc80b096b3447b1030d20050c160fb69cc9ea5fe5307c9eb2b168351acd
 ---
 
 # Supermercato in inglese
 
 ## Introduzione
-Guida pratica su Supermercato in inglese.
+Guida pratica su Supermercato in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 2239
+SEED: 3546
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-- [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)

@@ -2,39 +2,31 @@
 title: "Aprire un conto bancario all’estero"
 permalink: /aprire-un-conto-bancario-allestero/
 layout: post
-content_hash: 8775620096306b16f8fd16b4fde69a44eebdeed95b33d7d10f5a82535a492e7c
+content_hash: 0498ad8f478de6535a9b067bb8af494120dd06583521deecd1953f547615c339
 ---
 
 # Aprire un conto bancario all’estero
 
 ## Introduzione
-Guida pratica su Aprire un conto bancario all’estero.
+Guida pratica su Aprire un conto bancario all’estero con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1103
+SEED: 1391
 CLUSTER: expat
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-- [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-- [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-- [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-- [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)

@@ -2,39 +2,31 @@
 title: "Inglese per emergenze in viaggio: frasi salvavita"
 permalink: /inglese-per-emergenze-in-viaggio-frasi-salvavita/
 layout: post
-content_hash: 8515ef94e9d806565814a20d0673e1f91a3cb234a0afcba272b1475057db8b8b
+content_hash: 717a52a4bda1b9a1d907a05df5c1e4eb0cac6530fa59054133ab213d6a29fe42
 ---
 
 # Inglese per emergenze in viaggio: frasi salvavita
 
 ## Introduzione
-Guida pratica su Inglese per emergenze in viaggio: frasi salvavita.
+Guida pratica su Inglese per emergenze in viaggio: frasi salvavita con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1802
+SEED: 1095
 CLUSTER: travel
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-- [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)

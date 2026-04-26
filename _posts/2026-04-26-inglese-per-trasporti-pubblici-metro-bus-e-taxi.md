@@ -2,39 +2,31 @@
 title: "Inglese per trasporti pubblici: metro, bus e taxi"
 permalink: /inglese-per-trasporti-pubblici-metro-bus-e-taxi/
 layout: post
-content_hash: 65a2a0de59f00f77e6e09cc05885e2b2fc9ee51deb2c8a5de483eae81858fb16
+content_hash: 0f0e1a24ee97e10abf697dd0752faf4774e6dd638773d5b0ce3c1484ae3815d2
 ---
 
 # Inglese per trasporti pubblici: metro, bus e taxi
 
 ## Introduzione
-Guida pratica su Inglese per trasporti pubblici: metro, bus e taxi.
+Guida pratica su Inglese per trasporti pubblici: metro, bus e taxi con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8781
+SEED: 4197
 CLUSTER: travel
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-- [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-- [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-- [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)

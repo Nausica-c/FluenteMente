@@ -2,39 +2,31 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: 887b3a6243e4c2a44307136d6f76fcdeef5e0e0c71e228ea25e9f657c1460bd6
+content_hash: 95feb56c3aaa8ce06001b3ece24eaa827680505a481c8229293e1badc144ffe3
 ---
 
 # Fare amicizia in inglese
 
 ## Introduzione
-Guida pratica su Fare amicizia in inglese.
+Guida pratica su Fare amicizia in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4528
+SEED: 6040
 CLUSTER: social
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Small talk in inglese](/inglese/social/small-talk/)
-- [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Parlare al pub in inglese](/inglese/social/pub-inglese/)

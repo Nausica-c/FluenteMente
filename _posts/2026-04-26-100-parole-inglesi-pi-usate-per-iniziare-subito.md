@@ -2,39 +2,31 @@
 title: "100 parole inglesi più usate per iniziare subito"
 permalink: /100-parole-inglesi-pi-usate-per-iniziare-subito/
 layout: post
-content_hash: be90592b5f9fbb0ce39d623777f9abb18ea71ea79b490485199e1a56b7c6b8b7
+content_hash: 7fa4841827ace21c762d89afa380894bd50734a3ac1af16164e41dfbdd73ba78
 ---
 
 # 100 parole inglesi più usate per iniziare subito
 
 ## Introduzione
-Guida pratica su 100 parole inglesi più usate per iniziare subito.
+Guida pratica su 100 parole inglesi più usate per iniziare subito con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4374
+SEED: 2219
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
-- [Articoli inglesi](/inglese/base/articoli-inglese/)

@@ -2,39 +2,31 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: 6e9d0a73cb4f7f829f33ed3b547420a0a5b5af2d0d8a79cb1d23762bc155cfd9
+content_hash: a42b16b2456ec2a2003d490ae4aa8a4c868f12c5b20cb13bfdf19bf10747bbf1
 ---
 
 # Parlare al pub in inglese
 
 ## Introduzione
-Guida pratica su Parlare al pub in inglese.
+Guida pratica su Parlare al pub in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1560
+SEED: 3140
 CLUSTER: social
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Small talk in inglese](/inglese/social/small-talk/)
-- [Slang inglese moderno](/inglese/social/slang-inglese/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)

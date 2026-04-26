@@ -6,75 +6,52 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 9377
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
     ## Introduzione
 
-    Guida pratica su Paura di parlare inglese: come sbloccarla definitivamente.
+    Guida pratica su Paura di parlare inglese: come sbloccarla definitivamente con
+    esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9377
+    SEED: 3329
 
     CLUSTER: method
 
     FUNNEL: bofu
 
-
-    ## Articoli correlati
-
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)
-
-    - [Shadowing](/metodo/shadowing-inglese/)'
-  internal_links:
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
-  - title: Shadowing
-    url: /metodo/shadowing-inglese/
+    '
 - id: 2
   title: Perché capisci l’inglese ma non riesci a parlare
   url: /metodo/blocco-parlare-inglese/
@@ -83,75 +60,51 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 5675
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
     ## Introduzione
 
-    Guida pratica su Perché capisci l’inglese ma non riesci a parlare.
+    Guida pratica su Perché capisci l’inglese ma non riesci a parlare con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5675
+    SEED: 6221
 
     CLUSTER: method
 
     FUNNEL: bofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)
-
-    - [Shadowing](/metodo/shadowing-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
-  - title: Shadowing
-    url: /metodo/shadowing-inglese/
+    '
 - id: 3
   title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
   url: /inglese/viaggio/aeroporto/
@@ -160,75 +113,52 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 3362
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
     ## Introduzione
 
-    Guida pratica su Inglese in aeroporto: frasi essenziali per viaggiare.
+    Guida pratica su Inglese in aeroporto: frasi essenziali per viaggiare con esempi
+    reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3362
+    SEED: 3152
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-
-    - [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)'
-  internal_links:
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
-  - title: 'Inglese per shopping: negozi, prezzi e acquisti'
-    url: /inglese/viaggio/shopping-inglese/
+    '
 - id: 4
   title: 'Inglese in hotel: check-in, problemi e richieste'
   url: /inglese/viaggio/hotel/
@@ -237,75 +167,51 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 3150
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
     ## Introduzione
 
-    Guida pratica su Inglese in hotel: check-in, problemi e richieste.
+    Guida pratica su Inglese in hotel: check-in, problemi e richieste con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3150
+    SEED: 9432
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-
-    - [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
-  - title: 'Inglese per shopping: negozi, prezzi e acquisti'
-    url: /inglese/viaggio/shopping-inglese/
+    '
 - id: 5
   title: 100 parole inglesi più usate per iniziare subito
   url: /inglese/base/100-parole-inglese/
@@ -314,75 +220,51 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 4374
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
     ## Introduzione
 
-    Guida pratica su 100 parole inglesi più usate per iniziare subito.
+    Guida pratica su 100 parole inglesi più usate per iniziare subito con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4374
+    SEED: 2219
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
-
-    - [Articoli inglesi](/inglese/base/articoli-inglese/)'
-  internal_links:
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
-  - title: Articoli inglesi
-    url: /inglese/base/articoli-inglese/
+    '
 - id: 6
   title: 'Alfabeto inglese e spelling: guida semplice per principianti'
   url: /inglese/base/alfabeto-inglese/
@@ -391,75 +273,52 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 3904
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
     ## Introduzione
 
-    Guida pratica su Alfabeto inglese e spelling: guida semplice per principianti.
+    Guida pratica su Alfabeto inglese e spelling: guida semplice per principianti
+    con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3904
+    SEED: 2161
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
-
-    - [Articoli inglesi](/inglese/base/articoli-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
-  - title: Articoli inglesi
-    url: /inglese/base/articoli-inglese/
+    '
 - id: 7
   title: 'Numeri in inglese da 1 a 100: guida completa'
   url: /inglese/base/numeri-inglese/
@@ -468,75 +327,51 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 8854
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
     ## Introduzione
 
-    Guida pratica su Numeri in inglese da 1 a 100: guida completa.
+    Guida pratica su Numeri in inglese da 1 a 100: guida completa con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8854
+    SEED: 9258
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
-
-    - [Articoli inglesi](/inglese/base/articoli-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
-  - title: Articoli inglesi
-    url: /inglese/base/articoli-inglese/
+    '
 - id: 8
   title: Come presentarsi in inglese in modo naturale
   url: /inglese/base/presentarsi-inglese/
@@ -545,75 +380,51 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4005
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
     ## Introduzione
 
-    Guida pratica su Come presentarsi in inglese in modo naturale.
+    Guida pratica su Come presentarsi in inglese in modo naturale con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4005
+    SEED: 5447
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)
-
-    - [Articoli inglesi](/inglese/base/articoli-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
-  - title: Articoli inglesi
-    url: /inglese/base/articoli-inglese/
+    '
 - id: 9
   title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
   url: /inglese/viaggio/frasi-aeroporto/
@@ -622,75 +433,52 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 4810
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
     ## Introduzione
 
-    Guida pratica su Frasi inglese aeroporto: check-in, gate e bagagli.
+    Guida pratica su Frasi inglese aeroporto: check-in, gate e bagagli con esempi
+    reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4810
+    SEED: 5038
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-
-    - [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
-  - title: 'Inglese per shopping: negozi, prezzi e acquisti'
-    url: /inglese/viaggio/shopping-inglese/
+    '
 - id: 10
   title: 'Inglese in hotel: frasi essenziali per viaggiare'
   url: /inglese/viaggio/hotel-inglese/
@@ -699,75 +487,51 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 5166
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
     ## Introduzione
 
-    Guida pratica su Inglese in hotel: frasi essenziali per viaggiare.
+    Guida pratica su Inglese in hotel: frasi essenziali per viaggiare con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5166
+    SEED: 2708
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)
-
-    - [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
-  - title: 'Inglese per shopping: negozi, prezzi e acquisti'
-    url: /inglese/viaggio/shopping-inglese/
+    '
 - id: 11
   title: 'Inglese per trasporti pubblici: metro, bus e taxi'
   url: /inglese/viaggio/trasporti-pubblici/
@@ -776,75 +540,52 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 8781
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
     ## Introduzione
 
-    Guida pratica su Inglese per trasporti pubblici: metro, bus e taxi.
+    Guida pratica su Inglese per trasporti pubblici: metro, bus e taxi con esempi
+    reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8781
+    SEED: 4197
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per shopping: negozi, prezzi e acquisti](/inglese/viaggio/shopping-inglese/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per shopping: negozi, prezzi e acquisti'
-    url: /inglese/viaggio/shopping-inglese/
+    '
 - id: 12
   title: 'Inglese per shopping: negozi, prezzi e acquisti'
   url: /inglese/viaggio/shopping-inglese/
@@ -853,75 +594,51 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 9356
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
     ## Introduzione
 
-    Guida pratica su Inglese per shopping: negozi, prezzi e acquisti.
+    Guida pratica su Inglese per shopping: negozi, prezzi e acquisti con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9356
+    SEED: 5638
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
+    '
 - id: 13
   title: 'Inglese per emergenze in viaggio: frasi salvavita'
   url: /inglese/viaggio/emergenze-inglese/
@@ -930,75 +647,52 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 1802
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
     ## Introduzione
 
-    Guida pratica su Inglese per emergenze in viaggio: frasi salvavita.
+    Guida pratica su Inglese per emergenze in viaggio: frasi salvavita con esempi
+    reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1802
+    SEED: 1095
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
+    '
 - id: 14
   title: Inglese per Airbnb e case vacanza
   url: /inglese/viaggio/airbnb-inglese/
@@ -1007,75 +701,51 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 9869
   final_article: '# Inglese per Airbnb e case vacanza
 
 
     ## Introduzione
 
-    Guida pratica su Inglese per Airbnb e case vacanza.
+    Guida pratica su Inglese per Airbnb e case vacanza con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9869
+    SEED: 4497
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
+    '
 - id: 15
   title: Come lamentarsi in inglese (hotel, servizi, problemi)
   url: /inglese/viaggio/reclami-inglese/
@@ -1084,75 +754,52 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 5574
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
     ## Introduzione
 
-    Guida pratica su Come lamentarsi in inglese (hotel, servizi, problemi).
+    Guida pratica su Come lamentarsi in inglese (hotel, servizi, problemi) con esempi
+    reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5574
+    SEED: 2755
 
     CLUSTER: travel
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
-
-    - [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
-
-    - [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
-
-    - [Inglese in hotel: frasi essenziali per viaggiare](/inglese/viaggio/hotel-inglese/)
-
-    - [Inglese per trasporti pubblici: metro, bus e taxi](/inglese/viaggio/trasporti-pubblici/)'
-  internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-  - title: 'Inglese in hotel: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/hotel-inglese/
-  - title: 'Inglese per trasporti pubblici: metro, bus e taxi'
-    url: /inglese/viaggio/trasporti-pubblici/
+    '
 - id: 16
   title: Affittare casa all’estero in inglese
   url: /inglese/expat/affittare-casa/
@@ -1161,75 +808,51 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 9156
   final_article: '# Affittare casa all’estero in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Affittare casa all’estero in inglese.
+    Guida pratica su Affittare casa all’estero in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9156
+    SEED: 8561
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-
-    - [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)'
-  internal_links:
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
-  - title: Lavori part-time all’estero
-    url: /inglese/expat/lavoro-estero/
+    '
 - id: 17
   title: Contratto d’affitto in inglese
   url: /inglese/expat/contratto-affitto/
@@ -1238,75 +861,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6224
   final_article: '# Contratto d’affitto in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Contratto d’affitto in inglese.
+    Guida pratica su Contratto d’affitto in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6224
+    SEED: 4623
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-
-    - [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
-  - title: Lavori part-time all’estero
-    url: /inglese/expat/lavoro-estero/
+    '
 - id: 18
   title: Utenze casa all’estero in inglese
   url: /inglese/expat/utenze-casa/
@@ -1315,75 +914,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 3154
   final_article: '# Utenze casa all’estero in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Utenze casa all’estero in inglese.
+    Guida pratica su Utenze casa all’estero in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3154
+    SEED: 3716
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-
-    - [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
-  - title: Lavori part-time all’estero
-    url: /inglese/expat/lavoro-estero/
+    '
 - id: 19
   title: Andare dal medico all’estero in inglese
   url: /inglese/expat/medico-inglese/
@@ -1392,75 +967,51 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 4525
   final_article: '# Andare dal medico all’estero in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Andare dal medico all’estero in inglese.
+    Guida pratica su Andare dal medico all’estero in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4525
+    SEED: 7674
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)
-
-    - [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
-  - title: Lavori part-time all’estero
-    url: /inglese/expat/lavoro-estero/
+    '
 - id: 20
   title: Aprire un conto bancario all’estero
   url: /inglese/expat/banca-inglese/
@@ -1469,75 +1020,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 1103
   final_article: '# Aprire un conto bancario all’estero
 
 
     ## Introduzione
 
-    Guida pratica su Aprire un conto bancario all’estero.
+    Guida pratica su Aprire un conto bancario all’estero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1103
+    SEED: 1391
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Lavori part-time all’estero](/inglese/expat/lavoro-estero/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Lavori part-time all’estero
-    url: /inglese/expat/lavoro-estero/
+    '
 - id: 21
   title: Lavori part-time all’estero
   url: /inglese/expat/lavoro-estero/
@@ -1546,75 +1073,51 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 7574
   final_article: '# Lavori part-time all’estero
 
 
     ## Introduzione
 
-    Guida pratica su Lavori part-time all’estero.
+    Guida pratica su Lavori part-time all’estero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7574
+    SEED: 3234
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 22
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -1623,75 +1126,51 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 7085
   final_article: '# Fare amicizia in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Fare amicizia in inglese.
+    Guida pratica su Fare amicizia in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7085
+    SEED: 9858
 
     CLUSTER: social
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)'
-  internal_links:
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+    '
 - id: 23
   title: Small talk in inglese
   url: /inglese/social/small-talk/
@@ -1700,75 +1179,51 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 7585
   final_article: '# Small talk in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Small talk in inglese.
+    Guida pratica su Small talk in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7585
+    SEED: 4282
 
     CLUSTER: social
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+    '
 - id: 24
   title: Slang inglese moderno
   url: /inglese/social/slang-inglese/
@@ -1777,75 +1232,51 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 7584
   final_article: '# Slang inglese moderno
 
 
     ## Introduzione
 
-    Guida pratica su Slang inglese moderno.
+    Guida pratica su Slang inglese moderno con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7584
+    SEED: 1883
 
     CLUSTER: social
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+    '
 - id: 25
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -1854,75 +1285,51 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 2674
   final_article: '# Dating in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Dating in inglese.
+    Guida pratica su Dating in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 2674
+    SEED: 7296
 
     CLUSTER: social
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+    '
 - id: 26
   title: Parlare al pub in inglese
   url: /inglese/social/pub-inglese/
@@ -1931,75 +1338,51 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 1560
   final_article: '# Parlare al pub in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Parlare al pub in inglese.
+    Guida pratica su Parlare al pub in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1560
+    SEED: 3140
 
     CLUSTER: social
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+    '
 - id: 27
   title: CV in inglese
   url: /inglese/business/cv/
@@ -2008,75 +1391,51 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 8527
   final_article: '# CV in inglese
 
 
     ## Introduzione
 
-    Guida pratica su CV in inglese.
+    Guida pratica su CV in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8527
+    SEED: 1649
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)
-
-    - [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)'
-  internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
-  - title: Colloquio inglese avanzato
-    url: /inglese/business/colloquio-inglese/
+    '
 - id: 28
   title: Colloquio di lavoro in inglese
   url: /inglese/business/interview/
@@ -2085,75 +1444,51 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 9556
   final_article: '# Colloquio di lavoro in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Colloquio di lavoro in inglese.
+    Guida pratica su Colloquio di lavoro in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9556
+    SEED: 8144
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)
-
-    - [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
-  - title: Colloquio inglese avanzato
-    url: /inglese/business/colloquio-inglese/
+    '
 - id: 29
   title: Email formali in inglese
   url: /inglese/business/email-formali/
@@ -2162,75 +1497,51 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 6021
   final_article: '# Email formali in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Email formali in inglese.
+    Guida pratica su Email formali in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6021
+    SEED: 7027
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)
-
-    - [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
-  - title: Colloquio inglese avanzato
-    url: /inglese/business/colloquio-inglese/
+    '
 - id: 30
   title: LinkedIn in inglese
   url: /inglese/business/linkedin/
@@ -2239,75 +1550,51 @@
   cluster: business
   role: spoke
   priority: 85
-  seed: 9973
   final_article: '# LinkedIn in inglese
 
 
     ## Introduzione
 
-    Guida pratica su LinkedIn in inglese.
+    Guida pratica su LinkedIn in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9973
+    SEED: 7478
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)
-
-    - [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
-  - title: Colloquio inglese avanzato
-    url: /inglese/business/colloquio-inglese/
+    '
 - id: 31
   title: Affittare casa all’estero
   url: /inglese/expat/affitto-casa-inglese/
@@ -2316,75 +1603,51 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 7308
   final_article: '# Affittare casa all’estero
 
 
     ## Introduzione
 
-    Guida pratica su Affittare casa all’estero.
+    Guida pratica su Affittare casa all’estero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7308
+    SEED: 4057
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 32
   title: Landlord e problemi casa
   url: /inglese/expat/landlord-problemi-casa/
@@ -2393,75 +1656,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 4541
   final_article: '# Landlord e problemi casa
 
 
     ## Introduzione
 
-    Guida pratica su Landlord e problemi casa.
+    Guida pratica su Landlord e problemi casa con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4541
+    SEED: 1115
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 33
   title: Conto corrente estero
   url: /inglese/expat/conto-corrente-inglese/
@@ -2470,75 +1709,51 @@
   cluster: expat
   role: spoke
   priority: 88
-  seed: 5365
   final_article: '# Conto corrente estero
 
 
     ## Introduzione
 
-    Guida pratica su Conto corrente estero.
+    Guida pratica su Conto corrente estero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5365
+    SEED: 5416
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 34
   title: Medico di base all’estero
   url: /inglese/expat/medico-base-inglese/
@@ -2547,75 +1762,51 @@
   cluster: expat
   role: spoke
   priority: 87
-  seed: 5580
   final_article: '# Medico di base all’estero
 
 
     ## Introduzione
 
-    Guida pratica su Medico di base all’estero.
+    Guida pratica su Medico di base all’estero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5580
+    SEED: 8309
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 35
   title: Utenze casa inglese
   url: /inglese/expat/utenze-casa-inglese/
@@ -2624,75 +1815,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6559
   final_article: '# Utenze casa inglese
 
 
     ## Introduzione
 
-    Guida pratica su Utenze casa inglese.
+    Guida pratica su Utenze casa inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6559
+    SEED: 7432
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 36
   title: Supermercato in inglese
   url: /inglese/expat/supermercato-inglese/
@@ -2701,75 +1868,51 @@
   cluster: expat
   role: spoke
   priority: 80
-  seed: 2239
   final_article: '# Supermercato in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Supermercato in inglese.
+    Guida pratica su Supermercato in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 2239
+    SEED: 3546
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 37
   title: Salute e farmacia inglese
   url: /inglese/expat/salute-inglese/
@@ -2778,75 +1921,51 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 5177
   final_article: '# Salute e farmacia inglese
 
 
     ## Introduzione
 
-    Guida pratica su Salute e farmacia inglese.
+    Guida pratica su Salute e farmacia inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5177
+    SEED: 7388
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 38
   title: Meccanico e auto inglese
   url: /inglese/expat/meccanico-auto-inglese/
@@ -2855,75 +1974,51 @@
   cluster: expat
   role: spoke
   priority: 75
-  seed: 5648
   final_article: '# Meccanico e auto inglese
 
 
     ## Introduzione
 
-    Guida pratica su Meccanico e auto inglese.
+    Guida pratica su Meccanico e auto inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5648
+    SEED: 1881
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
-
-    - [Contratto d’affitto in inglese](/inglese/expat/contratto-affitto/)
-
-    - [Utenze casa all’estero in inglese](/inglese/expat/utenze-casa/)
-
-    - [Andare dal medico all’estero in inglese](/inglese/expat/medico-inglese/)
-
-    - [Aprire un conto bancario all’estero](/inglese/expat/banca-inglese/)'
-  internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-  - title: Andare dal medico all’estero in inglese
-    url: /inglese/expat/medico-inglese/
-  - title: Aprire un conto bancario all’estero
-    url: /inglese/expat/banca-inglese/
+    '
 - id: 39
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -2932,75 +2027,51 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 4528
   final_article: '# Fare amicizia in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Fare amicizia in inglese.
+    Guida pratica su Fare amicizia in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4528
+    SEED: 6040
 
     CLUSTER: social
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
+    '
 - id: 40
   title: Small talk senza silenzi
   url: /inglese/social/small-talk-inglese/
@@ -3009,75 +2080,51 @@
   cluster: social
   role: spoke
   priority: 95
-  seed: 1854
   final_article: '# Small talk senza silenzi
 
 
     ## Introduzione
 
-    Guida pratica su Small talk senza silenzi.
+    Guida pratica su Small talk senza silenzi con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1854
+    SEED: 5096
 
     CLUSTER: social
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
+    '
 - id: 41
   title: Slang reale inglese
   url: /inglese/social/slang-reale/
@@ -3086,75 +2133,51 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 6461
   final_article: '# Slang reale inglese
 
 
     ## Introduzione
 
-    Guida pratica su Slang reale inglese.
+    Guida pratica su Slang reale inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6461
+    SEED: 9243
 
     CLUSTER: social
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
+    '
 - id: 42
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -3163,75 +2186,51 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 1434
   final_article: '# Dating in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Dating in inglese.
+    Guida pratica su Dating in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1434
+    SEED: 1289
 
     CLUSTER: social
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-
-    - [Small talk in inglese](/inglese/social/small-talk/)
-
-    - [Slang inglese moderno](/inglese/social/slang-inglese/)
-
-    - [Dating in inglese](/inglese/social/dating-inglese/)
-
-    - [Parlare al pub in inglese](/inglese/social/pub-inglese/)'
-  internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-  - title: Dating in inglese
-    url: /inglese/social/dating-inglese/
-  - title: Parlare al pub in inglese
-    url: /inglese/social/pub-inglese/
+    '
 - id: 43
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -3240,75 +2239,51 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 1030
   final_article: '# CV inglese avanzato
 
 
     ## Introduzione
 
-    Guida pratica su CV inglese avanzato.
+    Guida pratica su CV inglese avanzato con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1030
+    SEED: 8713
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [Colloquio inglese avanzato](/inglese/business/colloquio-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: Colloquio inglese avanzato
-    url: /inglese/business/colloquio-inglese/
+    '
 - id: 44
   title: Colloquio inglese avanzato
   url: /inglese/business/colloquio-inglese/
@@ -3317,75 +2292,51 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 1908
   final_article: '# Colloquio inglese avanzato
 
 
     ## Introduzione
 
-    Guida pratica su Colloquio inglese avanzato.
+    Guida pratica su Colloquio inglese avanzato con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1908
+    SEED: 9674
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 45
   title: Email professionali inglese
   url: /inglese/business/email-inglese/
@@ -3394,75 +2345,51 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 4457
   final_article: '# Email professionali inglese
 
 
     ## Introduzione
 
-    Guida pratica su Email professionali inglese.
+    Guida pratica su Email professionali inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4457
+    SEED: 9420
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 46
   title: Pronomi inglesi
   url: /inglese/base/pronomi-personali-inglese/
@@ -3471,75 +2398,51 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 3065
   final_article: '# Pronomi inglesi
 
 
     ## Introduzione
 
-    Guida pratica su Pronomi inglesi.
+    Guida pratica su Pronomi inglesi con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3065
+    SEED: 7956
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Articoli inglesi](/inglese/base/articoli-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Articoli inglesi
-    url: /inglese/base/articoli-inglese/
+    '
 - id: 47
   title: Articoli inglesi
   url: /inglese/base/articoli-inglese/
@@ -3548,75 +2451,51 @@
   cluster: base
   role: spoke
   priority: 92
-  seed: 2114
   final_article: '# Articoli inglesi
 
 
     ## Introduzione
 
-    Guida pratica su Articoli inglesi.
+    Guida pratica su Articoli inglesi con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 2114
+    SEED: 7957
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 48
   title: Plurale inglese
   url: /inglese/base/plurale-inglese/
@@ -3625,75 +2504,51 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4949
   final_article: '# Plurale inglese
 
 
     ## Introduzione
 
-    Guida pratica su Plurale inglese.
+    Guida pratica su Plurale inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4949
+    SEED: 5888
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 49
   title: Dimostrativi inglesi
   url: /inglese/base/dimostrativi-inglese/
@@ -3702,75 +2557,51 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 6961
   final_article: '# Dimostrativi inglesi
 
 
     ## Introduzione
 
-    Guida pratica su Dimostrativi inglesi.
+    Guida pratica su Dimostrativi inglesi con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6961
+    SEED: 2816
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 50
   title: Aggettivi inglese
   url: /inglese/base/aggettivi-inglese/
@@ -3779,75 +2610,51 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4493
   final_article: '# Aggettivi inglese
 
 
     ## Introduzione
 
-    Guida pratica su Aggettivi inglese.
+    Guida pratica su Aggettivi inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4493
+    SEED: 8383
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 51
   title: Verbo essere
   url: /inglese/base/verbo-essere/
@@ -3856,75 +2663,51 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 7255
   final_article: '# Verbo essere
 
 
     ## Introduzione
 
-    Guida pratica su Verbo essere.
+    Guida pratica su Verbo essere con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7255
+    SEED: 6522
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 52
   title: Verbo avere
   url: /inglese/base/verbo-avere/
@@ -3933,75 +2716,51 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 6330
   final_article: '# Verbo avere
 
 
     ## Introduzione
 
-    Guida pratica su Verbo avere.
+    Guida pratica su Verbo avere con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6330
+    SEED: 3015
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 53
   title: Parole base inglese
   url: /inglese/base/parole-base/
@@ -4010,75 +2769,51 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 1190
   final_article: '# Parole base inglese
 
 
     ## Introduzione
 
-    Guida pratica su Parole base inglese.
+    Guida pratica su Parole base inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1190
+    SEED: 5879
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 54
   title: Numeri inglese
   url: /inglese/base/numeri-inglese/
@@ -4087,75 +2822,51 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 8380
   final_article: '# Numeri inglese
 
 
     ## Introduzione
 
-    Guida pratica su Numeri inglese.
+    Guida pratica su Numeri inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8380
+    SEED: 5771
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 55
   title: Colori inglese
   url: /inglese/base/colori-inglese/
@@ -4164,75 +2875,51 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 4321
   final_article: '# Colori inglese
 
 
     ## Introduzione
 
-    Guida pratica su Colori inglese.
+    Guida pratica su Colori inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4321
+    SEED: 7460
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 56
   title: Tempo inglese
   url: /inglese/base/tempo-inglese/
@@ -4241,75 +2928,51 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 5166
   final_article: '# Tempo inglese
 
 
     ## Introduzione
 
-    Guida pratica su Tempo inglese.
+    Guida pratica su Tempo inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5166
+    SEED: 1991
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 57
   title: Vocabolario viaggio
   url: /inglese/base/vocabolario-viaggio/
@@ -4318,75 +2981,51 @@
   cluster: base
   role: hub
   priority: 95
-  seed: 8781
   final_article: '# Vocabolario viaggio
 
 
     ## Introduzione
 
-    Guida pratica su Vocabolario viaggio.
+    Guida pratica su Vocabolario viaggio con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8781
+    SEED: 7987
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 58
   title: Preposizioni inglesi
   url: /inglese/base/preposizioni-in-on-at/
@@ -4395,75 +3034,51 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 9356
   final_article: '# Preposizioni inglesi
 
 
     ## Introduzione
 
-    Guida pratica su Preposizioni inglesi.
+    Guida pratica su Preposizioni inglesi con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9356
+    SEED: 9609
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 59
   title: Much many a lot
   url: /inglese/base/much-many-a-lot-of/
@@ -4472,75 +3087,51 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 1802
   final_article: '# Much many a lot
 
 
     ## Introduzione
 
-    Guida pratica su Much many a lot.
+    Guida pratica su Much many a lot con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1802
+    SEED: 7356
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 60
   title: Do vs Make
   url: /inglese/base/do-vs-make/
@@ -4549,75 +3140,51 @@
   cluster: base
   role: spoke
   priority: 88
-  seed: 9869
   final_article: '# Do vs Make
 
 
     ## Introduzione
 
-    Guida pratica su Do vs Make.
+    Guida pratica su Do vs Make con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9869
+    SEED: 4192
 
     CLUSTER: base
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-
-    - [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-
-    - [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-
-    - [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-
-    - [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)'
-  internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-  - title: Come presentarsi in inglese in modo naturale
-    url: /inglese/base/presentarsi-inglese/
-  - title: Pronomi inglesi
-    url: /inglese/base/pronomi-personali-inglese/
+    '
 - id: 61
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -4626,75 +3193,51 @@
   cluster: business
   role: hub
   priority: 100
-  seed: 5574
   final_article: '# CV inglese avanzato
 
 
     ## Introduzione
 
-    Guida pratica su CV inglese avanzato.
+    Guida pratica su CV inglese avanzato con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5574
+    SEED: 6250
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 62
   title: Colloquio inglese
   url: /inglese/business/colloquio-inglese/
@@ -4703,75 +3246,51 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 9156
   final_article: '# Colloquio inglese
 
 
     ## Introduzione
 
-    Guida pratica su Colloquio inglese.
+    Guida pratica su Colloquio inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9156
+    SEED: 7998
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 63
   title: Email inglese
   url: /inglese/business/email-inglese/
@@ -4780,75 +3299,51 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 6224
   final_article: '# Email inglese
 
 
     ## Introduzione
 
-    Guida pratica su Email inglese.
+    Guida pratica su Email inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6224
+    SEED: 1010
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 64
   title: Presentazioni inglese
   url: /inglese/business/presentazioni-inglese/
@@ -4857,75 +3352,51 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 3154
   final_article: '# Presentazioni inglese
 
 
     ## Introduzione
 
-    Guida pratica su Presentazioni inglese.
+    Guida pratica su Presentazioni inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 3154
+    SEED: 5046
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 65
   title: Meeting inglese
   url: /inglese/business/meeting-inglese/
@@ -4934,75 +3405,51 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 4525
   final_article: '# Meeting inglese
 
 
     ## Introduzione
 
-    Guida pratica su Meeting inglese.
+    Guida pratica su Meeting inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4525
+    SEED: 1618
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 66
   title: Networking inglese
   url: /inglese/business/small-talk-business/
@@ -5011,75 +3458,51 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 1103
   final_article: '# Networking inglese
 
 
     ## Introduzione
 
-    Guida pratica su Networking inglese.
+    Guida pratica su Networking inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1103
+    SEED: 2317
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 67
   title: Stipendio inglese
   url: /inglese/business/stipendio-inglese/
@@ -5088,75 +3511,51 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 7574
   final_article: '# Stipendio inglese
 
 
     ## Introduzione
 
-    Guida pratica su Stipendio inglese.
+    Guida pratica su Stipendio inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7574
+    SEED: 7272
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 68
   title: LinkedIn inglese
   url: /inglese/business/linkedin-inglese/
@@ -5165,75 +3564,51 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 7085
   final_article: '# LinkedIn inglese
 
 
     ## Introduzione
 
-    Guida pratica su LinkedIn inglese.
+    Guida pratica su LinkedIn inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7085
+    SEED: 7612
 
     CLUSTER: business
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [CV in inglese](/inglese/business/cv/)
-
-    - [Colloquio di lavoro in inglese](/inglese/business/interview/)
-
-    - [Email formali in inglese](/inglese/business/email-formali/)
-
-    - [LinkedIn in inglese](/inglese/business/linkedin/)
-
-    - [CV inglese avanzato](/inglese/business/cv-inglese/)'
-  internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-  - title: LinkedIn in inglese
-    url: /inglese/business/linkedin/
-  - title: CV inglese avanzato
-    url: /inglese/business/cv-inglese/
+    '
 - id: 69
   title: Falsi amici inglese
   url: /inglese/cultura/falsi-amici/
@@ -5242,75 +3617,51 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 7585
   final_article: '# Falsi amici inglese
 
 
     ## Introduzione
 
-    Guida pratica su Falsi amici inglese.
+    Guida pratica su Falsi amici inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7585
+    SEED: 5630
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-
-    - [UK vs US](/inglese/cultura/uk-vs-us/)
-
-    - [Storia inglese](/inglese/cultura/storia-inglese/)
-
-    - [Slang reale](/inglese/cultura/slang-reale/)
-
-    - [Mentalità inglese](/inglese/cultura/mentalita-inglese/)'
-  internal_links:
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-  - title: Storia inglese
-    url: /inglese/cultura/storia-inglese/
-  - title: Slang reale
-    url: /inglese/cultura/slang-reale/
-  - title: Mentalità inglese
-    url: /inglese/cultura/mentalita-inglese/
+    '
 - id: 70
   title: Parole intraducibili
   url: /inglese/cultura/parole-intraducibili/
@@ -5319,75 +3670,51 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 7584
   final_article: '# Parole intraducibili
 
 
     ## Introduzione
 
-    Guida pratica su Parole intraducibili.
+    Guida pratica su Parole intraducibili con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7584
+    SEED: 5614
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-
-    - [UK vs US](/inglese/cultura/uk-vs-us/)
-
-    - [Storia inglese](/inglese/cultura/storia-inglese/)
-
-    - [Slang reale](/inglese/cultura/slang-reale/)
-
-    - [Mentalità inglese](/inglese/cultura/mentalita-inglese/)'
-  internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-  - title: Storia inglese
-    url: /inglese/cultura/storia-inglese/
-  - title: Slang reale
-    url: /inglese/cultura/slang-reale/
-  - title: Mentalità inglese
-    url: /inglese/cultura/mentalita-inglese/
+    '
 - id: 71
   title: UK vs US
   url: /inglese/cultura/uk-vs-us/
@@ -5396,75 +3723,51 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 2674
   final_article: '# UK vs US
 
 
     ## Introduzione
 
-    Guida pratica su UK vs US.
+    Guida pratica su UK vs US con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 2674
+    SEED: 2705
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-
-    - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-
-    - [Storia inglese](/inglese/cultura/storia-inglese/)
-
-    - [Slang reale](/inglese/cultura/slang-reale/)
-
-    - [Mentalità inglese](/inglese/cultura/mentalita-inglese/)'
-  internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-  - title: Storia inglese
-    url: /inglese/cultura/storia-inglese/
-  - title: Slang reale
-    url: /inglese/cultura/slang-reale/
-  - title: Mentalità inglese
-    url: /inglese/cultura/mentalita-inglese/
+    '
 - id: 72
   title: Storia inglese
   url: /inglese/cultura/storia-inglese/
@@ -5473,75 +3776,51 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 1560
   final_article: '# Storia inglese
 
 
     ## Introduzione
 
-    Guida pratica su Storia inglese.
+    Guida pratica su Storia inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1560
+    SEED: 3878
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
-
-    ## Articoli correlati
-
-
-    - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-
-    - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-
-    - [UK vs US](/inglese/cultura/uk-vs-us/)
-
-    - [Slang reale](/inglese/cultura/slang-reale/)
-
-    - [Mentalità inglese](/inglese/cultura/mentalita-inglese/)'
-  internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-  - title: Slang reale
-    url: /inglese/cultura/slang-reale/
-  - title: Mentalità inglese
-    url: /inglese/cultura/mentalita-inglese/
+    '
 - id: 73
   title: Pronuncia italiani
   url: /inglese/pronuncia/errori-italiani/
@@ -5550,54 +3829,51 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 8527
   final_article: '# Pronuncia italiani
 
 
     ## Introduzione
 
-    Guida pratica su Pronuncia italiani.
+    Guida pratica su Pronuncia italiani con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 8527
+    SEED: 4391
 
     CLUSTER: pronuncia
 
     FUNNEL: mofu
 
-
     '
-  internal_links: []
 - id: 74
   title: Slang reale
   url: /inglese/cultura/slang-reale/
@@ -5606,75 +3882,51 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 9556
   final_article: '# Slang reale
 
 
     ## Introduzione
 
-    Guida pratica su Slang reale.
+    Guida pratica su Slang reale con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9556
+    SEED: 2939
 
     CLUSTER: cultura
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-
-    - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-
-    - [UK vs US](/inglese/cultura/uk-vs-us/)
-
-    - [Storia inglese](/inglese/cultura/storia-inglese/)
-
-    - [Mentalità inglese](/inglese/cultura/mentalita-inglese/)'
-  internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-  - title: Storia inglese
-    url: /inglese/cultura/storia-inglese/
-  - title: Mentalità inglese
-    url: /inglese/cultura/mentalita-inglese/
+    '
 - id: 75
   title: Mentalità inglese
   url: /inglese/cultura/mentalita-inglese/
@@ -5683,75 +3935,51 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 6021
   final_article: '# Mentalità inglese
 
 
     ## Introduzione
 
-    Guida pratica su Mentalità inglese.
+    Guida pratica su Mentalità inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6021
+    SEED: 8993
 
     CLUSTER: cultura
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-
-    - [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-
-    - [UK vs US](/inglese/cultura/uk-vs-us/)
-
-    - [Storia inglese](/inglese/cultura/storia-inglese/)
-
-    - [Slang reale](/inglese/cultura/slang-reale/)'
-  internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-  - title: Storia inglese
-    url: /inglese/cultura/storia-inglese/
-  - title: Slang reale
-    url: /inglese/cultura/slang-reale/
+    '
 - id: 76
   title: Inglese da zero
   url: /metodo/studiare-inglese-zero/
@@ -5760,75 +3988,51 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 9973
   final_article: '# Inglese da zero
 
 
     ## Introduzione
 
-    Guida pratica su Inglese da zero.
+    Guida pratica su Inglese da zero con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 9973
+    SEED: 4044
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)
-
-    - [Shadowing](/metodo/shadowing-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
-  - title: Shadowing
-    url: /metodo/shadowing-inglese/
+    '
 - id: 77
   title: Blocco parlare inglese
   url: /metodo/blocco-parlato-inglese/
@@ -5837,75 +4041,51 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 7308
   final_article: '# Blocco parlare inglese
 
 
     ## Introduzione
 
-    Guida pratica su Blocco parlare inglese.
+    Guida pratica su Blocco parlare inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 7308
+    SEED: 8250
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)
-
-    - [Shadowing](/metodo/shadowing-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
-  - title: Shadowing
-    url: /metodo/shadowing-inglese/
+    '
 - id: 78
   title: Pensare in inglese
   url: /metodo/pensare-in-inglese/
@@ -5914,75 +4094,51 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 4541
   final_article: '# Pensare in inglese
 
 
     ## Introduzione
 
-    Guida pratica su Pensare in inglese.
+    Guida pratica su Pensare in inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4541
+    SEED: 1413
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Shadowing](/metodo/shadowing-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Shadowing
-    url: /metodo/shadowing-inglese/
+    '
 - id: 79
   title: Shadowing
   url: /metodo/shadowing-inglese/
@@ -5991,75 +4147,51 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5365
   final_article: '# Shadowing
 
 
     ## Introduzione
 
-    Guida pratica su Shadowing.
+    Guida pratica su Shadowing con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5365
+    SEED: 8491
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 80
   title: Input comprensibile
   url: /metodo/input-comprensibile/
@@ -6068,75 +4200,51 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5580
   final_article: '# Input comprensibile
 
 
     ## Introduzione
 
-    Guida pratica su Input comprensibile.
+    Guida pratica su Input comprensibile con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5580
+    SEED: 8142
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 81
   title: Metodo FluenteMente
   url: /metodo/fluentemente-metodo/
@@ -6145,75 +4253,51 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6559
   final_article: '# Metodo FluenteMente
 
 
     ## Introduzione
 
-    Guida pratica su Metodo FluenteMente.
+    Guida pratica su Metodo FluenteMente con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6559
+    SEED: 2521
 
     CLUSTER: method
 
     FUNNEL: bofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 82
   title: Ripetizione spaziata
   url: /metodo/ripetizione-spaziata/
@@ -6222,75 +4306,51 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 2239
   final_article: '# Ripetizione spaziata
 
 
     ## Introduzione
 
-    Guida pratica su Ripetizione spaziata.
+    Guida pratica su Ripetizione spaziata con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 2239
+    SEED: 5152
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 83
   title: Routine inglese
   url: /metodo/routine-inglese/
@@ -6299,75 +4359,51 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5177
   final_article: '# Routine inglese
 
 
     ## Introduzione
 
-    Guida pratica su Routine inglese.
+    Guida pratica su Routine inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5177
+    SEED: 6735
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 84
   title: Smettere tradurre
   url: /metodo/smettere-tradurre/
@@ -6376,75 +4412,51 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 5648
   final_article: '# Smettere tradurre
 
 
     ## Introduzione
 
-    Guida pratica su Smettere tradurre.
+    Guida pratica su Smettere tradurre con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 5648
+    SEED: 6502
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 85
   title: Memoria vocabolario
   url: /metodo/memoria-vocabolario/
@@ -6453,75 +4465,51 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 4528
   final_article: '# Memoria vocabolario
 
 
     ## Introduzione
 
-    Guida pratica su Memoria vocabolario.
+    Guida pratica su Memoria vocabolario con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 4528
+    SEED: 3516
 
     CLUSTER: method
 
     FUNNEL: mofu
 
-
-    ## Articoli correlati
-
-
-    - [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-
-    - [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-
-    - [Inglese da zero](/metodo/studiare-inglese-zero/)
-
-    - [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-
-    - [Pensare in inglese](/metodo/pensare-in-inglese/)'
-  internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-  - title: Blocco parlare inglese
-    url: /metodo/blocco-parlato-inglese/
-  - title: Pensare in inglese
-    url: /metodo/pensare-in-inglese/
+    '
 - id: 86
   title: Errori inglese
   url: /metodo/errori-inglese/
@@ -6530,59 +4518,51 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 1854
   final_article: '# Errori inglese
 
 
     ## Introduzione
 
-    Guida pratica su Errori inglese.
+    Guida pratica su Errori inglese con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1854
+    SEED: 8202
 
     CLUSTER: conversion
 
     FUNNEL: bofu
 
-
-    ## Articoli correlati
-
-
-    - [Metodi tradizionali](/metodo/metodi-tradizionali-inglese/)'
-  internal_links:
-  - title: Metodi tradizionali
-    url: /metodo/metodi-tradizionali-inglese/
+    '
 - id: 87
   title: Metodi tradizionali
   url: /metodo/metodi-tradizionali-inglese/
@@ -6591,59 +4571,51 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 6461
   final_article: '# Metodi tradizionali
 
 
     ## Introduzione
 
-    Guida pratica su Metodi tradizionali.
+    Guida pratica su Metodi tradizionali con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 6461
+    SEED: 7814
 
     CLUSTER: conversion
 
     FUNNEL: bofu
 
-
-    ## Articoli correlati
-
-
-    - [Errori inglese](/metodo/errori-inglese/)'
-  internal_links:
-  - title: Errori inglese
-    url: /metodo/errori-inglese/
+    '
 - id: 88
   title: Recensione Babbel
   url: /recensione-babbel/
@@ -6652,51 +4624,48 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 1434
   final_article: '# Recensione Babbel
 
 
     ## Introduzione
 
-    Guida pratica su Recensione Babbel.
+    Guida pratica su Recensione Babbel con esempi reali.
 
 
     ## Cos’è
 
-    Spiegazione semplice e chiara del concetto.
+    Spiegazione semplice e immediata.
 
 
     ## Esempi pratici
 
-    - esempio reale 1
+    - esempio 1
 
-    - esempio reale 2
+    - esempio 2
 
-    - esempio reale 3
+    - esempio 3
 
-    - esempio reale 4
+    - esempio 4
 
-    - esempio reale 5
+    - esempio 5
 
 
     ## Errori comuni
 
-    Attenzione agli errori tipici degli italiani.
+    Errori tipici italiani.
 
 
     ## Uso nella vita reale
 
-    Situazioni: viaggio, lavoro, vita quotidiana.
+    Situazioni: viaggio, lavoro, expat.
 
 
     ---
 
-    SEED: 1434
+    SEED: 1883
 
     CLUSTER: monetization
 
     FUNNEL: bofu
 
-
     '
-  internal_links: []

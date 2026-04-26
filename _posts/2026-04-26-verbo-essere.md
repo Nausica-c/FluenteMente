@@ -2,39 +2,31 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: 0c68702c3ab039e2b757af8dc3fdd04e146ba7395d02154d3c0cf3c7b316b34b
+content_hash: 6f6e2b91a591a89ea357d9b5ef2285fa6ac6fef1d85c1811fa54f3f4cac9eeed
 ---
 
 # Verbo essere
 
 ## Introduzione
-Guida pratica su Verbo essere.
+Guida pratica su Verbo essere con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7255
+SEED: 6522
 CLUSTER: base
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
-- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
-- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
-- [Come presentarsi in inglese in modo naturale](/inglese/base/presentarsi-inglese/)
-- [Pronomi inglesi](/inglese/base/pronomi-personali-inglese/)

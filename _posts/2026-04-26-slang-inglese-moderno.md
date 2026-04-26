@@ -2,39 +2,31 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: 80d1b6f2eed6fb40668146e123523415a9a779f8b1d378f1f8bd50748ed288e0
+content_hash: 122dea36a5e44e810ae3e9855f7d633144c73fd3e54264e7e43e262401d3e9bf
 ---
 
 # Slang inglese moderno
 
 ## Introduzione
-Guida pratica su Slang inglese moderno.
+Guida pratica su Slang inglese moderno con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7584
+SEED: 1883
 CLUSTER: social
 FUNNEL: tofu
-
-## Articoli correlati
-
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
-- [Small talk in inglese](/inglese/social/small-talk/)
-- [Dating in inglese](/inglese/social/dating-inglese/)
-- [Parlare al pub in inglese](/inglese/social/pub-inglese/)
-- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)

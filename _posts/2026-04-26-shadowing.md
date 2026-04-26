@@ -2,39 +2,31 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: 82191ee95e35d778b47501d38ec07b4941974d48b0b52601190b97f796cde419
+content_hash: 635d997dafb52a5ae72e3fc01c6e85a9106114f36918f9a1a245d07810b256cf
 ---
 
 # Shadowing
 
 ## Introduzione
-Guida pratica su Shadowing.
+Guida pratica su Shadowing con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5365
+SEED: 8491
 CLUSTER: method
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
-- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
-- [Inglese da zero](/metodo/studiare-inglese-zero/)
-- [Blocco parlare inglese](/metodo/blocco-parlato-inglese/)
-- [Pensare in inglese](/metodo/pensare-in-inglese/)

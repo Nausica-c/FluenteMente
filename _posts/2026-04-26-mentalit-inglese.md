@@ -2,39 +2,31 @@
 title: "Mentalità inglese"
 permalink: /mentalit-inglese/
 layout: post
-content_hash: eb3910b7f37055e2296367bea9c2e6b2634cba1b94bb1d3bdec262fccc4ec703
+content_hash: 9447b3bee8346fbc8ceeac431ed9f5c5888e7b63d87da662c86d6ece04b0c635
 ---
 
 # Mentalità inglese
 
 ## Introduzione
-Guida pratica su Mentalità inglese.
+Guida pratica su Mentalità inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6021
+SEED: 8993
 CLUSTER: cultura
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [Falsi amici inglese](/inglese/cultura/falsi-amici/)
-- [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
-- [UK vs US](/inglese/cultura/uk-vs-us/)
-- [Storia inglese](/inglese/cultura/storia-inglese/)
-- [Slang reale](/inglese/cultura/slang-reale/)

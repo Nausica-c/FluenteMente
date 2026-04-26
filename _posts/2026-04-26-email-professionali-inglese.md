@@ -2,39 +2,31 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: 8591a50e161ba5006eee71cb753d6f561260f2f014fc5fb056fc3c487b7a5593
+content_hash: 3c7076b804c015c4bb7fa4d953e3d401a29e506eb5f18c3237a053f3891af247
 ---
 
 # Email professionali inglese
 
 ## Introduzione
-Guida pratica su Email professionali inglese.
+Guida pratica su Email professionali inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4457
+SEED: 9420
 CLUSTER: business
 FUNNEL: mofu
-
-## Articoli correlati
-
-- [CV in inglese](/inglese/business/cv/)
-- [Colloquio di lavoro in inglese](/inglese/business/interview/)
-- [Email formali in inglese](/inglese/business/email-formali/)
-- [LinkedIn in inglese](/inglese/business/linkedin/)
-- [CV inglese avanzato](/inglese/business/cv-inglese/)
