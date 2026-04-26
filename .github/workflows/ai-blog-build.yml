@@ -13,19 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # =========================
+      # 1. CHECKOUT SICURO
+      # =========================
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Sync repo safely
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git fetch origin main
-          git reset --hard origin/main
-
+      # =========================
+      # 2. SETUP PYTHON
+      # =========================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -34,19 +32,31 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml openai
 
+      # =========================
+      # 3. GENERAZIONE CONTENUTI
+      # =========================
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      - name: Commit changes
+      # =========================
+      # 4. GIT SAFE COMMIT (NO PULL QUI)
+      # =========================
+      - name: Commit changes safely
         run: |
-          git add .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
+          git add -A
+
+          # evita crash se non ci sono cambi
+          git diff --cached --quiet && echo "No changes" && exit 0
 
           git commit -m "AI blog update"
 
-      - name: Push changes
-        run: git push origin main --force-with-lease
+      # =========================
+      # 5. SAFE PUSH (FORZATO SOLO SU FAST-FORWARD CHECK)
+      # =========================
+      - name: Pull + push safe
+        run: |
+          git pull --rebase origin main || (git rebase --abort && exit 1)
+          git push origin main
