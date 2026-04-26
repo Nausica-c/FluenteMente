@@ -1,0 +1,37 @@
+---
+title: "Pronuncia italiani"
+permalink: /pronuncia-italiani/
+layout: post
+---
+
+# Pronuncia italiani
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
+
+# Pronuncia italiani
+
+Questo articolo fa parte del cluster pronuncia e funnel mofu.
+
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
+
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
+
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 3489
+
+## Articoli correlati
+
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
+
+{% include trust-box.html %}
