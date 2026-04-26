@@ -14,6 +14,7 @@ from collections import defaultdict
 INPUT_FILE = "_data/articles.yml"
 OUTPUT_LINKED = "_data/articles-linked.yml"
 POSTS_DIR = "_posts"
+CACHE_FILE = ".ai_cache.json"
 
 CLUSTER_LINKS = {
     "base": ["travel", "social"],
@@ -30,6 +31,25 @@ FUNNEL_PRIORITY = {
     "mofu": 2,
     "bofu": 3
 }
+
+# =========================
+# CACHE SYSTEM (V6)
+# =========================
+
+def load_cache():
+    if not os.path.exists(CACHE_FILE):
+        return {}
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2, ensure_ascii=False)
+
+def cache_key(article):
+    return hashlib.sha256(
+        f"{article.get('title','')}-{article.get('seed',0)}".encode("utf-8")
+    ).hexdigest()
 
 # =========================
 # UTIL
@@ -79,7 +99,7 @@ def index_articles(articles):
     return by_cluster, by_funnel
 
 # =========================
-# INTERNAL LINKS
+# LINKS
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
@@ -115,7 +135,7 @@ def pick_links(article, by_cluster, by_funnel):
     return links[:6]
 
 # =========================
-# INCLUDE LAYOUT
+# LAYOUT
 # =========================
 
 def assign_include_layout(article):
@@ -127,11 +147,13 @@ def assign_include_layout(article):
         "after_h1": ["section-in-breve.html"],
         "mid_article": ["bridge-box.html"] if cluster == "expat" else [],
         "before_cta": ["promo-box.html"] if funnel == "bofu" else [],
-        "footer": ["trust-box.html", "affiliate-disclosure.html"] if funnel == "bofu" else ["trust-box.html"]
+        "footer": ["trust-box.html", "affiliate-disclosure.html"]
+        if funnel == "bofu"
+        else ["trust-box.html"]
     }
 
 # =========================
-# AI ENGINE (DETERMINISTIC)
+# AI ENGINE (STABLE)
 # =========================
 
 def generate_ai_body(article):
@@ -168,14 +190,28 @@ FUNNEL: {funnel}
 """.strip()
 
 # =========================
-# ARTICLE BUILDER
+# AI CACHE WRAPPER (V6 CORE)
+# =========================
+
+def generate_ai_cached(article, cache):
+    key = cache_key(article)
+
+    if key in cache:
+        return cache[key]
+
+    body = generate_ai_body(article)
+    cache[key] = body
+    return body
+
+# =========================
+# ARTICLE BUILD
 # =========================
 
 def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
 
-    body = generate_ai_body(article)
+    body = article["ai_body"]
 
     content = f"# {title}\n\n"
 
@@ -221,9 +257,7 @@ def export_markdown(article):
         with open(path, "r", encoding="utf-8") as f:
             old_content = f.read()
 
-        old_hash = compute_hash(old_content)
-
-        if old_hash == new_hash:
+        if compute_hash(old_content) == new_hash:
             print(f"⏭ SKIP: {slug}")
             return
 
@@ -239,11 +273,12 @@ def export_markdown(article):
     print(f"✔ UPDATED: {slug}")
 
 # =========================
-# PIPELINE
+# PIPELINE (V6)
 # =========================
 
 def build_output(articles):
     by_cluster, by_funnel = index_articles(articles)
+    cache = load_cache()
 
     output = []
 
@@ -251,22 +286,23 @@ def build_output(articles):
         a["cluster"] = a.get("cluster", "base")
         a["funnel"] = a.get("funnel", "tofu")
 
-        # seed stabile
         if not a.get("seed"):
             a["seed"] = random.randint(1000, 9999)
 
         a["internal_links"] = pick_links(a, by_cluster, by_funnel)
         a["include_layout"] = assign_include_layout(a)
 
-        a["final_article"] = generate_article(a)
+        # 🔥 CACHE AI
+        a["ai_body"] = generate_ai_cached(a, cache)
 
-        # hash finale
+        a["final_article"] = generate_article(a)
         a["content_hash"] = compute_hash(a["final_article"])
 
         export_markdown(a)
 
         output.append(a)
 
+    save_cache(cache)
     return output
 
 # =========================
@@ -285,7 +321,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 V5 ENTERPRISE STABLE ENGINE ACTIVE")
+    print("🚀 V6 CACHE ENGINE ACTIVE")
 
 if __name__ == "__main__":
     main()
