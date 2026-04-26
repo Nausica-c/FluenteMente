@@ -28,7 +28,7 @@ Molti studenti sbagliano qui.
 ## Strategie pratiche
 Applicazione immediata.
 
-SEED: 7509
+SEED: 6935
 
 ## Articoli correlati
 
