@@ -2,7 +2,7 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
-content_hash: 35e7fc7a6d4d78a9ca4c10ce13220208
+content_hash: 7fc0bbf6a01e0704f3fe62dcd529ba11
 ---
 
 # Ripetizione spaziata
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6253
+SEED: 6536
 CLUSTER: method
 FUNNEL: mofu
 

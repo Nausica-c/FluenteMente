@@ -2,7 +2,7 @@
 title: "Blocco parlare inglese"
 permalink: /blocco-parlare-inglese/
 layout: post
-content_hash: 9b2152b21852734895b60974ef461f80
+content_hash: 23caab3719dc9815397be3620380eecf
 ---
 
 # Blocco parlare inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3865
+SEED: 5254
 CLUSTER: method
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: 27df2accd3e0b725bac0d96d0bfe9c29
+content_hash: d09b795079f1883762382696718b68a0
 ---
 
 # Networking inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5098
+SEED: 8147
 CLUSTER: business
 FUNNEL: mofu
 

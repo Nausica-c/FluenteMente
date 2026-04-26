@@ -2,7 +2,7 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
-content_hash: 571e5e601a0aaa706b80b79734b81cb4
+content_hash: a6dc1bff5428976f923318af11c27657
 ---
 
 # Pensare in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8313
+SEED: 5690
 CLUSTER: method
 FUNNEL: mofu
 

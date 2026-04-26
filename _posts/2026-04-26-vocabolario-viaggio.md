@@ -2,7 +2,7 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: d403ece3e977fdb5582128b66b86927f
+content_hash: f878c6f2f5963bc61ccf2c0af9ea5162
 ---
 
 # Vocabolario viaggio
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7224
+SEED: 5088
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: 4bd8d7813ddfac022babb7186d0f3174
+content_hash: 13bb09d3bc271d6ac89dc8f597aa0536
 ---
 
 # Email professionali inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9653
+SEED: 6637
 CLUSTER: business
 FUNNEL: mofu
 
