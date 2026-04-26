@@ -117,7 +117,7 @@ ul { list-style: none; }
   width: 28px;
   height: 20px;
   cursor: pointer;
-  z-index: 101; /* Lo mantiene sopra il menu aperto */
+  z-index: 101;
 }
 
 .menu-icon span {
@@ -127,7 +127,7 @@ ul { list-style: none; }
   background: #1a202c;
   border-radius: 2px;
   transition: all 0.3s ease;
-  transform-origin: left center; /* Aiuta a creare una X perfetta */
+  transform-origin: left center;
 }
 
 /* CONTAINER LINKS DESKTOP */
@@ -212,7 +212,7 @@ ul { list-style: none; }
 }
 
 /* ==========================================================================
-   HERO & GRID
+   HERO CLEAN & HERO SAAS
 ========================================================================== */
 .hero-clean {
   background: #fff;
@@ -223,6 +223,58 @@ ul { list-style: none; }
 .hero-clean__title { font-size: 2.6rem; text-align: center; }
 .hero-clean__subtitle { text-align: center; color: var(--text-light); }
 
+.hero-saas {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  padding: 90px 0 70px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.hero-saas__inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.hero-saas__badge {
+  display: inline-block;
+  background: rgba(255,128,0,0.1);
+  color: #1a202c;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.hero-saas__title {
+  font-size: 2.8rem;
+  line-height: 1.15;
+  color: #1a202c;
+  margin-bottom: 18px;
+}
+
+.hero-saas__subtitle {
+  font-size: 1.15rem;
+  color: var(--text-light);
+  margin-bottom: 30px;
+}
+
+.hero-saas__actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+
+.hero-saas__proof {
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
+/* ==========================================================================
+   GRID
+========================================================================== */
 .start-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -251,16 +303,21 @@ ul { list-style: none; }
 ========================================================================== */
 @media screen and (max-width: 768px) {
 
-  /* Mostra icona hamburger */
-  .menu-icon {
-    display: flex;
+  /* Spaziature generali (Fix Margini Laterali) */
+  .page-content, 
+  .wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
   }
+
+  /* Mostra icona hamburger */
+  .menu-icon { display: flex; }
 
   /* Configurazione Dropdown Mobile */
   .trigger {
     display: none;
     position: absolute;
-    top: 70px; /* Esattamente sotto l'header */
+    top: 70px;
     left: 0;
     width: 100%;
     background: #fff;
@@ -270,9 +327,7 @@ ul { list-style: none; }
   }
 
   /* Mostra dropdown quando cliccato */
-  .nav-trigger:checked ~ .trigger {
-    display: flex;
-  }
+  .nav-trigger:checked ~ .trigger { display: flex; }
 
   /* Link del menu mobile */
   .site-nav .page-link {
@@ -285,90 +340,23 @@ ul { list-style: none; }
 
   /* Fix stile bottone "Inizia" nel menu mobile */
   .site-nav .page-link.is-primary {
-    margin: 16px 20px; /* Crea spazio dai bordi */
+    margin: 16px 20px;
     text-align: center;
     border-radius: 50px;
   }
 
   /* ANIMAZIONE HAMBURGER → X PULITA */
-  .nav-trigger:checked + .menu-icon span:nth-child(1) {
-    transform: rotate(45deg);
-  }
-
-  .nav-trigger:checked + .menu-icon span:nth-child(2) {
-    opacity: 0;
-  }
-
-  .nav-trigger:checked + .menu-icon span:nth-child(3) {
-    transform: rotate(-45deg);
-  }
+  .nav-trigger:checked + .menu-icon span:nth-child(1) { transform: rotate(45deg); }
+  .nav-trigger:checked + .menu-icon span:nth-child(2) { opacity: 0; }
+  .nav-trigger:checked + .menu-icon span:nth-child(3) { transform: rotate(-45deg); }
 
   /* Ridimensionamento contenuti principali */
-  .post-wrapper { padding: 20px; }
+  .post-wrapper { padding: 20px 16px; border-radius: var(--radius-sm); }
   .hero-clean__title { font-size: 2rem; }
-  }
-/* HERO SAAS */
-.hero-saas {
-background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
-padding: 90px 0 70px;
-text-align: center;
-border-bottom: 1px solid var(--border-color);
-}
 
-.hero-saas__inner {
-max-width: 720px;
-margin: 0 auto;
-}
-
-.hero-saas__badge {
-display: inline-block;
-background: rgba(255,128,0,0.1);
-color: #1a202c;
-padding: 6px 12px;
-border-radius: 999px;
-font-size: 0.8rem;
-font-weight: 700;
-margin-bottom: 18px;
-}
-
-.hero-saas__title {
-font-size: 2.8rem;
-line-height: 1.15;
-color: #1a202c;
-margin-bottom: 18px;
-}
-
-.hero-saas__subtitle {
-font-size: 1.15rem;
-color: var(--text-light);
-margin-bottom: 30px;
-}
-
-.hero-saas__actions {
-display: flex;
-justify-content: center;
-gap: 12px;
-flex-wrap: wrap;
-margin-bottom: 18px;
-}
-
-.hero-saas__proof {
-font-size: 0.9rem;
-color: var(--text-light);
-}
-
-/* MOBILE */
-@media (max-width:600px){
-.hero-saas {
-padding: 60px 0 40px;
-}
-
-.hero-saas__title {
-font-size: 2rem;
-}
-
-.hero-saas__subtitle {
-font-size: 1rem;
-}
-}
+  /* Hero SaaS Mobile */
+  .hero-saas { padding: 60px 0 40px; }
+  .hero-saas__title { font-size: 2rem; }
+  .hero-saas__subtitle { font-size: 1rem; }
+    }
   
