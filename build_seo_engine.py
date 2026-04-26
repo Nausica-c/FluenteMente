@@ -27,36 +27,37 @@ FUNNEL_PRIORITY = {
 }
 
 # =========================
-# SAFE LOAD
+# SAFE LOAD (ROBUST)
 # =========================
 
 def load_articles():
     if not os.path.exists(INPUT_FILE):
         raise FileNotFoundError(f"Missing input file: {INPUT_FILE}")
 
-    if os.path.getsize(INPUT_FILE) == 0:
-        raise ValueError("Input file is EMPTY (0 bytes)")
-
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         raw = f.read().strip()
 
-        if not raw:
-            raise ValueError("Input file is blank")
+    if not raw:
+        raise ValueError("Input file is empty")
 
-        try:
-            data = yaml.safe_load(raw)
-            if data is not None:
-                return data
-        except Exception:
-            pass
+    try:
+        data = yaml.safe_load(raw)
+        if isinstance(data, list):
+            return data
+    except Exception:
+        pass
 
-        try:
-            return json.loads(raw)
-        except Exception as e:
-            raise ValueError(f"File is neither valid YAML nor JSON: {e}")
+    try:
+        data = json.loads(raw)
+        if isinstance(data, list):
+            return data
+    except Exception as e:
+        raise ValueError(f"Invalid YAML/JSON: {e}")
+
+    raise ValueError("Root must be a LIST of articles")
 
 # =========================
-# INDEXING
+# INDEX
 # =========================
 
 def index_articles(articles):
@@ -67,13 +68,11 @@ def index_articles(articles):
         if not isinstance(a, dict):
             continue
 
-        cluster = a.get("cluster")
-        funnel = a.get("funnel")
+        cluster = a.get("cluster", "base")
+        funnel = a.get("funnel", "tofu")
 
-        if cluster:
-            by_cluster[cluster].append(a)
-        if funnel:
-            by_funnel[funnel].append(a)
+        by_cluster[cluster].append(a)
+        by_funnel[funnel].append(a)
 
     return by_cluster, by_funnel
 
@@ -82,52 +81,48 @@ def index_articles(articles):
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
-    cluster = article.get("cluster")
-    funnel = article.get("funnel")
+    cluster = article.get("cluster", "base")
+    funnel = article.get("funnel", "tofu")
+
     links = []
-
-    # same cluster
-    links += by_cluster.get(cluster, [])[:3]
-
-    # cross cluster
-    for target in CLUSTER_LINKS.get(cluster, []):
-        links += by_cluster.get(target, [])[:1]
-
-    # funnel progression
-    current_level = FUNNEL_PRIORITY.get(funnel, 1)
-    for f, level in FUNNEL_PRIORITY.items():
-        if level > current_level:
-            links += by_funnel.get(f, [])[:1]
-            break
-
-    # BOFU boost
-    links += by_funnel.get("bofu", [])[:1]
-
-    # dedupe
     seen = set()
-    clean = []
 
-    for l in links:
-        if not isinstance(l, dict):
-            continue
-
-        if l.get("id") == article.get("id"):
-            continue
-
-        uid = l.get("id")
-        if uid and uid not in seen:
-            clean.append(l)
+    def add(items):
+        for i in items:
+            uid = i.get("id")
+            if not uid or uid in seen:
+                continue
+            if uid == article.get("id"):
+                continue
+            links.append(i)
             seen.add(uid)
 
-    return clean[:6]
+    # same cluster (high relevance)
+    add(by_cluster.get(cluster, [])[:3])
+
+    # cross cluster expansion
+    for target in CLUSTER_LINKS.get(cluster, []):
+        add(by_cluster.get(target, [])[:1])
+
+    # funnel progression
+    current = FUNNEL_PRIORITY.get(funnel, 1)
+    for f, lvl in FUNNEL_PRIORITY.items():
+        if lvl > current:
+            add(by_funnel.get(f, [])[:1])
+            break
+
+    # BOFU conversion boost
+    add(by_funnel.get("bofu", [])[:1])
+
+    return links[:6]
 
 # =========================
-# INCLUDE ENGINE (NEW)
+# INCLUDE ENGINE
 # =========================
 
 def assign_include_layout(article):
-    cluster = article.get("cluster")
-    funnel = article.get("funnel")
+    cluster = article.get("cluster", "base")
+    funnel = article.get("funnel", "tofu")
 
     layout = {
         "after_intro": ["tldr-box.html"],
@@ -137,26 +132,32 @@ def assign_include_layout(article):
         "footer": ["trust-box.html"]
     }
 
-    if funnel == "bofu":
-        layout["before_cta"].append("promo-box.html")
-        layout["footer"].append("affiliate-disclosure.html")
+    # cluster logic
+    if cluster == "travel":
+        layout["mid_article"].append("orient-box.html")
 
     if cluster == "expat":
         layout["mid_article"].append("bridge-box.html")
 
-    if cluster == "travel":
-        layout["mid_article"].append("orient-box.html")
+    # funnel logic
+    if funnel == "bofu":
+        layout["before_cta"].append("promo-box.html")
+        layout["footer"].append("affiliate-disclosure.html")
 
     return layout
 
 # =========================
-# ARTICLE GENERATOR (NEW)
+# ARTICLE GENERATOR
 # =========================
 
 def generate_article(article):
-
-    title = article.get("title", "")
+    title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
+
+    body = article.get(
+        "ai_body",
+        f"CONTENUTO GENERATO DA AI PER: {title}"
+    )
 
     content = f"# {title}\n\n"
 
@@ -168,19 +169,21 @@ def generate_article(article):
     for box in layout.get("after_h1", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # body placeholder (future AI integration point)
+    # main content
     content += "## Contenuto principale\n\n"
-    content += article.get("ai_body", "CONTENUTO GENERATO DA AI QUI") + "\n\n"
+    content += body + "\n\n"
 
     # mid includes
     for box in layout.get("mid_article", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # CTA includes
+    # CTA
+    content += "## Conclusione\n\n"
+
     for box in layout.get("before_cta", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # footer includes
+    # footer
     for box in layout.get("footer", []):
         content += f"{{% include {box} %}}\n\n"
 
@@ -199,6 +202,10 @@ def build_output(articles):
         if not isinstance(a, dict):
             continue
 
+        a["cluster"] = a.get("cluster", "base")
+        a["funnel"] = a.get("funnel", "tofu")
+
+        # links
         linked = pick_links(a, by_cluster, by_funnel)
 
         a["internal_links"] = [
@@ -211,10 +218,10 @@ def build_output(articles):
             for x in linked
         ]
 
-        # include system
+        # includes
         a["include_layout"] = assign_include_layout(a)
 
-        # article generation
+        # article
         a["final_article"] = generate_article(a)
 
         output.append(a)
@@ -243,18 +250,17 @@ def save_yaml(data):
 
 def validate(data):
     if not isinstance(data, list):
-        raise ValueError("Root must be a LIST of articles")
+        raise ValueError("Root must be a list")
 
     for i, a in enumerate(data):
         if not isinstance(a, dict):
-            raise ValueError(f"Invalid article at index {i}")
+            raise ValueError(f"Invalid item at index {i}")
 
-        for field in ["id", "title", "url"]:
-            if field not in a:
-                raise ValueError(f"Missing {field} in article id={a.get('id')}")
+        if not a.get("title"):
+            raise ValueError(f"Missing title at index {i}")
 
 # =========================
-# MAIN
+# RUN
 # =========================
 
 def main():
@@ -264,7 +270,7 @@ def main():
     output = build_output(articles)
     save_yaml(output)
 
-    print("✅ _data/articles-linked.yml generated successfully")
+    print("🚀 articles-linked.yml generated successfully")
 
 if __name__ == "__main__":
     main()
