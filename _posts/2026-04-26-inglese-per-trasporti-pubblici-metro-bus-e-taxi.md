@@ -2,7 +2,7 @@
 title: "Inglese per trasporti pubblici: metro, bus e taxi"
 permalink: /inglese-per-trasporti-pubblici-metro-bus-e-taxi/
 layout: post
-content_hash: d93b11fa1f3bad2291da8a451815359e2059ae7f27010bc30e14d650c3718f8b
+content_hash: 776c0a9c36e33571e0c9928c5ab1fd2ec47491a35a2e89a76c3f61d089aaeed0
 ---
 
 # Inglese per trasporti pubblici: metro, bus e taxi
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4994
+SEED: 1806
 CLUSTER: travel
 FUNNEL: tofu
 

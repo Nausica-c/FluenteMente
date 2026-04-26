@@ -6,7 +6,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 8512
+  seed: 6092
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -45,7 +45,7 @@
 
     ---
 
-    SEED: 8512
+    SEED: 6092
 
     CLUSTER: method
 
@@ -83,7 +83,7 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 5291
+  seed: 9423
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -122,7 +122,7 @@
 
     ---
 
-    SEED: 5291
+    SEED: 9423
 
     CLUSTER: method
 
@@ -160,7 +160,7 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 6153
+  seed: 6104
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -199,7 +199,7 @@
 
     ---
 
-    SEED: 6153
+    SEED: 6104
 
     CLUSTER: travel
 
@@ -237,7 +237,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 1973
+  seed: 2925
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -276,7 +276,7 @@
 
     ---
 
-    SEED: 1973
+    SEED: 2925
 
     CLUSTER: travel
 
@@ -314,7 +314,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 3867
+  seed: 5232
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -353,7 +353,7 @@
 
     ---
 
-    SEED: 3867
+    SEED: 5232
 
     CLUSTER: base
 
@@ -391,7 +391,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 7860
+  seed: 6140
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -430,7 +430,7 @@
 
     ---
 
-    SEED: 7860
+    SEED: 6140
 
     CLUSTER: base
 
@@ -468,7 +468,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 3313
+  seed: 4170
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -507,7 +507,7 @@
 
     ---
 
-    SEED: 3313
+    SEED: 4170
 
     CLUSTER: base
 
@@ -545,7 +545,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 9700
+  seed: 6450
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -584,7 +584,7 @@
 
     ---
 
-    SEED: 9700
+    SEED: 6450
 
     CLUSTER: base
 
@@ -622,7 +622,7 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 2858
+  seed: 1624
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -661,7 +661,7 @@
 
     ---
 
-    SEED: 2858
+    SEED: 1624
 
     CLUSTER: travel
 
@@ -699,7 +699,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 4652
+  seed: 5049
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -738,7 +738,7 @@
 
     ---
 
-    SEED: 4652
+    SEED: 5049
 
     CLUSTER: travel
 
@@ -776,7 +776,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 4994
+  seed: 1806
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -815,7 +815,7 @@
 
     ---
 
-    SEED: 4994
+    SEED: 1806
 
     CLUSTER: travel
 
@@ -853,7 +853,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 2392
+  seed: 2067
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -892,7 +892,7 @@
 
     ---
 
-    SEED: 2392
+    SEED: 2067
 
     CLUSTER: travel
 
@@ -930,7 +930,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 5742
+  seed: 2499
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -969,7 +969,7 @@
 
     ---
 
-    SEED: 5742
+    SEED: 2499
 
     CLUSTER: travel
 
@@ -1007,7 +1007,7 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 1418
+  seed: 5224
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -1046,7 +1046,7 @@
 
     ---
 
-    SEED: 1418
+    SEED: 5224
 
     CLUSTER: travel
 
@@ -1084,7 +1084,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 1286
+  seed: 8165
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -1123,7 +1123,7 @@
 
     ---
 
-    SEED: 1286
+    SEED: 8165
 
     CLUSTER: travel
 
@@ -1161,7 +1161,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 6483
+  seed: 2183
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1200,7 +1200,7 @@
 
     ---
 
-    SEED: 6483
+    SEED: 2183
 
     CLUSTER: expat
 
@@ -1238,7 +1238,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6915
+  seed: 9249
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1277,7 +1277,7 @@
 
     ---
 
-    SEED: 6915
+    SEED: 9249
 
     CLUSTER: expat
 
@@ -1315,7 +1315,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 1701
+  seed: 8799
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1354,7 +1354,7 @@
 
     ---
 
-    SEED: 1701
+    SEED: 8799
 
     CLUSTER: expat
 
@@ -1392,7 +1392,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 9059
+  seed: 3412
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1431,7 +1431,7 @@
 
     ---
 
-    SEED: 9059
+    SEED: 3412
 
     CLUSTER: expat
 
@@ -1469,7 +1469,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 4532
+  seed: 8421
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1508,7 +1508,7 @@
 
     ---
 
-    SEED: 4532
+    SEED: 8421
 
     CLUSTER: expat
 
@@ -1546,7 +1546,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 7800
+  seed: 1422
   final_article: '# Lavori part-time all’estero
 
 
@@ -1585,7 +1585,7 @@
 
     ---
 
-    SEED: 7800
+    SEED: 1422
 
     CLUSTER: expat
 
@@ -1623,7 +1623,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 3492
+  seed: 4488
   final_article: '# Fare amicizia in inglese
 
 
@@ -1662,7 +1662,7 @@
 
     ---
 
-    SEED: 3492
+    SEED: 4488
 
     CLUSTER: social
 
@@ -1700,7 +1700,7 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 4421
+  seed: 4145
   final_article: '# Small talk in inglese
 
 
@@ -1739,7 +1739,7 @@
 
     ---
 
-    SEED: 4421
+    SEED: 4145
 
     CLUSTER: social
 
@@ -1777,7 +1777,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 8451
+  seed: 1903
   final_article: '# Slang inglese moderno
 
 
@@ -1816,7 +1816,7 @@
 
     ---
 
-    SEED: 8451
+    SEED: 1903
 
     CLUSTER: social
 
@@ -1854,7 +1854,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 1324
+  seed: 3995
   final_article: '# Dating in inglese
 
 
@@ -1893,7 +1893,7 @@
 
     ---
 
-    SEED: 1324
+    SEED: 3995
 
     CLUSTER: social
 
@@ -1931,7 +1931,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 8691
+  seed: 2124
   final_article: '# Parlare al pub in inglese
 
 
@@ -1970,7 +1970,7 @@
 
     ---
 
-    SEED: 8691
+    SEED: 2124
 
     CLUSTER: social
 
@@ -2008,7 +2008,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 4677
+  seed: 1147
   final_article: '# CV in inglese
 
 
@@ -2047,7 +2047,7 @@
 
     ---
 
-    SEED: 4677
+    SEED: 1147
 
     CLUSTER: business
 
@@ -2085,7 +2085,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 9556
+  seed: 3427
   final_article: '# Colloquio di lavoro in inglese
 
 
@@ -2124,7 +2124,7 @@
 
     ---
 
-    SEED: 9556
+    SEED: 3427
 
     CLUSTER: business
 
@@ -2162,7 +2162,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 6021
+  seed: 6022
   final_article: '# Email formali in inglese
 
 
@@ -2201,7 +2201,7 @@
 
     ---
 
-    SEED: 6021
+    SEED: 6022
 
     CLUSTER: business
 
@@ -2239,7 +2239,7 @@
   cluster: business
   role: spoke
   priority: 85
-  seed: 9973
+  seed: 7953
   final_article: '# LinkedIn in inglese
 
 
@@ -2278,7 +2278,7 @@
 
     ---
 
-    SEED: 9973
+    SEED: 7953
 
     CLUSTER: business
 
@@ -2316,7 +2316,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 7308
+  seed: 6864
   final_article: '# Affittare casa all’estero
 
 
@@ -2355,7 +2355,7 @@
 
     ---
 
-    SEED: 7308
+    SEED: 6864
 
     CLUSTER: expat
 
@@ -2393,7 +2393,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 4541
+  seed: 2493
   final_article: '# Landlord e problemi casa
 
 
@@ -2432,7 +2432,7 @@
 
     ---
 
-    SEED: 4541
+    SEED: 2493
 
     CLUSTER: expat
 
@@ -2470,7 +2470,7 @@
   cluster: expat
   role: spoke
   priority: 88
-  seed: 5365
+  seed: 3764
   final_article: '# Conto corrente estero
 
 
@@ -2509,7 +2509,7 @@
 
     ---
 
-    SEED: 5365
+    SEED: 3764
 
     CLUSTER: expat
 
@@ -2547,7 +2547,7 @@
   cluster: expat
   role: spoke
   priority: 87
-  seed: 5580
+  seed: 5536
   final_article: '# Medico di base all’estero
 
 
@@ -2586,7 +2586,7 @@
 
     ---
 
-    SEED: 5580
+    SEED: 5536
 
     CLUSTER: expat
 
@@ -2624,7 +2624,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6559
+  seed: 9820
   final_article: '# Utenze casa inglese
 
 
@@ -2663,7 +2663,7 @@
 
     ---
 
-    SEED: 6559
+    SEED: 9820
 
     CLUSTER: expat
 
@@ -2701,7 +2701,7 @@
   cluster: expat
   role: spoke
   priority: 80
-  seed: 2239
+  seed: 5082
   final_article: '# Supermercato in inglese
 
 
@@ -2740,7 +2740,7 @@
 
     ---
 
-    SEED: 2239
+    SEED: 5082
 
     CLUSTER: expat
 
@@ -2778,7 +2778,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 5177
+  seed: 9106
   final_article: '# Salute e farmacia inglese
 
 
@@ -2817,7 +2817,7 @@
 
     ---
 
-    SEED: 5177
+    SEED: 9106
 
     CLUSTER: expat
 
@@ -2855,7 +2855,7 @@
   cluster: expat
   role: spoke
   priority: 75
-  seed: 5648
+  seed: 4343
   final_article: '# Meccanico e auto inglese
 
 
@@ -2894,7 +2894,7 @@
 
     ---
 
-    SEED: 5648
+    SEED: 4343
 
     CLUSTER: expat
 
@@ -2932,7 +2932,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 4528
+  seed: 5416
   final_article: '# Fare amicizia in inglese
 
 
@@ -2971,7 +2971,7 @@
 
     ---
 
-    SEED: 4528
+    SEED: 5416
 
     CLUSTER: social
 
@@ -3009,7 +3009,7 @@
   cluster: social
   role: spoke
   priority: 95
-  seed: 1854
+  seed: 8309
   final_article: '# Small talk senza silenzi
 
 
@@ -3048,7 +3048,7 @@
 
     ---
 
-    SEED: 1854
+    SEED: 8309
 
     CLUSTER: social
 
@@ -3086,7 +3086,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 6461
+  seed: 7432
   final_article: '# Slang reale inglese
 
 
@@ -3125,7 +3125,7 @@
 
     ---
 
-    SEED: 6461
+    SEED: 7432
 
     CLUSTER: social
 
@@ -3163,7 +3163,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 1434
+  seed: 3546
   final_article: '# Dating in inglese
 
 
@@ -3202,7 +3202,7 @@
 
     ---
 
-    SEED: 1434
+    SEED: 3546
 
     CLUSTER: social
 
@@ -3240,7 +3240,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 1030
+  seed: 7388
   final_article: '# CV inglese avanzato
 
 
@@ -3279,7 +3279,7 @@
 
     ---
 
-    SEED: 1030
+    SEED: 7388
 
     CLUSTER: business
 
@@ -3317,7 +3317,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 1908
+  seed: 1881
   final_article: '# Colloquio inglese avanzato
 
 
@@ -3356,7 +3356,7 @@
 
     ---
 
-    SEED: 1908
+    SEED: 1881
 
     CLUSTER: business
 
@@ -3394,7 +3394,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 4457
+  seed: 6040
   final_article: '# Email professionali inglese
 
 
@@ -3433,7 +3433,7 @@
 
     ---
 
-    SEED: 4457
+    SEED: 6040
 
     CLUSTER: business
 
@@ -3471,7 +3471,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 3065
+  seed: 5096
   final_article: '# Pronomi inglesi
 
 
@@ -3510,7 +3510,7 @@
 
     ---
 
-    SEED: 3065
+    SEED: 5096
 
     CLUSTER: base
 
@@ -3548,7 +3548,7 @@
   cluster: base
   role: spoke
   priority: 92
-  seed: 2114
+  seed: 9243
   final_article: '# Articoli inglesi
 
 
@@ -3587,7 +3587,7 @@
 
     ---
 
-    SEED: 2114
+    SEED: 9243
 
     CLUSTER: base
 
@@ -3625,7 +3625,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4949
+  seed: 1289
   final_article: '# Plurale inglese
 
 
@@ -3664,7 +3664,7 @@
 
     ---
 
-    SEED: 4949
+    SEED: 1289
 
     CLUSTER: base
 
@@ -3702,7 +3702,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 6961
+  seed: 8713
   final_article: '# Dimostrativi inglesi
 
 
@@ -3741,7 +3741,7 @@
 
     ---
 
-    SEED: 6961
+    SEED: 8713
 
     CLUSTER: base
 
@@ -3779,7 +3779,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4493
+  seed: 9674
   final_article: '# Aggettivi inglese
 
 
@@ -3818,7 +3818,7 @@
 
     ---
 
-    SEED: 4493
+    SEED: 9674
 
     CLUSTER: base
 
@@ -3856,7 +3856,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 7255
+  seed: 9420
   final_article: '# Verbo essere
 
 
@@ -3895,7 +3895,7 @@
 
     ---
 
-    SEED: 7255
+    SEED: 9420
 
     CLUSTER: base
 
@@ -3933,7 +3933,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 6330
+  seed: 7956
   final_article: '# Verbo avere
 
 
@@ -3972,7 +3972,7 @@
 
     ---
 
-    SEED: 6330
+    SEED: 7956
 
     CLUSTER: base
 
@@ -4010,7 +4010,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 1190
+  seed: 7957
   final_article: '# Parole base inglese
 
 
@@ -4049,7 +4049,7 @@
 
     ---
 
-    SEED: 1190
+    SEED: 7957
 
     CLUSTER: base
 
@@ -4087,7 +4087,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 8380
+  seed: 5888
   final_article: '# Numeri inglese
 
 
@@ -4126,7 +4126,7 @@
 
     ---
 
-    SEED: 8380
+    SEED: 5888
 
     CLUSTER: base
 
@@ -4164,7 +4164,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 4321
+  seed: 2816
   final_article: '# Colori inglese
 
 
@@ -4203,7 +4203,7 @@
 
     ---
 
-    SEED: 4321
+    SEED: 2816
 
     CLUSTER: base
 
@@ -4241,7 +4241,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 5166
+  seed: 8383
   final_article: '# Tempo inglese
 
 
@@ -4280,7 +4280,7 @@
 
     ---
 
-    SEED: 5166
+    SEED: 8383
 
     CLUSTER: base
 
@@ -4318,7 +4318,7 @@
   cluster: base
   role: hub
   priority: 95
-  seed: 8781
+  seed: 6522
   final_article: '# Vocabolario viaggio
 
 
@@ -4357,7 +4357,7 @@
 
     ---
 
-    SEED: 8781
+    SEED: 6522
 
     CLUSTER: base
 
@@ -4395,7 +4395,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 9356
+  seed: 3015
   final_article: '# Preposizioni inglesi
 
 
@@ -4434,7 +4434,7 @@
 
     ---
 
-    SEED: 9356
+    SEED: 3015
 
     CLUSTER: base
 
@@ -4472,7 +4472,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 1802
+  seed: 5879
   final_article: '# Much many a lot
 
 
@@ -4511,7 +4511,7 @@
 
     ---
 
-    SEED: 1802
+    SEED: 5879
 
     CLUSTER: base
 
@@ -4549,7 +4549,7 @@
   cluster: base
   role: spoke
   priority: 88
-  seed: 9869
+  seed: 5771
   final_article: '# Do vs Make
 
 
@@ -4588,7 +4588,7 @@
 
     ---
 
-    SEED: 9869
+    SEED: 5771
 
     CLUSTER: base
 
@@ -4626,7 +4626,7 @@
   cluster: business
   role: hub
   priority: 100
-  seed: 5574
+  seed: 7460
   final_article: '# CV inglese avanzato
 
 
@@ -4665,7 +4665,7 @@
 
     ---
 
-    SEED: 5574
+    SEED: 7460
 
     CLUSTER: business
 
@@ -4703,7 +4703,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 9156
+  seed: 1991
   final_article: '# Colloquio inglese
 
 
@@ -4742,7 +4742,7 @@
 
     ---
 
-    SEED: 9156
+    SEED: 1991
 
     CLUSTER: business
 
@@ -4780,7 +4780,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 6224
+  seed: 7987
   final_article: '# Email inglese
 
 
@@ -4819,7 +4819,7 @@
 
     ---
 
-    SEED: 6224
+    SEED: 7987
 
     CLUSTER: business
 
@@ -4857,7 +4857,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 3154
+  seed: 9609
   final_article: '# Presentazioni inglese
 
 
@@ -4896,7 +4896,7 @@
 
     ---
 
-    SEED: 3154
+    SEED: 9609
 
     CLUSTER: business
 
@@ -4934,7 +4934,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 4525
+  seed: 7356
   final_article: '# Meeting inglese
 
 
@@ -4973,7 +4973,7 @@
 
     ---
 
-    SEED: 4525
+    SEED: 7356
 
     CLUSTER: business
 
@@ -5011,7 +5011,7 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 1103
+  seed: 4192
   final_article: '# Networking inglese
 
 
@@ -5050,7 +5050,7 @@
 
     ---
 
-    SEED: 1103
+    SEED: 4192
 
     CLUSTER: business
 
@@ -5088,7 +5088,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 7574
+  seed: 6250
   final_article: '# Stipendio inglese
 
 
@@ -5127,7 +5127,7 @@
 
     ---
 
-    SEED: 7574
+    SEED: 6250
 
     CLUSTER: business
 
@@ -5165,7 +5165,7 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 7085
+  seed: 7998
   final_article: '# LinkedIn inglese
 
 
@@ -5204,7 +5204,7 @@
 
     ---
 
-    SEED: 7085
+    SEED: 7998
 
     CLUSTER: business
 
@@ -5242,7 +5242,7 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 7585
+  seed: 1010
   final_article: '# Falsi amici inglese
 
 
@@ -5281,7 +5281,7 @@
 
     ---
 
-    SEED: 7585
+    SEED: 1010
 
     CLUSTER: cultura
 
@@ -5319,7 +5319,7 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 7584
+  seed: 5046
   final_article: '# Parole intraducibili
 
 
@@ -5358,7 +5358,7 @@
 
     ---
 
-    SEED: 7584
+    SEED: 5046
 
     CLUSTER: cultura
 
@@ -5396,7 +5396,7 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 2674
+  seed: 1618
   final_article: '# UK vs US
 
 
@@ -5435,7 +5435,7 @@
 
     ---
 
-    SEED: 2674
+    SEED: 1618
 
     CLUSTER: cultura
 
@@ -5473,7 +5473,7 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 1560
+  seed: 2317
   final_article: '# Storia inglese
 
 
@@ -5512,7 +5512,7 @@
 
     ---
 
-    SEED: 1560
+    SEED: 2317
 
     CLUSTER: cultura
 
@@ -5550,7 +5550,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 8527
+  seed: 7272
   final_article: '# Pronuncia italiani
 
 
@@ -5589,7 +5589,7 @@
 
     ---
 
-    SEED: 8527
+    SEED: 7272
 
     CLUSTER: pronuncia
 
@@ -5606,7 +5606,7 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 9556
+  seed: 7612
   final_article: '# Slang reale
 
 
@@ -5645,7 +5645,7 @@
 
     ---
 
-    SEED: 9556
+    SEED: 7612
 
     CLUSTER: cultura
 
@@ -5683,7 +5683,7 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 6021
+  seed: 5630
   final_article: '# Mentalità inglese
 
 
@@ -5722,7 +5722,7 @@
 
     ---
 
-    SEED: 6021
+    SEED: 5630
 
     CLUSTER: cultura
 
@@ -5760,7 +5760,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 9973
+  seed: 5614
   final_article: '# Inglese da zero
 
 
@@ -5799,7 +5799,7 @@
 
     ---
 
-    SEED: 9973
+    SEED: 5614
 
     CLUSTER: method
 
@@ -5837,7 +5837,7 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 7308
+  seed: 2705
   final_article: '# Blocco parlare inglese
 
 
@@ -5876,7 +5876,7 @@
 
     ---
 
-    SEED: 7308
+    SEED: 2705
 
     CLUSTER: method
 
@@ -5914,7 +5914,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 4541
+  seed: 3878
   final_article: '# Pensare in inglese
 
 
@@ -5953,7 +5953,7 @@
 
     ---
 
-    SEED: 4541
+    SEED: 3878
 
     CLUSTER: method
 
@@ -5991,7 +5991,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5365
+  seed: 4391
   final_article: '# Shadowing
 
 
@@ -6030,7 +6030,7 @@
 
     ---
 
-    SEED: 5365
+    SEED: 4391
 
     CLUSTER: method
 
@@ -6068,7 +6068,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5580
+  seed: 2939
   final_article: '# Input comprensibile
 
 
@@ -6107,7 +6107,7 @@
 
     ---
 
-    SEED: 5580
+    SEED: 2939
 
     CLUSTER: method
 
@@ -6145,7 +6145,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6559
+  seed: 8993
   final_article: '# Metodo FluenteMente
 
 
@@ -6184,7 +6184,7 @@
 
     ---
 
-    SEED: 6559
+    SEED: 8993
 
     CLUSTER: method
 
@@ -6222,7 +6222,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 2239
+  seed: 4044
   final_article: '# Ripetizione spaziata
 
 
@@ -6261,7 +6261,7 @@
 
     ---
 
-    SEED: 2239
+    SEED: 4044
 
     CLUSTER: method
 
@@ -6299,7 +6299,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5177
+  seed: 8250
   final_article: '# Routine inglese
 
 
@@ -6338,7 +6338,7 @@
 
     ---
 
-    SEED: 5177
+    SEED: 8250
 
     CLUSTER: method
 
@@ -6376,7 +6376,7 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 5648
+  seed: 1413
   final_article: '# Smettere tradurre
 
 
@@ -6415,7 +6415,7 @@
 
     ---
 
-    SEED: 5648
+    SEED: 1413
 
     CLUSTER: method
 
@@ -6453,7 +6453,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 4528
+  seed: 8491
   final_article: '# Memoria vocabolario
 
 
@@ -6492,7 +6492,7 @@
 
     ---
 
-    SEED: 4528
+    SEED: 8491
 
     CLUSTER: method
 
@@ -6530,7 +6530,7 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 1854
+  seed: 8142
   final_article: '# Errori inglese
 
 
@@ -6569,7 +6569,7 @@
 
     ---
 
-    SEED: 1854
+    SEED: 8142
 
     CLUSTER: conversion
 
@@ -6591,7 +6591,7 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 6461
+  seed: 2521
   final_article: '# Metodi tradizionali
 
 
@@ -6630,7 +6630,7 @@
 
     ---
 
-    SEED: 6461
+    SEED: 2521
 
     CLUSTER: conversion
 
@@ -6652,7 +6652,7 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 1434
+  seed: 5152
   final_article: '# Recensione Babbel
 
 
@@ -6691,7 +6691,7 @@
 
     ---
 
-    SEED: 1434
+    SEED: 5152
 
     CLUSTER: monetization
 
