@@ -1,10 +1,9 @@
 import os
 import yaml
 import re
-import hashlib
 import random
+import hashlib
 from datetime import datetime
-from collections import defaultdict
 
 # =========================
 # CONFIG
@@ -15,70 +14,31 @@ OUTPUT_LINKED = "_data/articles-linked.yml"
 POSTS_DIR = "_posts"
 
 # =========================
-# UTIL
+# UTILS
 # =========================
 
-def slugify(text: str) -> str:
+def slugify(text):
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s-]", "", text)
     text = re.sub(r"\s+", "-", text)
     return text.strip("-")
 
-def today_date():
+def today():
     return datetime.now().strftime("%Y-%m-%d")
 
-def hash_content(content: str) -> str:
-    return hashlib.sha256(content.encode("utf-8")).hexdigest()
+def hash_text(text):
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 # =========================
-# LOAD
+# LOAD ARTICLES
 # =========================
 
 def load_articles():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-    return data if isinstance(data, list) else []
+        return yaml.safe_load(f) or []
 
 # =========================
-# INDEX
-# =========================
-
-def index_articles(articles):
-    by_cluster = defaultdict(list)
-
-    for a in articles:
-        by_cluster[a.get("cluster", "base")].append(a)
-
-    return by_cluster
-
-# =========================
-# LINKS
-# =========================
-
-def pick_links(article, by_cluster):
-    cluster = article.get("cluster", "base")
-
-    links = []
-    seen = set()
-
-    for c in by_cluster.get(cluster, []):
-        if c.get("id") == article.get("id"):
-            continue
-
-        uid = c.get("id")
-        if uid in seen:
-            continue
-
-        links.append({
-            "title": c.get("title"),
-            "url": c.get("url", "#")
-        })
-        seen.add(uid)
-
-    return links[:5]
-
-# =========================
-# CONTENT ENGINE
+# CONTENT GENERATION (NO AI COMPLEXITY)
 # =========================
 
 def generate_body(article):
@@ -86,33 +46,28 @@ def generate_body(article):
     cluster = article.get("cluster", "base")
     funnel = article.get("funnel", "tofu")
 
-    # seed stabile
-    seed = article.get("seed")
-    if seed is None:
-        seed = random.randint(1000, 9999)
-        article["seed"] = seed
-
+    seed = article.get("seed") or random.randint(1000, 9999)
     random.seed(seed)
 
     return f"""
 ## Introduzione
-Guida pratica su {title}.
+Guida pratica su {title} con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e chiara del concetto.
+Spiegazione semplice e immediata.
 
 ## Esempi pratici
-- esempio reale 1
-- esempio reale 2
-- esempio reale 3
-- esempio reale 4
-- esempio reale 5
+- esempio 1
+- esempio 2
+- esempio 3
+- esempio 4
+- esempio 5
 
 ## Errori comuni
-Attenzione agli errori tipici degli italiani.
+Errori tipici italiani.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, vita quotidiana.
+Situazioni: viaggio, lavoro, expat.
 
 ---
 SEED: {seed}
@@ -121,39 +76,30 @@ FUNNEL: {funnel}
 """.strip()
 
 # =========================
-# ARTICLE BUILDER
+# BUILD ARTICLE
 # =========================
 
-def build_article(article, links):
-    title = article.get("title", "Untitled")
+def build_article(article):
     body = generate_body(article)
-
-    return f"# {title}\n\n{body}\n\n" + (
-        "## Articoli correlati\n\n" +
-        "\n".join([f"- [{l['title']}]({l['url']})" for l in links])
-        if links else ""
-    )
+    return f"# {article.get('title','Untitled')}\n\n{body}\n"
 
 # =========================
-# EXPORT (FIXED HASH STRATEGY)
+# EXPORT SAFE (NO REGEN IF SAME)
 # =========================
 
-def export_post(article, content_body):
-
+def export_post(article, content):
     os.makedirs(POSTS_DIR, exist_ok=True)
 
     slug = slugify(article.get("title", "untitled"))
-    path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
+    path = f"{POSTS_DIR}/{today()}-{slug}.md"
 
-    new_hash = hash_content(content_body)
+    new_hash = hash_text(content)
 
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
-            existing = f.read()
-
-        # confronta solo corpo, non frontmatter
-        if content_body in existing:
-            print(f"⏭ SKIP {slug}")
+            old = f.read()
+        if hash_text(old) == new_hash:
+            print(f"SKIP {slug}")
             return
 
     with open(path, "w", encoding="utf-8") as f:
@@ -163,31 +109,27 @@ def export_post(article, content_body):
         f.write("layout: post\n")
         f.write(f"content_hash: {new_hash}\n")
         f.write("---\n\n")
-        f.write(content_body)
+        f.write(content)
 
-    print(f"✔ UPDATED {slug}")
+    print(f"UPDATED {slug}")
 
 # =========================
 # PIPELINE
 # =========================
 
-def build_output(articles):
-
-    by_cluster = index_articles(articles)
-
+def build():
+    articles = load_articles()
     output = []
 
     for a in articles:
         a["cluster"] = a.get("cluster", "base")
+        a["funnel"] = a.get("funnel", "tofu")
 
-        links = pick_links(a, by_cluster)
-        content = build_article(a, links)
+        content = build_article(a)
 
         export_post(a, content)
 
         a["final_article"] = content
-        a["internal_links"] = links
-
         output.append(a)
 
     return output
@@ -205,10 +147,9 @@ def save_yaml(data):
 # =========================
 
 def main():
-    articles = load_articles()
-    output = build_output(articles)
+    output = build()
     save_yaml(output)
-    print("🚀 V1 CLEAN FIXED ACTIVE")
+    print("V0 CLEAN ENGINE COMPLETE")
 
 if __name__ == "__main__":
     main()
