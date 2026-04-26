@@ -2,7 +2,7 @@
 title: "Utenze casa inglese"
 permalink: /utenze-casa-inglese/
 layout: post
-content_hash: 73621d81a55bbacedc00001e5a94555f
+content_hash: 9184771dc4b7ff2dd01abd45147ad740d3f05eee8973c6bd960d33021f81982f
 ---
 
 # Utenze casa inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2203
+SEED: 9358
 CLUSTER: expat
 FUNNEL: mofu
 

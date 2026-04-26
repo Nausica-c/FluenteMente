@@ -7,6 +7,7 @@
   cluster: method
   role: hub
   priority: 100
+  seed: 5702
   internal_links:
   - &id002
     id: 2
@@ -17,6 +18,7 @@
     cluster: method
     role: bridge
     priority: 95
+    seed: 1157
     internal_links:
     - *id001
     - &id003
@@ -28,6 +30,7 @@
       cluster: method
       role: spoke
       priority: 95
+      seed: 3158
       internal_links:
       - *id001
       - *id002
@@ -82,7 +85,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 3532
+        SEED: 3158
 
         CLUSTER: method
 
@@ -100,6 +103,7 @@
         {% include trust-box.html %}
 
         '
+      content_hash: 71739b023342e98c456d0ac891920ae88ac37051e9a28727aa9b5ea46329892d
     include_layout:
       after_intro:
       - tldr-box.html
@@ -154,7 +158,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 6844
+      SEED: 1157
 
       CLUSTER: method
 
@@ -178,6 +182,7 @@
       {% include affiliate-disclosure.html %}
 
       '
+    content_hash: 98f63f046fc87ca1a5e4d3f3e43f22b23f6eec4089a9072f9e3f4aa4e2835835
   - *id003
   include_layout:
     after_intro:
@@ -233,7 +238,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1798
+    SEED: 5702
 
     CLUSTER: method
 
@@ -257,6 +262,7 @@
     {% include affiliate-disclosure.html %}
 
     '
+  content_hash: 366803bd0ebe6d6b6a0174d99c3693f6ec49ca0464bafda4a7540321448839f0
 - *id002
 - &id004
   id: 3
@@ -267,6 +273,7 @@
   cluster: travel
   role: hub
   priority: 95
+  seed: 7346
   internal_links:
   - &id005
     id: 4
@@ -277,6 +284,7 @@
     cluster: travel
     role: spoke
     priority: 85
+    seed: 6518
     internal_links:
     - *id004
     - &id014
@@ -288,6 +296,7 @@
       cluster: travel
       role: spoke
       priority: 95
+      seed: 5346
       internal_links:
       - *id004
       - *id005
@@ -300,6 +309,7 @@
         cluster: expat
         role: hub
         priority: 95
+        seed: 1601
         internal_links:
         - &id007
           id: 17
@@ -310,6 +320,7 @@
           cluster: expat
           role: spoke
           priority: 85
+          seed: 7440
           internal_links:
           - *id006
           - &id011
@@ -321,6 +332,7 @@
             cluster: expat
             role: spoke
             priority: 85
+            seed: 2745
             internal_links:
             - *id006
             - *id007
@@ -333,6 +345,7 @@
               cluster: business
               role: hub
               priority: 95
+              seed: 3402
               internal_links:
               - &id009
                 id: 28
@@ -343,6 +356,7 @@
                 cluster: business
                 role: spoke
                 priority: 95
+                seed: 6648
                 internal_links:
                 - *id008
                 - &id010
@@ -354,6 +368,7 @@
                   cluster: business
                   role: spoke
                   priority: 90
+                  seed: 6333
                   internal_links:
                   - *id008
                   - *id009
@@ -409,7 +424,7 @@
                     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                    SEED: 4002
+                    SEED: 6333
 
                     CLUSTER: business
 
@@ -429,6 +444,7 @@
                     {% include trust-box.html %}
 
                     '
+                  content_hash: 8c350b04f102ff1cfa99acac37e88fe3abee32554f7a323c002ced87957c6ee4
                 - *id001
                 include_layout:
                   after_intro:
@@ -481,7 +497,7 @@
                   Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                  SEED: 1500
+                  SEED: 6648
 
                   CLUSTER: business
 
@@ -501,6 +517,7 @@
                   {% include trust-box.html %}
 
                   '
+                content_hash: 01ffd54c063193f6573b54330af869343d00c861567a09b7fca183b400121dd9
               - *id010
               - *id001
               include_layout:
@@ -554,7 +571,7 @@
                 Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                SEED: 8950
+                SEED: 3402
 
                 CLUSTER: business
 
@@ -574,6 +591,7 @@
                 {% include trust-box.html %}
 
                 '
+              content_hash: b1ca63579a409b29cff4a30c980d21b67b69da51c6defd1b42856553efd2e669
             - *id001
             include_layout:
               after_intro:
@@ -627,7 +645,7 @@
               Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-              SEED: 9663
+              SEED: 2745
 
               CLUSTER: expat
 
@@ -652,6 +670,7 @@
               {% include trust-box.html %}
 
               '
+            content_hash: 9e12480221b9fafb0cd113900baa0b9a4df44b1bea5d3072beb8bfb5183b1fa2
           - *id008
           - *id001
           include_layout:
@@ -706,7 +725,7 @@
             Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-            SEED: 6168
+            SEED: 7440
 
             CLUSTER: expat
 
@@ -731,6 +750,7 @@
             {% include trust-box.html %}
 
             '
+          content_hash: 7496782b9ad79d24eb1ae52ddc1394dce1e2985be8d16006e3431217af4ddcd0
         - *id011
         - *id008
         - *id001
@@ -786,7 +806,7 @@
           Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-          SEED: 9647
+          SEED: 1601
 
           CLUSTER: expat
 
@@ -811,6 +831,7 @@
           {% include trust-box.html %}
 
           '
+        content_hash: 03718a62a0458ef3f0c850000b3d3dd5fcf407524ed0771a5bfd6953dcf36d9b
       - &id012
         id: 22
         title: Fare amicizia in inglese
@@ -820,6 +841,7 @@
         cluster: social
         role: hub
         priority: 90
+        seed: 8424
         internal_links:
         - &id013
           id: 23
@@ -830,6 +852,7 @@
           cluster: social
           role: spoke
           priority: 90
+          seed: 4930
           internal_links:
           - *id012
           - &id015
@@ -841,6 +864,7 @@
             cluster: social
             role: spoke
             priority: 85
+            seed: 3759
             internal_links:
             - *id012
             - *id013
@@ -855,6 +879,7 @@
               cluster: travel
               role: spoke
               priority: 85
+              seed: 5115
               internal_links:
               - *id004
               - *id005
@@ -914,7 +939,7 @@
                 Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                SEED: 3511
+                SEED: 5115
 
                 CLUSTER: travel
 
@@ -940,6 +965,7 @@
                 {% include trust-box.html %}
 
                 '
+              content_hash: 58bf99ddcbe42a44569fd69e73040a371c8b9983295bd1ec63d63421122c5abe
             - *id001
             include_layout:
               after_intro:
@@ -992,7 +1018,7 @@
               Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-              SEED: 6235
+              SEED: 3759
 
               CLUSTER: social
 
@@ -1018,6 +1044,7 @@
               {% include trust-box.html %}
 
               '
+            content_hash: 04a4837a556fe50a5e52a8745e82211df7565165780084e347634221785337a9
           - *id006
           - *id008
           - *id001
@@ -1072,7 +1099,7 @@
             Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-            SEED: 5724
+            SEED: 4930
 
             CLUSTER: social
 
@@ -1096,6 +1123,7 @@
             {% include trust-box.html %}
 
             '
+          content_hash: c05ef44ebf606d5b91d9ff4b8d0e01fad96a7e06e1a33cfa3cd859554cebccd9
         - *id015
         - *id006
         - *id008
@@ -1152,7 +1180,7 @@
           Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-          SEED: 1329
+          SEED: 8424
 
           CLUSTER: social
 
@@ -1178,6 +1206,7 @@
           {% include trust-box.html %}
 
           '
+        content_hash: 90156067c1c13653c1dd3f641f314d56dcc29b3e76c078d3801c72f38c66fe5c
       - *id016
       - *id001
       include_layout:
@@ -1232,7 +1261,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 8926
+        SEED: 5346
 
         CLUSTER: travel
 
@@ -1258,6 +1287,7 @@
         {% include trust-box.html %}
 
         '
+      content_hash: 935ff8f6ce56d47a8874442aec35b324ebbd7d28b157095d05ef514e011ccbb6
     - *id006
     - *id012
     - *id016
@@ -1314,7 +1344,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 5706
+      SEED: 6518
 
       CLUSTER: travel
 
@@ -1340,6 +1370,7 @@
       {% include trust-box.html %}
 
       '
+    content_hash: e1c898d05aa4b91c12dca287d82debd29a4448957732409a180dfa631c373087
   - *id014
   - *id006
   - *id012
@@ -1397,7 +1428,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9446
+    SEED: 7346
 
     CLUSTER: travel
 
@@ -1423,6 +1454,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: fe186e0bbe716839713ae3b7806dc78a33926e54447413b55f920d2f5494f739
 - *id005
 - &id017
   id: 5
@@ -1433,6 +1465,7 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 4333
   internal_links:
   - &id018
     id: 6
@@ -1443,6 +1476,7 @@
     cluster: base
     role: spoke
     priority: 85
+    seed: 2894
     internal_links:
     - *id017
     - &id019
@@ -1454,6 +1488,7 @@
       cluster: base
       role: spoke
       priority: 90
+      seed: 4030
       internal_links:
       - *id017
       - *id018
@@ -1513,7 +1548,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 1680
+        SEED: 4030
 
         CLUSTER: base
 
@@ -1539,6 +1574,7 @@
         {% include trust-box.html %}
 
         '
+      content_hash: 76ab648c3ac542830aaca8c5426d5fb7a6712134e0b3ed5fb52fc77b41ea5afd
     - *id004
     - *id012
     - *id016
@@ -1595,7 +1631,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 1940
+      SEED: 2894
 
       CLUSTER: base
 
@@ -1621,6 +1657,7 @@
       {% include trust-box.html %}
 
       '
+    content_hash: ac0c583a1bc834f5748fb9997c4c16cc733fc73c4a481c9c95efb33c693e5c1a
   - *id019
   - *id004
   - *id012
@@ -1678,7 +1715,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8999
+    SEED: 4333
 
     CLUSTER: base
 
@@ -1704,6 +1741,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: b9c23e906f2d72a2c5dea91d7fa58d13e5c4de6a9b2ce4ba47141767596a2da7
 - *id018
 - *id019
 - id: 8
@@ -1714,6 +1752,7 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 9018
   internal_links:
   - *id017
   - *id018
@@ -1772,7 +1811,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4464
+    SEED: 9018
 
     CLUSTER: base
 
@@ -1798,6 +1837,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: acb5fdb042b7b26861b5ea61505a45ad9271532c2329d60b7b4d1873784b9a15
 - *id014
 - id: 10
   title: 'Inglese in hotel: frasi essenziali per viaggiare'
@@ -1807,6 +1847,7 @@
   cluster: travel
   role: spoke
   priority: 90
+  seed: 9796
   internal_links:
   - *id004
   - *id005
@@ -1866,7 +1907,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8645
+    SEED: 9796
 
     CLUSTER: travel
 
@@ -1892,6 +1933,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 91c173804c206b79d7bab31914c73dee2cdbb72982728cecda4f24a84eb6127f
 - id: 11
   title: 'Inglese per trasporti pubblici: metro, bus e taxi'
   url: /inglese/viaggio/trasporti-pubblici/
@@ -1900,6 +1942,7 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 7690
   internal_links:
   - *id004
   - *id005
@@ -1959,7 +2002,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2765
+    SEED: 7690
 
     CLUSTER: travel
 
@@ -1985,6 +2028,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: a583591fac5465cad14b4b8d8c1e3d5f5fc5d10301f6f9022f258f6c8cc3cc70
 - id: 12
   title: 'Inglese per shopping: negozi, prezzi e acquisti'
   url: /inglese/viaggio/shopping-inglese/
@@ -1993,6 +2037,7 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 4926
   internal_links:
   - *id004
   - *id005
@@ -2052,7 +2097,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8138
+    SEED: 4926
 
     CLUSTER: travel
 
@@ -2078,6 +2123,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: a7a0c243187d2dec1660f4a85cb4c7c3d59ea0dd5bec8ecbf9fcb68f2e55b96b
 - id: 13
   title: 'Inglese per emergenze in viaggio: frasi salvavita'
   url: /inglese/viaggio/emergenze-inglese/
@@ -2086,6 +2132,7 @@
   cluster: travel
   role: spoke
   priority: 90
+  seed: 7610
   internal_links:
   - *id004
   - *id005
@@ -2145,7 +2192,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9642
+    SEED: 7610
 
     CLUSTER: travel
 
@@ -2171,6 +2218,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: b8708ca017507c081fa951073e33e14f0ef0da0382546c1cef8bd9f23c7aa3cd
 - id: 14
   title: Inglese per Airbnb e case vacanza
   url: /inglese/viaggio/airbnb-inglese/
@@ -2179,6 +2227,7 @@
   cluster: travel
   role: spoke
   priority: 80
+  seed: 6230
   internal_links:
   - *id004
   - *id005
@@ -2237,7 +2286,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5868
+    SEED: 6230
 
     CLUSTER: travel
 
@@ -2263,6 +2312,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 0c4257d24d2a56a23e1480b11d5d3ed78518a605969636a9d1abeb4653c0cbc7
 - *id016
 - *id006
 - *id007
@@ -2275,6 +2325,7 @@
   cluster: expat
   role: spoke
   priority: 90
+  seed: 8842
   internal_links:
   - *id006
   - *id007
@@ -2333,7 +2384,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3513
+    SEED: 8842
 
     CLUSTER: expat
 
@@ -2360,6 +2411,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 34a75088eec45b176de430dfb4a89964662b14979ef1cd82fe1e39464f38e066
 - id: 20
   title: Aprire un conto bancario all’estero
   url: /inglese/expat/banca-inglese/
@@ -2368,6 +2420,7 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 2548
   internal_links:
   - *id006
   - *id007
@@ -2426,7 +2479,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3270
+    SEED: 2548
 
     CLUSTER: expat
 
@@ -2453,6 +2506,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: dad2217b00750018c719aaad1537254509f757f42f0704968568157498b7ad9f
 - id: 21
   title: Lavori part-time all’estero
   url: /inglese/expat/lavoro-estero/
@@ -2461,6 +2515,7 @@
   cluster: expat
   role: spoke
   priority: 90
+  seed: 5431
   internal_links:
   - *id006
   - *id007
@@ -2519,7 +2574,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1183
+    SEED: 5431
 
     CLUSTER: expat
 
@@ -2546,6 +2601,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: db0f8a6f28b7552717d78023a06318267aaa35d6b4d26fd183b62124ffeffcfd
 - *id012
 - *id013
 - *id015
@@ -2557,6 +2613,7 @@
   cluster: social
   role: spoke
   priority: 85
+  seed: 4491
   internal_links:
   - *id012
   - *id013
@@ -2615,7 +2672,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2680
+    SEED: 4491
 
     CLUSTER: social
 
@@ -2641,6 +2698,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 8da7f74eb854c76dc0b8f91e1422d7f8e47aaf0282a7286facd5961958906d2a
 - id: 26
   title: Parlare al pub in inglese
   url: /inglese/social/pub-inglese/
@@ -2649,6 +2707,7 @@
   cluster: social
   role: spoke
   priority: 80
+  seed: 5459
   internal_links:
   - *id012
   - *id013
@@ -2707,7 +2766,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6015
+    SEED: 5459
 
     CLUSTER: social
 
@@ -2733,6 +2792,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: d4cc03b3a0e13eb358b0823cc9d0c57addcc1f116934b235491fe75beceb5ee7
 - *id008
 - *id009
 - *id010
@@ -2744,6 +2804,7 @@
   cluster: business
   role: spoke
   priority: 85
+  seed: 7788
   internal_links:
   - *id008
   - *id009
@@ -2800,7 +2861,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9450
+    SEED: 7788
 
     CLUSTER: business
 
@@ -2822,6 +2883,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 67f94d459a6acb44a00abe413e1bfd96c667e59968c68cbf514a7c156325e267
 - id: 31
   title: Affittare casa all’estero
   url: /inglese/expat/affitto-casa-inglese/
@@ -2830,6 +2892,7 @@
   cluster: expat
   role: hub
   priority: 95
+  seed: 6255
   internal_links:
   - *id006
   - *id007
@@ -2888,7 +2951,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7043
+    SEED: 6255
 
     CLUSTER: expat
 
@@ -2915,6 +2978,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 5c45a53cf7d01b5c474b0830d17e908007a27f1da191cb8ba3a2b0e4f19b5cd6
 - id: 32
   title: Landlord e problemi casa
   url: /inglese/expat/landlord-problemi-casa/
@@ -2923,6 +2987,7 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 2460
   internal_links:
   - *id006
   - *id007
@@ -2981,7 +3046,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9863
+    SEED: 2460
 
     CLUSTER: expat
 
@@ -3008,6 +3073,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 17a8c00f87b310333cbf0863e79aa64ce11d34978d39f3567407a8f5f60fb6c1
 - id: 33
   title: Conto corrente estero
   url: /inglese/expat/conto-corrente-inglese/
@@ -3016,6 +3082,7 @@
   cluster: expat
   role: spoke
   priority: 88
+  seed: 2234
   internal_links:
   - *id006
   - *id007
@@ -3074,7 +3141,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6147
+    SEED: 2234
 
     CLUSTER: expat
 
@@ -3101,6 +3168,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: ab56ad7d0678586b73955cbb59c253025ef78bca6438d717aff4807ccc01c419
 - id: 34
   title: Medico di base all’estero
   url: /inglese/expat/medico-base-inglese/
@@ -3109,6 +3177,7 @@
   cluster: expat
   role: spoke
   priority: 87
+  seed: 2395
   internal_links:
   - *id006
   - *id007
@@ -3167,7 +3236,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3483
+    SEED: 2395
 
     CLUSTER: expat
 
@@ -3194,6 +3263,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: f7e428950164ed11645df145039f40fd55040a8c1de809b98612a321d3355ce0
 - id: 35
   title: Utenze casa inglese
   url: /inglese/expat/utenze-casa-inglese/
@@ -3202,6 +3272,7 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 9358
   internal_links:
   - *id006
   - *id007
@@ -3260,7 +3331,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2203
+    SEED: 9358
 
     CLUSTER: expat
 
@@ -3287,6 +3358,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 9184771dc4b7ff2dd01abd45147ad740d3f05eee8973c6bd960d33021f81982f
 - id: 36
   title: Supermercato in inglese
   url: /inglese/expat/supermercato-inglese/
@@ -3295,6 +3367,7 @@
   cluster: expat
   role: spoke
   priority: 80
+  seed: 1367
   internal_links:
   - *id006
   - *id007
@@ -3353,7 +3426,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3416
+    SEED: 1367
 
     CLUSTER: expat
 
@@ -3380,6 +3453,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 2cb18c8b77f85102c36bbd728e3d7228de1b2c9e0f417fe692a2f82fb8e113bf
 - id: 37
   title: Salute e farmacia inglese
   url: /inglese/expat/salute-inglese/
@@ -3388,6 +3462,7 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 7737
   internal_links:
   - *id006
   - *id007
@@ -3446,7 +3521,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8044
+    SEED: 7737
 
     CLUSTER: expat
 
@@ -3473,6 +3548,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: e0425b9d8abf36d76d91097642bce64b32738920b63d421287473e11edbf95d8
 - id: 38
   title: Meccanico e auto inglese
   url: /inglese/expat/meccanico-auto-inglese/
@@ -3481,6 +3557,7 @@
   cluster: expat
   role: spoke
   priority: 75
+  seed: 8874
   internal_links:
   - *id006
   - *id007
@@ -3539,7 +3616,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9086
+    SEED: 8874
 
     CLUSTER: expat
 
@@ -3566,6 +3643,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 7c8145fa0391fdd183632401475414ad111e42750b9dceea40d51094ef8a4f05
 - id: 39
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -3574,6 +3652,7 @@
   cluster: social
   role: hub
   priority: 90
+  seed: 5523
   internal_links:
   - *id012
   - *id013
@@ -3632,7 +3711,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2199
+    SEED: 5523
 
     CLUSTER: social
 
@@ -3658,6 +3737,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 54dcb619d1638511f40f3b7ee54ad1b74a970e10c9cfb3c4c391dbb7601d3d36
 - id: 40
   title: Small talk senza silenzi
   url: /inglese/social/small-talk-inglese/
@@ -3666,6 +3746,7 @@
   cluster: social
   role: spoke
   priority: 95
+  seed: 5765
   internal_links:
   - *id012
   - *id013
@@ -3724,7 +3805,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4474
+    SEED: 5765
 
     CLUSTER: social
 
@@ -3750,6 +3831,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 5727a7bac57b7bfdd95b1c22e2f57f2e9948f62c6443ad155025b05b16446f64
 - id: 41
   title: Slang reale inglese
   url: /inglese/social/slang-reale/
@@ -3758,6 +3840,7 @@
   cluster: social
   role: spoke
   priority: 85
+  seed: 9267
   internal_links:
   - *id012
   - *id013
@@ -3816,7 +3899,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8026
+    SEED: 9267
 
     CLUSTER: social
 
@@ -3842,6 +3925,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: fd5d175ac1429082822fb1bbe95907079f836824b2805bb28d9587b0fc6df2f9
 - id: 42
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -3850,6 +3934,7 @@
   cluster: social
   role: spoke
   priority: 80
+  seed: 5072
   internal_links:
   - *id012
   - *id013
@@ -3908,7 +3993,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1896
+    SEED: 5072
 
     CLUSTER: social
 
@@ -3934,6 +4019,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 487b3086eeaf906ee39089e26d3625dde5ff3068aac32f1504399b2b15736ccb
 - id: 43
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -3942,6 +4028,7 @@
   cluster: business
   role: hub
   priority: 95
+  seed: 4389
   internal_links:
   - *id008
   - *id009
@@ -3998,7 +4085,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2434
+    SEED: 4389
 
     CLUSTER: business
 
@@ -4020,6 +4107,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: cbad52c92af47ef162bc13efc6de8de53d8ffc3b730c232aa4db33e6f9327905
 - id: 44
   title: Colloquio inglese avanzato
   url: /inglese/business/colloquio-inglese/
@@ -4028,6 +4116,7 @@
   cluster: business
   role: spoke
   priority: 92
+  seed: 7492
   internal_links:
   - *id008
   - *id009
@@ -4084,7 +4173,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5495
+    SEED: 7492
 
     CLUSTER: business
 
@@ -4106,6 +4195,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 1af6baa58cd4613169799d26737e3729f70ae234ac38b165067ae128f7828bce
 - id: 45
   title: Email professionali inglese
   url: /inglese/business/email-inglese/
@@ -4114,6 +4204,7 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 5308
   internal_links:
   - *id008
   - *id009
@@ -4170,7 +4261,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9136
+    SEED: 5308
 
     CLUSTER: business
 
@@ -4192,6 +4283,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 83648f4ac5910182edcbee3eb7c265c13f2489ffb6b7782138d1753a46898b8b
 - id: 46
   title: Pronomi inglesi
   url: /inglese/base/pronomi-personali-inglese/
@@ -4200,6 +4292,7 @@
   cluster: base
   role: spoke
   priority: 90
+  seed: 2361
   internal_links:
   - *id017
   - *id018
@@ -4258,7 +4351,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1015
+    SEED: 2361
 
     CLUSTER: base
 
@@ -4284,6 +4377,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: d9492ea77205a27b4c4b7c2a2068e2e380d2109b73864941dac88d26becb1c74
 - id: 47
   title: Articoli inglesi
   url: /inglese/base/articoli-inglese/
@@ -4292,6 +4386,7 @@
   cluster: base
   role: spoke
   priority: 92
+  seed: 5532
   internal_links:
   - *id017
   - *id018
@@ -4350,7 +4445,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7595
+    SEED: 5532
 
     CLUSTER: base
 
@@ -4376,6 +4471,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 5905761e25e6b246b928ce4b47038f0fb9d87e652d7e1de1e69eb5f75b7341dd
 - id: 48
   title: Plurale inglese
   url: /inglese/base/plurale-inglese/
@@ -4384,6 +4480,7 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 3789
   internal_links:
   - *id017
   - *id018
@@ -4442,7 +4539,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1427
+    SEED: 3789
 
     CLUSTER: base
 
@@ -4468,6 +4565,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 484287b2a94ddabea99ff5ff408d6be3965df88cd4ac753b463e119bf07e5da4
 - id: 49
   title: Dimostrativi inglesi
   url: /inglese/base/dimostrativi-inglese/
@@ -4476,6 +4574,7 @@
   cluster: base
   role: spoke
   priority: 80
+  seed: 9297
   internal_links:
   - *id017
   - *id018
@@ -4534,7 +4633,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3536
+    SEED: 9297
 
     CLUSTER: base
 
@@ -4560,6 +4659,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 0c3fbfd7fc4d535ad6a2f2e54934e888f1cc86d70471204796a768c6bcb72e33
 - id: 50
   title: Aggettivi inglese
   url: /inglese/base/aggettivi-inglese/
@@ -4568,6 +4668,7 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 4887
   internal_links:
   - *id017
   - *id018
@@ -4626,7 +4727,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4387
+    SEED: 4887
 
     CLUSTER: base
 
@@ -4652,6 +4753,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 896a9461f911e153daf14f6b59b531eb082ed95ae538a1a65616ec3219236924
 - id: 51
   title: Verbo essere
   url: /inglese/base/verbo-essere/
@@ -4660,6 +4762,7 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 8477
   internal_links:
   - *id017
   - *id018
@@ -4718,7 +4821,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6175
+    SEED: 8477
 
     CLUSTER: base
 
@@ -4744,6 +4847,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 67bc72e7fe78833cebd1b0040874787f2477b6292b92823022f577b2ec3a55d0
 - id: 52
   title: Verbo avere
   url: /inglese/base/verbo-avere/
@@ -4752,6 +4856,7 @@
   cluster: base
   role: spoke
   priority: 95
+  seed: 5533
   internal_links:
   - *id017
   - *id018
@@ -4810,7 +4915,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4892
+    SEED: 5533
 
     CLUSTER: base
 
@@ -4836,6 +4941,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: cde606f2dea4f302a2b94aeb02e722953ef70027f63f241c70dc6ed8a0db08f9
 - id: 53
   title: Parole base inglese
   url: /inglese/base/parole-base/
@@ -4844,6 +4950,7 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 9558
   internal_links:
   - *id017
   - *id018
@@ -4902,7 +5009,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1372
+    SEED: 9558
 
     CLUSTER: base
 
@@ -4928,6 +5035,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: f8dfa7a620ee0dacc3c6e06fc228fbcacf1a8d70310b145acff12d30510dcbd6
 - id: 54
   title: Numeri inglese
   url: /inglese/base/numeri-inglese/
@@ -4936,6 +5044,7 @@
   cluster: base
   role: spoke
   priority: 95
+  seed: 6843
   internal_links:
   - *id017
   - *id018
@@ -4994,7 +5103,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5550
+    SEED: 6843
 
     CLUSTER: base
 
@@ -5020,6 +5129,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 78c3aab1dcabdfd9ec88bbad6b45c32704c9158f0b6a8942934bc10ba630d64c
 - id: 55
   title: Colori inglese
   url: /inglese/base/colori-inglese/
@@ -5028,6 +5138,7 @@
   cluster: base
   role: spoke
   priority: 80
+  seed: 2543
   internal_links:
   - *id017
   - *id018
@@ -5086,7 +5197,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4044
+    SEED: 2543
 
     CLUSTER: base
 
@@ -5112,6 +5223,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 543609a38bab1bd00438ff4e8affa54daad621259ee444250e3ba88a6e3bf54c
 - id: 56
   title: Tempo inglese
   url: /inglese/base/tempo-inglese/
@@ -5120,6 +5232,7 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 1188
   internal_links:
   - *id017
   - *id018
@@ -5178,7 +5291,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4742
+    SEED: 1188
 
     CLUSTER: base
 
@@ -5204,6 +5317,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 779f35a26cc072b9c3d6bbca67996046ed1fb0c0ed3de9672f48729d674df2b2
 - id: 57
   title: Vocabolario viaggio
   url: /inglese/base/vocabolario-viaggio/
@@ -5212,6 +5326,7 @@
   cluster: base
   role: hub
   priority: 95
+  seed: 9413
   internal_links:
   - *id017
   - *id018
@@ -5270,7 +5385,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5010
+    SEED: 9413
 
     CLUSTER: base
 
@@ -5296,6 +5411,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 40b5b7895ffe1b3a375d629a95b1a12f993f93fdb17c76b95a19660a5bff3a5b
 - id: 58
   title: Preposizioni inglesi
   url: /inglese/base/preposizioni-in-on-at/
@@ -5304,6 +5420,7 @@
   cluster: base
   role: spoke
   priority: 90
+  seed: 5252
   internal_links:
   - *id017
   - *id018
@@ -5362,7 +5479,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5003
+    SEED: 5252
 
     CLUSTER: base
 
@@ -5388,6 +5505,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: a9981d8ea8b698863793683ded3aef91438ffdeaf5535077fd14a3c5ef44b3c9
 - id: 59
   title: Much many a lot
   url: /inglese/base/much-many-a-lot-of/
@@ -5396,6 +5514,7 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 7999
   internal_links:
   - *id017
   - *id018
@@ -5454,7 +5573,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1740
+    SEED: 7999
 
     CLUSTER: base
 
@@ -5480,6 +5599,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: ee40573e3652f10001dd96d3f9383b37eb28c819f368a21f3d3ae38a594ff565
 - id: 60
   title: Do vs Make
   url: /inglese/base/do-vs-make/
@@ -5488,6 +5608,7 @@
   cluster: base
   role: spoke
   priority: 88
+  seed: 4075
   internal_links:
   - *id017
   - *id018
@@ -5546,7 +5667,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2325
+    SEED: 4075
 
     CLUSTER: base
 
@@ -5572,6 +5693,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: d08204c8edcf6b4fa3a1d0288dd9d833ab6d9690c6a07fd19829062a72c68cff
 - id: 61
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -5580,6 +5702,7 @@
   cluster: business
   role: hub
   priority: 100
+  seed: 1699
   internal_links:
   - *id008
   - *id009
@@ -5636,7 +5759,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1541
+    SEED: 1699
 
     CLUSTER: business
 
@@ -5658,6 +5781,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: df3423b639fbc6d39ac8d73aede9189a4aa58348a2e5839d1ca89e625f24c314
 - id: 62
   title: Colloquio inglese
   url: /inglese/business/colloquio-inglese/
@@ -5666,6 +5790,7 @@
   cluster: business
   role: spoke
   priority: 95
+  seed: 6000
   internal_links:
   - *id008
   - *id009
@@ -5722,7 +5847,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1579
+    SEED: 6000
 
     CLUSTER: business
 
@@ -5744,6 +5869,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 65638325a678e4890bbb56aa9ffeca310cdedff9dda0f24fdaceb9e6185b071f
 - id: 63
   title: Email inglese
   url: /inglese/business/email-inglese/
@@ -5752,6 +5878,7 @@
   cluster: business
   role: spoke
   priority: 95
+  seed: 3849
   internal_links:
   - *id008
   - *id009
@@ -5808,7 +5935,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9510
+    SEED: 3849
 
     CLUSTER: business
 
@@ -5830,6 +5957,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: ea474f4c8cc15facaed78818aa238394a5d04d6f6052641f0c973e29d399d4c1
 - id: 64
   title: Presentazioni inglese
   url: /inglese/business/presentazioni-inglese/
@@ -5838,6 +5966,7 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 2932
   internal_links:
   - *id008
   - *id009
@@ -5894,7 +6023,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3759
+    SEED: 2932
 
     CLUSTER: business
 
@@ -5916,6 +6045,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: fbd13cccea138c95bd90bf3cf9e0bb66d56645f67a240797bfe00906fcbe4387
 - id: 65
   title: Meeting inglese
   url: /inglese/business/meeting-inglese/
@@ -5924,6 +6054,7 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 6746
   internal_links:
   - *id008
   - *id009
@@ -5980,7 +6111,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5241
+    SEED: 6746
 
     CLUSTER: business
 
@@ -6002,6 +6133,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 040c23a97f856860ee31669f18cfcd71be6d44ec53a5ce04b6226cb23fa7016c
 - id: 66
   title: Networking inglese
   url: /inglese/business/small-talk-business/
@@ -6010,6 +6142,7 @@
   cluster: business
   role: spoke
   priority: 88
+  seed: 8449
   internal_links:
   - *id008
   - *id009
@@ -6066,7 +6199,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6629
+    SEED: 8449
 
     CLUSTER: business
 
@@ -6088,6 +6221,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: c0082a3098b17675dfbefb6a1cafd32c1c4b1a5f6dffc12bff15a1d6365f7fcd
 - id: 67
   title: Stipendio inglese
   url: /inglese/business/stipendio-inglese/
@@ -6096,6 +6230,7 @@
   cluster: business
   role: spoke
   priority: 92
+  seed: 8083
   internal_links:
   - *id008
   - *id009
@@ -6152,7 +6287,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4276
+    SEED: 8083
 
     CLUSTER: business
 
@@ -6174,6 +6309,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: c8db5564e947e43c1ab86d92c1ea4455838a190cdf3a4842cc778b4ec12592f8
 - id: 68
   title: LinkedIn inglese
   url: /inglese/business/linkedin-inglese/
@@ -6182,6 +6318,7 @@
   cluster: business
   role: spoke
   priority: 94
+  seed: 4534
   internal_links:
   - *id008
   - *id009
@@ -6238,7 +6375,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3315
+    SEED: 4534
 
     CLUSTER: business
 
@@ -6260,6 +6397,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 53edff1a028efde7dba7ac9ec6a41c2722916e19ce87502ac950c1faa1211ce0
 - &id020
   id: 69
   title: Falsi amici inglese
@@ -6269,6 +6407,7 @@
   cluster: cultura
   role: hub
   priority: 95
+  seed: 9278
   internal_links:
   - &id021
     id: 70
@@ -6279,6 +6418,7 @@
     cluster: cultura
     role: spoke
     priority: 85
+    seed: 5004
     internal_links:
     - *id020
     - &id022
@@ -6290,6 +6430,7 @@
       cluster: cultura
       role: spoke
       priority: 90
+      seed: 6402
       internal_links:
       - *id020
       - *id021
@@ -6346,7 +6487,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 9909
+        SEED: 6402
 
         CLUSTER: cultura
 
@@ -6368,6 +6509,7 @@
         {% include trust-box.html %}
 
         '
+      content_hash: 3dca716d1ce1e95623906f98e17de501369f7d24e96322d6670faef7ca10b7f7
     - *id016
     - *id001
     include_layout:
@@ -6421,7 +6563,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 1467
+      SEED: 5004
 
       CLUSTER: cultura
 
@@ -6443,6 +6585,7 @@
       {% include trust-box.html %}
 
       '
+    content_hash: deee65e84c6054aeb597ad7052dce3e7e9daf67955a02bad9438f8594b1fd6b9
   - *id022
   - *id016
   - *id001
@@ -6497,7 +6640,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6246
+    SEED: 9278
 
     CLUSTER: cultura
 
@@ -6519,6 +6662,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: f630fd44d234dc754c53c88b70db67bafc8a4e5fd3460c0acebce6f355c35baf
 - *id021
 - *id022
 - id: 72
@@ -6529,6 +6673,7 @@
   cluster: cultura
   role: spoke
   priority: 80
+  seed: 7829
   internal_links:
   - *id020
   - *id021
@@ -6586,7 +6731,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4399
+    SEED: 7829
 
     CLUSTER: cultura
 
@@ -6610,6 +6755,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 49dada0531b27fa3c31422689ecb467e8f8862f87fb49389d97a8ff51d7c8f83
 - id: 73
   title: Pronuncia italiani
   url: /inglese/pronuncia/errori-italiani/
@@ -6618,6 +6764,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
+  seed: 6736
   internal_links:
   - *id001
   include_layout:
@@ -6671,7 +6818,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6903
+    SEED: 6736
 
     CLUSTER: pronuncia
 
@@ -6687,6 +6834,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 85ab01b8dad3861b932a761b2a6dd94add0aea645195725bbd900bbc428658ba
 - id: 74
   title: Slang reale
   url: /inglese/cultura/slang-reale/
@@ -6695,6 +6843,7 @@
   cluster: cultura
   role: spoke
   priority: 88
+  seed: 4426
   internal_links:
   - *id020
   - *id021
@@ -6751,7 +6900,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3372
+    SEED: 4426
 
     CLUSTER: cultura
 
@@ -6773,6 +6922,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: d07becfc75d97d4d776281b14f87da0c4f53c7dedba9d11438bbae311b1517d0
 - id: 75
   title: Mentalità inglese
   url: /inglese/cultura/mentalita-inglese/
@@ -6781,6 +6931,7 @@
   cluster: cultura
   role: spoke
   priority: 92
+  seed: 1580
   internal_links:
   - *id020
   - *id021
@@ -6837,7 +6988,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3157
+    SEED: 1580
 
     CLUSTER: cultura
 
@@ -6859,6 +7010,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 7b4366b51f3da707ce19d55421ab14bf02c3b9327645d46ef9d054f128b6a00f
 - *id003
 - id: 77
   title: Blocco parlare inglese
@@ -6868,6 +7020,7 @@
   cluster: method
   role: spoke
   priority: 100
+  seed: 8829
   internal_links:
   - *id001
   - *id002
@@ -6923,7 +7076,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6864
+    SEED: 8829
 
     CLUSTER: method
 
@@ -6943,6 +7096,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 2665e69ffc432a904799844b827ff5b9d8516e5e80ee4b320c7cec57ac3a1aa1
 - id: 78
   title: Pensare in inglese
   url: /metodo/pensare-in-inglese/
@@ -6951,6 +7105,7 @@
   cluster: method
   role: spoke
   priority: 95
+  seed: 7803
   internal_links:
   - *id001
   - *id002
@@ -7006,7 +7161,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3762
+    SEED: 7803
 
     CLUSTER: method
 
@@ -7026,6 +7181,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 658b6084f35c2c89889d3e4b0b4447603805cdedaf9c2c6ff2d702b85fb01706
 - id: 79
   title: Shadowing
   url: /metodo/shadowing-inglese/
@@ -7034,6 +7190,7 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 9325
   internal_links:
   - *id001
   - *id002
@@ -7089,7 +7246,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8140
+    SEED: 9325
 
     CLUSTER: method
 
@@ -7109,6 +7266,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: aee36d868711a6e774b02a88d4c7ffebbc4e914616377cc6c8f8418f3af4c7f7
 - id: 80
   title: Input comprensibile
   url: /metodo/input-comprensibile/
@@ -7117,6 +7275,7 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 2308
   internal_links:
   - *id001
   - *id002
@@ -7172,7 +7331,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7652
+    SEED: 2308
 
     CLUSTER: method
 
@@ -7192,6 +7351,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: d7b6699019964608f5cfa06969d582f6b666b9c92fd5db2347b1baa4a9634d7e
 - id: 81
   title: Metodo FluenteMente
   url: /metodo/fluentemente-metodo/
@@ -7200,6 +7360,7 @@
   cluster: method
   role: hub
   priority: 100
+  seed: 8399
   internal_links:
   - *id001
   - *id002
@@ -7257,7 +7418,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7847
+    SEED: 8399
 
     CLUSTER: method
 
@@ -7283,6 +7444,7 @@
     {% include affiliate-disclosure.html %}
 
     '
+  content_hash: 3ec61a0beeeafe5cd47658bdbea106c9e1873aed87f48e75c71001f29b8476f1
 - id: 82
   title: Ripetizione spaziata
   url: /metodo/ripetizione-spaziata/
@@ -7291,6 +7453,7 @@
   cluster: method
   role: spoke
   priority: 88
+  seed: 2247
   internal_links:
   - *id001
   - *id002
@@ -7346,7 +7509,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6530
+    SEED: 2247
 
     CLUSTER: method
 
@@ -7366,6 +7529,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 90230c5d41d961725b185a536758d598c05d90226defd095340c3ab97662057e
 - id: 83
   title: Routine inglese
   url: /metodo/routine-inglese/
@@ -7374,6 +7538,7 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 1148
   internal_links:
   - *id001
   - *id002
@@ -7429,7 +7594,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2666
+    SEED: 1148
 
     CLUSTER: method
 
@@ -7449,6 +7614,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 035c178fac02f91fef812fe7ee6ace6e6daf478c21b74e903aa2f8a16b0d6eb0
 - id: 84
   title: Smettere tradurre
   url: /metodo/smettere-tradurre/
@@ -7457,6 +7623,7 @@
   cluster: method
   role: spoke
   priority: 92
+  seed: 8171
   internal_links:
   - *id001
   - *id002
@@ -7512,7 +7679,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9099
+    SEED: 8171
 
     CLUSTER: method
 
@@ -7532,6 +7699,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: 941a3dfa187a7c22d2ab5eb8890bf7e663e15bf31976ec2e07b91a484cd40ca9
 - id: 85
   title: Memoria vocabolario
   url: /metodo/memoria-vocabolario/
@@ -7540,6 +7708,7 @@
   cluster: method
   role: spoke
   priority: 88
+  seed: 5911
   internal_links:
   - *id001
   - *id002
@@ -7595,7 +7764,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1163
+    SEED: 5911
 
     CLUSTER: method
 
@@ -7615,6 +7784,7 @@
     {% include trust-box.html %}
 
     '
+  content_hash: acd9c223e2f0c07a50e1da27dfeb0af97064340b5e2175acc750910ae6819f43
 - &id023
   id: 86
   title: Errori inglese
@@ -7624,6 +7794,7 @@
   cluster: conversion
   role: bridge
   priority: 95
+  seed: 2362
   internal_links:
   - &id024
     id: 87
@@ -7634,6 +7805,7 @@
     cluster: conversion
     role: bridge
     priority: 100
+    seed: 9898
     internal_links:
     - *id023
     - *id001
@@ -7690,7 +7862,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 7816
+      SEED: 9898
 
       CLUSTER: conversion
 
@@ -7714,6 +7886,7 @@
       {% include affiliate-disclosure.html %}
 
       '
+    content_hash: 4bfb35a849be8eaf17b935a34c952d5ceee521ea90dc7a6a1e3ca2041433c4a2
   - *id001
   include_layout:
     after_intro:
@@ -7768,7 +7941,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7216
+    SEED: 2362
 
     CLUSTER: conversion
 
@@ -7792,6 +7965,7 @@
     {% include affiliate-disclosure.html %}
 
     '
+  content_hash: c9ce5af8f09298185456d951cd5284cacba0a4b38e9d1bb5c053b24c005b36bf
 - *id024
 - id: 88
   title: Recensione Babbel
@@ -7801,6 +7975,7 @@
   cluster: monetization
   role: money
   priority: 100
+  seed: 6724
   internal_links:
   - *id001
   include_layout:
@@ -7856,7 +8031,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3552
+    SEED: 6724
 
     CLUSTER: monetization
 
@@ -7878,3 +8053,4 @@
     {% include affiliate-disclosure.html %}
 
     '
+  content_hash: e4a75ec63f2d25b48abeccedabfcb0bcabd651d65170047392cf5e7b43cd3d4f

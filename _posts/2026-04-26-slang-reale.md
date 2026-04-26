@@ -2,7 +2,7 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: 159974c871a8b349e49c1df90db23721
+content_hash: d07becfc75d97d4d776281b14f87da0c4f53c7dedba9d11438bbae311b1517d0
 ---
 
 # Slang reale
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3372
+SEED: 4426
 CLUSTER: cultura
 FUNNEL: mofu
 
