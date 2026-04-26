@@ -2,7 +2,7 @@
 title: "Metodo FluenteMente"
 permalink: /metodo-fluentemente/
 layout: post
-content_hash: 83b255cb0c52809ab1d85e0b2bc78af0dc436aa24d098e5d0c5f81e85989d0c7
+content_hash: b62169d5198e73a51d1cb6c93a7a83e616ea580e7d7ea321a046a46dc26c163d
 ---
 
 # Metodo FluenteMente
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1649
+SEED: 2114
 CLUSTER: method
 FUNNEL: bofu
 

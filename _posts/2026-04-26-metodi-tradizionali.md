@@ -2,7 +2,7 @@
 title: "Metodi tradizionali"
 permalink: /metodi-tradizionali/
 layout: post
-content_hash: 81d952f6c22e072de04286bcb1f36fc9315223090592fa669923c257c2cd3f1e
+content_hash: b9b46449fbcb5feb0f563aa589d50fbf071a74d349fc13fd45f5fb19b0ca75b7
 ---
 
 # Metodi tradizionali
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5416
+SEED: 1190
 CLUSTER: conversion
 FUNNEL: bofu
 

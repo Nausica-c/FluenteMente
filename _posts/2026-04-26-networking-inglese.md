@@ -2,7 +2,7 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: 1046201e41122c41dc97e3206abf4f49d1e93cd2b717612534da1f245159dbae
+content_hash: 3509206e2d1cbb64f3eb192c76855c2f45f16b6c7001febbbc21556510afee0a
 ---
 
 # Networking inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4044
+SEED: 4541
 CLUSTER: business
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Tempo inglese"
 permalink: /tempo-inglese/
 layout: post
-content_hash: 2429210cf8c063ef8407ea99a5c61929c31e46cd8e2bf88e555bf525742c1985
+content_hash: d6cc3bcb78c351fffff327c615ab5a5cc96e88af6286a3d717f4390949220d4d
 ---
 
 # Tempo inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2317
+SEED: 7085
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Plurale inglese"
 permalink: /plurale-inglese/
 layout: post
-content_hash: a6bd4c730fc7efaad42b068bc0e22fb997abcb9210094a8063706f257c24c0d0
+content_hash: 7cd09bdcef54316c23ece40261e50e9377fec9dd21b23239a01549994d6cc55d
 ---
 
 # Plurale inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9609
+SEED: 9869
 CLUSTER: base
 FUNNEL: tofu
 

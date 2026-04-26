@@ -2,7 +2,7 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: 6adafe18dfd496d6e58acf6dfd8b51b562bcc400e6520a09379e8963603a7306
+content_hash: a67ad373c519d78b3ec959fe4e69de39fbad49033203fc62fa01bbc0ca757d29
 ---
 
 # Salute e farmacia inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7957
+SEED: 6961
 CLUSTER: expat
 FUNNEL: mofu
 
