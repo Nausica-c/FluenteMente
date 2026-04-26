@@ -1,6 +1,9 @@
 import yaml
 import random
+import sys
+import os
 
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from engine.layout_engine import generate_layout
 from engine.content_engine import generate_body
 from engine.article_builder import build_article, export_post
