@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔴 FIX FONDAMENTALE
+  contents: write   # 🔥 QUESTO RISOLVE IL 403
 
 jobs:
   build:
@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true  # 🔴 importante
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -24,20 +22,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install pyyaml
+        run: pip install pyyaml
 
       - name: Run SEO engine
+        run: python build_seo_engine.py
+
+      - name: Commit & Push
         run: |
-          python build_seo_engine.py
-
-      - name: Commit generated file
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/articles-linked.yml
-
-          git diff --cached --quiet && echo "No changes" && exit 0
-
-          git commit -m "Auto SEO build"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto SEO publish" || echo "No changes"
           git push
