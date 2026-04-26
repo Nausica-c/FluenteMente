@@ -15,6 +15,42 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
 - id: 2
   title: Perché capisci l’inglese ma non riesci a parlare
   url: /metodo/blocco-parlare-inglese/
@@ -32,6 +68,42 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Perché capisci l’inglese ma non riesci a parlare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
 - id: 3
   title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
   url: /inglese/viaggio/aeroporto/
@@ -65,6 +137,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 4
   title: 'Inglese in hotel: check-in, problemi e richieste'
   url: /inglese/viaggio/hotel/
@@ -98,6 +202,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese in hotel: check-in, problemi e richieste
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 5
   title: 100 parole inglesi più usate per iniziare subito
   url: /inglese/base/100-parole-inglese/
@@ -131,6 +267,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# 100 parole inglesi più usate per iniziare subito
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 6
   title: 'Alfabeto inglese e spelling: guida semplice per principianti'
   url: /inglese/base/alfabeto-inglese/
@@ -164,6 +328,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 7
   title: 'Numeri in inglese da 1 a 100: guida completa'
   url: /inglese/base/numeri-inglese/
@@ -197,6 +389,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Numeri in inglese da 1 a 100: guida completa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 8
   title: Come presentarsi in inglese in modo naturale
   url: /inglese/base/presentarsi-inglese/
@@ -230,6 +450,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Come presentarsi in inglese in modo naturale
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 9
   title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
   url: /inglese/viaggio/frasi-aeroporto/
@@ -263,6 +511,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 10
   title: 'Inglese in hotel: frasi essenziali per viaggiare'
   url: /inglese/viaggio/hotel-inglese/
@@ -296,6 +576,38 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese in hotel: frasi essenziali per viaggiare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 11
   title: 'Inglese per trasporti pubblici: metro, bus e taxi'
   url: /inglese/viaggio/trasporti-pubblici/
@@ -329,6 +641,38 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 12
   title: 'Inglese per shopping: negozi, prezzi e acquisti'
   url: /inglese/viaggio/shopping-inglese/
@@ -362,6 +706,38 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese per shopping: negozi, prezzi e acquisti
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 13
   title: 'Inglese per emergenze in viaggio: frasi salvavita'
   url: /inglese/viaggio/emergenze-inglese/
@@ -395,6 +771,38 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese per emergenze in viaggio: frasi salvavita
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 14
   title: Inglese per Airbnb e case vacanza
   url: /inglese/viaggio/airbnb-inglese/
@@ -428,6 +836,38 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese per Airbnb e case vacanza
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 15
   title: Come lamentarsi in inglese (hotel, servizi, problemi)
   url: /inglese/viaggio/reclami-inglese/
@@ -461,6 +901,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - orient-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include orient-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 16
   title: Affittare casa all’estero in inglese
   url: /inglese/expat/affittare-casa/
@@ -486,6 +958,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Affittare casa all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 17
   title: Contratto d’affitto in inglese
   url: /inglese/expat/contratto-affitto/
@@ -511,6 +1015,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Contratto d’affitto in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 18
   title: Utenze casa all’estero in inglese
   url: /inglese/expat/utenze-casa/
@@ -536,6 +1072,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Utenze casa all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 19
   title: Andare dal medico all’estero in inglese
   url: /inglese/expat/medico-inglese/
@@ -565,6 +1133,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Andare dal medico all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 20
   title: Aprire un conto bancario all’estero
   url: /inglese/expat/banca-inglese/
@@ -594,6 +1194,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Aprire un conto bancario all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 21
   title: Lavori part-time all’estero
   url: /inglese/expat/lavoro-estero/
@@ -623,6 +1255,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Lavori part-time all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 22
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -656,6 +1320,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 23
   title: Small talk in inglese
   url: /inglese/social/small-talk/
@@ -685,6 +1377,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Small talk in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 24
   title: Slang inglese moderno
   url: /inglese/social/slang-inglese/
@@ -718,6 +1438,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Slang inglese moderno
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 25
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -751,6 +1499,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 26
   title: Parlare al pub in inglese
   url: /inglese/social/pub-inglese/
@@ -784,6 +1560,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Parlare al pub in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 27
   title: CV in inglese
   url: /inglese/business/cv/
@@ -805,6 +1609,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# CV in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 28
   title: Colloquio di lavoro in inglese
   url: /inglese/business/interview/
@@ -826,6 +1658,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Colloquio di lavoro in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 29
   title: Email formali in inglese
   url: /inglese/business/email-formali/
@@ -847,6 +1707,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Email formali in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 30
   title: LinkedIn in inglese
   url: /inglese/business/linkedin/
@@ -872,6 +1760,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# LinkedIn in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 31
   title: Affittare casa all’estero
   url: /inglese/expat/affitto-casa-inglese/
@@ -901,6 +1817,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Affittare casa all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 32
   title: Landlord e problemi casa
   url: /inglese/expat/landlord-problemi-casa/
@@ -930,6 +1878,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Landlord e problemi casa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 33
   title: Conto corrente estero
   url: /inglese/expat/conto-corrente-inglese/
@@ -959,6 +1939,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Conto corrente estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 34
   title: Medico di base all’estero
   url: /inglese/expat/medico-base-inglese/
@@ -988,6 +2000,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Medico di base all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 35
   title: Utenze casa inglese
   url: /inglese/expat/utenze-casa-inglese/
@@ -1017,6 +2061,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Utenze casa inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 36
   title: Supermercato in inglese
   url: /inglese/expat/supermercato-inglese/
@@ -1046,6 +2122,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Supermercato in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 37
   title: Salute e farmacia inglese
   url: /inglese/expat/salute-inglese/
@@ -1075,6 +2183,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Salute e farmacia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 38
   title: Meccanico e auto inglese
   url: /inglese/expat/meccanico-auto-inglese/
@@ -1104,6 +2244,38 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Meccanico e auto inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 39
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -1137,6 +2309,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 40
   title: Small talk senza silenzi
   url: /inglese/social/small-talk-inglese/
@@ -1170,6 +2370,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Small talk senza silenzi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 41
   title: Slang reale inglese
   url: /inglese/social/slang-reale/
@@ -1203,6 +2431,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Slang reale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 42
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -1236,6 +2492,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 43
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -1261,6 +2545,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 44
   title: Colloquio inglese avanzato
   url: /inglese/business/colloquio-inglese/
@@ -1286,6 +2598,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Colloquio inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 45
   title: Email professionali inglese
   url: /inglese/business/email-inglese/
@@ -1311,6 +2651,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Email professionali inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 46
   title: Pronomi inglesi
   url: /inglese/base/pronomi-personali-inglese/
@@ -1344,6 +2712,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Pronomi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 47
   title: Articoli inglesi
   url: /inglese/base/articoli-inglese/
@@ -1377,6 +2773,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Articoli inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 48
   title: Plurale inglese
   url: /inglese/base/plurale-inglese/
@@ -1410,6 +2834,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Plurale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 49
   title: Dimostrativi inglesi
   url: /inglese/base/dimostrativi-inglese/
@@ -1443,6 +2895,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Dimostrativi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 50
   title: Aggettivi inglese
   url: /inglese/base/aggettivi-inglese/
@@ -1476,6 +2956,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Aggettivi inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 51
   title: Verbo essere
   url: /inglese/base/verbo-essere/
@@ -1509,6 +3017,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Verbo essere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 52
   title: Verbo avere
   url: /inglese/base/verbo-avere/
@@ -1542,6 +3078,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Verbo avere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 53
   title: Parole base inglese
   url: /inglese/base/parole-base/
@@ -1575,6 +3139,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Parole base inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 54
   title: Numeri inglese
   url: /inglese/base/numeri-inglese/
@@ -1608,6 +3200,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Numeri inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 55
   title: Colori inglese
   url: /inglese/base/colori-inglese/
@@ -1641,6 +3261,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Colori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 56
   title: Tempo inglese
   url: /inglese/base/tempo-inglese/
@@ -1674,6 +3322,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Tempo inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 57
   title: Vocabolario viaggio
   url: /inglese/base/vocabolario-viaggio/
@@ -1707,6 +3383,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Vocabolario viaggio
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 58
   title: Preposizioni inglesi
   url: /inglese/base/preposizioni-in-on-at/
@@ -1740,6 +3444,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Preposizioni inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 59
   title: Much many a lot
   url: /inglese/base/much-many-a-lot-of/
@@ -1773,6 +3505,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Much many a lot
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 60
   title: Do vs Make
   url: /inglese/base/do-vs-make/
@@ -1806,6 +3566,34 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Do vs Make
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 61
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -1831,6 +3619,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 62
   title: Colloquio inglese
   url: /inglese/business/colloquio-inglese/
@@ -1856,6 +3672,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Colloquio inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 63
   title: Email inglese
   url: /inglese/business/email-inglese/
@@ -1881,6 +3725,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Email inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 64
   title: Presentazioni inglese
   url: /inglese/business/presentazioni-inglese/
@@ -1906,6 +3778,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Presentazioni inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 65
   title: Meeting inglese
   url: /inglese/business/meeting-inglese/
@@ -1931,6 +3831,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Meeting inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 66
   title: Networking inglese
   url: /inglese/business/small-talk-business/
@@ -1956,6 +3884,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Networking inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 67
   title: Stipendio inglese
   url: /inglese/business/stipendio-inglese/
@@ -1981,6 +3937,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Stipendio inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 68
   title: LinkedIn inglese
   url: /inglese/business/linkedin-inglese/
@@ -2006,6 +3990,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# LinkedIn inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 69
   title: Falsi amici inglese
   url: /inglese/cultura/falsi-amici/
@@ -2031,6 +4043,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Falsi amici inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 70
   title: Parole intraducibili
   url: /inglese/cultura/parole-intraducibili/
@@ -2056,6 +4096,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Parole intraducibili
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 71
   title: UK vs US
   url: /inglese/cultura/uk-vs-us/
@@ -2081,6 +4149,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# UK vs US
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 72
   title: Storia inglese
   url: /inglese/cultura/storia-inglese/
@@ -2110,6 +4206,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Storia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 73
   title: Pronuncia italiani
   url: /inglese/pronuncia/errori-italiani/
@@ -2123,6 +4247,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Pronuncia italiani
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 74
   title: Slang reale
   url: /inglese/cultura/slang-reale/
@@ -2148,6 +4300,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Slang reale
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 75
   title: Mentalità inglese
   url: /inglese/cultura/mentalita-inglese/
@@ -2173,6 +4353,34 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Mentalità inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 76
   title: Inglese da zero
   url: /metodo/studiare-inglese-zero/
@@ -2190,6 +4398,34 @@
     url: /metodo/blocco-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Inglese da zero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 77
   title: Blocco parlare inglese
   url: /metodo/blocco-parlato-inglese/
@@ -2211,6 +4447,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Blocco parlare inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 78
   title: Pensare in inglese
   url: /metodo/pensare-in-inglese/
@@ -2232,6 +4496,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Pensare in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 79
   title: Shadowing
   url: /metodo/shadowing-inglese/
@@ -2253,6 +4545,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Shadowing
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 80
   title: Input comprensibile
   url: /metodo/input-comprensibile/
@@ -2274,6 +4594,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Input comprensibile
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 81
   title: Metodo FluenteMente
   url: /metodo/fluentemente-metodo/
@@ -2295,6 +4643,42 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Metodo FluenteMente
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
 - id: 82
   title: Ripetizione spaziata
   url: /metodo/ripetizione-spaziata/
@@ -2316,6 +4700,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Ripetizione spaziata
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 83
   title: Routine inglese
   url: /metodo/routine-inglese/
@@ -2337,6 +4749,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Routine inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 84
   title: Smettere tradurre
   url: /metodo/smettere-tradurre/
@@ -2358,6 +4798,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Smettere tradurre
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 85
   title: Memoria vocabolario
   url: /metodo/memoria-vocabolario/
@@ -2379,6 +4847,34 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta: []
+    footer:
+    - trust-box.html
+  final_article: '# Memoria vocabolario
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include trust-box.html %}
+
+
+    '
 - id: 86
   title: Errori inglese
   url: /metodo/errori-inglese/
@@ -2396,6 +4892,42 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Errori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
 - id: 87
   title: Metodi tradizionali
   url: /metodo/metodi-tradizionali-inglese/
@@ -2413,6 +4945,42 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Metodi tradizionali
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
 - id: 88
   title: Recensione Babbel
   url: /recensione-babbel/
@@ -2426,3 +4994,39 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  include_layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid_article: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+  final_article: '# Recensione Babbel
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Contenuto principale
+
+
+    CONTENUTO GENERATO DA AI QUI
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
