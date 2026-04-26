@@ -2,6 +2,7 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
+content_hash: 29f607f9eefd2fe6da5b645b25c9075a
 ---
 
 # Small talk senza silenzi
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Small talk senza silenzi
-
-Questo articolo fa parte del cluster social e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Small talk senza silenzi con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2570
+SEED: 2528
+CLUSTER: social
+FUNNEL: mofu
 
 ## Articoli correlati
 

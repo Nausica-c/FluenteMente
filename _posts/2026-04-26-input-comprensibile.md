@@ -2,6 +2,7 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
+content_hash: cb94a356bb8a060a6e60da618d8b9a01
 ---
 
 # Input comprensibile
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Input comprensibile
-
-Questo articolo fa parte del cluster method e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Input comprensibile con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3196
+SEED: 1367
+CLUSTER: method
+FUNNEL: mofu
 
 ## Articoli correlati
 

@@ -2,6 +2,7 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
+content_hash: f5c6e975515ff5e7182d8671002839a2
 ---
 
 # Pensare in inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Pensare in inglese
-
-Questo articolo fa parte del cluster method e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Pensare in inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7862
+SEED: 3589
+CLUSTER: method
+FUNNEL: mofu
 
 ## Articoli correlati
 

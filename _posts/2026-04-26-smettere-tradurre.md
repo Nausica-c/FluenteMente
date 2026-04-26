@@ -2,6 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
+content_hash: 880f5b815141c2422036a7f33d3426bb
 ---
 
 # Smettere tradurre
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Smettere tradurre
-
-Questo articolo fa parte del cluster method e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Smettere tradurre con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2365
+SEED: 9089
+CLUSTER: method
+FUNNEL: mofu
 
 ## Articoli correlati
 

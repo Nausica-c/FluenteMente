@@ -2,6 +2,7 @@
 title: "Inglese per shopping: negozi, prezzi e acquisti"
 permalink: /inglese-per-shopping-negozi-prezzi-e-acquisti/
 layout: post
+content_hash: dc7de1495ab25a5e11e90259bc63cc60
 ---
 
 # Inglese per shopping: negozi, prezzi e acquisti
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Inglese per shopping: negozi, prezzi e acquisti
-
-Questo articolo fa parte del cluster travel e funnel tofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Inglese per shopping: negozi, prezzi e acquisti con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2460
+SEED: 8277
+CLUSTER: travel
+FUNNEL: tofu
 
 ## Articoli correlati
 

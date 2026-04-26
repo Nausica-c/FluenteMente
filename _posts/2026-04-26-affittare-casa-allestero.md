@@ -2,6 +2,7 @@
 title: "Affittare casa all’estero"
 permalink: /affittare-casa-allestero/
 layout: post
+content_hash: 7d8bc3e0ed528e2415b7e447b5dbb34e
 ---
 
 # Affittare casa all’estero
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Affittare casa all’estero
-
-Questo articolo fa parte del cluster expat e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Affittare casa all’estero con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2649
+SEED: 8385
+CLUSTER: expat
+FUNNEL: mofu
 
 {% include bridge-box.html %}
 

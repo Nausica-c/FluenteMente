@@ -2,6 +2,7 @@
 title: "Falsi amici inglese"
 permalink: /falsi-amici-inglese/
 layout: post
+content_hash: fa8da57c5b2d96b560c6906bff979cbb
 ---
 
 # Falsi amici inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Falsi amici inglese
-
-Questo articolo fa parte del cluster cultura e funnel tofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Falsi amici inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6763
+SEED: 6779
+CLUSTER: cultura
+FUNNEL: tofu
 
 ## Articoli correlati
 

@@ -2,6 +2,7 @@
 title: "LinkedIn in inglese"
 permalink: /linkedin-in-inglese/
 layout: post
+content_hash: 022518e11282dc1894aa9146463f8627
 ---
 
 # LinkedIn in inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# LinkedIn in inglese
-
-Questo articolo fa parte del cluster business e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su LinkedIn in inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3172
+SEED: 4566
+CLUSTER: business
+FUNNEL: mofu
 
 ## Articoli correlati
 

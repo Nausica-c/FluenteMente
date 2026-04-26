@@ -2,6 +2,7 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
+content_hash: 40f78bb3b3a17d01e7d71f132d0597fc
 ---
 
 # CV in inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# CV in inglese
-
-Questo articolo fa parte del cluster business e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su CV in inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8385
+SEED: 8118
+CLUSTER: business
+FUNNEL: mofu
 
 ## Articoli correlati
 

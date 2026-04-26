@@ -2,6 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
+content_hash: e55ac621a52a856b9b1e4523bf3d6851
 ---
 
 # Email inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Email inglese
-
-Questo articolo fa parte del cluster business e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Email inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1229
+SEED: 1267
+CLUSTER: business
+FUNNEL: mofu
 
 ## Articoli correlati
 

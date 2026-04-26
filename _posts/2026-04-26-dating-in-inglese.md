@@ -2,6 +2,7 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
+content_hash: d445f46a147a4a325012caedf6ab43d5
 ---
 
 # Dating in inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Dating in inglese
-
-Questo articolo fa parte del cluster social e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Dating in inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7136
+SEED: 2606
+CLUSTER: social
+FUNNEL: mofu
 
 ## Articoli correlati
 

@@ -2,6 +2,7 @@
 title: "Numeri in inglese da 1 a 100: guida completa"
 permalink: /numeri-in-inglese-da-1-a-100-guida-completa/
 layout: post
+content_hash: 266543b2e9ba37c0fb745844321f7f90
 ---
 
 # Numeri in inglese da 1 a 100: guida completa
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Numeri in inglese da 1 a 100: guida completa
-
-Questo articolo fa parte del cluster base e funnel tofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Numeri in inglese da 1 a 100: guida completa con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7416
+SEED: 8979
+CLUSTER: base
+FUNNEL: tofu
 
 ## Articoli correlati
 

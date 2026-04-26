@@ -2,6 +2,7 @@
 title: "Inglese per Airbnb e case vacanza"
 permalink: /inglese-per-airbnb-e-case-vacanza/
 layout: post
+content_hash: 8ea16bf197546b98e4f74056133b96db
 ---
 
 # Inglese per Airbnb e case vacanza
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Inglese per Airbnb e case vacanza
-
-Questo articolo fa parte del cluster travel e funnel tofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Inglese per Airbnb e case vacanza con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4197
+SEED: 1009
+CLUSTER: travel
+FUNNEL: tofu
 
 ## Articoli correlati
 

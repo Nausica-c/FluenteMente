@@ -2,6 +2,7 @@
 title: "Lavori part-time all’estero"
 permalink: /lavori-part-time-allestero/
 layout: post
+content_hash: b91ad09a6137fe1294fec6fd7a90f80b
 ---
 
 # Lavori part-time all’estero
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Lavori part-time all’estero
-
-Questo articolo fa parte del cluster expat e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Lavori part-time all’estero con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9902
+SEED: 4734
+CLUSTER: expat
+FUNNEL: mofu
 
 {% include bridge-box.html %}
 

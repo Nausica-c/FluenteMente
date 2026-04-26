@@ -2,6 +2,7 @@
 title: "Inglese in hotel: check-in, problemi e richieste"
 permalink: /inglese-in-hotel-check-in-problemi-e-richieste/
 layout: post
+content_hash: ec0add87a4a1a434c8f9409bcfdf4864
 ---
 
 # Inglese in hotel: check-in, problemi e richieste
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Inglese in hotel: check-in, problemi e richieste
-
-Questo articolo fa parte del cluster travel e funnel tofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Inglese in hotel: check-in, problemi e richieste con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5199
+SEED: 8324
+CLUSTER: travel
+FUNNEL: tofu
 
 ## Articoli correlati
 

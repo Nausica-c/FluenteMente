@@ -2,6 +2,7 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
+content_hash: 292cc15a0d63a13526e9855d11c13dc8
 ---
 
 # Meccanico e auto inglese
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Meccanico e auto inglese
-
-Questo articolo fa parte del cluster expat e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Meccanico e auto inglese con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2450
+SEED: 6020
+CLUSTER: expat
+FUNNEL: mofu
 
 {% include bridge-box.html %}
 

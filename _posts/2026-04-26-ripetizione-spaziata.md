@@ -2,6 +2,7 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
+content_hash: a901222890c2746064fca411d36db1e2
 ---
 
 # Ripetizione spaziata
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Ripetizione spaziata
-
-Questo articolo fa parte del cluster method e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Ripetizione spaziata con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4152
+SEED: 9189
+CLUSTER: method
+FUNNEL: mofu
 
 ## Articoli correlati
 

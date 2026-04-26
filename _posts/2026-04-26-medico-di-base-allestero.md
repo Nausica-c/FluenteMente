@@ -2,6 +2,7 @@
 title: "Medico di base all’estero"
 permalink: /medico-di-base-allestero/
 layout: post
+content_hash: 6c7be8aa9dfc5b04db33499fc949674e
 ---
 
 # Medico di base all’estero
@@ -10,25 +11,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-# Medico di base all’estero
-
-Questo articolo fa parte del cluster expat e funnel mofu.
-
 ## Introduzione
-Spieghiamo il concetto in modo semplice e pratico.
+Guida pratica su Medico di base all’estero con contesto reale.
 
-## Esempi reali
-- esempio 1
-- esempio 2
-- esempio 3
+## Cos’è
+Spiegazione semplice e applicabile.
+
+## Esempi pratici
+- esempio 1 reale
+- esempio 2 reale
+- esempio 3 reale
+- esempio 4 reale
+- esempio 5 reale
 
 ## Errori comuni
-Molti studenti sbagliano qui.
+- errori tipici italiani nell’uso
 
-## Strategie pratiche
-Applicazione immediata.
+## Uso nella vita reale
+Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6527
+SEED: 7344
+CLUSTER: expat
+FUNNEL: mofu
 
 {% include bridge-box.html %}
 
