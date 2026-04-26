@@ -2,7 +2,7 @@
 title: "Aggettivi inglese"
 permalink: /aggettivi-inglese/
 layout: post
-content_hash: 4d9ed58b05a9216732dd245831dffaba
+content_hash: c8aae0b184d0fea7f284ed380f190bff
 ---
 
 # Aggettivi inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5201
+SEED: 2962
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: 619274e43335b37f3fc20cef92c7afce
+content_hash: 72a53ee53c820976ccbb33501973577c
 ---
 
 # Slang inglese moderno
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6580
+SEED: 8593
 CLUSTER: social
 FUNNEL: tofu
 

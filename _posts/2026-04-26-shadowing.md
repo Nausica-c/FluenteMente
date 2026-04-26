@@ -2,7 +2,7 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: f2b82a4f7ede7caf164d59518f5e4dba
+content_hash: 535be725ff2efa97c6acb129c873e8c3
 ---
 
 # Shadowing
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6091
+SEED: 5559
 CLUSTER: method
 FUNNEL: mofu
 

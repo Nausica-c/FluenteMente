@@ -2,7 +2,7 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: 10dbe3ea5d4544c20974fced93c8bf72
+content_hash: 056949e1d2d108bab61db169d840b6bf
 ---
 
 # Colloquio inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3123
+SEED: 2083
 CLUSTER: business
 FUNNEL: mofu
 

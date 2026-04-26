@@ -2,7 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: 880f5b815141c2422036a7f33d3426bb
+content_hash: d7cc23ec7c38c9028889e98d8bf664a2
 ---
 
 # Smettere tradurre
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9089
+SEED: 2815
 CLUSTER: method
 FUNNEL: mofu
 

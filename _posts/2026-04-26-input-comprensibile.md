@@ -2,7 +2,7 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: cb94a356bb8a060a6e60da618d8b9a01
+content_hash: 9c34b4f3a8bba2231d62e3cfc5f68d21
 ---
 
 # Input comprensibile
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1367
+SEED: 8461
 CLUSTER: method
 FUNNEL: mofu
 

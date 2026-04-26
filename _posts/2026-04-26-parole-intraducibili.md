@@ -2,7 +2,7 @@
 title: "Parole intraducibili"
 permalink: /parole-intraducibili/
 layout: post
-content_hash: 78afa5c28fb176eaa7e3706ba9f22834
+content_hash: 31a3e21bb334fadbccd62825730d774e
 ---
 
 # Parole intraducibili
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5156
+SEED: 8000
 CLUSTER: cultura
 FUNNEL: tofu
 

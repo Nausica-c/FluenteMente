@@ -2,7 +2,7 @@
 title: "Inglese in hotel: frasi essenziali per viaggiare"
 permalink: /inglese-in-hotel-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: 2a2bdb0a51e595fdc0417a3d7cfc76d9
+content_hash: db1a65ac0005b13893f49c9c8df8d5b1
 ---
 
 # Inglese in hotel: frasi essenziali per viaggiare
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6946
+SEED: 5430
 CLUSTER: travel
 FUNNEL: tofu
 

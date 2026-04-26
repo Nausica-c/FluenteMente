@@ -2,7 +2,7 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 3d8018e22234d339d1a224ca9223e888
+content_hash: cf6c772365259e98a72093966d11b2ab
 ---
 
 # Memoria vocabolario
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9080
+SEED: 4991
 CLUSTER: method
 FUNNEL: mofu
 

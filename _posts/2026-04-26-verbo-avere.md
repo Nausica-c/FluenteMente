@@ -2,7 +2,7 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: 196e7d4e8b06a7747e741051dd58d80c
+content_hash: a8a6f1cb247f4f9c36410a6710cf641e
 ---
 
 # Verbo avere
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8383
+SEED: 1715
 CLUSTER: base
 FUNNEL: tofu
 

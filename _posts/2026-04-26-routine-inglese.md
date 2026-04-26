@@ -2,7 +2,7 @@
 title: "Routine inglese"
 permalink: /routine-inglese/
 layout: post
-content_hash: 4e4efae938abb60138f69f1b8783e1f0
+content_hash: 62d180b47de53ee93a25eb67db85f122
 ---
 
 # Routine inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2073
+SEED: 5996
 CLUSTER: method
 FUNNEL: mofu
 
