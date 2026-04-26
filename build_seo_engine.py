@@ -1,6 +1,7 @@
 import os
 import json
 import yaml
+import random
 from collections import defaultdict
 
 # =========================
@@ -27,7 +28,7 @@ FUNNEL_PRIORITY = {
 }
 
 # =========================
-# SAFE LOAD (ROBUST)
+# SAFE LOAD
 # =========================
 
 def load_articles():
@@ -68,16 +69,13 @@ def index_articles(articles):
         if not isinstance(a, dict):
             continue
 
-        cluster = a.get("cluster", "base")
-        funnel = a.get("funnel", "tofu")
-
-        by_cluster[cluster].append(a)
-        by_funnel[funnel].append(a)
+        by_cluster[a.get("cluster", "base")].append(a)
+        by_funnel[a.get("funnel", "tofu")].append(a)
 
     return by_cluster, by_funnel
 
 # =========================
-# INTERNAL LINK ENGINE
+# LINK ENGINE (IMPROVED)
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
@@ -97,22 +95,25 @@ def pick_links(article, by_cluster, by_funnel):
             links.append(i)
             seen.add(uid)
 
-    # same cluster (high relevance)
+    # 1. same cluster (strong relevance)
     add(by_cluster.get(cluster, [])[:3])
 
-    # cross cluster expansion
+    # 2. cross cluster expansion
     for target in CLUSTER_LINKS.get(cluster, []):
         add(by_cluster.get(target, [])[:1])
 
-    # funnel progression
+    # 3. funnel progression
     current = FUNNEL_PRIORITY.get(funnel, 1)
     for f, lvl in FUNNEL_PRIORITY.items():
         if lvl > current:
             add(by_funnel.get(f, [])[:1])
             break
 
-    # BOFU conversion boost
+    # 4. BOFU conversion boost
     add(by_funnel.get("bofu", [])[:1])
+
+    # 5. randomness anti-SEO footprint (IMPORTANT)
+    random.shuffle(links)
 
     return links[:6]
 
@@ -132,14 +133,12 @@ def assign_include_layout(article):
         "footer": ["trust-box.html"]
     }
 
-    # cluster logic
     if cluster == "travel":
         layout["mid_article"].append("orient-box.html")
 
     if cluster == "expat":
         layout["mid_article"].append("bridge-box.html")
 
-    # funnel logic
     if funnel == "bofu":
         layout["before_cta"].append("promo-box.html")
         layout["footer"].append("affiliate-disclosure.html")
@@ -147,50 +146,60 @@ def assign_include_layout(article):
     return layout
 
 # =========================
-# ARTICLE GENERATOR
+# AI CONTENT (BASIC ENGINE)
+# =========================
+
+def generate_ai_body(article):
+    title = article.get("title", "Untitled")
+    cluster = article.get("cluster", "base")
+
+    return f"""
+Introduzione a {title}.
+
+Spiegazione semplice e pratica.
+
+Contesto reale nel cluster {cluster}.
+
+Errori comuni degli italiani.
+
+Esempi pratici utilizzabili subito.
+"""
+
+# =========================
+# ARTICLE BUILDER
 # =========================
 
 def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
-
-    body = article.get(
-        "ai_body",
-        f"CONTENUTO GENERATO DA AI PER: {title}"
-    )
+    body = article.get("ai_body", "")
 
     content = f"# {title}\n\n"
 
-    # intro includes
     for box in layout.get("after_intro", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # after H1 includes
     for box in layout.get("after_h1", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # main content
     content += "## Contenuto principale\n\n"
     content += body + "\n\n"
 
-    # mid includes
     for box in layout.get("mid_article", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # CTA
     content += "## Conclusione\n\n"
 
     for box in layout.get("before_cta", []):
         content += f"{{% include {box} %}}\n\n"
 
-    # footer
     for box in layout.get("footer", []):
         content += f"{{% include {box} %}}\n\n"
 
     return content
 
 # =========================
-# BUILD OUTPUT
+# BUILD PIPELINE
 # =========================
 
 def build_output(articles):
@@ -221,7 +230,10 @@ def build_output(articles):
         # includes
         a["include_layout"] = assign_include_layout(a)
 
-        # article
+        # AI body
+        a["ai_body"] = generate_ai_body(a)
+
+        # final article
         a["final_article"] = generate_article(a)
 
         output.append(a)
@@ -260,7 +272,7 @@ def validate(data):
             raise ValueError(f"Missing title at index {i}")
 
 # =========================
-# RUN
+# MAIN
 # =========================
 
 def main():
