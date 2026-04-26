@@ -2,7 +2,7 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: e8b3a9eb202dc31ca3702d3c637a6594615686a1337b5165e3149696d1d2fe22
+content_hash: 69a72eb39ba230249f2d645b1fd0a1eb8b1667dbb1dc9fa3433ccfd61b3b6344
 ---
 
 # Small talk senza silenzi
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4123
+SEED: 2543
 CLUSTER: social
 FUNNEL: mofu
 

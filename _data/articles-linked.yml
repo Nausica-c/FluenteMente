@@ -6,7 +6,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6738
+  seed: 3484
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -52,7 +52,7 @@
 
     ---
 
-    SEED: 6738
+    SEED: 3484
 
     CLUSTER: method
 
@@ -88,7 +88,7 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 7918
+  seed: 7277
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -133,7 +133,7 @@
 
     ---
 
-    SEED: 7918
+    SEED: 7277
 
     CLUSTER: method
 
@@ -169,7 +169,7 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 9017
+  seed: 4958
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -215,7 +215,7 @@
 
     ---
 
-    SEED: 9017
+    SEED: 4958
 
     CLUSTER: travel
 
@@ -243,7 +243,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 9551
+  seed: 2158
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -288,7 +288,7 @@
 
     ---
 
-    SEED: 9551
+    SEED: 2158
 
     CLUSTER: travel
 
@@ -316,7 +316,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 3908
+  seed: 9964
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -361,7 +361,7 @@
 
     ---
 
-    SEED: 3908
+    SEED: 9964
 
     CLUSTER: base
 
@@ -389,7 +389,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 2326
+  seed: 6715
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -435,7 +435,7 @@
 
     ---
 
-    SEED: 2326
+    SEED: 6715
 
     CLUSTER: base
 
@@ -463,7 +463,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 7802
+  seed: 7555
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -508,7 +508,7 @@
 
     ---
 
-    SEED: 7802
+    SEED: 7555
 
     CLUSTER: base
 
@@ -536,7 +536,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4626
+  seed: 1172
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -581,7 +581,7 @@
 
     ---
 
-    SEED: 4626
+    SEED: 1172
 
     CLUSTER: base
 
@@ -609,7 +609,7 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 4725
+  seed: 9962
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -655,7 +655,7 @@
 
     ---
 
-    SEED: 4725
+    SEED: 9962
 
     CLUSTER: travel
 
@@ -683,7 +683,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 7068
+  seed: 6435
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -728,7 +728,7 @@
 
     ---
 
-    SEED: 7068
+    SEED: 6435
 
     CLUSTER: travel
 
@@ -756,7 +756,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 6229
+  seed: 9347
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -802,7 +802,7 @@
 
     ---
 
-    SEED: 6229
+    SEED: 9347
 
     CLUSTER: travel
 
@@ -830,7 +830,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 5140
+  seed: 8537
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -875,7 +875,7 @@
 
     ---
 
-    SEED: 5140
+    SEED: 8537
 
     CLUSTER: travel
 
@@ -903,7 +903,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 9615
+  seed: 1206
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -949,7 +949,7 @@
 
     ---
 
-    SEED: 9615
+    SEED: 1206
 
     CLUSTER: travel
 
@@ -977,7 +977,7 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 9161
+  seed: 6475
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -1022,7 +1022,7 @@
 
     ---
 
-    SEED: 9161
+    SEED: 6475
 
     CLUSTER: travel
 
@@ -1050,7 +1050,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 6168
+  seed: 7699
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -1096,7 +1096,7 @@
 
     ---
 
-    SEED: 6168
+    SEED: 7699
 
     CLUSTER: travel
 
@@ -1128,7 +1128,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 2950
+  seed: 7903
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1173,7 +1173,7 @@
 
     ---
 
-    SEED: 2950
+    SEED: 7903
 
     CLUSTER: expat
 
@@ -1209,7 +1209,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6132
+  seed: 8652
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1254,7 +1254,7 @@
 
     ---
 
-    SEED: 6132
+    SEED: 8652
 
     CLUSTER: expat
 
@@ -1290,7 +1290,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 3840
+  seed: 7375
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1335,7 +1335,7 @@
 
     ---
 
-    SEED: 3840
+    SEED: 7375
 
     CLUSTER: expat
 
@@ -1371,7 +1371,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 3643
+  seed: 6759
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1416,7 +1416,7 @@
 
     ---
 
-    SEED: 3643
+    SEED: 6759
 
     CLUSTER: expat
 
@@ -1452,7 +1452,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 7712
+  seed: 8697
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1497,7 +1497,7 @@
 
     ---
 
-    SEED: 7712
+    SEED: 8697
 
     CLUSTER: expat
 
@@ -1533,7 +1533,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 3175
+  seed: 9043
   final_article: '# Lavori part-time all’estero
 
 
@@ -1578,7 +1578,7 @@
 
     ---
 
-    SEED: 3175
+    SEED: 9043
 
     CLUSTER: expat
 
@@ -1614,7 +1614,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 1735
+  seed: 5172
   final_article: '# Fare amicizia in inglese
 
 
@@ -1659,7 +1659,7 @@
 
     ---
 
-    SEED: 1735
+    SEED: 5172
 
     CLUSTER: social
 
@@ -1687,7 +1687,7 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 8039
+  seed: 7495
   final_article: '# Small talk in inglese
 
 
@@ -1732,7 +1732,7 @@
 
     ---
 
-    SEED: 8039
+    SEED: 7495
 
     CLUSTER: social
 
@@ -1764,7 +1764,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 1893
+  seed: 5523
   final_article: '# Slang inglese moderno
 
 
@@ -1809,7 +1809,7 @@
 
     ---
 
-    SEED: 1893
+    SEED: 5523
 
     CLUSTER: social
 
@@ -1837,7 +1837,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 7575
+  seed: 5765
   final_article: '# Dating in inglese
 
 
@@ -1882,7 +1882,7 @@
 
     ---
 
-    SEED: 7575
+    SEED: 5765
 
     CLUSTER: social
 
@@ -1914,7 +1914,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 3023
+  seed: 9267
   final_article: '# Parlare al pub in inglese
 
 
@@ -1959,7 +1959,7 @@
 
     ---
 
-    SEED: 3023
+    SEED: 9267
 
     CLUSTER: social
 
@@ -1987,7 +1987,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 7849
+  seed: 5072
   final_article: '# CV in inglese
 
 
@@ -2032,7 +2032,7 @@
 
     ---
 
-    SEED: 7849
+    SEED: 5072
 
     CLUSTER: business
 
@@ -2068,7 +2068,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 7180
+  seed: 4389
   final_article: '# Colloquio di lavoro in inglese
 
 
@@ -2113,7 +2113,7 @@
 
     ---
 
-    SEED: 7180
+    SEED: 4389
 
     CLUSTER: business
 
@@ -2149,7 +2149,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 9986
+  seed: 7492
   final_article: '# Email formali in inglese
 
 
@@ -2194,7 +2194,7 @@
 
     ---
 
-    SEED: 9986
+    SEED: 7492
 
     CLUSTER: business
 
@@ -2230,7 +2230,7 @@
   cluster: business
   role: spoke
   priority: 85
-  seed: 1295
+  seed: 5308
   final_article: '# LinkedIn in inglese
 
 
@@ -2243,2377 +2243,6 @@
     ## Introduzione
 
     Guida pratica su LinkedIn in inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 1295
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 31
-  title: Affittare casa all’estero
-  url: /inglese/expat/affitto-casa-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: hub
-  priority: 95
-  seed: 2573
-  final_article: '# Affittare casa all’estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Affittare casa all’estero con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 2573
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 32
-  title: Landlord e problemi casa
-  url: /inglese/expat/landlord-problemi-casa/
-  type: problem
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 2801
-  final_article: '# Landlord e problemi casa
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Landlord e problemi casa con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 2801
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 33
-  title: Conto corrente estero
-  url: /inglese/expat/conto-corrente-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 88
-  seed: 8653
-  final_article: '# Conto corrente estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Conto corrente estero con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8653
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 34
-  title: Medico di base all’estero
-  url: /inglese/expat/medico-base-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 87
-  seed: 9225
-  final_article: '# Medico di base all’estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Medico di base all’estero con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 9225
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 35
-  title: Utenze casa inglese
-  url: /inglese/expat/utenze-casa-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 4579
-  final_article: '# Utenze casa inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Utenze casa inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 4579
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 36
-  title: Supermercato in inglese
-  url: /inglese/expat/supermercato-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 80
-  seed: 5472
-  final_article: '# Supermercato in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Supermercato in inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 5472
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 37
-  title: Salute e farmacia inglese
-  url: /inglese/expat/salute-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 4459
-  final_article: '# Salute e farmacia inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Salute e farmacia inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 4459
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 38
-  title: Meccanico e auto inglese
-  url: /inglese/expat/meccanico-auto-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 75
-  seed: 9471
-  final_article: '# Meccanico e auto inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Meccanico e auto inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 9471
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 39
-  title: Fare amicizia in inglese
-  url: /inglese/social/amicizia-inglese/
-  type: informational
-  funnel: mofu
-  cluster: social
-  role: hub
-  priority: 90
-  seed: 8568
-  final_article: '# Fare amicizia in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Fare amicizia in inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8568
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 40
-  title: Small talk senza silenzi
-  url: /inglese/social/small-talk-inglese/
-  type: bridge
-  funnel: mofu
-  cluster: social
-  role: spoke
-  priority: 95
-  seed: 4123
-  final_article: '# Small talk senza silenzi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Small talk senza silenzi con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 4123
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 41
-  title: Slang reale inglese
-  url: /inglese/social/slang-reale/
-  type: informational
-  funnel: tofu
-  cluster: social
-  role: spoke
-  priority: 85
-  seed: 2662
-  final_article: '# Slang reale inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Slang reale inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 2662
-
-    CLUSTER: social
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 42
-  title: Dating in inglese
-  url: /inglese/social/dating-inglese/
-  type: informational
-  funnel: mofu
-  cluster: social
-  role: spoke
-  priority: 80
-  seed: 2920
-  final_article: '# Dating in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Dating in inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 2920
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 43
-  title: CV inglese avanzato
-  url: /inglese/business/cv-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: hub
-  priority: 95
-  seed: 8346
-  final_article: '# CV inglese avanzato
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su CV inglese avanzato con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8346
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 44
-  title: Colloquio inglese avanzato
-  url: /inglese/business/colloquio-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 92
-  seed: 8186
-  final_article: '# Colloquio inglese avanzato
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Colloquio inglese avanzato con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8186
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 45
-  title: Email professionali inglese
-  url: /inglese/business/email-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 90
-  seed: 9506
-  final_article: '# Email professionali inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Email professionali inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 9506
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 46
-  title: Pronomi inglesi
-  url: /inglese/base/pronomi-personali-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 90
-  seed: 2552
-  final_article: '# Pronomi inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Pronomi inglesi con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 2552
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 47
-  title: Articoli inglesi
-  url: /inglese/base/articoli-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 92
-  seed: 1868
-  final_article: '# Articoli inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Articoli inglesi con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 1868
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 48
-  title: Plurale inglese
-  url: /inglese/base/plurale-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 8652
-  final_article: '# Plurale inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Plurale inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8652
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 49
-  title: Dimostrativi inglesi
-  url: /inglese/base/dimostrativi-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 80
-  seed: 7375
-  final_article: '# Dimostrativi inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Dimostrativi inglesi con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 7375
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 50
-  title: Aggettivi inglese
-  url: /inglese/base/aggettivi-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 6759
-  final_article: '# Aggettivi inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Aggettivi inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 6759
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 51
-  title: Verbo essere
-  url: /inglese/base/verbo-essere/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 100
-  seed: 8697
-  final_article: '# Verbo essere
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Verbo essere con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 8697
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 52
-  title: Verbo avere
-  url: /inglese/base/verbo-avere/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 95
-  seed: 9043
-  final_article: '# Verbo avere
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Verbo avere con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 9043
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 53
-  title: Parole base inglese
-  url: /inglese/base/parole-base/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 100
-  seed: 5172
-  final_article: '# Parole base inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Parole base inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 5172
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 54
-  title: Numeri inglese
-  url: /inglese/base/numeri-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 95
-  seed: 7495
-  final_article: '# Numeri inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Numeri inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 7495
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 55
-  title: Colori inglese
-  url: /inglese/base/colori-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 80
-  seed: 5523
-  final_article: '# Colori inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Colori inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 5523
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 56
-  title: Tempo inglese
-  url: /inglese/base/tempo-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 5765
-  final_article: '# Tempo inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Tempo inglese con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 5765
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 57
-  title: Vocabolario viaggio
-  url: /inglese/base/vocabolario-viaggio/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 95
-  seed: 9267
-  final_article: '# Vocabolario viaggio
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Vocabolario viaggio con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 9267
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 58
-  title: Preposizioni inglesi
-  url: /inglese/base/preposizioni-in-on-at/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 90
-  seed: 5072
-  final_article: '# Preposizioni inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Preposizioni inglesi con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 5072
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 59
-  title: Much many a lot
-  url: /inglese/base/much-many-a-lot-of/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 4389
-  final_article: '# Much many a lot
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Much many a lot con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 4389
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 60
-  title: Do vs Make
-  url: /inglese/base/do-vs-make/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 88
-  seed: 7492
-  final_article: '# Do vs Make
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su Do vs Make con esempi reali.
-
-
-    ## Cos’è
-
-    Spiegazione semplice e applicabile.
-
-
-    ## Esempi pratici
-
-    - esempio 1
-
-    - esempio 2
-
-    - esempio 3
-
-    - esempio 4
-
-    - esempio 5
-
-
-    ## Errori comuni
-
-    Errori tipici italiani.
-
-
-    ## Uso nella vita reale
-
-    Situazioni: viaggio, lavoro, expat.
-
-
-    ---
-
-    SEED: 7492
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 61
-  title: CV inglese avanzato
-  url: /inglese/business/cv-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: hub
-  priority: 100
-  seed: 5308
-  final_article: '# CV inglese avanzato
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Guida pratica su CV inglese avanzato con esempi reali.
 
 
     ## Cos’è
@@ -4674,6 +2303,2377 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+- id: 31
+  title: Affittare casa all’estero
+  url: /inglese/expat/affitto-casa-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: hub
+  priority: 95
+  seed: 2361
+  final_article: '# Affittare casa all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Affittare casa all’estero con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 2361
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 32
+  title: Landlord e problemi casa
+  url: /inglese/expat/landlord-problemi-casa/
+  type: problem
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 5532
+  final_article: '# Landlord e problemi casa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Landlord e problemi casa con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 5532
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 33
+  title: Conto corrente estero
+  url: /inglese/expat/conto-corrente-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 88
+  seed: 3789
+  final_article: '# Conto corrente estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Conto corrente estero con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 3789
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 34
+  title: Medico di base all’estero
+  url: /inglese/expat/medico-base-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 87
+  seed: 9297
+  final_article: '# Medico di base all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Medico di base all’estero con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 9297
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 35
+  title: Utenze casa inglese
+  url: /inglese/expat/utenze-casa-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 4887
+  final_article: '# Utenze casa inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Utenze casa inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 4887
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 36
+  title: Supermercato in inglese
+  url: /inglese/expat/supermercato-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 80
+  seed: 8477
+  final_article: '# Supermercato in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Supermercato in inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 8477
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 37
+  title: Salute e farmacia inglese
+  url: /inglese/expat/salute-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 5533
+  final_article: '# Salute e farmacia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Salute e farmacia inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 5533
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 38
+  title: Meccanico e auto inglese
+  url: /inglese/expat/meccanico-auto-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 75
+  seed: 9558
+  final_article: '# Meccanico e auto inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Meccanico e auto inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 9558
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 39
+  title: Fare amicizia in inglese
+  url: /inglese/social/amicizia-inglese/
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: hub
+  priority: 90
+  seed: 6843
+  final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Fare amicizia in inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 6843
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 40
+  title: Small talk senza silenzi
+  url: /inglese/social/small-talk-inglese/
+  type: bridge
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 95
+  seed: 2543
+  final_article: '# Small talk senza silenzi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Small talk senza silenzi con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 2543
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 41
+  title: Slang reale inglese
+  url: /inglese/social/slang-reale/
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 85
+  seed: 1188
+  final_article: '# Slang reale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Slang reale inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 1188
+
+    CLUSTER: social
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 42
+  title: Dating in inglese
+  url: /inglese/social/dating-inglese/
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 80
+  seed: 9413
+  final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Dating in inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 9413
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 43
+  title: CV inglese avanzato
+  url: /inglese/business/cv-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 95
+  seed: 5252
+  final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su CV inglese avanzato con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 5252
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 44
+  title: Colloquio inglese avanzato
+  url: /inglese/business/colloquio-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 92
+  seed: 7999
+  final_article: '# Colloquio inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Colloquio inglese avanzato con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 7999
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 45
+  title: Email professionali inglese
+  url: /inglese/business/email-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+  seed: 4075
+  final_article: '# Email professionali inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Email professionali inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 4075
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 46
+  title: Pronomi inglesi
+  url: /inglese/base/pronomi-personali-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+  seed: 1699
+  final_article: '# Pronomi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Pronomi inglesi con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 1699
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 47
+  title: Articoli inglesi
+  url: /inglese/base/articoli-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 92
+  seed: 6000
+  final_article: '# Articoli inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Articoli inglesi con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 6000
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 48
+  title: Plurale inglese
+  url: /inglese/base/plurale-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 3849
+  final_article: '# Plurale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Plurale inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 3849
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 49
+  title: Dimostrativi inglesi
+  url: /inglese/base/dimostrativi-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+  seed: 2932
+  final_article: '# Dimostrativi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Dimostrativi inglesi con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 2932
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 50
+  title: Aggettivi inglese
+  url: /inglese/base/aggettivi-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 6746
+  final_article: '# Aggettivi inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Aggettivi inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 6746
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 51
+  title: Verbo essere
+  url: /inglese/base/verbo-essere/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+  seed: 8449
+  final_article: '# Verbo essere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Verbo essere con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 8449
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 52
+  title: Verbo avere
+  url: /inglese/base/verbo-avere/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+  seed: 8083
+  final_article: '# Verbo avere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Verbo avere con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 8083
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 53
+  title: Parole base inglese
+  url: /inglese/base/parole-base/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+  seed: 4534
+  final_article: '# Parole base inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Parole base inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 4534
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 54
+  title: Numeri inglese
+  url: /inglese/base/numeri-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+  seed: 9278
+  final_article: '# Numeri inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Numeri inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 9278
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 55
+  title: Colori inglese
+  url: /inglese/base/colori-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+  seed: 5004
+  final_article: '# Colori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Colori inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 5004
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 56
+  title: Tempo inglese
+  url: /inglese/base/tempo-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 6402
+  final_article: '# Tempo inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Tempo inglese con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 6402
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 57
+  title: Vocabolario viaggio
+  url: /inglese/base/vocabolario-viaggio/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 95
+  seed: 7829
+  final_article: '# Vocabolario viaggio
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Vocabolario viaggio con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 7829
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 58
+  title: Preposizioni inglesi
+  url: /inglese/base/preposizioni-in-on-at/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+  seed: 6736
+  final_article: '# Preposizioni inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Preposizioni inglesi con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 6736
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 59
+  title: Much many a lot
+  url: /inglese/base/much-many-a-lot-of/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 4426
+  final_article: '# Much many a lot
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Much many a lot con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 4426
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 60
+  title: Do vs Make
+  url: /inglese/base/do-vs-make/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 88
+  seed: 1580
+  final_article: '# Do vs Make
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su Do vs Make con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 1580
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 61
+  title: CV inglese avanzato
+  url: /inglese/business/cv-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 100
+  seed: 3158
+  final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Guida pratica su CV inglese avanzato con esempi reali.
+
+
+    ## Cos’è
+
+    Spiegazione semplice e applicabile.
+
+
+    ## Esempi pratici
+
+    - esempio 1
+
+    - esempio 2
+
+    - esempio 3
+
+    - esempio 4
+
+    - esempio 5
+
+
+    ## Errori comuni
+
+    Errori tipici italiani.
+
+
+    ## Uso nella vita reale
+
+    Situazioni: viaggio, lavoro, expat.
+
+
+    ---
+
+    SEED: 3158
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 62
   title: Colloquio inglese
   url: /inglese/business/colloquio-inglese/
@@ -4682,7 +4682,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 2361
+  seed: 8829
   final_article: '# Colloquio inglese
 
 
@@ -4727,7 +4727,7 @@
 
     ---
 
-    SEED: 2361
+    SEED: 8829
 
     CLUSTER: business
 
@@ -4763,7 +4763,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 5532
+  seed: 7803
   final_article: '# Email inglese
 
 
@@ -4808,7 +4808,7 @@
 
     ---
 
-    SEED: 5532
+    SEED: 7803
 
     CLUSTER: business
 
@@ -4844,7 +4844,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 3789
+  seed: 9325
   final_article: '# Presentazioni inglese
 
 
@@ -4889,7 +4889,7 @@
 
     ---
 
-    SEED: 3789
+    SEED: 9325
 
     CLUSTER: business
 
@@ -4925,7 +4925,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 9297
+  seed: 2308
   final_article: '# Meeting inglese
 
 
@@ -4970,7 +4970,7 @@
 
     ---
 
-    SEED: 9297
+    SEED: 2308
 
     CLUSTER: business
 
@@ -5006,7 +5006,7 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 4887
+  seed: 8399
   final_article: '# Networking inglese
 
 
@@ -5051,7 +5051,7 @@
 
     ---
 
-    SEED: 4887
+    SEED: 8399
 
     CLUSTER: business
 
@@ -5087,7 +5087,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 8477
+  seed: 2247
   final_article: '# Stipendio inglese
 
 
@@ -5132,7 +5132,7 @@
 
     ---
 
-    SEED: 8477
+    SEED: 2247
 
     CLUSTER: business
 
@@ -5168,7 +5168,7 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 5533
+  seed: 1148
   final_article: '# LinkedIn inglese
 
 
@@ -5213,7 +5213,7 @@
 
     ---
 
-    SEED: 5533
+    SEED: 1148
 
     CLUSTER: business
 
@@ -5249,7 +5249,7 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 9558
+  seed: 8171
   final_article: '# Falsi amici inglese
 
 
@@ -5294,7 +5294,7 @@
 
     ---
 
-    SEED: 9558
+    SEED: 8171
 
     CLUSTER: cultura
 
@@ -5322,7 +5322,7 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 6843
+  seed: 5911
   final_article: '# Parole intraducibili
 
 
@@ -5367,7 +5367,7 @@
 
     ---
 
-    SEED: 6843
+    SEED: 5911
 
     CLUSTER: cultura
 
@@ -5395,7 +5395,7 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 2543
+  seed: 2362
   final_article: '# UK vs US
 
 
@@ -5440,7 +5440,7 @@
 
     ---
 
-    SEED: 2543
+    SEED: 2362
 
     CLUSTER: cultura
 
@@ -5468,7 +5468,7 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 1188
+  seed: 9898
   final_article: '# Storia inglese
 
 
@@ -5513,7 +5513,7 @@
 
     ---
 
-    SEED: 1188
+    SEED: 9898
 
     CLUSTER: cultura
 
@@ -5541,7 +5541,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 9413
+  seed: 6724
   final_article: '# Pronuncia italiani
 
 
@@ -5586,7 +5586,7 @@
 
     ---
 
-    SEED: 9413
+    SEED: 6724
 
     CLUSTER: pronuncia
 
@@ -5618,7 +5618,7 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 5252
+  seed: 8943
   final_article: '# Slang reale
 
 
@@ -5663,7 +5663,7 @@
 
     ---
 
-    SEED: 5252
+    SEED: 8943
 
     CLUSTER: cultura
 
@@ -5695,7 +5695,7 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 7999
+  seed: 6125
   final_article: '# Mentalità inglese
 
 
@@ -5740,7 +5740,7 @@
 
     ---
 
-    SEED: 7999
+    SEED: 6125
 
     CLUSTER: cultura
 
@@ -5772,7 +5772,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 4075
+  seed: 9616
   final_article: '# Inglese da zero
 
 
@@ -5817,7 +5817,7 @@
 
     ---
 
-    SEED: 4075
+    SEED: 9616
 
     CLUSTER: method
 
@@ -5853,7 +5853,7 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 1699
+  seed: 8665
   final_article: '# Blocco parlare inglese
 
 
@@ -5898,7 +5898,7 @@
 
     ---
 
-    SEED: 1699
+    SEED: 8665
 
     CLUSTER: method
 
@@ -5934,7 +5934,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 6000
+  seed: 7469
   final_article: '# Pensare in inglese
 
 
@@ -5979,7 +5979,7 @@
 
     ---
 
-    SEED: 6000
+    SEED: 7469
 
     CLUSTER: method
 
@@ -6015,7 +6015,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 3849
+  seed: 9381
   final_article: '# Shadowing
 
 
@@ -6060,7 +6060,7 @@
 
     ---
 
-    SEED: 3849
+    SEED: 9381
 
     CLUSTER: method
 
@@ -6096,7 +6096,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 2932
+  seed: 2473
   final_article: '# Input comprensibile
 
 
@@ -6141,7 +6141,7 @@
 
     ---
 
-    SEED: 2932
+    SEED: 2473
 
     CLUSTER: method
 
@@ -6177,7 +6177,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6746
+  seed: 6943
   final_article: '# Metodo FluenteMente
 
 
@@ -6222,7 +6222,7 @@
 
     ---
 
-    SEED: 6746
+    SEED: 6943
 
     CLUSTER: method
 
@@ -6258,7 +6258,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 8449
+  seed: 3547
   final_article: '# Ripetizione spaziata
 
 
@@ -6303,7 +6303,7 @@
 
     ---
 
-    SEED: 8449
+    SEED: 3547
 
     CLUSTER: method
 
@@ -6339,7 +6339,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 8083
+  seed: 4185
   final_article: '# Routine inglese
 
 
@@ -6384,7 +6384,7 @@
 
     ---
 
-    SEED: 8083
+    SEED: 4185
 
     CLUSTER: method
 
@@ -6420,7 +6420,7 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 4534
+  seed: 6184
   final_article: '# Smettere tradurre
 
 
@@ -6465,7 +6465,7 @@
 
     ---
 
-    SEED: 4534
+    SEED: 6184
 
     CLUSTER: method
 
@@ -6501,7 +6501,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 9278
+  seed: 7817
   final_article: '# Memoria vocabolario
 
 
@@ -6546,7 +6546,7 @@
 
     ---
 
-    SEED: 9278
+    SEED: 7817
 
     CLUSTER: method
 
@@ -6582,7 +6582,7 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 5004
+  seed: 4298
   final_article: '# Errori inglese
 
 
@@ -6627,7 +6627,7 @@
 
     ---
 
-    SEED: 5004
+    SEED: 4298
 
     CLUSTER: conversion
 
@@ -6663,7 +6663,7 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 6402
+  seed: 8613
   final_article: '# Metodi tradizionali
 
 
@@ -6708,7 +6708,7 @@
 
     ---
 
-    SEED: 6402
+    SEED: 8613
 
     CLUSTER: conversion
 
@@ -6744,7 +6744,7 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 7829
+  seed: 6575
   final_article: '# Recensione Babbel
 
 
@@ -6789,7 +6789,7 @@
 
     ---
 
-    SEED: 7829
+    SEED: 6575
 
     CLUSTER: monetization
 

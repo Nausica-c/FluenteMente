@@ -2,7 +2,7 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
-content_hash: c64028b6e8236acbaf42d30676504def69d79345b4b73810333bb590abd21587
+content_hash: 5616c03029441d41d73d2acbbe8a964c6d76c0ca5e180fe9d66753f2c4bc671e
 ---
 
 # Ripetizione spaziata
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8449
+SEED: 3547
 CLUSTER: method
 FUNNEL: mofu
 

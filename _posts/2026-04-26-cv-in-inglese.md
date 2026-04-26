@@ -2,7 +2,7 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: de969614c10819d262654e843de93c44ba0bd91edd1394ad03f0ace65f69c038
+content_hash: 5168266806668fa93c110fe4398c0ac653d1da226bfe66c5ca6dbc6a97635de2
 ---
 
 # CV in inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7849
+SEED: 5072
 CLUSTER: business
 FUNNEL: mofu
 

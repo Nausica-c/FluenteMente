@@ -2,7 +2,7 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 2174622175fc0c0b433cf4f1adcd5f332701c99268728b0f1afa524454644965
+content_hash: 01461171a9db8a71ea0a6fd5d64b4b5cf999fa3b2cbb3d91c86fe94ae3b61ba4
 ---
 
 # Memoria vocabolario
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9278
+SEED: 7817
 CLUSTER: method
 FUNNEL: mofu
 

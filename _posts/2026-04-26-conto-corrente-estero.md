@@ -2,7 +2,7 @@
 title: "Conto corrente estero"
 permalink: /conto-corrente-estero/
 layout: post
-content_hash: 7ee3a901aac4510abca2829e63f0a8a365a6d487f5f23de22558583898312a57
+content_hash: f116f77de387790c48f2f3e0a237e62840d934505f80b47dd811c50c336756aa
 ---
 
 # Conto corrente estero
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8653
+SEED: 3789
 CLUSTER: expat
 FUNNEL: mofu
 
