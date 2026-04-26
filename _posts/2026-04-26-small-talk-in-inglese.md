@@ -2,7 +2,7 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: 5f9ba4101703cda521d08164c50bd04d
+content_hash: 65bd76666908e13de6dc562e55bdf40d
 ---
 
 # Small talk in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7328
+SEED: 9327
 CLUSTER: social
 FUNNEL: mofu
 

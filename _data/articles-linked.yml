@@ -82,7 +82,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 3468
+        SEED: 4464
 
         CLUSTER: method
 
@@ -154,7 +154,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 2583
+      SEED: 6387
 
       CLUSTER: method
 
@@ -233,7 +233,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1200
+    SEED: 4982
 
     CLUSTER: method
 
@@ -409,7 +409,7 @@
                     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                    SEED: 3928
+                    SEED: 7042
 
                     CLUSTER: business
 
@@ -481,7 +481,7 @@
                   Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                  SEED: 4692
+                  SEED: 6695
 
                   CLUSTER: business
 
@@ -554,7 +554,7 @@
                 Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                SEED: 7897
+                SEED: 7157
 
                 CLUSTER: business
 
@@ -627,7 +627,7 @@
               Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-              SEED: 4005
+              SEED: 3091
 
               CLUSTER: expat
 
@@ -706,7 +706,7 @@
             Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-            SEED: 7181
+            SEED: 1818
 
             CLUSTER: expat
 
@@ -786,7 +786,7 @@
           Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-          SEED: 4297
+          SEED: 7984
 
           CLUSTER: expat
 
@@ -914,7 +914,7 @@
                 Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-                SEED: 8981
+                SEED: 1465
 
                 CLUSTER: travel
 
@@ -992,7 +992,7 @@
               Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-              SEED: 8593
+              SEED: 1528
 
               CLUSTER: social
 
@@ -1072,7 +1072,7 @@
             Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-            SEED: 7328
+            SEED: 9327
 
             CLUSTER: social
 
@@ -1152,7 +1152,7 @@
           Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-          SEED: 4150
+          SEED: 5513
 
           CLUSTER: social
 
@@ -1232,7 +1232,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 9165
+        SEED: 6986
 
         CLUSTER: travel
 
@@ -1314,7 +1314,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 7524
+      SEED: 4214
 
       CLUSTER: travel
 
@@ -1397,7 +1397,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2999
+    SEED: 7477
 
     CLUSTER: travel
 
@@ -1513,7 +1513,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 9832
+        SEED: 2936
 
         CLUSTER: base
 
@@ -1595,7 +1595,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 8034
+      SEED: 7354
 
       CLUSTER: base
 
@@ -1678,7 +1678,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4447
+    SEED: 9025
 
     CLUSTER: base
 
@@ -1772,7 +1772,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5961
+    SEED: 2400
 
     CLUSTER: base
 
@@ -1866,7 +1866,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5430
+    SEED: 6424
 
     CLUSTER: travel
 
@@ -1959,7 +1959,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3601
+    SEED: 3569
 
     CLUSTER: travel
 
@@ -2052,7 +2052,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9755
+    SEED: 3571
 
     CLUSTER: travel
 
@@ -2145,7 +2145,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1206
+    SEED: 6077
 
     CLUSTER: travel
 
@@ -2237,7 +2237,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6792
+    SEED: 1831
 
     CLUSTER: travel
 
@@ -2333,7 +2333,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1489
+    SEED: 2890
 
     CLUSTER: expat
 
@@ -2426,7 +2426,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3343
+    SEED: 7655
 
     CLUSTER: expat
 
@@ -2519,7 +2519,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6404
+    SEED: 4201
 
     CLUSTER: expat
 
@@ -2615,7 +2615,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8277
+    SEED: 5903
 
     CLUSTER: social
 
@@ -2707,7 +2707,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8192
+    SEED: 8089
 
     CLUSTER: social
 
@@ -2800,7 +2800,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9950
+    SEED: 1437
 
     CLUSTER: business
 
@@ -2888,7 +2888,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3371
+    SEED: 1274
 
     CLUSTER: expat
 
@@ -2981,7 +2981,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5884
+    SEED: 6810
 
     CLUSTER: expat
 
@@ -3074,7 +3074,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7872
+    SEED: 1588
 
     CLUSTER: expat
 
@@ -3167,7 +3167,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8111
+    SEED: 2954
 
     CLUSTER: expat
 
@@ -3260,7 +3260,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4872
+    SEED: 9825
 
     CLUSTER: expat
 
@@ -3353,7 +3353,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1127
+    SEED: 9259
 
     CLUSTER: expat
 
@@ -3446,7 +3446,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8879
+    SEED: 5655
 
     CLUSTER: expat
 
@@ -3539,7 +3539,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8339
+    SEED: 8112
 
     CLUSTER: expat
 
@@ -3632,7 +3632,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9641
+    SEED: 8965
 
     CLUSTER: social
 
@@ -3724,7 +3724,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4276
+    SEED: 8736
 
     CLUSTER: social
 
@@ -3816,7 +3816,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7645
+    SEED: 6796
 
     CLUSTER: social
 
@@ -3908,7 +3908,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2142
+    SEED: 7497
 
     CLUSTER: social
 
@@ -3998,7 +3998,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1906
+    SEED: 4854
 
     CLUSTER: business
 
@@ -4084,7 +4084,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5954
+    SEED: 4944
 
     CLUSTER: business
 
@@ -4170,7 +4170,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4487
+    SEED: 3325
 
     CLUSTER: business
 
@@ -4258,7 +4258,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5864
+    SEED: 5668
 
     CLUSTER: base
 
@@ -4350,7 +4350,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1015
+    SEED: 8119
 
     CLUSTER: base
 
@@ -4442,7 +4442,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7001
+    SEED: 5571
 
     CLUSTER: base
 
@@ -4534,7 +4534,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7046
+    SEED: 6650
 
     CLUSTER: base
 
@@ -4626,7 +4626,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2962
+    SEED: 5788
 
     CLUSTER: base
 
@@ -4718,7 +4718,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9652
+    SEED: 5472
 
     CLUSTER: base
 
@@ -4810,7 +4810,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1715
+    SEED: 3641
 
     CLUSTER: base
 
@@ -4902,7 +4902,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9369
+    SEED: 9957
 
     CLUSTER: base
 
@@ -4994,7 +4994,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4582
+    SEED: 2660
 
     CLUSTER: base
 
@@ -5086,7 +5086,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7445
+    SEED: 7165
 
     CLUSTER: base
 
@@ -5178,7 +5178,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3508
+    SEED: 5374
 
     CLUSTER: base
 
@@ -5270,7 +5270,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3186
+    SEED: 4222
 
     CLUSTER: base
 
@@ -5362,7 +5362,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8298
+    SEED: 2091
 
     CLUSTER: base
 
@@ -5454,7 +5454,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4656
+    SEED: 2267
 
     CLUSTER: base
 
@@ -5546,7 +5546,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3979
+    SEED: 8339
 
     CLUSTER: base
 
@@ -5636,7 +5636,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6896
+    SEED: 7613
 
     CLUSTER: business
 
@@ -5722,7 +5722,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2083
+    SEED: 1973
 
     CLUSTER: business
 
@@ -5808,7 +5808,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 7247
+    SEED: 2406
 
     CLUSTER: business
 
@@ -5894,7 +5894,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6254
+    SEED: 2964
 
     CLUSTER: business
 
@@ -5980,7 +5980,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3537
+    SEED: 7637
 
     CLUSTER: business
 
@@ -6066,7 +6066,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5720
+    SEED: 5026
 
     CLUSTER: business
 
@@ -6152,7 +6152,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8731
+    SEED: 3904
 
     CLUSTER: business
 
@@ -6238,7 +6238,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9472
+    SEED: 7457
 
     CLUSTER: business
 
@@ -6346,7 +6346,7 @@
         Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-        SEED: 7852
+        SEED: 6057
 
         CLUSTER: cultura
 
@@ -6421,7 +6421,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 8000
+      SEED: 3545
 
       CLUSTER: cultura
 
@@ -6497,7 +6497,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 6851
+    SEED: 3032
 
     CLUSTER: cultura
 
@@ -6586,7 +6586,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3715
+    SEED: 2419
 
     CLUSTER: cultura
 
@@ -6671,7 +6671,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3986
+    SEED: 1862
 
     CLUSTER: pronuncia
 
@@ -6751,7 +6751,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9594
+    SEED: 6990
 
     CLUSTER: cultura
 
@@ -6837,7 +6837,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1496
+    SEED: 7445
 
     CLUSTER: cultura
 
@@ -6923,7 +6923,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4143
+    SEED: 3158
 
     CLUSTER: method
 
@@ -7006,7 +7006,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 9585
+    SEED: 7729
 
     CLUSTER: method
 
@@ -7089,7 +7089,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5559
+    SEED: 1580
 
     CLUSTER: method
 
@@ -7172,7 +7172,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 8461
+    SEED: 3224
 
     CLUSTER: method
 
@@ -7257,7 +7257,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5456
+    SEED: 7472
 
     CLUSTER: method
 
@@ -7346,7 +7346,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3674
+    SEED: 8978
 
     CLUSTER: method
 
@@ -7429,7 +7429,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 5996
+    SEED: 9552
 
     CLUSTER: method
 
@@ -7512,7 +7512,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 2815
+    SEED: 7489
 
     CLUSTER: method
 
@@ -7595,7 +7595,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 4991
+    SEED: 4578
 
     CLUSTER: method
 
@@ -7690,7 +7690,7 @@
       Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-      SEED: 7851
+      SEED: 1961
 
       CLUSTER: conversion
 
@@ -7768,7 +7768,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 1526
+    SEED: 1285
 
     CLUSTER: conversion
 
@@ -7856,7 +7856,7 @@
     Situazioni: viaggio, lavoro, vita quotidiana.
 
 
-    SEED: 3070
+    SEED: 8005
 
     CLUSTER: monetization
 

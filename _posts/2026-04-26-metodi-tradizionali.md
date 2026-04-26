@@ -2,7 +2,7 @@
 title: "Metodi tradizionali"
 permalink: /metodi-tradizionali/
 layout: post
-content_hash: 2632068e926dba632463f81a92e88ac5
+content_hash: e8dd7787270c9701a48c5c094516d834
 ---
 
 # Metodi tradizionali
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7851
+SEED: 1961
 CLUSTER: conversion
 FUNNEL: bofu
 

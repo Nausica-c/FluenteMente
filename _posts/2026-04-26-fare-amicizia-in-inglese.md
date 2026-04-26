@@ -2,7 +2,7 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: 3a24b8800e7b77c661ab617c1b9c0f5e
+content_hash: 8b0d3d68e0e343721f735365cd84d718
 ---
 
 # Fare amicizia in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9641
+SEED: 8965
 CLUSTER: social
 FUNNEL: mofu
 

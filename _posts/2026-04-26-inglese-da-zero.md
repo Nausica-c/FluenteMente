@@ -2,7 +2,7 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: 031376e43accb59f9e9acc9f17898fdc
+content_hash: 2b5923c98158bc57f8283bc3d98987ff
 ---
 
 # Inglese da zero
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3468
+SEED: 4464
 CLUSTER: method
 FUNNEL: mofu
 

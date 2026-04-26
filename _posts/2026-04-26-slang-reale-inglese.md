@@ -2,7 +2,7 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: f6ecc282ae43675af17f12e9b2889f30
+content_hash: ec2d0abd8846ce2aa6806dbfc48f1ead
 ---
 
 # Slang reale inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7645
+SEED: 6796
 CLUSTER: social
 FUNNEL: tofu
 
