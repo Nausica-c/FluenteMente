@@ -9,25 +9,64 @@ def generate_body(article):
 
     random.seed(seed)
 
+    # =========================
+    # CLUSTER CONTEXT BOOST
+    # =========================
+
+    cluster_context = {
+        "base": "situazioni quotidiane generiche",
+        "travel": "viaggi, aeroporti, hotel, trasporti",
+        "business": "lavoro, email, colloqui, meeting",
+        "expat": "vita all'estero e problemi reali",
+        "social": "amicizie, conversazioni, small talk",
+        "method": "studio e apprendimento lingua",
+    }.get(cluster, "situazioni reali")
+
+    # =========================
+    # FUNNEL ADAPTATION
+    # =========================
+
+    funnel_boost = {
+        "tofu": "introduzione semplice e accessibile",
+        "mofu": "esempi pratici e uso reale",
+        "bofu": "applicazione avanzata e casi reali complessi",
+    }.get(funnel, "uso pratico")
+
+    # =========================
+    # RANDOM VARIATION (REAL EFFECT)
+    # =========================
+
+    openings = [
+        f"In questa guida su {title} vedrai come usarlo in {cluster_context}.",
+        f"{title} è fondamentale quando ti trovi in {cluster_context}.",
+        f"Capire {title} ti aiuta in situazioni di {cluster_context}.",
+    ]
+
+    intro = random.choice(openings)
+
+    # =========================
+    # BODY
+    # =========================
+
     return f"""
 ## Introduzione
-Guida pratica su {title} con esempi reali.
+{intro}
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+{title} viene usato in contesti legati a {cluster_context}. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in {cluster_context}
+- esempio reale 2 in {cluster_context}
+- esempio reale 3 in {cluster_context}
+- esempio reale 4 in {cluster_context}
+- esempio reale 5 in {cluster_context}
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano {title} a situazioni reali di {cluster_context}.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: {funnel_boost}.
 
 ---
 SEED: {seed}
