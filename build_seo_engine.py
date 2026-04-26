@@ -1,7 +1,7 @@
 import os
 import json
 import yaml
-import random
+import re
 from collections import defaultdict
 
 # =========================
@@ -9,7 +9,8 @@ from collections import defaultdict
 # =========================
 
 INPUT_FILE = "_data/articles.yml"
-OUTPUT_FILE = "_data/articles-linked.yml"
+OUTPUT_LINKED = "_data/articles-linked.yml"
+POSTS_DIR = "_posts"
 
 CLUSTER_LINKS = {
     "base": ["travel", "social"],
@@ -28,34 +29,37 @@ FUNNEL_PRIORITY = {
 }
 
 # =========================
+# UTIL
+# =========================
+
+def slugify(text):
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s-]", "", text)
+    text = re.sub(r"\s+", "-", text)
+    return text.strip("-")
+
+# =========================
 # SAFE LOAD
 # =========================
 
 def load_articles():
     if not os.path.exists(INPUT_FILE):
-        raise FileNotFoundError(f"Missing input file: {INPUT_FILE}")
+        raise FileNotFoundError(INPUT_FILE)
 
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         raw = f.read().strip()
 
     if not raw:
-        raise ValueError("Input file is empty")
+        raise ValueError("Empty input file")
 
     try:
         data = yaml.safe_load(raw)
         if isinstance(data, list):
             return data
-    except Exception:
+    except:
         pass
 
-    try:
-        data = json.loads(raw)
-        if isinstance(data, list):
-            return data
-    except Exception as e:
-        raise ValueError(f"Invalid YAML/JSON: {e}")
-
-    raise ValueError("Root must be a LIST of articles")
+    return json.loads(raw)
 
 # =========================
 # INDEX
@@ -66,16 +70,13 @@ def index_articles(articles):
     by_funnel = defaultdict(list)
 
     for a in articles:
-        if not isinstance(a, dict):
-            continue
-
         by_cluster[a.get("cluster", "base")].append(a)
         by_funnel[a.get("funnel", "tofu")].append(a)
 
     return by_cluster, by_funnel
 
 # =========================
-# LINK ENGINE (IMPROVED)
+# INTERNAL LINKS
 # =========================
 
 def pick_links(article, by_cluster, by_funnel):
@@ -87,38 +88,31 @@ def pick_links(article, by_cluster, by_funnel):
 
     def add(items):
         for i in items:
-            uid = i.get("id")
-            if not uid or uid in seen:
+            if not isinstance(i, dict):
                 continue
-            if uid == article.get("id"):
+            uid = i.get("id")
+            if not uid or uid in seen or uid == article.get("id"):
                 continue
             links.append(i)
             seen.add(uid)
 
-    # 1. same cluster (strong relevance)
     add(by_cluster.get(cluster, [])[:3])
 
-    # 2. cross cluster expansion
-    for target in CLUSTER_LINKS.get(cluster, []):
-        add(by_cluster.get(target, [])[:1])
+    for c in CLUSTER_LINKS.get(cluster, []):
+        add(by_cluster.get(c, [])[:1])
 
-    # 3. funnel progression
     current = FUNNEL_PRIORITY.get(funnel, 1)
     for f, lvl in FUNNEL_PRIORITY.items():
         if lvl > current:
             add(by_funnel.get(f, [])[:1])
             break
 
-    # 4. BOFU conversion boost
     add(by_funnel.get("bofu", [])[:1])
-
-    # 5. randomness anti-SEO footprint (IMPORTANT)
-    random.shuffle(links)
 
     return links[:6]
 
 # =========================
-# INCLUDE ENGINE
+# INCLUDES SYSTEM
 # =========================
 
 def assign_include_layout(article):
@@ -146,57 +140,59 @@ def assign_include_layout(article):
     return layout
 
 # =========================
-# AI CONTENT (BASIC ENGINE)
-# =========================
-
-def generate_ai_body(article):
-    title = article.get("title", "Untitled")
-    cluster = article.get("cluster", "base")
-
-    return f"""
-Introduzione a {title}.
-
-Spiegazione semplice e pratica.
-
-Contesto reale nel cluster {cluster}.
-
-Errori comuni degli italiani.
-
-Esempi pratici utilizzabili subito.
-"""
-
-# =========================
-# ARTICLE BUILDER
+# ARTICLE GENERATOR
 # =========================
 
 def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
-    body = article.get("ai_body", "")
+
+    body = article.get("ai_body") or f"Contenuto generato per {title}"
 
     content = f"# {title}\n\n"
 
-    for box in layout.get("after_intro", []):
-        content += f"{{% include {box} %}}\n\n"
+    for b in layout.get("after_intro", []):
+        content += f"{{% include {b} %}}\n\n"
 
-    for box in layout.get("after_h1", []):
-        content += f"{{% include {box} %}}\n\n"
+    for b in layout.get("after_h1", []):
+        content += f"{{% include {b} %}}\n\n"
 
     content += "## Contenuto principale\n\n"
     content += body + "\n\n"
 
-    for box in layout.get("mid_article", []):
-        content += f"{{% include {box} %}}\n\n"
+    for b in layout.get("mid_article", []):
+        content += f"{{% include {b} %}}\n\n"
 
     content += "## Conclusione\n\n"
 
-    for box in layout.get("before_cta", []):
-        content += f"{{% include {box} %}}\n\n"
+    for b in layout.get("before_cta", []):
+        content += f"{{% include {b} %}}\n\n"
 
-    for box in layout.get("footer", []):
-        content += f"{{% include {box} %}}\n\n"
+    for b in layout.get("footer", []):
+        content += f"{{% include {b} %}}\n\n"
 
     return content
+
+# =========================
+# MARKDOWN EXPORT (🔥 AUTOPUBLISH CORE)
+# =========================
+
+def export_markdown(article):
+    os.makedirs(POSTS_DIR, exist_ok=True)
+
+    title = article.get("title", "untitled")
+    slug = slugify(title)
+
+    path = f"{POSTS_DIR}/{slug}.md"
+
+    content = article["final_article"]
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write(f"title: \"{title}\"\n")
+        f.write(f"permalink: /{slug}/\n")
+        f.write("---\n\n")
+        f.write(content)
 
 # =========================
 # BUILD PIPELINE
@@ -214,7 +210,6 @@ def build_output(articles):
         a["cluster"] = a.get("cluster", "base")
         a["funnel"] = a.get("funnel", "tofu")
 
-        # links
         linked = pick_links(a, by_cluster, by_funnel)
 
         a["internal_links"] = [
@@ -227,49 +222,26 @@ def build_output(articles):
             for x in linked
         ]
 
-        # includes
         a["include_layout"] = assign_include_layout(a)
 
-        # AI body
-        a["ai_body"] = generate_ai_body(a)
-
-        # final article
         a["final_article"] = generate_article(a)
+
+        # 🔥 AUTOPUBLISH STEP
+        export_markdown(a)
 
         output.append(a)
 
     return output
 
 # =========================
-# SAVE
+# SAVE YAML
 # =========================
 
 def save_yaml(data):
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    os.makedirs(os.path.dirname(OUTPUT_LINKED), exist_ok=True)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        yaml.safe_dump(
-            data,
-            f,
-            allow_unicode=True,
-            sort_keys=False,
-            default_flow_style=False
-        )
-
-# =========================
-# VALIDATION
-# =========================
-
-def validate(data):
-    if not isinstance(data, list):
-        raise ValueError("Root must be a list")
-
-    for i, a in enumerate(data):
-        if not isinstance(a, dict):
-            raise ValueError(f"Invalid item at index {i}")
-
-        if not a.get("title"):
-            raise ValueError(f"Missing title at index {i}")
+    with open(OUTPUT_LINKED, "w", encoding="utf-8") as f:
+        yaml.safe_dump(data, f, allow_unicode=True, sort_keys=False)
 
 # =========================
 # MAIN
@@ -277,12 +249,12 @@ def validate(data):
 
 def main():
     articles = load_articles()
-    validate(articles)
 
     output = build_output(articles)
+
     save_yaml(output)
 
-    print("🚀 articles-linked.yml generated successfully")
+    print("🚀 AUTOPUBLISH COMPLETATO")
 
 if __name__ == "__main__":
     main()
