@@ -2,7 +2,7 @@
 title: "Numeri in inglese da 1 a 100: guida completa"
 permalink: /numeri-in-inglese-da-1-a-100-guida-completa/
 layout: post
-content_hash: b37fde211889b7657069137de16db3755bb9f0d62d897700f63f0d2f4042c00b
+content_hash: c57d74afa05846d40ce7fbf94830f91c233d98439d8927f2f898943b6bbc8dac
 ---
 
 # Numeri in inglese da 1 a 100: guida completa
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2247
+SEED: 8854
 CLUSTER: base
 FUNNEL: tofu
 

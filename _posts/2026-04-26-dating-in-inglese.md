@@ -2,7 +2,7 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: 2dc3005a20d3e65e27429162d2c359a0a1589c71727ffa6fbab4d7e08efa1173
+content_hash: a72686ba044af5d4d7281afff3507c628bd5140e8583062966a475d72d29d557
 ---
 
 # Dating in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7236
+SEED: 1434
 CLUSTER: social
 FUNNEL: mofu
 

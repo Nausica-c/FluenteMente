@@ -2,7 +2,7 @@
 title: "Inglese in aeroporto: frasi essenziali per viaggiare"
 permalink: /inglese-in-aeroporto-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: 9f16f8e942cd0fa29049709a014cab43e76fb30c3263e9797a0829802c61e978
+content_hash: c97b6fe09a6a27256d93ba5a388fa72a9ecdc310efb7457db7780c0681aaf8d2
 ---
 
 # Inglese in aeroporto: frasi essenziali per viaggiare
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9771
+SEED: 3362
 CLUSTER: travel
 FUNNEL: tofu
 

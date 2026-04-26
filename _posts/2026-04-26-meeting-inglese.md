@@ -2,7 +2,7 @@
 title: "Meeting inglese"
 permalink: /meeting-inglese/
 layout: post
-content_hash: 32fbe99564e7fa707bf0ebe932bb597007f29fff6228d730766fff19cdd339ab
+content_hash: b2a72c99e2113984e8156fd27231c34d35782704affa8084db58f46d291735fb
 ---
 
 # Meeting inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9043
+SEED: 4525
 CLUSTER: business
 FUNNEL: mofu
 

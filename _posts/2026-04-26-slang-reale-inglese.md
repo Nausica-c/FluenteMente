@@ -2,7 +2,7 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: bf27f4d3d60ca6ce2b914b2015b044cc3e16b639f0e82ee5be3720194111335c
+content_hash: 98d8f6ff2173490195f0583393970f0ada1adbd21a325d040a0d5343c8149670
 ---
 
 # Slang reale inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 2431
+SEED: 6461
 CLUSTER: social
 FUNNEL: tofu
 

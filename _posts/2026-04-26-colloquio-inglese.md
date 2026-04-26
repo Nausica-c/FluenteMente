@@ -2,7 +2,7 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: fa4d41fc1e4d99e0b88d28399de87511bc3b210cc5fc715697a8a2979fbbac12
+content_hash: 826707348670e1eb8ce53da848223ab8a7685899315cac99e7815516fcdfa91f
 ---
 
 # Colloquio inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7375
+SEED: 9156
 CLUSTER: business
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: 3894d36f2461f5d303b34ce574cf725ba9e90cf4e7ee51ce6f77d549fd03e209
+content_hash: c83b29d066deffb5f17f85a20ebfbd3b252b1646c8bbbd284687feee57af0a3c
 ---
 
 # Numeri inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6435
+SEED: 8380
 CLUSTER: base
 FUNNEL: tofu
 
