@@ -55,6 +55,26 @@ ul { list-style: none; }
 }
 
 /* ==========================================================================
+   TIPOGRAFIA & SPAZIATURE TESTO
+========================================================================== */
+p {
+  margin-bottom: 18px;
+}
+
+h1, h2, h3 {
+  margin-top: 36px;
+  margin-bottom: 14px;
+  line-height: 1.3;
+}
+
+blockquote {
+  margin: 24px 0;
+  padding: 20px;
+  border-left: 4px solid var(--text-light);
+  background-color: #f1f5f9;
+}
+
+/* ==========================================================================
    HEADER & NAV 
 ========================================================================== */
 .site-header {
@@ -193,6 +213,7 @@ ul { list-style: none; }
   border-left: 4px solid var(--text-light);
   padding: 16px 20px;
   border-radius: 0 8px 8px 0;
+  margin: 24px 0;
 }
 
 .bridge-box {
@@ -303,11 +324,15 @@ ul { list-style: none; }
 ========================================================================== */
 @media screen and (max-width: 768px) {
 
-  /* Spaziature generali (Fix Margini Laterali) */
+  /* Spaziature laterali testuali forzate (Fix Definitivo) */
   .page-content, 
-  .wrapper {
-    padding-left: 20px;
-    padding-right: 20px;
+  .post-wrapper, 
+  .wrapper,
+  main, 
+  article {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    width: 100%;
   }
 
   /* Mostra icona hamburger */
@@ -351,12 +376,16 @@ ul { list-style: none; }
   .nav-trigger:checked + .menu-icon span:nth-child(3) { transform: rotate(-45deg); }
 
   /* Ridimensionamento contenuti principali */
-  .post-wrapper { padding: 20px 16px; border-radius: var(--radius-sm); }
+  .post-wrapper { 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    border-radius: var(--radius-sm); 
+  }
   .hero-clean__title { font-size: 2rem; }
 
   /* Hero SaaS Mobile */
   .hero-saas { padding: 60px 0 40px; }
   .hero-saas__title { font-size: 2rem; }
   .hero-saas__subtitle { font-size: 1rem; }
-    }
-  
+  }
+    
