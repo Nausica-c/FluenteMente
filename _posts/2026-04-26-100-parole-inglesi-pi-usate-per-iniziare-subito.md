@@ -2,7 +2,7 @@
 title: "100 parole inglesi più usate per iniziare subito"
 permalink: /100-parole-inglesi-pi-usate-per-iniziare-subito/
 layout: post
-content_hash: ef6162890221361cbcd9651232fe4a88be966743bfd4b95747e3bc9d6ca6a298
+content_hash: 7b3344c815ad104f2f2fa86ea723fea8c157b08f240cb3bd7d5c8359deadbe10
 ---
 
 # 100 parole inglesi più usate per iniziare subito
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 8854
+SEED: 4252
 CLUSTER: base
 FUNNEL: tofu
 

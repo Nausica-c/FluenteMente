@@ -2,7 +2,7 @@
 title: "Routine inglese"
 permalink: /routine-inglese/
 layout: post
-content_hash: 3d48a1f835868c543d85cd8e764310e457727a2a2028aa64dab480d87a30078d
+content_hash: c2aa1c984aa7b43c78879b043f0af20904222c8171c41853dbf380ad2a35d409
 ---
 
 # Routine inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4528
+SEED: 6502
 CLUSTER: method
 FUNNEL: mofu
 
