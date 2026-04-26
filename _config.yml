@@ -5,12 +5,13 @@ baseurl: "/FluenteMente"
 permalink: pretty
 
 markdown: kramdown
+
 kramdown:
   input: GFM
 
 plugins:
   - jekyll-sitemap
-  - jekyll-redirect-from # <--- ABBIAMO AGGIUNTO QUESTO!
+  - jekyll-redirect-from
 
 defaults:
   - scope:
