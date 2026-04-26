@@ -1,4 +1,4 @@
-name: AI Blog Build
+name: AI Blog Build (V1 CLEAN)
 
 on:
   push:
@@ -14,12 +14,10 @@ jobs:
 
     steps:
       # =========================
-      # 1. CHECKOUT SICURO
+      # 1. CHECKOUT (pulito)
       # =========================
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       # =========================
       # 2. SETUP PYTHON
@@ -27,36 +25,39 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
+      # =========================
+      # 3. INSTALL DEPS
+      # =========================
       - name: Install dependencies
-        run: pip install pyyaml openai
+        run: pip install pyyaml
 
       # =========================
-      # 3. GENERAZIONE CONTENUTI
+      # 4. RUN BUILDER
       # =========================
-      - name: Run AI builder
+      - name: Build articles
         run: python build_seo_engine.py
 
       # =========================
-      # 4. GIT SAFE COMMIT (NO PULL QUI)
+      # 5. COMMIT ONLY IF CHANGES
       # =========================
-      - name: Commit changes safely
+      - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -A
+          git add .
 
-          # evita crash se non ci sono cambi
-          git diff --cached --quiet && echo "No changes" && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
-          git commit -m "AI blog update"
+          git commit -m "AI blog update (V1 CLEAN)"
 
       # =========================
-      # 5. SAFE PUSH (FORZATO SOLO SU FAST-FORWARD CHECK)
+      # 6. PUSH SAFE
       # =========================
-      - name: Pull + push safe
-        run: |
-          git pull --rebase origin main || (git rebase --abort && exit 1)
-          git push origin main
+      - name: Push changes
+        run: git push origin main
