@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # 🔥 IMPORTANTISSIMO per evitare problemi di push
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,16 +26,18 @@ jobs:
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      # 🔥 FIX PRINCIPALE (ANTI CONFLICT)
-      - name: Commit & Push safely
+      # 🔥 VERSIONE CORRETTA (NO CONFLICT)
+      - name: Commit & Force Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+          # 🔥 elimina vecchi post (evita duplicati + conflitti)
+          git rm -r _posts || true
+
           git add .
 
-          git commit -m "AI blog update" || echo "no changes"
+          git commit -m "AI blog rebuild" || echo "no changes"
 
-          git pull --rebase origin main
-
-          git push
+          # 🔥 NIENTE pull / rebase
+          git push origin main --force
