@@ -1,99 +1,201 @@
+import os
 import json
 import yaml
 from collections import defaultdict
 
-INPUT_FILE = "data/articles.json"
+# =========================
+# CONFIG
+# =========================
+
+INPUT_FILE = "_data/articles.yml"
 OUTPUT_FILE = "_data/articles-linked.yml"
 
+CLUSTER_LINKS = {
+    "base": ["travel", "social"],
+    "travel": ["expat", "social"],
+    "social": ["expat", "business"],
+    "expat": ["business", "method"],
+    "business": ["method"],
+    "culture": ["social", "business"],
+    "method": ["bofu"],
+}
+
+FUNNEL_PRIORITY = {
+    "tofu": 1,
+    "mofu": 2,
+    "bofu": 3
+}
 
 # =========================
-# LOAD DATA
+# SAFE LOAD (FIX CRASH ROOT CAUSE)
 # =========================
-with open(INPUT_FILE, "r", encoding="utf-8") as f:
-    articles = json.load(f)
 
+def load_articles():
+    if not os.path.exists(INPUT_FILE):
+        raise FileNotFoundError(f"Missing input file: {INPUT_FILE}")
+
+    if os.path.getsize(INPUT_FILE) == 0:
+        raise ValueError("Input file is EMPTY (0 bytes)")
+
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        raw = f.read().strip()
+
+        if not raw:
+            raise ValueError("Input file is blank")
+
+        # YAML FIRST (your real format)
+        try:
+            data = yaml.safe_load(raw)
+            if data is not None:
+                return data
+        except Exception:
+            pass
+
+        # JSON fallback
+        try:
+            return json.loads(raw)
+        except Exception as e:
+            raise ValueError(f"File is neither valid YAML nor JSON: {e}")
 
 # =========================
-# INDEX BY CLUSTER / ROLE
+# INDEX
 # =========================
-clusters = defaultdict(list)
-hub_articles = []
 
-for a in articles:
-    clusters[a["cluster"]].append(a)
-    if a["role"] == "hub":
-        hub_articles.append(a)
+def index_articles(articles):
+    by_cluster = defaultdict(list)
+    by_funnel = defaultdict(list)
 
+    for a in articles:
+        if not isinstance(a, dict):
+            continue
+
+        cluster = a.get("cluster")
+        funnel = a.get("funnel")
+
+        if cluster:
+            by_cluster[cluster].append(a)
+        if funnel:
+            by_funnel[funnel].append(a)
+
+    return by_cluster, by_funnel
 
 # =========================
-# BUILD INTERNAL LINKS
+# INTERNAL LINK ENGINE
 # =========================
-def build_links(article):
+
+def pick_links(article, by_cluster, by_funnel):
+    cluster = article.get("cluster")
+    funnel = article.get("funnel")
     links = []
 
-    # 1. SAME CLUSTER LINKS (SEO topical authority)
-    same_cluster = clusters[article["cluster"]]
+    # 1. same cluster (high relevance)
+    links += by_cluster.get(cluster, [])[:3]
 
-    for a in same_cluster:
-        if a["id"] != article["id"]:
-            links.append({
-                "title": a["title"],
-                "url": a["url"],
-                "type": "cluster"
-            })
+    # 2. cross cluster strategy
+    for target in CLUSTER_LINKS.get(cluster, []):
+        links += by_cluster.get(target, [])[:1]
 
-    # 2. HUB BOOST (if not hub → link to hub)
-    if article["role"] != "hub":
-        for h in hub_articles:
-            if h["cluster"] == article["cluster"]:
-                links.append({
-                    "title": h["title"],
-                    "url": h["url"],
-                    "type": "hub"
-                })
+    # 3. funnel progression
+    current_level = FUNNEL_PRIORITY.get(funnel, 1)
+    for f, level in FUNNEL_PRIORITY.items():
+        if level > current_level:
+            links += by_funnel.get(f, [])[:1]
+            break
 
-    # 3. BOFU BOOST (if TOFU/MOFU → link to conversion pages)
-    if article["funnel"] != "bofu":
-        for a in articles:
-            if a["funnel"] == "bofu":
-                links.append({
-                    "title": a["title"],
-                    "url": a["url"],
-                    "type": "bofu"
-                })
+    # 4. BOFU conversion boost
+    links += by_funnel.get("bofu", [])[:1]
 
-    # limit links (avoid spam)
-    return links[:8]
+    # remove duplicates + self
+    seen = set()
+    clean = []
 
+    for l in links:
+        if not isinstance(l, dict):
+            continue
 
-# =========================
-# BUILD FINAL STRUCTURE
-# =========================
-output = []
+        if l.get("id") == article.get("id"):
+            continue
 
-for a in articles:
-    new_article = dict(a)
-    new_article["links"] = build_links(a)
-    output.append(new_article)
+        uid = l.get("id")
+        if uid and uid not in seen:
+            clean.append(l)
+            seen.add(uid)
 
+    return clean[:6]
 
 # =========================
-# SORT BY ID
+# BUILD OUTPUT
 # =========================
-output.sort(key=lambda x: x["id"])
 
+def build_output(articles):
+    by_cluster, by_funnel = index_articles(articles)
+
+    output = []
+
+    for a in articles:
+        if not isinstance(a, dict):
+            continue
+
+        linked = pick_links(a, by_cluster, by_funnel)
+
+        a["internal_links"] = [
+            {
+                "title": x.get("title"),
+                "url": x.get("url"),
+                "cluster": x.get("cluster"),
+                "funnel": x.get("funnel")
+            }
+            for x in linked
+        ]
+
+        output.append(a)
+
+    return output
 
 # =========================
-# WRITE YAML SAFELY
+# SAVE SAFE YAML
 # =========================
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    yaml.dump(
-        output,
-        f,
-        sort_keys=False,
-        allow_unicode=True,
-        default_flow_style=False
-    )
 
-print("✅ SEO ENGINE COMPLETED")
-print(f"📦 Articles processed: {len(output)}")
+def save_yaml(data):
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        yaml.safe_dump(
+            data,
+            f,
+            allow_unicode=True,
+            sort_keys=False,
+            default_flow_style=False
+        )
+
+# =========================
+# VALIDATION (CI SAFE)
+# =========================
+
+def validate(data):
+    if not isinstance(data, list):
+        raise ValueError("Root must be a LIST of articles")
+
+    for i, a in enumerate(data):
+        if not isinstance(a, dict):
+            raise ValueError(f"Invalid article at index {i}")
+
+        for field in ["id", "title", "url"]:
+            if field not in a:
+                raise ValueError(f"Missing {field} in article id={a.get('id')}")
+
+# =========================
+# RUN
+# =========================
+
+def main():
+    articles = load_articles()
+    validate(articles)
+
+    output = build_output(articles)
+    save_yaml(output)
+
+    print("✅ _data/articles-linked.yml generated successfully")
+
+if __name__ == "__main__":
+    main()
