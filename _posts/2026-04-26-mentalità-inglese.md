@@ -2,7 +2,7 @@
 title: "Mentalità inglese"
 permalink: /mentalità-inglese/
 layout: post
-content_hash: 24d3598e1819cce23b4b71b5af984c3efe7d1636356ed898ee5f39d572d21ae4
+content_hash: e8173deb2fdbdcd589b09cbdeccfa8f9df52be69ee4dc7ed1adaf075ad872793
 ---
 
 # Mentalità inglese
@@ -12,26 +12,26 @@ content_hash: 24d3598e1819cce23b4b71b5af984c3efe7d1636356ed898ee5f39d572d21ae4
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Mentalità inglese con esempi reali.
+In questa guida su Mentalità inglese vedrai come usarlo in situazioni reali.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Mentalità inglese viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in situazioni reali
+- esempio reale 2 in situazioni reali
+- esempio reale 3 in situazioni reali
+- esempio reale 4 in situazioni reali
+- esempio reale 5 in situazioni reali
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Mentalità inglese a situazioni reali di situazioni reali.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6125
+SEED: 2340
 CLUSTER: cultura
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: 9b1aff15d9ac419ba876ab1798805b650a5f21e41f3459a299ba326a70fef531
+content_hash: 445e8bdb1e36c9841025760477328f6b601062087a9403dd1080abce193de6cd
 ---
 
 # Email professionali inglese
@@ -12,26 +12,26 @@ content_hash: 9b1aff15d9ac419ba876ab1798805b650a5f21e41f3459a299ba326a70fef531
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Email professionali inglese con esempi reali.
+In questa guida su Email professionali inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Email professionali inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in lavoro, email, colloqui, meeting
+- esempio reale 2 in lavoro, email, colloqui, meeting
+- esempio reale 3 in lavoro, email, colloqui, meeting
+- esempio reale 4 in lavoro, email, colloqui, meeting
+- esempio reale 5 in lavoro, email, colloqui, meeting
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Email professionali inglese a situazioni reali di lavoro, email, colloqui, meeting.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4075
+SEED: 3002
 CLUSTER: business
 FUNNEL: mofu
 

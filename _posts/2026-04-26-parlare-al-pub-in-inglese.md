@@ -2,7 +2,7 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: fa0bf82da1a1067ff7b4ecd0afc3d58419f0db3d716eed92a29cf7ba91eaa916
+content_hash: da1ae28adccf1c73783bcfb841090cf9b4cdc88b22c5f482b5318c15a76f8ef7
 ---
 
 # Parlare al pub in inglese
@@ -12,26 +12,26 @@ content_hash: fa0bf82da1a1067ff7b4ecd0afc3d58419f0db3d716eed92a29cf7ba91eaa916
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Parlare al pub in inglese con esempi reali.
+Parlare al pub in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Parlare al pub in inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in amicizie, conversazioni, small talk
+- esempio reale 2 in amicizie, conversazioni, small talk
+- esempio reale 3 in amicizie, conversazioni, small talk
+- esempio reale 4 in amicizie, conversazioni, small talk
+- esempio reale 5 in amicizie, conversazioni, small talk
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Parlare al pub in inglese a situazioni reali di amicizie, conversazioni, small talk.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9267
+SEED: 6036
 CLUSTER: social
 FUNNEL: tofu
 

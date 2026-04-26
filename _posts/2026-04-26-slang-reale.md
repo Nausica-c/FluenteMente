@@ -2,7 +2,7 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: a098297130834e095ff1820114374891220f3aa74e3b2c498f8400978dcdd88c
+content_hash: 8de59ed3269f732199c5d84f3fa20dcc0905c92b60a875534bb9fa3fbdf64bf7
 ---
 
 # Slang reale
@@ -12,26 +12,26 @@ content_hash: a098297130834e095ff1820114374891220f3aa74e3b2c498f8400978dcdd88c
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Slang reale con esempi reali.
+Capire Slang reale ti aiuta in situazioni di situazioni reali.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Slang reale viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in situazioni reali
+- esempio reale 2 in situazioni reali
+- esempio reale 3 in situazioni reali
+- esempio reale 4 in situazioni reali
+- esempio reale 5 in situazioni reali
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Slang reale a situazioni reali di situazioni reali.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8943
+SEED: 7715
 CLUSTER: cultura
 FUNNEL: mofu
 

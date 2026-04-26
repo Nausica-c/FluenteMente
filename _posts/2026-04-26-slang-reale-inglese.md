@@ -2,7 +2,7 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: d04d9d17cde553b4af0ebe2e449c4449ba0c5fb01fa407f2740aa882d64385b1
+content_hash: e4aef554065dcd4365c11a6ad73c9adadb1cfa33ae95441636e437953080850c
 ---
 
 # Slang reale inglese
@@ -12,26 +12,26 @@ content_hash: d04d9d17cde553b4af0ebe2e449c4449ba0c5fb01fa407f2740aa882d64385b1
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Slang reale inglese con esempi reali.
+In questa guida su Slang reale inglese vedrai come usarlo in amicizie, conversazioni, small talk.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Slang reale inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in amicizie, conversazioni, small talk
+- esempio reale 2 in amicizie, conversazioni, small talk
+- esempio reale 3 in amicizie, conversazioni, small talk
+- esempio reale 4 in amicizie, conversazioni, small talk
+- esempio reale 5 in amicizie, conversazioni, small talk
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Slang reale inglese a situazioni reali di amicizie, conversazioni, small talk.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 1188
+SEED: 5282
 CLUSTER: social
 FUNNEL: tofu
 

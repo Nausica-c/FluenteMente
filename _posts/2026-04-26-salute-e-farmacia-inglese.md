@@ -2,7 +2,7 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: f2d41518c25d421bb20d7249b7ec55c2fcbb2fae75857b08623a9268a93b087e
+content_hash: ad738cb1e3a19b200dcdb19d09c8f347498194c00f1550a8673e3e3a90412e67
 ---
 
 # Salute e farmacia inglese
@@ -12,26 +12,26 @@ content_hash: f2d41518c25d421bb20d7249b7ec55c2fcbb2fae75857b08623a9268a93b087e
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Salute e farmacia inglese con esempi reali.
+In questa guida su Salute e farmacia inglese vedrai come usarlo in vita all'estero e problemi reali.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Salute e farmacia inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in vita all'estero e problemi reali
+- esempio reale 2 in vita all'estero e problemi reali
+- esempio reale 3 in vita all'estero e problemi reali
+- esempio reale 4 in vita all'estero e problemi reali
+- esempio reale 5 in vita all'estero e problemi reali
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Salute e farmacia inglese a situazioni reali di vita all'estero e problemi reali.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5533
+SEED: 4972
 CLUSTER: expat
 FUNNEL: mofu
 

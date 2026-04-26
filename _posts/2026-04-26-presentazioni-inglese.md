@@ -2,7 +2,7 @@
 title: "Presentazioni inglese"
 permalink: /presentazioni-inglese/
 layout: post
-content_hash: 0a5513dcb5c8a7966fe208b516c09cd266223299a5deab70fa4c2af0ecc015e7
+content_hash: 1a267edcd556a272feaa838932de4fd5ff8a1e358037e6ffb8e0741dc6075451
 ---
 
 # Presentazioni inglese
@@ -12,26 +12,26 @@ content_hash: 0a5513dcb5c8a7966fe208b516c09cd266223299a5deab70fa4c2af0ecc015e7
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Presentazioni inglese con esempi reali.
+In questa guida su Presentazioni inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Presentazioni inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in lavoro, email, colloqui, meeting
+- esempio reale 2 in lavoro, email, colloqui, meeting
+- esempio reale 3 in lavoro, email, colloqui, meeting
+- esempio reale 4 in lavoro, email, colloqui, meeting
+- esempio reale 5 in lavoro, email, colloqui, meeting
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Presentazioni inglese a situazioni reali di lavoro, email, colloqui, meeting.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9325
+SEED: 8799
 CLUSTER: business
 FUNNEL: mofu
 

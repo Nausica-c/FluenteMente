@@ -2,7 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: b4d50b1c5df33bf5c1be0baba83b20488b78d91abcac40f39d27794732a182ee
+content_hash: afd01676a919d41bdc2b31594cf3b36a90ff237ca130a4c64cf214fc546767c7
 ---
 
 # Smettere tradurre
@@ -12,26 +12,26 @@ content_hash: b4d50b1c5df33bf5c1be0baba83b20488b78d91abcac40f39d27794732a182ee
 {% include section-in-breve.html %}
 
 ## Introduzione
-Guida pratica su Smettere tradurre con esempi reali.
+In questa guida su Smettere tradurre vedrai come usarlo in studio e apprendimento lingua.
 
 ## Cos’è
-Spiegazione semplice e applicabile.
+Smettere tradurre viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
 
 ## Esempi pratici
-- esempio 1
-- esempio 2
-- esempio 3
-- esempio 4
-- esempio 5
+- esempio reale 1 in studio e apprendimento lingua
+- esempio reale 2 in studio e apprendimento lingua
+- esempio reale 3 in studio e apprendimento lingua
+- esempio reale 4 in studio e apprendimento lingua
+- esempio reale 5 in studio e apprendimento lingua
 
 ## Errori comuni
-Errori tipici italiani.
+Molti italiani sbagliano perché non collegano Smettere tradurre a situazioni reali di studio e apprendimento lingua.
 
 ## Uso nella vita reale
-Situazioni: viaggio, lavoro, expat.
+Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6184
+SEED: 8148
 CLUSTER: method
 FUNNEL: mofu
 
