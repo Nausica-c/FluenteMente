@@ -2,7 +2,7 @@
 title: "Inglese in hotel: check-in, problemi e richieste"
 permalink: /inglese-in-hotel-check-in-problemi-e-richieste/
 layout: post
-content_hash: 8aa322fb74e4911b5f505880cf5a778ece487d432298ad276e84296341e4e6fd
+content_hash: 0faad4eb97989e93ea653785a87e87e99d796978e00be7ec6312b71ad7a26d2c
 ---
 
 # Inglese in hotel: check-in, problemi e richieste
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1513
+SEED: 4497
 CLUSTER: travel
 FUNNEL: tofu
 

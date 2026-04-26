@@ -2,7 +2,7 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: 803f7d99d6f58f8116459f7ddb2da3d12c07785a9c2d1e288fd614d4bc1e8d7c
+content_hash: 48e2f7cdec68ad9b41152e2e402e527a03548e5f5b7592138ffca5fb9775127f
 ---
 
 # Parlare al pub in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 3547
+SEED: 3546
 CLUSTER: social
 FUNNEL: tofu
 

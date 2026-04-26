@@ -2,7 +2,7 @@
 title: "Affittare casa all’estero in inglese"
 permalink: /affittare-casa-allestero-in-inglese/
 layout: post
-content_hash: 5225571d350a7ba103a7c33b924149c861a098b8a3c00b91bf4942d545eb109e
+content_hash: 73fe3755208935f7f9c9c8fd3936623e94d03362e8a8d262c3f0c8506cb1dee5
 ---
 
 # Affittare casa all’estero in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9898
+SEED: 3140
 CLUSTER: expat
 FUNNEL: mofu
 

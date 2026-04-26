@@ -2,7 +2,7 @@
 title: "Landlord e problemi casa"
 permalink: /landlord-e-problemi-casa/
 layout: post
-content_hash: 24366f9d9bc521c98e6f8e0862034e4aa0581218810227eb4a5c727d9ee61d6c
+content_hash: 8e46c3f1c717447e0be14abea6ed52fea4899512a49e640c0bfb072ee7e66411
 ---
 
 # Landlord e problemi casa
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6575
+SEED: 1289
 CLUSTER: expat
 FUNNEL: mofu
 

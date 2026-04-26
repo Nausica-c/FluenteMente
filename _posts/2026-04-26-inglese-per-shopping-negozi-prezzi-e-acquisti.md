@@ -2,7 +2,7 @@
 title: "Inglese per shopping: negozi, prezzi e acquisti"
 permalink: /inglese-per-shopping-negozi-prezzi-e-acquisti/
 layout: post
-content_hash: b0069ec7e2452dfc31a76565f30c2d25a178955f6d43744ac5e35eb47e21eefd
+content_hash: ec21d1c025b5b82294572ca6400f0d0c105a822c4766869f548f026df59bcad5
 ---
 
 # Inglese per shopping: negozi, prezzi e acquisti
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1148
+SEED: 9858
 CLUSTER: travel
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: 7675f1986453ddccedc5c97f1d79dd9fec1c821dfcbb43b4c95041a07c7aaa60
+content_hash: dac77037c2275b07b1ef0770b4bafa9c06d86feef74034bf99fb957bb39e1fe8
 ---
 
 # Storia inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 5523
+SEED: 5152
 CLUSTER: cultura
 FUNNEL: tofu
 
