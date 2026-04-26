@@ -2,7 +2,7 @@
 title: "Conto corrente estero"
 permalink: /conto-corrente-estero/
 layout: post
-content_hash: 0b3f73ef9c4d80b9bff5bcb6e95a66a9
+content_hash: aed7d80b1c8303fe823accfa1797653e
 ---
 
 # Conto corrente estero
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1588
+SEED: 1662
 CLUSTER: expat
 FUNNEL: mofu
 

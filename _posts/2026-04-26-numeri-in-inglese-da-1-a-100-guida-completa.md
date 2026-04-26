@@ -2,7 +2,7 @@
 title: "Numeri in inglese da 1 a 100: guida completa"
 permalink: /numeri-in-inglese-da-1-a-100-guida-completa/
 layout: post
-content_hash: d50579eabbc374111f788e92c818ec8d
+content_hash: 2eac1d9c7be0d745aae8b25fdc09b303
 ---
 
 # Numeri in inglese da 1 a 100: guida completa
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2936
+SEED: 3377
 CLUSTER: base
 FUNNEL: tofu
 

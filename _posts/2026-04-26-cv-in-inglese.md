@@ -2,7 +2,7 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: e493624ca83c8b7abbe821ef8f41c404
+content_hash: 0c38d7857cc3f65760a21a01ee365c2c
 ---
 
 # CV in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7157
+SEED: 2559
 CLUSTER: business
 FUNNEL: mofu
 

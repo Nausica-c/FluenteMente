@@ -2,7 +2,7 @@
 title: "Colloquio inglese avanzato"
 permalink: /colloquio-inglese-avanzato/
 layout: post
-content_hash: de8a185fd72983c508ed1c975fbb0720
+content_hash: da9282a7779415b601decccd1cf094c9
 ---
 
 # Colloquio inglese avanzato
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4944
+SEED: 3625
 CLUSTER: business
 FUNNEL: mofu
 

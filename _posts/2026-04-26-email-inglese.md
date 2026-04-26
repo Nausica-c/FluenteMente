@@ -2,7 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: fa41f77ca7f7e91f1ebf75eea4212167
+content_hash: a31c23bab7baa4f002bb04cbc498006f
 ---
 
 # Email inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2406
+SEED: 6351
 CLUSTER: business
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Pronomi inglesi"
 permalink: /pronomi-inglesi/
 layout: post
-content_hash: d9d87c7efb553a2cf3a5b36fd6b3f25d
+content_hash: 3ee8904df25d951d3e36d8818e300866
 ---
 
 # Pronomi inglesi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5668
+SEED: 7131
 CLUSTER: base
 FUNNEL: tofu
 

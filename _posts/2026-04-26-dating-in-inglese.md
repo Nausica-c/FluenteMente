@@ -2,7 +2,7 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: cd07c41d5291426d272ae6751d28a711
+content_hash: 25b9796529f57c01e8413b11363fc07a
 ---
 
 # Dating in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7497
+SEED: 8709
 CLUSTER: social
 FUNNEL: mofu
 

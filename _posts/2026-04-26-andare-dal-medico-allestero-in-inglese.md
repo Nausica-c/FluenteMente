@@ -2,7 +2,7 @@
 title: "Andare dal medico all’estero in inglese"
 permalink: /andare-dal-medico-allestero-in-inglese/
 layout: post
-content_hash: 7ee01908cc94f992264f05c7fa754f52
+content_hash: 1498eb317b428de524d47a9a1b8580a8
 ---
 
 # Andare dal medico all’estero in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 2890
+SEED: 2866
 CLUSTER: expat
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: 85ec1a2c9944ae918c482c0a4bb04942
+content_hash: 361756aef705989541ed7a987f148680
 ---
 
 # Parlare al pub in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8089
+SEED: 4519
 CLUSTER: social
 FUNNEL: tofu
 

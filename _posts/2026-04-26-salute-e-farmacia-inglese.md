@@ -2,7 +2,7 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: 07ce3c9ea3ebc87ab14fd2b9dcf48028
+content_hash: 14b6d3ceb799e9adaabb57295ba3dfae
 ---
 
 # Salute e farmacia inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5655
+SEED: 9811
 CLUSTER: expat
 FUNNEL: mofu
 

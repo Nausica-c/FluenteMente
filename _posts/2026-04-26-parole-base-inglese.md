@@ -2,7 +2,7 @@
 title: "Parole base inglese"
 permalink: /parole-base-inglese/
 layout: post
-content_hash: 888bcbd185eed128a0ee36806128039d
+content_hash: eeacbbe6e656c467136ce6435f0539c0
 ---
 
 # Parole base inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9957
+SEED: 9647
 CLUSTER: base
 FUNNEL: tofu
 
