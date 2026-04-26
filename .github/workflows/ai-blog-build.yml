@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 QUESTO RISOLVE IL 403
+  contents: write
 
 jobs:
   build:
@@ -29,13 +29,16 @@ jobs:
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      - name: Commit & Force Push
+      # 🔥 SAFE COMMIT (NO FORCE, NO REBASE)
+      - name: Commit & Push safely
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add _posts _data
 
-          git commit -m "AI blog rebuild" || echo "no changes"
+          git commit -m "AI blog update" || echo "no changes"
 
-          git push origin main --force
+          git pull origin main --no-rebase || true
+
+          git push origin main
