@@ -14,13 +14,24 @@ jobs:
 
     steps:
       # =========================
-      # 1. CHECKOUT (pulito)
+      # 1. CHECKOUT
       # =========================
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # =========================
-      # 2. SETUP PYTHON
+      # 2. SYNC CON REMOTE (🔥 FIX CRITICO)
+      # =========================
+      - name: Sync with remote
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
+
+      # =========================
+      # 3. SETUP PYTHON
       # =========================
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,25 +39,22 @@ jobs:
           python-version: "3.11"
 
       # =========================
-      # 3. INSTALL DEPS
+      # 4. INSTALL DEPS
       # =========================
       - name: Install dependencies
         run: pip install pyyaml
 
       # =========================
-      # 4. RUN BUILDER
+      # 5. BUILD
       # =========================
       - name: Build articles
         run: python build_seo_engine.py
 
       # =========================
-      # 5. COMMIT ONLY IF CHANGES
+      # 6. COMMIT ONLY IF CHANGES
       # =========================
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add .
 
           if git diff --cached --quiet; then
@@ -57,7 +65,7 @@ jobs:
           git commit -m "AI blog update (V1 CLEAN)"
 
       # =========================
-      # 6. PUSH SAFE
+      # 7. PUSH SAFE
       # =========================
       - name: Push changes
         run: git push origin main
