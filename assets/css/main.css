@@ -315,8 +315,31 @@ blockquote {
 .site-footer {
   background: #1a202c;
   color: #cbd5e1;
-  padding: 50px 0 20px;
+  padding: 50px 20px 30px; /* Margini laterali aggiunti per mobile/desktop */
   margin-top: auto;
+}
+
+.site-footer p, 
+.site-footer ul {
+  margin-bottom: 16px;
+  line-height: 1.8;
+}
+
+.site-footer h3,
+.site-footer h4,
+.site-footer .footer-heading {
+  color: #ffffff;
+  margin-top: 28px;
+  margin-bottom: 12px;
+  font-size: 1.1rem;
+}
+
+.site-footer a {
+  color: var(--primary-color);
+}
+
+.site-footer a:hover {
+  color: var(--primary-hover);
 }
 
 /* ==========================================================================
@@ -388,4 +411,4 @@ blockquote {
   .hero-saas__title { font-size: 2rem; }
   .hero-saas__subtitle { font-size: 1rem; }
   }
-    
+  
