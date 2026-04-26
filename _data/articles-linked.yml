@@ -185,22 +185,22 @@
     url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -280,18 +280,6 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
@@ -304,6 +292,18 @@
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -379,29 +379,29 @@
   role: hub
   priority: 100
   internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
     cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
+    funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   include_layout:
     after_intro:
@@ -478,24 +478,24 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
   include_layout:
@@ -569,21 +569,9 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
     cluster: base
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
     funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
@@ -593,6 +581,18 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -664,14 +664,10 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -680,14 +676,18 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -759,30 +759,30 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-    cluster: travel
-    funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -858,29 +858,29 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
     cluster: travel
-    funnel: tofu
+    funnel: mofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
     funnel: tofu
   include_layout:
     after_intro:
@@ -957,28 +957,28 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
   include_layout:
@@ -1056,30 +1056,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1155,28 +1155,28 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
+    funnel: tofu
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
+    cluster: travel
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
   include_layout:
@@ -1254,30 +1254,30 @@
   role: spoke
   priority: 80
   internal_links:
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
+    cluster: travel
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
     url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-    cluster: travel
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1353,13 +1353,13 @@
   role: spoke
   priority: 85
   internal_links:
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
-    funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
     funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
@@ -1369,14 +1369,14 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1452,22 +1452,22 @@
   role: hub
   priority: 95
   internal_links:
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1543,21 +1543,21 @@
   role: spoke
   priority: 85
   internal_links:
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
     funnel: mofu
   include_layout:
     after_intro:
@@ -1638,10 +1638,6 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -1649,6 +1645,10 @@
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
     funnel: mofu
   include_layout:
     after_intro:
@@ -1725,13 +1725,17 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -1739,10 +1743,6 @@
     funnel: bofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   include_layout:
@@ -1820,6 +1820,10 @@
   role: spoke
   priority: 85
   internal_links:
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
@@ -1827,10 +1831,6 @@
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
-    funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -1915,25 +1915,25 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-    cluster: expat
-    funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
     funnel: mofu
   include_layout:
     after_intro:
@@ -2010,30 +2010,30 @@
   role: hub
   priority: 90
   internal_links:
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
-    funnel: mofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
+    funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2113,6 +2113,10 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
@@ -2121,10 +2125,6 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2196,25 +2196,25 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
     funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -2291,21 +2291,9 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
-    funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
     funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
@@ -2314,6 +2302,18 @@
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
+    funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
     funnel: mofu
   include_layout:
     after_intro:
@@ -2386,30 +2386,30 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
     funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2564,18 +2564,18 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2651,14 +2651,14 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2730,22 +2730,22 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2821,8 +2821,8 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
@@ -2833,8 +2833,8 @@
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   include_layout:
@@ -2912,24 +2912,24 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   include_layout:
@@ -3007,8 +3007,8 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
   - title: Affittare casa all’estero in inglese
@@ -3019,14 +3019,14 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3102,6 +3102,18 @@
   role: spoke
   priority: 87
   internal_links:
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
@@ -3109,18 +3121,6 @@
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
     funnel: mofu
   include_layout:
     after_intro:
@@ -3197,25 +3197,25 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
     funnel: mofu
   include_layout:
     after_intro:
@@ -3292,6 +3292,10 @@
   role: spoke
   priority: 80
   internal_links:
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
@@ -3300,10 +3304,6 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
@@ -3387,22 +3387,22 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-    cluster: expat
-    funnel: mofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
@@ -3482,9 +3482,13 @@
   role: spoke
   priority: 75
   internal_links:
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -3494,12 +3498,8 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
   include_layout:
@@ -3577,6 +3577,10 @@
   role: hub
   priority: 90
   internal_links:
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -3589,18 +3593,14 @@
     url: /inglese/social/small-talk/
     cluster: social
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3672,14 +3672,10 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -3688,14 +3684,18 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3767,14 +3767,18 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
@@ -3783,14 +3787,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
     funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3862,30 +3862,30 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
+    funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
     cluster: social
-    funnel: mofu
+    funnel: tofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3957,22 +3957,22 @@
   role: hub
   priority: 95
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4044,20 +4044,20 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -4131,20 +4131,20 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
     cluster: business
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -4226,9 +4226,9 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -4313,30 +4313,30 @@
   role: spoke
   priority: 92
   internal_links:
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4408,30 +4408,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4503,29 +4503,29 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
     cluster: base
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   include_layout:
     after_intro:
@@ -4598,13 +4598,9 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
     cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
@@ -4614,14 +4610,18 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4693,13 +4693,13 @@
   role: hub
   priority: 100
   internal_links:
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
@@ -4713,10 +4713,10 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4788,29 +4788,29 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
     funnel: tofu
   include_layout:
     after_intro:
@@ -4883,13 +4883,9 @@
   role: hub
   priority: 100
   internal_links:
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -4905,6 +4901,10 @@
     funnel: tofu
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
   include_layout:
@@ -4982,10 +4982,6 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
@@ -4997,6 +4993,10 @@
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
     cluster: base
+    funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
@@ -5073,29 +5073,29 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   include_layout:
     after_intro:
@@ -5168,26 +5168,26 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
@@ -5263,10 +5263,18 @@
   role: hub
   priority: 95
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
     funnel: tofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -5277,14 +5285,6 @@
     funnel: mofu
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
   include_layout:
@@ -5358,26 +5358,26 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
@@ -5453,29 +5453,29 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
     funnel: tofu
   include_layout:
     after_intro:
@@ -5548,30 +5548,30 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
     funnel: tofu
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -5647,16 +5647,16 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -5730,14 +5730,6 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
@@ -5746,6 +5738,14 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -5817,20 +5817,20 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   include_layout:
@@ -5904,20 +5904,20 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -5991,20 +5991,20 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -6082,16 +6082,16 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   include_layout:
@@ -6165,14 +6165,6 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
@@ -6181,6 +6173,14 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -6252,10 +6252,6 @@
   role: spoke
   priority: 94
   internal_links:
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
@@ -6264,6 +6260,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
     cluster: business
@@ -6339,22 +6339,22 @@
   role: hub
   priority: 95
   internal_links:
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-    cluster: cultura
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: UK vs US
     url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
+  - title: Parole intraducibili
+    url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -6426,22 +6426,22 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: Falsi amici inglese
     url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
+    cluster: cultura
+    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -6513,20 +6513,20 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-    cluster: cultura
-    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: Parole intraducibili
     url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
   include_layout:
@@ -6600,26 +6600,26 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: Parole intraducibili
     url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
   - title: Falsi amici inglese
     url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -6766,12 +6766,12 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: Falsi amici inglese
     url: /inglese/cultura/falsi-amici/
+    cluster: cultura
+    funnel: tofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
@@ -6853,20 +6853,20 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-    cluster: cultura
-    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: Parole intraducibili
     url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
+    cluster: cultura
+    funnel: tofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
   include_layout:
@@ -7019,18 +7019,18 @@
   role: spoke
   priority: 100
   internal_links:
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Inglese da zero
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Perché capisci l’inglese ma non riesci a parlare
+    url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7102,6 +7102,10 @@
   role: spoke
   priority: 95
   internal_links:
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
     cluster: method
@@ -7110,10 +7114,6 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7268,6 +7268,10 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: Perché capisci l’inglese ma non riesci a parlare
+    url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -7276,10 +7280,6 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7351,10 +7351,6 @@
   role: hub
   priority: 100
   internal_links:
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -7363,6 +7359,10 @@
     url: /metodo/blocco-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7442,10 +7442,6 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
     cluster: method
@@ -7454,6 +7450,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7525,6 +7525,10 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -7533,10 +7537,6 @@
     url: /metodo/blocco-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7608,6 +7608,10 @@
   role: spoke
   priority: 92
   internal_links:
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
     cluster: method
@@ -7616,10 +7620,6 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -7774,13 +7774,13 @@
   role: bridge
   priority: 95
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Metodi tradizionali
     url: /metodo/metodi-tradizionali-inglese/
     cluster: conversion
+    funnel: bofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
     funnel: bofu
   include_layout:
     after_intro:
@@ -7861,13 +7861,13 @@
   role: bridge
   priority: 100
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Errori inglese
     url: /metodo/errori-inglese/
     cluster: conversion
+    funnel: bofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
     funnel: bofu
   include_layout:
     after_intro:
