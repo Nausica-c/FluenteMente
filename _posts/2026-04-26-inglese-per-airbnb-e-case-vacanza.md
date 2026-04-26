@@ -10,21 +10,33 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Inglese per Airbnb e case vacanza
 
-Questo articolo esplora in modo approfondito: Inglese per Airbnb e case vacanza.
+Questo articolo fa parte del cluster travel e funnel tofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-{% include orient-box.html %}
+## Errori comuni
+Molti studenti sbagliano qui.
 
-## Conclusione
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 3331
+
+## Articoli correlati
+
+- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
+- [Inglese in hotel: check-in, problemi e richieste](/inglese/viaggio/hotel/)
+- [Frasi inglese aeroporto: check-in, gate e bagagli](/inglese/viaggio/frasi-aeroporto/)
+- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
+- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
 
 {% include trust-box.html %}
-

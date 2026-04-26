@@ -10,19 +10,28 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Pronuncia italiani
 
-Questo articolo esplora in modo approfondito: Pronuncia italiani.
+Questo articolo fa parte del cluster pronuncia e funnel mofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 9716
+
+## Articoli correlati
+
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 
 {% include trust-box.html %}
-

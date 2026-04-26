@@ -10,19 +10,31 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Email inglese
 
-Questo articolo esplora in modo approfondito: Email inglese.
+Questo articolo fa parte del cluster business e funnel mofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 5218
+
+## Articoli correlati
+
+- [CV in inglese](/inglese/business/cv/)
+- [Colloquio di lavoro in inglese](/inglese/business/interview/)
+- [Email formali in inglese](/inglese/business/email-formali/)
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 
 {% include trust-box.html %}
-

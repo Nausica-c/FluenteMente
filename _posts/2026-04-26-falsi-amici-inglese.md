@@ -10,19 +10,31 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Falsi amici inglese
 
-Questo articolo esplora in modo approfondito: Falsi amici inglese.
+Questo articolo fa parte del cluster cultura e funnel tofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 3100
+
+## Articoli correlati
+
+- [Parole intraducibili](/inglese/cultura/parole-intraducibili/)
+- [UK vs US](/inglese/cultura/uk-vs-us/)
+- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 
 {% include trust-box.html %}
-

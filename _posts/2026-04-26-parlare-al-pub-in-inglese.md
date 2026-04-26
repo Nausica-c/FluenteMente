@@ -10,19 +10,33 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Parlare al pub in inglese
 
-Questo articolo esplora in modo approfondito: Parlare al pub in inglese.
+Questo articolo fa parte del cluster social e funnel tofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 6144
+
+## Articoli correlati
+
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
+- [Small talk in inglese](/inglese/social/small-talk/)
+- [Slang inglese moderno](/inglese/social/slang-inglese/)
+- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
+- [CV in inglese](/inglese/business/cv/)
+- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
 
 {% include trust-box.html %}
-

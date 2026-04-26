@@ -10,19 +10,33 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Colori inglese
 
-Questo articolo esplora in modo approfondito: Colori inglese.
+Questo articolo fa parte del cluster base e funnel tofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 7418
+
+## Articoli correlati
+
+- [100 parole inglesi più usate per iniziare subito](/inglese/base/100-parole-inglese/)
+- [Alfabeto inglese e spelling: guida semplice per principianti](/inglese/base/alfabeto-inglese/)
+- [Numeri in inglese da 1 a 100: guida completa](/inglese/base/numeri-inglese/)
+- [Inglese in aeroporto: frasi essenziali per viaggiare](/inglese/viaggio/aeroporto/)
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
+- [Come lamentarsi in inglese (hotel, servizi, problemi)](/inglese/viaggio/reclami-inglese/)
 
 {% include trust-box.html %}
-

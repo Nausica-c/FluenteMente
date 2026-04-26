@@ -10,19 +10,32 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Small talk in inglese
 
-Questo articolo esplora in modo approfondito: Small talk in inglese.
+Questo articolo fa parte del cluster social e funnel mofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 8851
+
+## Articoli correlati
+
+- [Fare amicizia in inglese](/inglese/social/amicizia-inglese/)
+- [Slang inglese moderno](/inglese/social/slang-inglese/)
+- [Affittare casa all’estero in inglese](/inglese/expat/affittare-casa/)
+- [CV in inglese](/inglese/business/cv/)
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 
 {% include trust-box.html %}
-

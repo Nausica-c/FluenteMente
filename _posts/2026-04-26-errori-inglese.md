@@ -10,23 +10,33 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Errori inglese
 
-Questo articolo esplora in modo approfondito: Errori inglese.
+Questo articolo fa parte del cluster conversion e funnel bofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 6639
+
+## Articoli correlati
+
+- [Metodi tradizionali](/metodo/metodi-tradizionali-inglese/)
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
 
 {% include promo-box.html %}
 
 {% include trust-box.html %}
 
 {% include affiliate-disclosure.html %}
-

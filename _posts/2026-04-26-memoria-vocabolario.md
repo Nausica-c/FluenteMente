@@ -10,19 +10,30 @@ layout: post
 
 {% include section-in-breve.html %}
 
-## Contenuto principale
+# Memoria vocabolario
 
-Questo articolo esplora in modo approfondito: Memoria vocabolario.
+Questo articolo fa parte del cluster method e funnel mofu.
 
-Analizziamo:
-- definizione
-- esempi pratici
-- errori comuni
-- strategie applicabili subito
+## Introduzione
+Spieghiamo il concetto in modo semplice e pratico.
 
-L’obiettivo è fornire una guida chiara e applicabile.
+## Esempi reali
+- esempio 1
+- esempio 2
+- esempio 3
 
-## Conclusione
+## Errori comuni
+Molti studenti sbagliano qui.
+
+## Strategie pratiche
+Applicazione immediata.
+
+SEED: 1673
+
+## Articoli correlati
+
+- [Paura di parlare inglese: come sbloccarla definitivamente](/paura-parlare-inglese/)
+- [Perché capisci l’inglese ma non riesci a parlare](/metodo/blocco-parlare-inglese/)
+- [Inglese da zero](/metodo/studiare-inglese-zero/)
 
 {% include trust-box.html %}
-
