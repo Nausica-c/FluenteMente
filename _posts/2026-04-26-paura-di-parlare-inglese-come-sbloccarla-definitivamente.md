@@ -2,7 +2,7 @@
 title: "Paura di parlare inglese: come sbloccarla definitivamente"
 permalink: /paura-di-parlare-inglese-come-sbloccarla-definitivamente/
 layout: post
-content_hash: 4afa915e893222f3d7e0d776eac0433ff15b888adaefc3f540abd62972f50e7e
+content_hash: 25438ee6eacdb868f32a2d0a58c44c27b77b0a72116283fba7045d1e34f921d8
 ---
 
 # Paura di parlare inglese: come sbloccarla definitivamente
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6092
+SEED: 2504
 CLUSTER: method
 FUNNEL: bofu
 

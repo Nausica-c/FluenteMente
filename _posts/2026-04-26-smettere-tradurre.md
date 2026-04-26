@@ -2,7 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: 422f8b96f7f8b62bb5014ad293526c1fd6e498bfdb730f124eb8f60b517a2067
+content_hash: 137be87b34b9539d23e9f4481a5dd25804be1a0c3c48f588d0cf37e638075587
 ---
 
 # Smettere tradurre
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1413
+SEED: 3065
 CLUSTER: method
 FUNNEL: mofu
 

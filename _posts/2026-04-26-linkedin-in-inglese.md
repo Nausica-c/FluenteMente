@@ -2,7 +2,7 @@
 title: "LinkedIn in inglese"
 permalink: /linkedin-in-inglese/
 layout: post
-content_hash: b705c0c445041ba60de40f058342e8edfea4a7d9cd3bcbedf30390913ebe0ef8
+content_hash: 3b04396d776be966ddb9e3367340e341a906cd884bf6cf36de014b5966aa5dae
 ---
 
 # LinkedIn in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7953
+SEED: 5648
 CLUSTER: business
 FUNNEL: mofu
 

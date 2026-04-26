@@ -2,7 +2,7 @@
 title: "Errori inglese"
 permalink: /errori-inglese/
 layout: post
-content_hash: fc370e0adeee68bdc76bef97a3fd8b0401734dbd04985781096830790c96e036
+content_hash: f52fdf548f685ec8e0893466c387519b366846a86f982ebd894f32d8fc78a0dc
 ---
 
 # Errori inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 8142
+SEED: 4949
 CLUSTER: conversion
 FUNNEL: bofu
 

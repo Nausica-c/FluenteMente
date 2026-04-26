@@ -2,7 +2,7 @@
 title: "Articoli inglesi"
 permalink: /articoli-inglesi/
 layout: post
-content_hash: 1045cfecee342305c0f75946b7fddecc713eae40d1a5624a298c075507e487c6
+content_hash: 8fd4d2037a69a719b97a95303a8f17b4fe5a14bb1ef1e915e78051b6907b30b4
 ---
 
 # Articoli inglesi
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 9243
+SEED: 4321
 CLUSTER: base
 FUNNEL: tofu
 
