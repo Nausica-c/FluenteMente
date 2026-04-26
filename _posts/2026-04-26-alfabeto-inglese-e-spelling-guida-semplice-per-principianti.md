@@ -2,7 +2,7 @@
 title: "Alfabeto inglese e spelling: guida semplice per principianti"
 permalink: /alfabeto-inglese-e-spelling-guida-semplice-per-principianti/
 layout: post
-content_hash: 3ef2eb10692b84e44a2b978a1df6fdd0f006d3f289961660fa6edab33c4ef4aa
+content_hash: 6746107248e7435326ea71be23d67b1c79fb183740b7325f7b94542bdec657f7
 ---
 
 # Alfabeto inglese e spelling: guida semplice per principianti
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4545
+SEED: 1332
 CLUSTER: base
 FUNNEL: tofu
 

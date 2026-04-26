@@ -2,7 +2,7 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: f78c9324ce4fc5d3f0a310e279702ab5e819ec04b9b1146941816a9985754247
+content_hash: d77aaa43725913376d9919bd50b957b270e4232e0af32cd181f898d5f8740aef
 ---
 
 # Inglese da zero
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 4321
+SEED: 1580
 CLUSTER: method
 FUNNEL: mofu
 

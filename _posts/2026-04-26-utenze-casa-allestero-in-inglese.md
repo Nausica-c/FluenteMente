@@ -2,7 +2,7 @@
 title: "Utenze casa all’estero in inglese"
 permalink: /utenze-casa-allestero-in-inglese/
 layout: post
-content_hash: e3597219a48375e0217f29f898f3d5d70b06b5624803923188779433e4b6d230
+content_hash: 59797acde1c49e7c2a1a0a3f76d7bd893b338cc0797ba6fb4474176208618668
 ---
 
 # Utenze casa all’estero in inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 1030
+SEED: 8914
 CLUSTER: expat
 FUNNEL: mofu
 
