@@ -2,7 +2,7 @@
 title: "CV inglese avanzato"
 permalink: /cv-inglese-avanzato/
 layout: post
-content_hash: b060de4e0cd41427a6896e0adffdd198
+content_hash: cc69272b08209bfb4a63248d04776afb
 ---
 
 # CV inglese avanzato
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8499
+SEED: 4380
 CLUSTER: business
 FUNNEL: mofu
 

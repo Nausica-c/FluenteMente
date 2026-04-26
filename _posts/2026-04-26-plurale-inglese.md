@@ -2,7 +2,7 @@
 title: "Plurale inglese"
 permalink: /plurale-inglese/
 layout: post
-content_hash: 74f3be73f83652c130dbbfcfb100db56
+content_hash: 8859c50b3318574ea29b61ba147ace84
 ---
 
 # Plurale inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 5991
+SEED: 8286
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: 2f76debd1db2be7f5a655a2fd504dca6
+content_hash: c22d05caecb6fec4f470e919f4c97da2
 ---
 
 # Small talk senza silenzi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4062
+SEED: 1728
 CLUSTER: social
 FUNNEL: mofu
 

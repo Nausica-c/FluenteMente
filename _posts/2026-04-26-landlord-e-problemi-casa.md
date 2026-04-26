@@ -2,7 +2,7 @@
 title: "Landlord e problemi casa"
 permalink: /landlord-e-problemi-casa/
 layout: post
-content_hash: 4bc5b515b5d4388a80de1673059a1854
+content_hash: 06ff9e495b2f0be9ada26b588882fea3
 ---
 
 # Landlord e problemi casa
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6771
+SEED: 2243
 CLUSTER: expat
 FUNNEL: mofu
 
