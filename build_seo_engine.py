@@ -27,7 +27,7 @@ FUNNEL_PRIORITY = {
 }
 
 # =========================
-# SAFE LOAD (FIX CRASH ROOT CAUSE)
+# SAFE LOAD
 # =========================
 
 def load_articles():
@@ -43,7 +43,6 @@ def load_articles():
         if not raw:
             raise ValueError("Input file is blank")
 
-        # YAML FIRST (your real format)
         try:
             data = yaml.safe_load(raw)
             if data is not None:
@@ -51,14 +50,13 @@ def load_articles():
         except Exception:
             pass
 
-        # JSON fallback
         try:
             return json.loads(raw)
         except Exception as e:
             raise ValueError(f"File is neither valid YAML nor JSON: {e}")
 
 # =========================
-# INDEX
+# INDEXING
 # =========================
 
 def index_articles(articles):
@@ -88,24 +86,24 @@ def pick_links(article, by_cluster, by_funnel):
     funnel = article.get("funnel")
     links = []
 
-    # 1. same cluster (high relevance)
+    # same cluster
     links += by_cluster.get(cluster, [])[:3]
 
-    # 2. cross cluster strategy
+    # cross cluster
     for target in CLUSTER_LINKS.get(cluster, []):
         links += by_cluster.get(target, [])[:1]
 
-    # 3. funnel progression
+    # funnel progression
     current_level = FUNNEL_PRIORITY.get(funnel, 1)
     for f, level in FUNNEL_PRIORITY.items():
         if level > current_level:
             links += by_funnel.get(f, [])[:1]
             break
 
-    # 4. BOFU conversion boost
+    # BOFU boost
     links += by_funnel.get("bofu", [])[:1]
 
-    # remove duplicates + self
+    # dedupe
     seen = set()
     clean = []
 
@@ -122,6 +120,71 @@ def pick_links(article, by_cluster, by_funnel):
             seen.add(uid)
 
     return clean[:6]
+
+# =========================
+# INCLUDE ENGINE (NEW)
+# =========================
+
+def assign_include_layout(article):
+    cluster = article.get("cluster")
+    funnel = article.get("funnel")
+
+    layout = {
+        "after_intro": ["tldr-box.html"],
+        "after_h1": ["section-in-breve.html"],
+        "mid_article": [],
+        "before_cta": [],
+        "footer": ["trust-box.html"]
+    }
+
+    if funnel == "bofu":
+        layout["before_cta"].append("promo-box.html")
+        layout["footer"].append("affiliate-disclosure.html")
+
+    if cluster == "expat":
+        layout["mid_article"].append("bridge-box.html")
+
+    if cluster == "travel":
+        layout["mid_article"].append("orient-box.html")
+
+    return layout
+
+# =========================
+# ARTICLE GENERATOR (NEW)
+# =========================
+
+def generate_article(article):
+
+    title = article.get("title", "")
+    layout = article.get("include_layout", {})
+
+    content = f"# {title}\n\n"
+
+    # intro includes
+    for box in layout.get("after_intro", []):
+        content += f"{{% include {box} %}}\n\n"
+
+    # after H1 includes
+    for box in layout.get("after_h1", []):
+        content += f"{{% include {box} %}}\n\n"
+
+    # body placeholder (future AI integration point)
+    content += "## Contenuto principale\n\n"
+    content += article.get("ai_body", "CONTENUTO GENERATO DA AI QUI") + "\n\n"
+
+    # mid includes
+    for box in layout.get("mid_article", []):
+        content += f"{{% include {box} %}}\n\n"
+
+    # CTA includes
+    for box in layout.get("before_cta", []):
+        content += f"{{% include {box} %}}\n\n"
+
+    # footer includes
+    for box in layout.get("footer", []):
+        content += f"{{% include {box} %}}\n\n"
+
+    return content
 
 # =========================
 # BUILD OUTPUT
@@ -148,12 +211,18 @@ def build_output(articles):
             for x in linked
         ]
 
+        # include system
+        a["include_layout"] = assign_include_layout(a)
+
+        # article generation
+        a["final_article"] = generate_article(a)
+
         output.append(a)
 
     return output
 
 # =========================
-# SAVE SAFE YAML
+# SAVE
 # =========================
 
 def save_yaml(data):
@@ -169,7 +238,7 @@ def save_yaml(data):
         )
 
 # =========================
-# VALIDATION (CI SAFE)
+# VALIDATION
 # =========================
 
 def validate(data):
@@ -185,7 +254,7 @@ def validate(data):
                 raise ValueError(f"Missing {field} in article id={a.get('id')}")
 
 # =========================
-# RUN
+# MAIN
 # =========================
 
 def main():
