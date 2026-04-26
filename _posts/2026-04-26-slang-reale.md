@@ -2,7 +2,7 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: 4b12271f7555311c1aac3d2b415b951de617b7b8b789a4117d51c07026884bf8
+content_hash: 19eae8c0fa2f1a4124bfadd0b4c9a6dede1128b070141ec53fd1b0ff59f82761
 ---
 
 # Slang reale
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1148
+SEED: 4887
 CLUSTER: cultura
 FUNNEL: mofu
 

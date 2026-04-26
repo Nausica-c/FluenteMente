@@ -2,7 +2,7 @@
 title: "Recensione Babbel"
 permalink: /recensione-babbel/
 layout: post
-content_hash: 06a0c42519e5831cad42941924b64ddfb620a2d6ba446f3ebcab24c8fe82caf2
+content_hash: 8fb14dd139ad00ba6e11ef3f470920e70973b1036a94e464c61753a343e5280f
 ---
 
 # Recensione Babbel
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3547
+SEED: 2932
 CLUSTER: monetization
 FUNNEL: bofu
 

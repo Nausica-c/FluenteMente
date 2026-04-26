@@ -2,7 +2,7 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: 9deb322e0f17bac59c69bfa74a5565b70d8149d03837838d6fc4090cb8c772a2
+content_hash: bef75c559c9a01653d78d102d2a23c0c48db50c7409316b7a7823c2125acd79f
 ---
 
 # Vocabolario viaggio
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8449
+SEED: 7375
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: bfe96c8f2e6c6fc043709448e12e4bb8eecf36ac885a85ac1bc00f5515a691cf
+content_hash: 828ce80418b12d6559bfce3d481d3328ae7e6b95353fdb15e0fd5af529aaf894
 ---
 
 # Verbo avere
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1699
+SEED: 1206
 CLUSTER: base
 FUNNEL: tofu
 

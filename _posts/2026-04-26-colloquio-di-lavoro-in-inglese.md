@@ -2,7 +2,7 @@
 title: "Colloquio di lavoro in inglese"
 permalink: /colloquio-di-lavoro-in-inglese/
 layout: post
-content_hash: b84cc0c00635cff9d78a9641d35bf64aef336395a2b176bbf01df2cdda12ac0a
+content_hash: f9bbb0a41f8d9db18efd1053129ab0e4868370fe57714cd4d8c20c50ee68995c
 ---
 
 # Colloquio di lavoro in inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5172
+SEED: 6923
 CLUSTER: business
 FUNNEL: mofu
 

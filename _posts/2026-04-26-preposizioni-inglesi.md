@@ -2,7 +2,7 @@
 title: "Preposizioni inglesi"
 permalink: /preposizioni-inglesi/
 layout: post
-content_hash: 441cadcffcd65539b6c3373309f3e70de14a901ae3ae6b987a743a58e44628ab
+content_hash: a3203fd03a6ff43ff839bb75482169bfabe071a5ae4bd3eec96e0d9d61c40d9d
 ---
 
 # Preposizioni inglesi
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8083
+SEED: 6759
 CLUSTER: base
 FUNNEL: tofu
 

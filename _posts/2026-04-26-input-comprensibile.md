@@ -2,7 +2,7 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: ed9e09912a16bf030a4a1c93446b675dbbffb623a42370b6748362931fbb1cf0
+content_hash: 2c83b8cfc459040d72bb1129a0bfe10a6995c83ed71d2e173642487ff225ab8e
 ---
 
 # Input comprensibile
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8943
+SEED: 1188
 CLUSTER: method
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: 42694d586c6b2620291cf3b350a1d297e51d38cf3df2cbf5e50a328559ef1dcf
+content_hash: e3bb02ca236160ab6c9f89cf18ceea6171217853c84e514a9198d76ccf473a63
 ---
 
 # Email inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7829
+SEED: 5523
 CLUSTER: business
 FUNNEL: mofu
 

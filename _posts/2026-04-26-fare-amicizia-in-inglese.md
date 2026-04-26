@@ -2,7 +2,7 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: 6153ceae1a7100abbd7d465711b05370fc9084ede0e975b528d710aeefa2d754
+content_hash: f98de5034110841e0d9721ec190af9e2458f3471bfb6c6bdfa5d757379f93645
 ---
 
 # Fare amicizia in inglese
@@ -31,7 +31,7 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3789
+SEED: 7024
 CLUSTER: social
 FUNNEL: mofu
 
