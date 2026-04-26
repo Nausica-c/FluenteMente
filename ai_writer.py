@@ -1,113 +1,88 @@
 import os
-import openai
+from openai import OpenAI
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# =========================
+# INTERNAL LINKS FORMATTER SAFE
+# =========================
+
+def format_links(internal_links):
+    if not internal_links:
+        return ""
+
+    cleaned = []
+    for l in internal_links:
+        if not isinstance(l, dict):
+            continue
+
+        title = l.get("title")
+        url = l.get("url")
+
+        if not title or not url:
+            continue
+
+        cleaned.append(f"- {title} → {url}")
+
+    return "\n".join(cleaned)
+
+# =========================
+# MAIN ENGINE
+# =========================
 
 def generate_article_body(title, cluster, funnel, internal_links=None):
 
-    # =========================
-    # INTERNAL LINKS → SEO CONTEXT FORTE
-    # =========================
-    links_text = ""
+    links_text = format_links(internal_links)
 
-    if internal_links:
-        links_text = "\n".join([
-            f"- {l.get('title')} → {l.get('url')} (cluster: {l.get('cluster')}, funnel: {l.get('funnel')})"
-            for l in internal_links
-            if l.get("title") and l.get("url")
-        ])
-
-    # =========================
-    # PROMPT V3 (FORZATO + PRATICO)
-    # =========================
     prompt = f"""
 Sei un SEO content writer senior per FluenteMente.
 
 Scrivi un articolo utile, concreto e immediatamente applicabile.
 
----
-
 TITOLO: {title}
 CLUSTER: {cluster}
 FUNNEL: {funnel}
 
----
-
 OBIETTIVO:
 Aiutare italiani a usare inglese reale (viaggio, lavoro, expat).
 
----
-
-REGOLE CRITICHE:
-- ZERO contenuto generico
-- ZERO frasi tipo "questo articolo spiega"
-- ogni sezione deve insegnare qualcosa di pratico
-- usa esempi realistici (aeroporto, hotel, lavoro, amici)
-- inserisci sempre inglese + traduzione
-
----
-
-STRUTTURA OBBLIGATORIA:
-
-## Introduzione
-- problema reale
-- situazione concreta
-- 1 frase inglese + traduzione
-
-## Cos’è e quando si usa
-- spiegazione semplice
-- quando serve davvero
-
-## Esempi pratici
-- almeno 5 esempi reali
+REGOLE:
+- niente teoria inutile
+- esempi concreti sempre
 - inglese + traduzione
 
+STRUTTURA:
+
+## Introduzione
+problema reale + frase inglese
+
+## Cos’è e quando si usa
+spiegazione pratica
+
+## Esempi pratici
+5 esempi reali con traduzione
+
 ## Errori comuni
-- errori tipici italiani
-- correzione chiara
+errori italiani + correzione
 
-## Come usarlo nella vita reale
-- viaggio / lavoro / expat
+## Uso nella vita reale
+situazioni: viaggio, lavoro, expat
 
----
-
-INTERNAL LINKING (OBBLIGATORIO):
-
-Integra NATURALMENTE nel testo questi articoli:
-
+INTERNAL LINKS (naturali nel testo):
 {links_text}
 
-REGOLE LINK:
-- inserisci link dentro le frasi
-- usa anchor naturali SEO
-- NON fare lista finale
-- NON scrivere "clicca qui"
-
----
-
 STILE:
-- italiano semplice (A2-B1)
-- tono pratico, diretto
-- niente teoria inutile
-- utile subito
-
----
-
-LUNGHEZZA:
-1200–1800 parole
-
----
+semplice A2-B1, pratico, diretto
 
 OUTPUT:
-Solo Markdown.
-NON inserire H1 (# titolo).
+solo markdown, senza H1
 """
 
     # =========================
-    # API CALL
+    # API CALL (SDK MODERNO)
     # =========================
-    response = openai.ChatCompletion.create(
-        model="gpt-4o-mini",
+    response = client.chat.completions.create(
+        model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
         messages=[
             {"role": "user", "content": prompt}
         ],
@@ -117,20 +92,29 @@ NON inserire H1 (# titolo).
     content = response.choices[0].message.content.strip()
 
     # =========================
-    # 🔥 VALIDAZIONE INTELLIGENTE
+    # VALIDAZIONE ROBUSTA
     # =========================
     if (
         not content
         or len(content) < 1000
-        or "esempio" not in content.lower()
         or "##" not in content
+        or "esempio" not in content.lower()
     ):
-        return f"""
+        return fallback_article(title)
+
+    return content
+
+# =========================
+# FALLBACK COERENTE SEO
+# =========================
+
+def fallback_article(title):
+    return f"""
 ## Introduzione
-Se vuoi capire {title}, qui trovi una guida pratica con esempi reali.
+Se vuoi capire {title}, ecco una guida pratica con esempi reali.
 
 ## Cos’è e quando si usa
-Spiegazione semplice e concreta.
+Spiegazione semplice e diretta.
 
 ## Esempi pratici
 - esempio reale 1
@@ -142,8 +126,6 @@ Spiegazione semplice e concreta.
 ## Errori comuni
 Attenzione agli errori tipici italiani.
 
-## Come usarlo nella vita reale
-Situazioni concrete: viaggio, lavoro, vita quotidiana.
+## Uso nella vita reale
+Situazioni concrete: viaggio, lavoro, expat.
 """.strip()
-
-    return content
