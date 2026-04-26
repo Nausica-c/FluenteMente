@@ -6,22 +6,24 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def generate_article_body(title, cluster, funnel, internal_links=None):
 
     # =========================
-    # INTERNAL LINKS → SEO CONTEXT
+    # INTERNAL LINKS → SEO CONTEXT FORTE
     # =========================
     links_text = ""
 
     if internal_links:
-        links_text = "\n".join(
-            [f"- {l.get('title')} ({l.get('url')})" for l in internal_links if l.get("title") and l.get("url")]
-        )
+        links_text = "\n".join([
+            f"- {l.get('title')} → {l.get('url')} (cluster: {l.get('cluster')}, funnel: {l.get('funnel')})"
+            for l in internal_links
+            if l.get("title") and l.get("url")
+        ])
 
     # =========================
-    # PROMPT V3 (ANTI-CONTENUTO VUOTO)
+    # PROMPT V3 (FORZATO + PRATICO)
     # =========================
     prompt = f"""
-Sei un SEO content writer senior per il blog FluenteMente.
+Sei un SEO content writer senior per FluenteMente.
 
-Scrivi un articolo COMPLETO, concreto e utile.
+Scrivi un articolo utile, concreto e immediatamente applicabile.
 
 ---
 
@@ -32,16 +34,16 @@ FUNNEL: {funnel}
 ---
 
 OBIETTIVO:
-Aiutare italiani a usare l’inglese nella vita reale.
+Aiutare italiani a usare inglese reale (viaggio, lavoro, expat).
 
 ---
 
-REGOLE FONDAMENTALI:
-- NON scrivere contenuto generico
-- NON usare frasi tipo "questo articolo esplora"
+REGOLE CRITICHE:
+- ZERO contenuto generico
+- ZERO frasi tipo "questo articolo spiega"
 - ogni sezione deve insegnare qualcosa di pratico
-- esempi realistici (viaggio, lavoro, vita quotidiana)
-- inserisci frasi in inglese + traduzione
+- usa esempi realistici (aeroporto, hotel, lavoro, amici)
+- inserisci sempre inglese + traduzione
 
 ---
 
@@ -57,27 +59,27 @@ STRUTTURA OBBLIGATORIA:
 - quando serve davvero
 
 ## Esempi pratici
-- minimo 5 esempi
+- almeno 5 esempi reali
 - inglese + traduzione
 
 ## Errori comuni
 - errori tipici italiani
-- spiegazione + correzione
+- correzione chiara
 
 ## Come usarlo nella vita reale
-- contesti: viaggio / lavoro / expat
+- viaggio / lavoro / expat
 
 ---
 
 INTERNAL LINKING (OBBLIGATORIO):
 
-Integra naturalmente nel testo questi articoli:
+Integra NATURALMENTE nel testo questi articoli:
 
 {links_text}
 
-REGOLE:
-- inserisci link nelle frasi
-- usa anchor naturali
+REGOLE LINK:
+- inserisci link dentro le frasi
+- usa anchor naturali SEO
 - NON fare lista finale
 - NON scrivere "clicca qui"
 
@@ -98,11 +100,11 @@ LUNGHEZZA:
 
 OUTPUT:
 Solo Markdown.
-NON inserire H1 (# titolo) perché è già nel template.
+NON inserire H1 (# titolo).
 """
 
     # =========================
-    # API CALL (VERSIONE STABILE)
+    # API CALL
     # =========================
     response = openai.ChatCompletion.create(
         model="gpt-4o-mini",
@@ -112,28 +114,36 @@ NON inserire H1 (# titolo) perché è già nel template.
         temperature=0.7
     )
 
-    content = response.choices[0].message.content
+    content = response.choices[0].message.content.strip()
 
     # =========================
-    # FAILSAFE (ANTI ARTICOLO VUOTO)
+    # 🔥 VALIDAZIONE INTELLIGENTE
     # =========================
-    if not content or len(content) < 800:
+    if (
+        not content
+        or len(content) < 1000
+        or "esempio" not in content.lower()
+        or "##" not in content
+    ):
         return f"""
 ## Introduzione
 Se vuoi capire {title}, qui trovi una guida pratica con esempi reali.
 
-## Contenuto
-Spiegazione base con applicazioni concrete.
+## Cos’è e quando si usa
+Spiegazione semplice e concreta.
 
-## Esempi
-- esempio semplice
-- esempio reale
+## Esempi pratici
+- esempio reale 1
+- esempio reale 2
+- esempio reale 3
+- esempio reale 4
+- esempio reale 5
 
 ## Errori comuni
-Errori tipici da evitare.
+Attenzione agli errori tipici italiani.
 
-## Uso reale
-Come usarlo nella vita quotidiana.
+## Come usarlo nella vita reale
+Situazioni concrete: viaggio, lavoro, vita quotidiana.
 """.strip()
 
     return content
