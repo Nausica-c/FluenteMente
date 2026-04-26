@@ -1,0 +1,29 @@
+name: AI Blog Build
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install pyyaml openai
+
+      - run: python build_seo_engine.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "AI blog update" || echo "no changes"
+          git push
