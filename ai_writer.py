@@ -5,89 +5,105 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def generate_article_body(title, cluster, funnel, internal_links=None):
 
+    # =========================
+    # INTERNAL LINKS → SEO CONTEXT
+    # =========================
     links_text = ""
 
-    # 🔥 convert internal links into readable SEO context
     if internal_links:
         links_text = "\n".join(
-            [f"- {l.get('title')} ({l.get('url')})" for l in internal_links]
+            [f"- {l.get('title')} ({l.get('url')})" for l in internal_links if l.get("title") and l.get("url")]
         )
 
+    # =========================
+    # PROMPT V3 (ANTI-CONTENUTO VUOTO)
+    # =========================
     prompt = f"""
 Sei un SEO content writer senior per il blog FluenteMente.
 
-Scrivi un articolo COMPLETO pronto per Jekyll.
+Scrivi un articolo COMPLETO, concreto e utile.
 
 ---
 
-## TITOLO
-{title}
-
-## CLUSTER
-{cluster}
-
-## FUNNEL
-{funnel}
+TITOLO: {title}
+CLUSTER: {cluster}
+FUNNEL: {funnel}
 
 ---
 
-## OBIETTIVO
-Aiutare italiani a imparare inglese pratico per vita reale (viaggi, lavoro, expat).
+OBIETTIVO:
+Aiutare italiani a usare l’inglese nella vita reale.
 
 ---
 
-## STRUTTURA OBBLIGATORIA
+REGOLE FONDAMENTALI:
+- NON scrivere contenuto generico
+- NON usare frasi tipo "questo articolo esplora"
+- ogni sezione deve insegnare qualcosa di pratico
+- esempi realistici (viaggio, lavoro, vita quotidiana)
+- inserisci frasi in inglese + traduzione
 
-Devi seguire ESATTAMENTE questa struttura:
+---
 
-# INTRODUZIONE
-- problema reale dell’utente
-- contesto pratico
-- 1 frase in inglese con traduzione
+STRUTTURA OBBLIGATORIA:
 
-## Cos’è {title}
-Spiegazione semplice e chiara
+## Introduzione
+- problema reale
+- situazione concreta
+- 1 frase inglese + traduzione
+
+## Cos’è e quando si usa
+- spiegazione semplice
+- quando serve davvero
 
 ## Esempi pratici
-- almeno 5 esempi reali
-- inglese + traduzione italiana
+- minimo 5 esempi
+- inglese + traduzione
 
 ## Errori comuni
 - errori tipici italiani
+- spiegazione + correzione
 
 ## Come usarlo nella vita reale
-- situazioni reali (viaggio / lavoro / expat)
+- contesti: viaggio / lavoro / expat
 
 ---
 
-## INTERNAL LINKING (OBBLIGATORIO)
+INTERNAL LINKING (OBBLIGATORIO):
 
-Usa questi articoli come riferimento naturale nel testo:
+Integra naturalmente nel testo questi articoli:
 
 {links_text}
 
-REGOLE LINK:
-- integrati nelle frasi
-- NO lista separata
-- NO "clicca qui"
-- anchor naturali SEO
+REGOLE:
+- inserisci link nelle frasi
+- usa anchor naturali
+- NON fare lista finale
+- NON scrivere "clicca qui"
 
 ---
 
-## STILE
+STILE:
 - italiano semplice (A2-B1)
-- tono insegnante pratico
-- niente frasi generiche tipo "questo articolo esplora"
-- concreto, utile, realistico
-- 1200–2000 parole
+- tono pratico, diretto
+- niente teoria inutile
+- utile subito
 
 ---
 
-## OUTPUT
-Solo articolo Markdown puro.
-Nessuna spiegazione.
+LUNGHEZZA:
+1200–1800 parole
+
+---
+
+OUTPUT:
+Solo Markdown.
+NON inserire H1 (# titolo) perché è già nel template.
 """
 
+    # =========================
+    # API CALL (VERSIONE STABILE)
+    # =========================
     response = openai.ChatCompletion.create(
         model="gpt-4o-mini",
         messages=[
@@ -96,4 +112,28 @@ Nessuna spiegazione.
         temperature=0.7
     )
 
-    return response.choices[0].message.content
+    content = response.choices[0].message.content
+
+    # =========================
+    # FAILSAFE (ANTI ARTICOLO VUOTO)
+    # =========================
+    if not content or len(content) < 800:
+        return f"""
+## Introduzione
+Se vuoi capire {title}, qui trovi una guida pratica con esempi reali.
+
+## Contenuto
+Spiegazione base con applicazioni concrete.
+
+## Esempi
+- esempio semplice
+- esempio reale
+
+## Errori comuni
+Errori tipici da evitare.
+
+## Uso reale
+Come usarlo nella vita quotidiana.
+""".strip()
+
+    return content
