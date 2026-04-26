@@ -307,4 +307,68 @@ ul { list-style: none; }
   .post-wrapper { padding: 20px; }
   .hero-clean__title { font-size: 2rem; }
   }
+/* HERO SAAS */
+.hero-saas {
+background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+padding: 90px 0 70px;
+text-align: center;
+border-bottom: 1px solid var(--border-color);
+}
+
+.hero-saas__inner {
+max-width: 720px;
+margin: 0 auto;
+}
+
+.hero-saas__badge {
+display: inline-block;
+background: rgba(255,128,0,0.1);
+color: #1a202c;
+padding: 6px 12px;
+border-radius: 999px;
+font-size: 0.8rem;
+font-weight: 700;
+margin-bottom: 18px;
+}
+
+.hero-saas__title {
+font-size: 2.8rem;
+line-height: 1.15;
+color: #1a202c;
+margin-bottom: 18px;
+}
+
+.hero-saas__subtitle {
+font-size: 1.15rem;
+color: var(--text-light);
+margin-bottom: 30px;
+}
+
+.hero-saas__actions {
+display: flex;
+justify-content: center;
+gap: 12px;
+flex-wrap: wrap;
+margin-bottom: 18px;
+}
+
+.hero-saas__proof {
+font-size: 0.9rem;
+color: var(--text-light);
+}
+
+/* MOBILE */
+@media (max-width:600px){
+.hero-saas {
+padding: 60px 0 40px;
+}
+
+.hero-saas__title {
+font-size: 2rem;
+}
+
+.hero-saas__subtitle {
+font-size: 1rem;
+}
+}
   
