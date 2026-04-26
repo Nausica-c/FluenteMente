@@ -8,10 +8,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: ai-blog-main
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,32 +17,32 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install pyyaml openai
 
-      # 🔥 PULL PRIMA DI GENERARE (evita conflict)
-      - name: Sync with remote
-        run: |
-          git pull origin main --rebase || true
-
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      # 🔥 COMMIT SAFE (NO FORCE PUSH)
-      - name: Commit & Push safely
+      # 🔥 FIX 1: evita conflitti (pull prima di commit)
+      - name: Sync with remote
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
 
+      # 🔥 FIX 2: commit solo se serve
+      - name: Commit changes
+        run: |
           git add .
+          git diff --cached --quiet && echo "No changes" || git commit -m "AI blog update"
 
-          git commit -m "AI blog update" || echo "no changes"
-
-          git push origin HEAD:main
+      # 🔥 FIX 3: push safe (NO FORCE)
+      - name: Push safely
+        run: |
+          git push origin main
