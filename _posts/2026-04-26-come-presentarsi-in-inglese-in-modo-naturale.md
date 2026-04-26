@@ -2,16 +2,20 @@
 title: "Come presentarsi in inglese in modo naturale"
 permalink: /come-presentarsi-in-inglese-in-modo-naturale/
 layout: post
-content_hash: fd036113d1ff536780ef853d91436045ff0c2c104445ebfc513c08e8301f8cca
+content_hash: abaeb61b064749c3d474906dcdf7dbc7e6d9ecc19f2466c3c976b974333f3b21
 ---
 
 # Come presentarsi in inglese in modo naturale
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Come presentarsi in inglese in modo naturale con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5447
+SEED: 5502
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

@@ -2,16 +2,20 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: ab58d9f041a26216009edf09566f17f8269b5ab221d7078472e8a0b988a0368a
+content_hash: 1c63525474a031e28b892d1570c36d8f9c74786f8dbd9573827358413fee28db
 ---
 
 # Colloquio inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Colloquio inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7998
+SEED: 6402
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

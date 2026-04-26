@@ -2,16 +2,20 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: 21e14881a6abd1af71858982402755534139a149cb38b7fe850483051064b0b0
+content_hash: ed9e09912a16bf030a4a1c93446b675dbbffb623a42370b6748362931fbb1cf0
 ---
 
 # Input comprensibile
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Input comprensibile con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8142
+SEED: 8943
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

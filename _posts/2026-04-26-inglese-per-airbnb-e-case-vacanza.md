@@ -2,16 +2,20 @@
 title: "Inglese per Airbnb e case vacanza"
 permalink: /inglese-per-airbnb-e-case-vacanza/
 layout: post
-content_hash: c7f3c4592aabd1060da267bbd5cd9fc1b52ccbdf2b17c9942edca718e825d374
+content_hash: 390f4aed9fbe110034e1fa62d542785e949a5baeefa2cd6c4324141fec72b3e1
 ---
 
 # Inglese per Airbnb e case vacanza
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Inglese per Airbnb e case vacanza con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4497
+SEED: 9628
 CLUSTER: travel
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

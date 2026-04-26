@@ -2,16 +2,20 @@
 title: "Errori inglese"
 permalink: /errori-inglese/
 layout: post
-content_hash: 0991243e3daf7f00b5fd92f7a221f200ce5337f7591ebc5d191340404c802942
+content_hash: 2fa63f5c77beba9c01b9631d1a5e28c50d307369d052f1dee99ec83bb2ea109d
 ---
 
 # Errori inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Errori inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8202
+SEED: 2473
 CLUSTER: conversion
 FUNNEL: bofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

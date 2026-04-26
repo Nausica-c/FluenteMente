@@ -2,16 +2,20 @@
 title: "Dimostrativi inglesi"
 permalink: /dimostrativi-inglesi/
 layout: post
-content_hash: 16d10893b3901f5906dd00a658eda183044207aebd3ab682331a2e7aa07e5fee
+content_hash: cc27c4b39d3b13fcaeefc4d4b96c0f9644e31b9a709bd4293f04c8d77843c3ae
 ---
 
 # Dimostrativi inglesi
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Dimostrativi inglesi con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 2816
+SEED: 5252
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

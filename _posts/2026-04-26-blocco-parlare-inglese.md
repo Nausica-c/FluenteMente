@@ -2,16 +2,20 @@
 title: "Blocco parlare inglese"
 permalink: /blocco-parlare-inglese/
 layout: post
-content_hash: 4b75c63dcd0241f3f1a88c2ad60982471805db4547d3df6fd95cef529e250edf
+content_hash: 88dc9a49370898028ae105a7ed181722712a96ab9042d8db67ce97065006b804
 ---
 
 # Blocco parlare inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Blocco parlare inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8250
+SEED: 2362
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

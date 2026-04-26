@@ -2,16 +2,20 @@
 title: "Colloquio inglese avanzato"
 permalink: /colloquio-inglese-avanzato/
 layout: post
-content_hash: d5607548ac7e2f72d4c371042209cb6b85ba7b9ac6a8a4f01faf985bc891315e
+content_hash: 4561ae6d71af3d0f14e2fb66eff6e8c250bb276183c503741be2cab419d83b38
 ---
 
 # Colloquio inglese avanzato
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Colloquio inglese avanzato con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9674
+SEED: 9558
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

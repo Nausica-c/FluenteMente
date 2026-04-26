@@ -2,16 +2,20 @@
 title: "Utenze casa inglese"
 permalink: /utenze-casa-inglese/
 layout: post
-content_hash: 1024c2baed0dca37a3c7165ca8cfacba821e4e6ff63d435e514cda10902aae96
+content_hash: 902b2fd0bee03fe20ec60b1f93b91fce9ad8f49742268691cf883ca223523c0b
 ---
 
 # Utenze casa inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Utenze casa inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7432
+SEED: 7492
 CLUSTER: expat
 FUNNEL: mofu
+
+{% include bridge-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

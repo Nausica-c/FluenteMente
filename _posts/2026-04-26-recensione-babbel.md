@@ -2,16 +2,20 @@
 title: "Recensione Babbel"
 permalink: /recensione-babbel/
 layout: post
-content_hash: 0a54f42cd73bfa4c1885e92ca578bb0e68247279d2b1c158c26e12f9dc7f8f0b
+content_hash: 06a0c42519e5831cad42941924b64ddfb620a2d6ba446f3ebcab24c8fe82caf2
 ---
 
 # Recensione Babbel
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Recensione Babbel con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1883
+SEED: 3547
 CLUSTER: monetization
 FUNNEL: bofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

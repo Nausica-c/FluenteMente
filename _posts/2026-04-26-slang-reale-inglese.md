@@ -2,16 +2,20 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: 12e2a0aeae4f1b312a641ae1766446eb17cdf8fde2889d895e0da0b4099d2164
+content_hash: 45d891a98455486cb1838278b69c973118b979f499713e38f962fa4d2aadbd76
 ---
 
 # Slang reale inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Slang reale inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 9243
+SEED: 4887
 CLUSTER: social
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

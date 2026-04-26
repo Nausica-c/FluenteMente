@@ -2,16 +2,20 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: 612b3bf362c6292decf97d39b9886cbfab78cc6cece1c7c48d8cd328d4517ec4
+content_hash: 3c00a522420c8845152d5e8ed15c8620694492c6d6f46a631692908aeb1896e4
 ---
 
 # Dating in inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Dating in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,11 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1289
+SEED: 8477
 CLUSTER: social
 FUNNEL: mofu
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

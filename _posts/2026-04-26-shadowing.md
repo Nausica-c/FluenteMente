@@ -2,16 +2,20 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: 635d997dafb52a5ae72e3fc01c6e85a9106114f36918f9a1a245d07810b256cf
+content_hash: 48219b16c958bd71ffb5387a44b5a7ed97c1db2d8f1df8882ff780d65a5cb0bb
 ---
 
 # Shadowing
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Shadowing con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 8491
+SEED: 6724
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

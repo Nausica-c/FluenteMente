@@ -2,16 +2,20 @@
 title: "CV inglese avanzato"
 permalink: /cv-inglese-avanzato/
 layout: post
-content_hash: a7786950ad71789d4f0aba7d4c7b286b155cac905ee6c7542ed2979d1a9a99fe
+content_hash: 8adb19f6a91d1576b9bb8034819ba5078d16402423c75eb7f4c407a9f1b2b56f
 ---
 
 # CV inglese avanzato
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su CV inglese avanzato con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6250
+SEED: 5004
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

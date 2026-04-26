@@ -2,16 +2,20 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: c497ac1cd5254b707d12847044c831f1ccd12670b23ead01faf8e56c042caa6e
+content_hash: 49566beff43da0f4067153001041ca4201f54608f789195047ce7ce97276cb64
 ---
 
 # Storia inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Storia inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3878
+SEED: 8399
 CLUSTER: cultura
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

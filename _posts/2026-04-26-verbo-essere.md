@@ -2,16 +2,20 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: 6f6e2b91a591a89ea357d9b5ef2285fa6ac6fef1d85c1811fa54f3f4cac9eeed
+content_hash: 06e31aed8d769070ee9883a2c13578a69024228329bf630aa4264079ec67f690
 ---
 
 # Verbo essere
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Verbo essere con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6522
+SEED: 4075
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

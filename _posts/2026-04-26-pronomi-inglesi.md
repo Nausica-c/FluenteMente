@@ -2,16 +2,20 @@
 title: "Pronomi inglesi"
 permalink: /pronomi-inglesi/
 layout: post
-content_hash: 0455112149b490a75ff51929808f69587f69ef241dc7668d45115bfb32435a09
+content_hash: 7661ee3a79051286cdddfe5038756185275dd612685ecd2814c61e10b7f77103
 ---
 
 # Pronomi inglesi
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Pronomi inglesi con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7956
+SEED: 2543
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

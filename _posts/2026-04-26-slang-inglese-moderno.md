@@ -2,16 +2,20 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: 122dea36a5e44e810ae3e9855f7d633144c73fd3e54264e7e43e262401d3e9bf
+content_hash: b0ed1e7bf0b13613d6dd0120c63d14ff0485f3ead5c3e39b6db44727c1c9b9b9
 ---
 
 # Slang inglese moderno
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Slang inglese moderno con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1883
+SEED: 7375
 CLUSTER: social
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

@@ -2,16 +2,20 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 5c3551aa0e0216a61af90c4f3226b704c7aa4c950ba255e2f7e52e9d2e44eca3
+content_hash: c8c09a09b975ad4a32139b283b57e768ea3b643ea106518a68b2cf09753ce728
 ---
 
 # Memoria vocabolario
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Memoria vocabolario con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3516
+SEED: 9381
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

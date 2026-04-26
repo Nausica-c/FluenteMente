@@ -2,16 +2,20 @@
 title: "Conto corrente estero"
 permalink: /conto-corrente-estero/
 layout: post
-content_hash: 8efea0314660e9ca6e5a09b713a10ac1f263e2bec82135f0e129fc4f3355e026
+content_hash: a3b362cb514b8ffca10ad60bc4a811e812a1d1e0be10b77894711bb28c3ce2ff
 ---
 
 # Conto corrente estero
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Conto corrente estero con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5416
+SEED: 5072
 CLUSTER: expat
 FUNNEL: mofu
+
+{% include bridge-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

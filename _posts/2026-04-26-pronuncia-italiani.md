@@ -2,16 +2,20 @@
 title: "Pronuncia italiani"
 permalink: /pronuncia-italiani/
 layout: post
-content_hash: 17e9feaab7977e75d5dd4824e5bd5319cd79d616c4b4149c1d94313c2d4f188d
+content_hash: 2c571e43afa1a14fbf40ec4cf2bac966799e335a4bb3ca5905bbbbe9f204166c
 ---
 
 # Pronuncia italiani
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Pronuncia italiani con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,11 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4391
+SEED: 2247
 CLUSTER: pronuncia
 FUNNEL: mofu
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

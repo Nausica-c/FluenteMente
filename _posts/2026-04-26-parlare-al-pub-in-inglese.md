@@ -2,16 +2,20 @@
 title: "Parlare al pub in inglese"
 permalink: /parlare-al-pub-in-inglese/
 layout: post
-content_hash: a42b16b2456ec2a2003d490ae4aa8a4c868f12c5b20cb13bfdf19bf10747bbf1
+content_hash: e86bcd9d2880b169b6dfc414471ed32cf34bb753c9f226755e89fb3665d84aac
 ---
 
 # Parlare al pub in inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Parlare al pub in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3140
+SEED: 8697
 CLUSTER: social
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

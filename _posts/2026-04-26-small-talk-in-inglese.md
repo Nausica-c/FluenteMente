@@ -2,16 +2,20 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: a70ae594d196954ac97a2a4c9c84f67859d0f4a8ab2810e5ddd72068cbc09494
+content_hash: e0fb91a2b791281f54fcdb96a268fced0060031255d7d0472ede1234a25c7bc3
 ---
 
 # Small talk in inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Small talk in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,11 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4282
+SEED: 8652
 CLUSTER: social
 FUNNEL: mofu
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

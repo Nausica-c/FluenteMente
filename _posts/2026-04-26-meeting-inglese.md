@@ -2,16 +2,20 @@
 title: "Meeting inglese"
 permalink: /meeting-inglese/
 layout: post
-content_hash: 4c57548179c3e121a1efdcdd0dc9f0e314f58d9cd79471814fb9a98321593fd1
+content_hash: aab427948afe0c9c5d47f13504d44a148715d60b5aff28768c80add14da276e4
 ---
 
 # Meeting inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Meeting inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1618
+SEED: 4426
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

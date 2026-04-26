@@ -2,16 +2,20 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: b3d2c12c8cca857b9f214a94a84eda20cd570c7cd7e7b78c1045f6d8ebc138d1
+content_hash: f391e07a130e19612955efb28c95da03d189ac61b1864dd8c18e7f9d2db4e7ea
 ---
 
 # CV in inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su CV in inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1649
+SEED: 9043
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

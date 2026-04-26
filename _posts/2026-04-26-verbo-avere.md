@@ -2,16 +2,20 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: e022be406713c0365e37d8df1f8b60decec0e890a6aca0d8d043f1c62eec194f
+content_hash: bfe96c8f2e6c6fc043709448e12e4bb8eecf36ac885a85ac1bc00f5515a691cf
 ---
 
 # Verbo avere
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Verbo avere con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 3015
+SEED: 1699
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

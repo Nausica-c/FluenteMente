@@ -2,16 +2,20 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: 029261a2cfda3e07825fc33dc219fd540c7d3c1905215ab25500f48d25111532
+content_hash: 089c9d743490756f5b9e93094898d3c5aafbc14fa6510c2289c34a4ec9feb50b
 ---
 
 # Smettere tradurre
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Smettere tradurre con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6502
+SEED: 7469
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

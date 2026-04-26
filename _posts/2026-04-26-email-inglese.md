@@ -2,16 +2,20 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: f4be23069c822282526de0ef022eaa7953b98b087ca400741409e0f81206840f
+content_hash: 42694d586c6b2620291cf3b350a1d297e51d38cf3df2cbf5e50a328559ef1dcf
 ---
 
 # Email inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Email inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1010
+SEED: 7829
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

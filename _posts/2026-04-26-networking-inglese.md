@@ -2,16 +2,20 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: 7228101d20c74757e1f937ef26c535ccd4c002efde5a7af5b24c82b7e797dcf1
+content_hash: 61b39dafee8ef4d8471fd5d6a1f3881bb2b67f6f8ba8cf44cfff52af8d9ee9ca
 ---
 
 # Networking inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Networking inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 2317
+SEED: 1580
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

@@ -2,16 +2,20 @@
 title: "Metodo FluenteMente"
 permalink: /metodo-fluentemente/
 layout: post
-content_hash: b121400831c2723ae43268f383f0d911a114a9a40790b60edf4efd3ad281bdd7
+content_hash: 3fa4a7ce4d5c9b83785c5c08fc5ae9e6dc6574b7f8034c57df702386c0ce62aa
 ---
 
 # Metodo FluenteMente
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Metodo FluenteMente con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 2521
+SEED: 6125
 CLUSTER: method
 FUNNEL: bofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

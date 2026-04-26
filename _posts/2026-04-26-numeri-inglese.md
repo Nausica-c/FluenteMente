@@ -2,16 +2,20 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: 4145fee3bbb7a53e03dc4370dadc5d4a8884d587f65a62925dc37568f507f408
+content_hash: f48fb9ab905c4c1fd02f4a1cf0c6a98f32b46b23774bb29262fad278f4f67a0e
 ---
 
 # Numeri inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Numeri inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5771
+SEED: 3849
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

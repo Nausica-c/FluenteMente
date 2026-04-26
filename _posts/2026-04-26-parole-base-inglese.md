@@ -2,16 +2,20 @@
 title: "Parole base inglese"
 permalink: /parole-base-inglese/
 layout: post
-content_hash: 871610c269ea66e85000129a6a43207e597ed6f396bd447c7f3fcc7e1e2abdd8
+content_hash: e76ea2111140ead1a1e94027eb81410ca335d8945d93287db58372a7e6eb3700
 ---
 
 # Parole base inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Parole base inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5879
+SEED: 6000
 CLUSTER: base
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

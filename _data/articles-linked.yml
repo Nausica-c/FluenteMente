@@ -6,7 +6,14 @@
   cluster: method
   role: hub
   priority: 100
+  seed: 4822
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -17,7 +24,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -45,13 +52,34 @@
 
     ---
 
-    SEED: 3329
+    SEED: 4822
 
     CLUSTER: method
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 2
   title: Perché capisci l’inglese ma non riesci a parlare
   url: /metodo/blocco-parlare-inglese/
@@ -60,7 +88,14 @@
   cluster: method
   role: bridge
   priority: 95
+  seed: 8529
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -70,7 +105,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -98,13 +133,34 @@
 
     ---
 
-    SEED: 6221
+    SEED: 8529
 
     CLUSTER: method
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 3
   title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
   url: /inglese/viaggio/aeroporto/
@@ -113,7 +169,14 @@
   cluster: travel
   role: hub
   priority: 95
+  seed: 8081
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -124,7 +187,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -152,13 +215,26 @@
 
     ---
 
-    SEED: 3152
+    SEED: 8081
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 4
   title: 'Inglese in hotel: check-in, problemi e richieste'
   url: /inglese/viaggio/hotel/
@@ -167,7 +243,14 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 9840
   final_article: '# Inglese in hotel: check-in, problemi e richieste
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -177,7 +260,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -205,13 +288,26 @@
 
     ---
 
-    SEED: 9432
+    SEED: 9840
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 5
   title: 100 parole inglesi più usate per iniziare subito
   url: /inglese/base/100-parole-inglese/
@@ -220,7 +316,14 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 4439
   final_article: '# 100 parole inglesi più usate per iniziare subito
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -230,7 +333,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -258,13 +361,26 @@
 
     ---
 
-    SEED: 2219
+    SEED: 4439
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 6
   title: 'Alfabeto inglese e spelling: guida semplice per principianti'
   url: /inglese/base/alfabeto-inglese/
@@ -273,7 +389,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 1918
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -284,7 +407,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -312,13 +435,26 @@
 
     ---
 
-    SEED: 2161
+    SEED: 1918
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 7
   title: 'Numeri in inglese da 1 a 100: guida completa'
   url: /inglese/base/numeri-inglese/
@@ -327,7 +463,14 @@
   cluster: base
   role: spoke
   priority: 90
+  seed: 2207
   final_article: '# Numeri in inglese da 1 a 100: guida completa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -337,7 +480,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -365,13 +508,26 @@
 
     ---
 
-    SEED: 9258
+    SEED: 2207
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 8
   title: Come presentarsi in inglese in modo naturale
   url: /inglese/base/presentarsi-inglese/
@@ -380,7 +536,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 5502
   final_article: '# Come presentarsi in inglese in modo naturale
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -390,7 +553,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -418,13 +581,26 @@
 
     ---
 
-    SEED: 5447
+    SEED: 5502
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 9
   title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
   url: /inglese/viaggio/frasi-aeroporto/
@@ -433,7 +609,14 @@
   cluster: travel
   role: spoke
   priority: 95
+  seed: 5017
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -444,7 +627,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -472,13 +655,26 @@
 
     ---
 
-    SEED: 5038
+    SEED: 5017
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 10
   title: 'Inglese in hotel: frasi essenziali per viaggiare'
   url: /inglese/viaggio/hotel-inglese/
@@ -487,7 +683,14 @@
   cluster: travel
   role: spoke
   priority: 90
+  seed: 6777
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -497,7 +700,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -525,13 +728,26 @@
 
     ---
 
-    SEED: 2708
+    SEED: 6777
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 11
   title: 'Inglese per trasporti pubblici: metro, bus e taxi'
   url: /inglese/viaggio/trasporti-pubblici/
@@ -540,7 +756,14 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 2563
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -551,7 +774,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -579,13 +802,26 @@
 
     ---
 
-    SEED: 4197
+    SEED: 2563
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 12
   title: 'Inglese per shopping: negozi, prezzi e acquisti'
   url: /inglese/viaggio/shopping-inglese/
@@ -594,7 +830,14 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 3020
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -604,7 +847,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -632,13 +875,26 @@
 
     ---
 
-    SEED: 5638
+    SEED: 3020
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 13
   title: 'Inglese per emergenze in viaggio: frasi salvavita'
   url: /inglese/viaggio/emergenze-inglese/
@@ -647,7 +903,14 @@
   cluster: travel
   role: spoke
   priority: 90
+  seed: 8135
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -658,7 +921,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -686,13 +949,26 @@
 
     ---
 
-    SEED: 1095
+    SEED: 8135
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 14
   title: Inglese per Airbnb e case vacanza
   url: /inglese/viaggio/airbnb-inglese/
@@ -701,7 +977,14 @@
   cluster: travel
   role: spoke
   priority: 80
+  seed: 9628
   final_article: '# Inglese per Airbnb e case vacanza
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -711,7 +994,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -739,13 +1022,26 @@
 
     ---
 
-    SEED: 4497
+    SEED: 9628
 
     CLUSTER: travel
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 15
   title: Come lamentarsi in inglese (hotel, servizi, problemi)
   url: /inglese/viaggio/reclami-inglese/
@@ -754,7 +1050,14 @@
   cluster: travel
   role: spoke
   priority: 85
+  seed: 5318
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -765,7 +1068,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -793,13 +1096,30 @@
 
     ---
 
-    SEED: 2755
+    SEED: 5318
 
     CLUSTER: travel
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 16
   title: Affittare casa all’estero in inglese
   url: /inglese/expat/affittare-casa/
@@ -808,7 +1128,14 @@
   cluster: expat
   role: hub
   priority: 95
+  seed: 9459
   final_article: '# Affittare casa all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -818,7 +1145,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -846,13 +1173,34 @@
 
     ---
 
-    SEED: 8561
+    SEED: 9459
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 17
   title: Contratto d’affitto in inglese
   url: /inglese/expat/contratto-affitto/
@@ -861,7 +1209,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 7923
   final_article: '# Contratto d’affitto in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -871,7 +1226,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -899,13 +1254,34 @@
 
     ---
 
-    SEED: 4623
+    SEED: 7923
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 18
   title: Utenze casa all’estero in inglese
   url: /inglese/expat/utenze-casa/
@@ -914,7 +1290,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 8537
   final_article: '# Utenze casa all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -924,7 +1307,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -952,13 +1335,34 @@
 
     ---
 
-    SEED: 3716
+    SEED: 8537
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 19
   title: Andare dal medico all’estero in inglese
   url: /inglese/expat/medico-inglese/
@@ -967,7 +1371,14 @@
   cluster: expat
   role: spoke
   priority: 90
+  seed: 1206
   final_article: '# Andare dal medico all’estero in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -977,7 +1388,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1005,13 +1416,34 @@
 
     ---
 
-    SEED: 7674
+    SEED: 1206
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 20
   title: Aprire un conto bancario all’estero
   url: /inglese/expat/banca-inglese/
@@ -1020,7 +1452,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 6475
   final_article: '# Aprire un conto bancario all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1030,7 +1469,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1058,13 +1497,34 @@
 
     ---
 
-    SEED: 1391
+    SEED: 6475
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 21
   title: Lavori part-time all’estero
   url: /inglese/expat/lavoro-estero/
@@ -1073,7 +1533,14 @@
   cluster: expat
   role: spoke
   priority: 90
+  seed: 7699
   final_article: '# Lavori part-time all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1083,7 +1550,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1111,13 +1578,34 @@
 
     ---
 
-    SEED: 3234
+    SEED: 7699
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 22
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -1126,7 +1614,14 @@
   cluster: social
   role: hub
   priority: 90
+  seed: 7903
   final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1136,7 +1631,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1164,13 +1659,26 @@
 
     ---
 
-    SEED: 9858
+    SEED: 7903
 
     CLUSTER: social
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 23
   title: Small talk in inglese
   url: /inglese/social/small-talk/
@@ -1179,7 +1687,14 @@
   cluster: social
   role: spoke
   priority: 90
+  seed: 8652
   final_article: '# Small talk in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1189,7 +1704,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1217,13 +1732,30 @@
 
     ---
 
-    SEED: 4282
+    SEED: 8652
 
     CLUSTER: social
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 24
   title: Slang inglese moderno
   url: /inglese/social/slang-inglese/
@@ -1232,7 +1764,14 @@
   cluster: social
   role: spoke
   priority: 85
+  seed: 7375
   final_article: '# Slang inglese moderno
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1242,7 +1781,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1270,13 +1809,26 @@
 
     ---
 
-    SEED: 1883
+    SEED: 7375
 
     CLUSTER: social
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 25
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -1285,7 +1837,14 @@
   cluster: social
   role: spoke
   priority: 85
+  seed: 6759
   final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1295,7 +1854,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1323,13 +1882,30 @@
 
     ---
 
-    SEED: 7296
+    SEED: 6759
 
     CLUSTER: social
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 26
   title: Parlare al pub in inglese
   url: /inglese/social/pub-inglese/
@@ -1338,7 +1914,14 @@
   cluster: social
   role: spoke
   priority: 80
+  seed: 8697
   final_article: '# Parlare al pub in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1348,7 +1931,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1376,13 +1959,26 @@
 
     ---
 
-    SEED: 3140
+    SEED: 8697
 
     CLUSTER: social
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 27
   title: CV in inglese
   url: /inglese/business/cv/
@@ -1391,7 +1987,14 @@
   cluster: business
   role: hub
   priority: 95
+  seed: 9043
   final_article: '# CV in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1401,7 +2004,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1429,13 +2032,34 @@
 
     ---
 
-    SEED: 1649
+    SEED: 9043
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 28
   title: Colloquio di lavoro in inglese
   url: /inglese/business/interview/
@@ -1444,7 +2068,14 @@
   cluster: business
   role: spoke
   priority: 95
+  seed: 5172
   final_article: '# Colloquio di lavoro in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1454,7 +2085,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1482,13 +2113,34 @@
 
     ---
 
-    SEED: 8144
+    SEED: 5172
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 29
   title: Email formali in inglese
   url: /inglese/business/email-formali/
@@ -1497,7 +2149,14 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 7495
   final_article: '# Email formali in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1507,7 +2166,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1535,13 +2194,34 @@
 
     ---
 
-    SEED: 7027
+    SEED: 7495
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 30
   title: LinkedIn in inglese
   url: /inglese/business/linkedin/
@@ -1550,7 +2230,14 @@
   cluster: business
   role: spoke
   priority: 85
+  seed: 5523
   final_article: '# LinkedIn in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1560,7 +2247,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1588,13 +2275,34 @@
 
     ---
 
-    SEED: 7478
+    SEED: 5523
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 31
   title: Affittare casa all’estero
   url: /inglese/expat/affitto-casa-inglese/
@@ -1603,7 +2311,14 @@
   cluster: expat
   role: hub
   priority: 95
+  seed: 5765
   final_article: '# Affittare casa all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1613,7 +2328,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1641,13 +2356,34 @@
 
     ---
 
-    SEED: 4057
+    SEED: 5765
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 32
   title: Landlord e problemi casa
   url: /inglese/expat/landlord-problemi-casa/
@@ -1656,7 +2392,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 9267
   final_article: '# Landlord e problemi casa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1666,7 +2409,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1694,13 +2437,34 @@
 
     ---
 
-    SEED: 1115
+    SEED: 9267
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 33
   title: Conto corrente estero
   url: /inglese/expat/conto-corrente-inglese/
@@ -1709,7 +2473,14 @@
   cluster: expat
   role: spoke
   priority: 88
+  seed: 5072
   final_article: '# Conto corrente estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1719,7 +2490,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1747,13 +2518,34 @@
 
     ---
 
-    SEED: 5416
+    SEED: 5072
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 34
   title: Medico di base all’estero
   url: /inglese/expat/medico-base-inglese/
@@ -1762,7 +2554,14 @@
   cluster: expat
   role: spoke
   priority: 87
+  seed: 4389
   final_article: '# Medico di base all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1772,7 +2571,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1800,13 +2599,34 @@
 
     ---
 
-    SEED: 8309
+    SEED: 4389
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 35
   title: Utenze casa inglese
   url: /inglese/expat/utenze-casa-inglese/
@@ -1815,7 +2635,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 7492
   final_article: '# Utenze casa inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1825,7 +2652,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1853,13 +2680,34 @@
 
     ---
 
-    SEED: 7432
+    SEED: 7492
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 36
   title: Supermercato in inglese
   url: /inglese/expat/supermercato-inglese/
@@ -1868,7 +2716,14 @@
   cluster: expat
   role: spoke
   priority: 80
+  seed: 5308
   final_article: '# Supermercato in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1878,7 +2733,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1906,13 +2761,34 @@
 
     ---
 
-    SEED: 3546
+    SEED: 5308
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 37
   title: Salute e farmacia inglese
   url: /inglese/expat/salute-inglese/
@@ -1921,7 +2797,14 @@
   cluster: expat
   role: spoke
   priority: 85
+  seed: 2361
   final_article: '# Salute e farmacia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1931,7 +2814,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -1959,13 +2842,34 @@
 
     ---
 
-    SEED: 7388
+    SEED: 2361
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 38
   title: Meccanico e auto inglese
   url: /inglese/expat/meccanico-auto-inglese/
@@ -1974,7 +2878,14 @@
   cluster: expat
   role: spoke
   priority: 75
+  seed: 5532
   final_article: '# Meccanico e auto inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -1984,7 +2895,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2012,13 +2923,34 @@
 
     ---
 
-    SEED: 1881
+    SEED: 5532
 
     CLUSTER: expat
 
     FUNNEL: mofu
 
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 39
   title: Fare amicizia in inglese
   url: /inglese/social/amicizia-inglese/
@@ -2027,7 +2959,14 @@
   cluster: social
   role: hub
   priority: 90
+  seed: 3789
   final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2037,7 +2976,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2065,13 +3004,30 @@
 
     ---
 
-    SEED: 6040
+    SEED: 3789
 
     CLUSTER: social
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 40
   title: Small talk senza silenzi
   url: /inglese/social/small-talk-inglese/
@@ -2080,7 +3036,14 @@
   cluster: social
   role: spoke
   priority: 95
+  seed: 9297
   final_article: '# Small talk senza silenzi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2090,7 +3053,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2118,13 +3081,30 @@
 
     ---
 
-    SEED: 5096
+    SEED: 9297
 
     CLUSTER: social
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 41
   title: Slang reale inglese
   url: /inglese/social/slang-reale/
@@ -2133,7 +3113,14 @@
   cluster: social
   role: spoke
   priority: 85
+  seed: 4887
   final_article: '# Slang reale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2143,7 +3130,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2171,13 +3158,26 @@
 
     ---
 
-    SEED: 9243
+    SEED: 4887
 
     CLUSTER: social
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 42
   title: Dating in inglese
   url: /inglese/social/dating-inglese/
@@ -2186,7 +3186,14 @@
   cluster: social
   role: spoke
   priority: 80
+  seed: 8477
   final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2196,7 +3203,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2224,13 +3231,30 @@
 
     ---
 
-    SEED: 1289
+    SEED: 8477
 
     CLUSTER: social
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 43
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -2239,7 +3263,14 @@
   cluster: business
   role: hub
   priority: 95
+  seed: 5533
   final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2249,7 +3280,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2277,13 +3308,34 @@
 
     ---
 
-    SEED: 8713
+    SEED: 5533
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 44
   title: Colloquio inglese avanzato
   url: /inglese/business/colloquio-inglese/
@@ -2292,7 +3344,14 @@
   cluster: business
   role: spoke
   priority: 92
+  seed: 9558
   final_article: '# Colloquio inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2302,7 +3361,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2330,13 +3389,34 @@
 
     ---
 
-    SEED: 9674
+    SEED: 9558
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 45
   title: Email professionali inglese
   url: /inglese/business/email-inglese/
@@ -2345,7 +3425,14 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 6843
   final_article: '# Email professionali inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2355,7 +3442,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2383,13 +3470,34 @@
 
     ---
 
-    SEED: 9420
+    SEED: 6843
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 46
   title: Pronomi inglesi
   url: /inglese/base/pronomi-personali-inglese/
@@ -2398,7 +3506,14 @@
   cluster: base
   role: spoke
   priority: 90
+  seed: 2543
   final_article: '# Pronomi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2408,7 +3523,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2436,13 +3551,26 @@
 
     ---
 
-    SEED: 7956
+    SEED: 2543
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 47
   title: Articoli inglesi
   url: /inglese/base/articoli-inglese/
@@ -2451,7 +3579,14 @@
   cluster: base
   role: spoke
   priority: 92
+  seed: 1188
   final_article: '# Articoli inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2461,7 +3596,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2489,13 +3624,26 @@
 
     ---
 
-    SEED: 7957
+    SEED: 1188
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 48
   title: Plurale inglese
   url: /inglese/base/plurale-inglese/
@@ -2504,7 +3652,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 9413
   final_article: '# Plurale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2514,7 +3669,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2542,13 +3697,26 @@
 
     ---
 
-    SEED: 5888
+    SEED: 9413
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 49
   title: Dimostrativi inglesi
   url: /inglese/base/dimostrativi-inglese/
@@ -2557,7 +3725,14 @@
   cluster: base
   role: spoke
   priority: 80
+  seed: 5252
   final_article: '# Dimostrativi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2567,7 +3742,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2595,13 +3770,26 @@
 
     ---
 
-    SEED: 2816
+    SEED: 5252
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 50
   title: Aggettivi inglese
   url: /inglese/base/aggettivi-inglese/
@@ -2610,7 +3798,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 7999
   final_article: '# Aggettivi inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2620,7 +3815,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2648,13 +3843,26 @@
 
     ---
 
-    SEED: 8383
+    SEED: 7999
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 51
   title: Verbo essere
   url: /inglese/base/verbo-essere/
@@ -2663,7 +3871,14 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 4075
   final_article: '# Verbo essere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2673,7 +3888,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2701,13 +3916,26 @@
 
     ---
 
-    SEED: 6522
+    SEED: 4075
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 52
   title: Verbo avere
   url: /inglese/base/verbo-avere/
@@ -2716,7 +3944,14 @@
   cluster: base
   role: spoke
   priority: 95
+  seed: 1699
   final_article: '# Verbo avere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2726,7 +3961,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2754,13 +3989,26 @@
 
     ---
 
-    SEED: 3015
+    SEED: 1699
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 53
   title: Parole base inglese
   url: /inglese/base/parole-base/
@@ -2769,7 +4017,14 @@
   cluster: base
   role: hub
   priority: 100
+  seed: 6000
   final_article: '# Parole base inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2779,7 +4034,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2807,13 +4062,26 @@
 
     ---
 
-    SEED: 5879
+    SEED: 6000
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 54
   title: Numeri inglese
   url: /inglese/base/numeri-inglese/
@@ -2822,7 +4090,14 @@
   cluster: base
   role: spoke
   priority: 95
+  seed: 3849
   final_article: '# Numeri inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2832,7 +4107,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2860,13 +4135,26 @@
 
     ---
 
-    SEED: 5771
+    SEED: 3849
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 55
   title: Colori inglese
   url: /inglese/base/colori-inglese/
@@ -2875,7 +4163,14 @@
   cluster: base
   role: spoke
   priority: 80
+  seed: 2932
   final_article: '# Colori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2885,7 +4180,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2913,13 +4208,26 @@
 
     ---
 
-    SEED: 7460
+    SEED: 2932
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 56
   title: Tempo inglese
   url: /inglese/base/tempo-inglese/
@@ -2928,7 +4236,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 6746
   final_article: '# Tempo inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2938,7 +4253,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -2966,13 +4281,26 @@
 
     ---
 
-    SEED: 1991
+    SEED: 6746
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 57
   title: Vocabolario viaggio
   url: /inglese/base/vocabolario-viaggio/
@@ -2981,7 +4309,14 @@
   cluster: base
   role: hub
   priority: 95
+  seed: 8449
   final_article: '# Vocabolario viaggio
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -2991,7 +4326,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3019,13 +4354,26 @@
 
     ---
 
-    SEED: 7987
+    SEED: 8449
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 58
   title: Preposizioni inglesi
   url: /inglese/base/preposizioni-in-on-at/
@@ -3034,7 +4382,14 @@
   cluster: base
   role: spoke
   priority: 90
+  seed: 8083
   final_article: '# Preposizioni inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3044,7 +4399,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3072,13 +4427,26 @@
 
     ---
 
-    SEED: 9609
+    SEED: 8083
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 59
   title: Much many a lot
   url: /inglese/base/much-many-a-lot-of/
@@ -3087,7 +4455,14 @@
   cluster: base
   role: spoke
   priority: 85
+  seed: 4534
   final_article: '# Much many a lot
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3097,7 +4472,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3125,13 +4500,26 @@
 
     ---
 
-    SEED: 7356
+    SEED: 4534
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 60
   title: Do vs Make
   url: /inglese/base/do-vs-make/
@@ -3140,7 +4528,14 @@
   cluster: base
   role: spoke
   priority: 88
+  seed: 9278
   final_article: '# Do vs Make
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3150,7 +4545,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3178,13 +4573,26 @@
 
     ---
 
-    SEED: 4192
+    SEED: 9278
 
     CLUSTER: base
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 61
   title: CV inglese avanzato
   url: /inglese/business/cv-inglese/
@@ -3193,7 +4601,14 @@
   cluster: business
   role: hub
   priority: 100
+  seed: 5004
   final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3203,7 +4618,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3231,13 +4646,34 @@
 
     ---
 
-    SEED: 6250
+    SEED: 5004
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 62
   title: Colloquio inglese
   url: /inglese/business/colloquio-inglese/
@@ -3246,7 +4682,14 @@
   cluster: business
   role: spoke
   priority: 95
+  seed: 6402
   final_article: '# Colloquio inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3256,7 +4699,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3284,13 +4727,34 @@
 
     ---
 
-    SEED: 7998
+    SEED: 6402
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 63
   title: Email inglese
   url: /inglese/business/email-inglese/
@@ -3299,7 +4763,14 @@
   cluster: business
   role: spoke
   priority: 95
+  seed: 7829
   final_article: '# Email inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3309,7 +4780,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3337,13 +4808,34 @@
 
     ---
 
-    SEED: 1010
+    SEED: 7829
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 64
   title: Presentazioni inglese
   url: /inglese/business/presentazioni-inglese/
@@ -3352,7 +4844,14 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 6736
   final_article: '# Presentazioni inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3362,7 +4861,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3390,13 +4889,34 @@
 
     ---
 
-    SEED: 5046
+    SEED: 6736
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 65
   title: Meeting inglese
   url: /inglese/business/meeting-inglese/
@@ -3405,7 +4925,14 @@
   cluster: business
   role: spoke
   priority: 90
+  seed: 4426
   final_article: '# Meeting inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3415,7 +4942,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3443,13 +4970,34 @@
 
     ---
 
-    SEED: 1618
+    SEED: 4426
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 66
   title: Networking inglese
   url: /inglese/business/small-talk-business/
@@ -3458,7 +5006,14 @@
   cluster: business
   role: spoke
   priority: 88
+  seed: 1580
   final_article: '# Networking inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3468,7 +5023,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3496,13 +5051,34 @@
 
     ---
 
-    SEED: 2317
+    SEED: 1580
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 67
   title: Stipendio inglese
   url: /inglese/business/stipendio-inglese/
@@ -3511,7 +5087,14 @@
   cluster: business
   role: spoke
   priority: 92
+  seed: 3158
   final_article: '# Stipendio inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3521,7 +5104,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3549,13 +5132,34 @@
 
     ---
 
-    SEED: 7272
+    SEED: 3158
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 68
   title: LinkedIn inglese
   url: /inglese/business/linkedin-inglese/
@@ -3564,7 +5168,14 @@
   cluster: business
   role: spoke
   priority: 94
+  seed: 8829
   final_article: '# LinkedIn inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3574,7 +5185,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3602,13 +5213,34 @@
 
     ---
 
-    SEED: 7612
+    SEED: 8829
 
     CLUSTER: business
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 69
   title: Falsi amici inglese
   url: /inglese/cultura/falsi-amici/
@@ -3617,7 +5249,14 @@
   cluster: cultura
   role: hub
   priority: 95
+  seed: 7803
   final_article: '# Falsi amici inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3627,7 +5266,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3655,13 +5294,26 @@
 
     ---
 
-    SEED: 5630
+    SEED: 7803
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 70
   title: Parole intraducibili
   url: /inglese/cultura/parole-intraducibili/
@@ -3670,7 +5322,14 @@
   cluster: cultura
   role: spoke
   priority: 85
+  seed: 9325
   final_article: '# Parole intraducibili
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3680,7 +5339,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3708,13 +5367,26 @@
 
     ---
 
-    SEED: 5614
+    SEED: 9325
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 71
   title: UK vs US
   url: /inglese/cultura/uk-vs-us/
@@ -3723,7 +5395,14 @@
   cluster: cultura
   role: spoke
   priority: 90
+  seed: 2308
   final_article: '# UK vs US
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3733,7 +5412,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3761,13 +5440,26 @@
 
     ---
 
-    SEED: 2705
+    SEED: 2308
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 72
   title: Storia inglese
   url: /inglese/cultura/storia-inglese/
@@ -3776,7 +5468,14 @@
   cluster: cultura
   role: spoke
   priority: 80
+  seed: 8399
   final_article: '# Storia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3786,7 +5485,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3814,13 +5513,26 @@
 
     ---
 
-    SEED: 3878
+    SEED: 8399
 
     CLUSTER: cultura
 
     FUNNEL: tofu
 
+
+    {% include trust-box.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
 - id: 73
   title: Pronuncia italiani
   url: /inglese/pronuncia/errori-italiani/
@@ -3829,7 +5541,14 @@
   cluster: pronuncia
   role: spoke
   priority: 90
+  seed: 2247
   final_article: '# Pronuncia italiani
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3839,7 +5558,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3867,13 +5586,30 @@
 
     ---
 
-    SEED: 4391
+    SEED: 2247
 
     CLUSTER: pronuncia
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 74
   title: Slang reale
   url: /inglese/cultura/slang-reale/
@@ -3882,7 +5618,14 @@
   cluster: cultura
   role: spoke
   priority: 88
+  seed: 1148
   final_article: '# Slang reale
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3892,7 +5635,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3920,13 +5663,30 @@
 
     ---
 
-    SEED: 2939
+    SEED: 1148
 
     CLUSTER: cultura
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 75
   title: Mentalità inglese
   url: /inglese/cultura/mentalita-inglese/
@@ -3935,7 +5695,14 @@
   cluster: cultura
   role: spoke
   priority: 92
+  seed: 8171
   final_article: '# Mentalità inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3945,7 +5712,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -3973,13 +5740,30 @@
 
     ---
 
-    SEED: 8993
+    SEED: 8171
 
     CLUSTER: cultura
 
     FUNNEL: mofu
 
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 76
   title: Inglese da zero
   url: /metodo/studiare-inglese-zero/
@@ -3988,7 +5772,14 @@
   cluster: method
   role: spoke
   priority: 95
+  seed: 5911
   final_article: '# Inglese da zero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -3998,7 +5789,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4026,13 +5817,34 @@
 
     ---
 
-    SEED: 4044
+    SEED: 5911
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 77
   title: Blocco parlare inglese
   url: /metodo/blocco-parlato-inglese/
@@ -4041,7 +5853,14 @@
   cluster: method
   role: spoke
   priority: 100
+  seed: 2362
   final_article: '# Blocco parlare inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4051,7 +5870,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4079,13 +5898,34 @@
 
     ---
 
-    SEED: 8250
+    SEED: 2362
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 78
   title: Pensare in inglese
   url: /metodo/pensare-in-inglese/
@@ -4094,7 +5934,14 @@
   cluster: method
   role: spoke
   priority: 95
+  seed: 9898
   final_article: '# Pensare in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4104,7 +5951,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4132,13 +5979,34 @@
 
     ---
 
-    SEED: 1413
+    SEED: 9898
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 79
   title: Shadowing
   url: /metodo/shadowing-inglese/
@@ -4147,7 +6015,14 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 6724
   final_article: '# Shadowing
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4157,7 +6032,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4185,13 +6060,34 @@
 
     ---
 
-    SEED: 8491
+    SEED: 6724
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 80
   title: Input comprensibile
   url: /metodo/input-comprensibile/
@@ -4200,7 +6096,14 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 8943
   final_article: '# Input comprensibile
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4210,7 +6113,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4238,13 +6141,34 @@
 
     ---
 
-    SEED: 8142
+    SEED: 8943
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 81
   title: Metodo FluenteMente
   url: /metodo/fluentemente-metodo/
@@ -4253,7 +6177,14 @@
   cluster: method
   role: hub
   priority: 100
+  seed: 6125
   final_article: '# Metodo FluenteMente
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4263,7 +6194,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4291,13 +6222,34 @@
 
     ---
 
-    SEED: 2521
+    SEED: 6125
 
     CLUSTER: method
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 82
   title: Ripetizione spaziata
   url: /metodo/ripetizione-spaziata/
@@ -4306,7 +6258,14 @@
   cluster: method
   role: spoke
   priority: 88
+  seed: 9616
   final_article: '# Ripetizione spaziata
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4316,7 +6275,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4344,13 +6303,34 @@
 
     ---
 
-    SEED: 5152
+    SEED: 9616
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 83
   title: Routine inglese
   url: /metodo/routine-inglese/
@@ -4359,7 +6339,14 @@
   cluster: method
   role: spoke
   priority: 90
+  seed: 8665
   final_article: '# Routine inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4369,7 +6356,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4397,13 +6384,34 @@
 
     ---
 
-    SEED: 6735
+    SEED: 8665
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 84
   title: Smettere tradurre
   url: /metodo/smettere-tradurre/
@@ -4412,7 +6420,14 @@
   cluster: method
   role: spoke
   priority: 92
+  seed: 7469
   final_article: '# Smettere tradurre
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4422,7 +6437,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4450,13 +6465,34 @@
 
     ---
 
-    SEED: 6502
+    SEED: 7469
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 85
   title: Memoria vocabolario
   url: /metodo/memoria-vocabolario/
@@ -4465,7 +6501,14 @@
   cluster: method
   role: spoke
   priority: 88
+  seed: 9381
   final_article: '# Memoria vocabolario
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4475,7 +6518,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4503,13 +6546,34 @@
 
     ---
 
-    SEED: 3516
+    SEED: 9381
 
     CLUSTER: method
 
     FUNNEL: mofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 86
   title: Errori inglese
   url: /metodo/errori-inglese/
@@ -4518,7 +6582,14 @@
   cluster: conversion
   role: bridge
   priority: 95
+  seed: 2473
   final_article: '# Errori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4528,7 +6599,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4556,13 +6627,34 @@
 
     ---
 
-    SEED: 8202
+    SEED: 2473
 
     CLUSTER: conversion
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 87
   title: Metodi tradizionali
   url: /metodo/metodi-tradizionali-inglese/
@@ -4571,7 +6663,14 @@
   cluster: conversion
   role: bridge
   priority: 100
+  seed: 6943
   final_article: '# Metodi tradizionali
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4581,7 +6680,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4609,13 +6708,34 @@
 
     ---
 
-    SEED: 7814
+    SEED: 6943
 
     CLUSTER: conversion
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
 - id: 88
   title: Recensione Babbel
   url: /recensione-babbel/
@@ -4624,7 +6744,14 @@
   cluster: monetization
   role: money
   priority: 100
+  seed: 3547
   final_article: '# Recensione Babbel
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
 
 
     ## Introduzione
@@ -4634,7 +6761,7 @@
 
     ## Cos’è
 
-    Spiegazione semplice e immediata.
+    Spiegazione semplice e applicabile.
 
 
     ## Esempi pratici
@@ -4662,10 +6789,31 @@
 
     ---
 
-    SEED: 1883
+    SEED: 3547
 
     CLUSTER: monetization
 
     FUNNEL: bofu
 
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
     '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html

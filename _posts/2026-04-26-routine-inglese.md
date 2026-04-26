@@ -2,16 +2,20 @@
 title: "Routine inglese"
 permalink: /routine-inglese/
 layout: post
-content_hash: 0f1acf21226ced8ec35fb82d0433556191cbbc4fda51c663ceabf111f51074ad
+content_hash: aacc0ae57869eb0a301b1450cb45af9ca5cafd125e5bb5767d0e557f25e8d4dc
 ---
 
 # Routine inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Routine inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 6735
+SEED: 8665
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

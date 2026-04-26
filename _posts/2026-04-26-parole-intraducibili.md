@@ -2,16 +2,20 @@
 title: "Parole intraducibili"
 permalink: /parole-intraducibili/
 layout: post
-content_hash: d6d5054bf8698e3bb6e6ebbc1db25c8276c747dcb63dd55df4dfefeea3f27e35
+content_hash: e4ad4c089d5df5dda2e9ad9eb2bf57aa9f53565c5ca9a3d1b391129a7583cad4
 ---
 
 # Parole intraducibili
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Parole intraducibili con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,9 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 5614
+SEED: 9325
 CLUSTER: cultura
 FUNNEL: tofu
+
+{% include trust-box.html %}
+

@@ -2,16 +2,20 @@
 title: "LinkedIn inglese"
 permalink: /linkedin-inglese/
 layout: post
-content_hash: 725454af3581ac45a9c094c9a957f6b23dcec780c78f582a76306c51663fcc10
+content_hash: 2d64a1cf1fc5cf86ddc6dd054035433398b5ef07d53dfe2a625f0e86e027b3b9
 ---
 
 # LinkedIn inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su LinkedIn inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 7612
+SEED: 8829
 CLUSTER: business
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

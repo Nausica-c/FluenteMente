@@ -2,16 +2,20 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: 979614dd565134816aa8a044699b4d81ddd4f4a953581c2d1916c53d0bc3e957
+content_hash: 8ebc9c2ffe458a4ce0db07d28c75405d298a6d2486bbc7c80bf18cd4d2fc0423
 ---
 
 # Inglese da zero
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Inglese da zero con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 4044
+SEED: 5911
 CLUSTER: method
 FUNNEL: mofu
+
+{% include promo-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+

@@ -2,16 +2,20 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
-content_hash: 58a57ede43f345db9f793b2d0ec8b106970ed74805b5d453cc4e90fa1521dad3
+content_hash: ddd5b79d7ef5506de795fcc463cf06ac9ffecdda0b27f31b0e6cb8d406761af3
 ---
 
 # Meccanico e auto inglese
+
+{% include tldr-box.html %}
+
+{% include section-in-breve.html %}
 
 ## Introduzione
 Guida pratica su Meccanico e auto inglese con esempi reali.
 
 ## Cos’è
-Spiegazione semplice e immediata.
+Spiegazione semplice e applicabile.
 
 ## Esempi pratici
 - esempio 1
@@ -27,6 +31,13 @@ Errori tipici italiani.
 Situazioni: viaggio, lavoro, expat.
 
 ---
-SEED: 1881
+SEED: 5532
 CLUSTER: expat
 FUNNEL: mofu
+
+{% include bridge-box.html %}
+
+{% include trust-box.html %}
+
+{% include affiliate-disclosure.html %}
+
