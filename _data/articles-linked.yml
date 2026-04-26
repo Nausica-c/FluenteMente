@@ -26,6 +26,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Paura di parlare inglese: come sbloccarla definitivamente.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -38,7 +55,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Paura di parlare inglese: come sbloccarla definitivamente
+
+    Introduzione a Paura di parlare inglese: come sbloccarla definitivamente.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -82,6 +113,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Perché capisci l’inglese ma non riesci a parlare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -94,7 +142,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Perché capisci l’inglese ma non riesci a parlare
+
+    Introduzione a Perché capisci l’inglese ma non riesci a parlare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -119,30 +181,30 @@
   role: hub
   priority: 95
   internal_links:
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-    cluster: travel
-    funnel: tofu
   - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
     url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
+    cluster: travel
+    funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -153,6 +215,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese in aeroporto: frasi essenziali per viaggiare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -165,7 +244,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese in aeroporto: frasi essenziali per viaggiare
+
+    Introduzione a Inglese in aeroporto: frasi essenziali per viaggiare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -187,30 +280,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
     url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
-    funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -221,6 +314,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese in hotel: check-in, problemi e richieste.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -233,7 +343,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese in hotel: check-in, problemi e richieste
+
+    Introduzione a Inglese in hotel: check-in, problemi e richieste.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -255,18 +379,6 @@
   role: hub
   priority: 100
   internal_links:
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -275,10 +387,22 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -288,6 +412,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a 100 parole inglesi più usate per iniziare subito.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -300,7 +441,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: 100 parole inglesi più usate per iniziare subito
+
+    Introduzione a 100 parole inglesi più usate per iniziare subito.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -319,30 +474,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -352,6 +507,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Alfabeto inglese e spelling: guida semplice per principianti.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -364,8 +536,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Alfabeto inglese e spelling: guida semplice per
-    principianti
+
+    Introduzione a Alfabeto inglese e spelling: guida semplice per principianti.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -384,6 +569,10 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
     cluster: base
@@ -392,18 +581,14 @@
     url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
     cluster: travel
-    funnel: mofu
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -417,6 +602,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Numeri in inglese da 1 a 100: guida completa.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -429,7 +631,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Numeri in inglese da 1 a 100: guida completa
+
+    Introduzione a Numeri in inglese da 1 a 100: guida completa.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -448,30 +664,30 @@
   role: spoke
   priority: 85
   internal_links:
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   - title: 100 parole inglesi più usate per iniziare subito
     url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
     cluster: base
     funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -481,6 +697,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Come presentarsi in inglese in modo naturale.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -493,7 +726,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Come presentarsi in inglese in modo naturale
+
+    Introduzione a Come presentarsi in inglese in modo naturale.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -512,9 +759,9 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
@@ -524,14 +771,14 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -546,6 +793,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Frasi inglese aeroporto: check-in, gate e bagagli.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -558,7 +822,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Frasi inglese aeroporto: check-in, gate e bagagli
+
+    Introduzione a Frasi inglese aeroporto: check-in, gate e bagagli.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -580,6 +858,18 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
+    funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
@@ -588,22 +878,10 @@
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -614,6 +892,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese in hotel: frasi essenziali per viaggiare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -626,7 +921,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese in hotel: frasi essenziali per viaggiare
+
+    Introduzione a Inglese in hotel: frasi essenziali per viaggiare.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -648,30 +957,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -682,6 +991,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese per trasporti pubblici: metro, bus e taxi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -694,7 +1020,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese per trasporti pubblici: metro, bus e taxi
+
+    Introduzione a Inglese per trasporti pubblici: metro, bus e taxi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -716,25 +1056,25 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
@@ -750,6 +1090,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese per shopping: negozi, prezzi e acquisti.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -762,7 +1119,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese per shopping: negozi, prezzi e acquisti
+
+    Introduzione a Inglese per shopping: negozi, prezzi e acquisti.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -788,26 +1159,26 @@
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
-  - title: 'Inglese in hotel: check-in, problemi e richieste'
-    url: /inglese/viaggio/hotel/
-    cluster: travel
-    funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
+    cluster: travel
+    funnel: tofu
+  - title: 'Inglese in hotel: check-in, problemi e richieste'
+    url: /inglese/viaggio/hotel/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -818,6 +1189,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese per emergenze in viaggio: frasi salvavita.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -830,7 +1218,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese per emergenze in viaggio: frasi salvavita
+
+    Introduzione a Inglese per emergenze in viaggio: frasi salvavita.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -852,18 +1254,22 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
     cluster: travel
-    funnel: tofu
+    funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
@@ -872,10 +1278,6 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -886,6 +1288,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese per Airbnb e case vacanza.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -898,7 +1317,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese per Airbnb e case vacanza
+
+    Introduzione a Inglese per Airbnb e case vacanza.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -920,30 +1353,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
+    url: /inglese/viaggio/frasi-aeroporto/
     cluster: travel
     funnel: tofu
   - title: 'Inglese in hotel: check-in, problemi e richieste'
     url: /inglese/viaggio/hotel/
     cluster: travel
     funnel: tofu
-  - title: 'Frasi inglese aeroporto: check-in, gate e bagagli'
-    url: /inglese/viaggio/frasi-aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -954,6 +1387,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Come lamentarsi in inglese (hotel, servizi, problemi).
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -966,7 +1416,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Come lamentarsi in inglese (hotel, servizi, problemi)
+
+    Introduzione a Come lamentarsi in inglese (hotel, servizi, problemi).
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster travel.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include orient-box.html %}
@@ -1014,6 +1478,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Affittare casa all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1026,7 +1507,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Affittare casa all’estero in inglese
+
+    Introduzione a Affittare casa all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1048,22 +1543,22 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
     funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1074,6 +1569,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Contratto d’affitto in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1086,7 +1598,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Contratto d’affitto in inglese
+
+    Introduzione a Contratto d’affitto in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1112,10 +1638,6 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
@@ -1124,6 +1646,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1134,6 +1660,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Utenze casa all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1146,7 +1689,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Utenze casa all’estero in inglese
+
+    Introduzione a Utenze casa all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1168,16 +1725,8 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
@@ -1188,6 +1737,14 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1198,6 +1755,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Andare dal medico all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1210,7 +1784,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Andare dal medico all’estero in inglese
+
+    Introduzione a Andare dal medico all’estero in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1232,14 +1820,6 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
@@ -1248,10 +1828,18 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1262,6 +1850,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Aprire un conto bancario all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1274,7 +1879,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Aprire un conto bancario all’estero
+
+    Introduzione a Aprire un conto bancario all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1296,6 +1915,10 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
@@ -1304,18 +1927,14 @@
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1326,6 +1945,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Lavori part-time all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Lavori part-time all’estero
 
 
@@ -1338,7 +1974,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Lavori part-time all’estero
+
+    Introduzione a Lavori part-time all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1360,22 +2010,22 @@
   role: hub
   priority: 90
   internal_links:
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
-    funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
+    funnel: mofu
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
@@ -1393,6 +2043,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Fare amicizia in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Fare amicizia in inglese
 
 
@@ -1405,7 +2072,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Fare amicizia in inglese
+
+    Introduzione a Fare amicizia in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1424,10 +2105,6 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Slang inglese moderno
     url: /inglese/social/slang-inglese/
     cluster: social
@@ -1444,6 +2121,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1453,6 +2134,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Small talk in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Small talk in inglese
 
 
@@ -1465,7 +2163,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Small talk in inglese
+
+    Introduzione a Small talk in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1484,6 +2196,18 @@
   role: spoke
   priority: 85
   internal_links:
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -1491,18 +2215,6 @@
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
-    funnel: mofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
@@ -1517,6 +2229,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Slang inglese moderno.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Slang inglese moderno
 
 
@@ -1529,7 +2258,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Slang inglese moderno
+
+    Introduzione a Slang inglese moderno.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1548,30 +2291,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
     funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1581,6 +2324,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Dating in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Dating in inglese
 
 
@@ -1593,7 +2353,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Dating in inglese
+
+    Introduzione a Dating in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1612,30 +2386,30 @@
   role: spoke
   priority: 80
   internal_links:
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
     funnel: mofu
   - title: Slang inglese moderno
     url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1645,6 +2419,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Parlare al pub in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Parlare al pub in inglese
 
 
@@ -1657,7 +2448,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Parlare al pub in inglese
+
+    Introduzione a Parlare al pub in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1680,14 +2485,14 @@
     url: /inglese/business/interview/
     cluster: business
     funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1697,6 +2502,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a CV in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# CV in inglese
 
 
@@ -1709,7 +2531,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: CV in inglese
+
+    Introduzione a CV in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1728,18 +2564,18 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1749,6 +2585,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Colloquio di lavoro in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Colloquio di lavoro in inglese
 
 
@@ -1761,7 +2614,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Colloquio di lavoro in inglese
+
+    Introduzione a Colloquio di lavoro in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1801,6 +2668,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Email formali in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Email formali in inglese
 
 
@@ -1813,7 +2697,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Email formali in inglese
+
+    Introduzione a Email formali in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1832,16 +2730,16 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
     cluster: business
     funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
@@ -1857,6 +2755,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a LinkedIn in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# LinkedIn in inglese
 
 
@@ -1869,7 +2784,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: LinkedIn in inglese
+
+    Introduzione a LinkedIn in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -1888,26 +2817,26 @@
   role: hub
   priority: 95
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
     funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1918,6 +2847,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Affittare casa all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Affittare casa all’estero
 
 
@@ -1930,7 +2876,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Affittare casa all’estero
+
+    Introduzione a Affittare casa all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -1956,10 +2916,10 @@
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
     cluster: expat
@@ -1968,10 +2928,10 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -1982,6 +2942,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Landlord e problemi casa.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Landlord e problemi casa
 
 
@@ -1994,7 +2971,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Landlord e problemi casa
+
+    Introduzione a Landlord e problemi casa.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2016,16 +3007,12 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: Contratto d’affitto in inglese
-    url: /inglese/expat/contratto-affitto/
-    cluster: expat
-    funnel: mofu
   - title: Utenze casa all’estero in inglese
     url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
@@ -2036,6 +3023,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Contratto d’affitto in inglese
+    url: /inglese/expat/contratto-affitto/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2046,6 +3037,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Conto corrente estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Conto corrente estero
 
 
@@ -2058,7 +3066,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Conto corrente estero
+
+    Introduzione a Conto corrente estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2080,26 +3102,26 @@
   role: spoke
   priority: 87
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2110,6 +3132,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Medico di base all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Medico di base all’estero
 
 
@@ -2122,7 +3161,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Medico di base all’estero
+
+    Introduzione a Medico di base all’estero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2144,26 +3197,26 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2174,6 +3227,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Utenze casa inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Utenze casa inglese
 
 
@@ -2186,7 +3256,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Utenze casa inglese
+
+    Introduzione a Utenze casa inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2208,6 +3292,18 @@
   role: spoke
   priority: 80
   internal_links:
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
@@ -2216,18 +3312,6 @@
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2238,6 +3322,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Supermercato in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Supermercato in inglese
 
 
@@ -2250,7 +3351,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Supermercato in inglese
+
+    Introduzione a Supermercato in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2272,26 +3387,26 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
     cluster: expat
     funnel: mofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2302,6 +3417,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Salute e farmacia inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Salute e farmacia inglese
 
 
@@ -2314,7 +3446,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Salute e farmacia inglese
+
+    Introduzione a Salute e farmacia inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2336,26 +3482,26 @@
   role: spoke
   priority: 75
   internal_links:
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
   - title: Contratto d’affitto in inglese
     url: /inglese/expat/contratto-affitto/
     cluster: expat
     funnel: mofu
-  - title: Utenze casa all’estero in inglese
-    url: /inglese/expat/utenze-casa/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: Utenze casa all’estero in inglese
+    url: /inglese/expat/utenze-casa/
+    cluster: expat
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2366,6 +3512,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Meccanico e auto inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Meccanico e auto inglese
 
 
@@ -2378,7 +3541,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Meccanico e auto inglese
+
+    Introduzione a Meccanico e auto inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster expat.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     {% include bridge-box.html %}
@@ -2404,6 +3581,10 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
@@ -2420,10 +3601,6 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2433,6 +3610,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Fare amicizia in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Fare amicizia in inglese
 
 
@@ -2445,7 +3639,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Fare amicizia in inglese
+
+    Introduzione a Fare amicizia in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2464,10 +3672,22 @@
   role: spoke
   priority: 95
   internal_links:
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Affittare casa all’estero in inglese
+    url: /inglese/expat/affittare-casa/
+    cluster: expat
+    funnel: mofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   - title: Small talk in inglese
     url: /inglese/social/small-talk/
     cluster: social
@@ -2476,18 +3696,6 @@
     url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
-  - title: Affittare casa all’estero in inglese
-    url: /inglese/expat/affittare-casa/
-    cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2497,6 +3705,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Small talk senza silenzi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Small talk senza silenzi
 
 
@@ -2509,7 +3734,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Small talk senza silenzi
+
+    Introduzione a Small talk senza silenzi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2528,30 +3767,30 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
-    funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
-    cluster: social
-    funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
-    funnel: mofu
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
     funnel: mofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2561,6 +3800,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Slang reale inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Slang reale inglese
 
 
@@ -2573,7 +3829,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Slang reale inglese
+
+    Introduzione a Slang reale inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2592,30 +3862,30 @@
   role: spoke
   priority: 80
   internal_links:
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
-  - title: Small talk in inglese
-    url: /inglese/social/small-talk/
-    cluster: social
-    funnel: mofu
-  - title: Slang inglese moderno
-    url: /inglese/social/slang-inglese/
     cluster: social
     funnel: tofu
   - title: Affittare casa all’estero in inglese
     url: /inglese/expat/affittare-casa/
     cluster: expat
     funnel: mofu
+  - title: Small talk in inglese
+    url: /inglese/social/small-talk/
+    cluster: social
+    funnel: mofu
   - title: CV in inglese
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: Slang inglese moderno
+    url: /inglese/social/slang-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2625,6 +3895,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Dating in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Dating in inglese
 
 
@@ -2637,7 +3924,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Dating in inglese
+
+    Introduzione a Dating in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster social.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2656,16 +3957,16 @@
   role: hub
   priority: 95
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
     cluster: business
     funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
@@ -2681,6 +3982,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a CV inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# CV inglese avanzato
 
 
@@ -2693,7 +4011,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: CV inglese avanzato
+
+    Introduzione a CV inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2712,22 +4044,22 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2737,6 +4069,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Colloquio inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Colloquio inglese avanzato
 
 
@@ -2749,7 +4098,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Colloquio inglese avanzato
+
+    Introduzione a Colloquio inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2768,22 +4131,22 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
-  - title: Email formali in inglese
-    url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Email formali in inglese
+    url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2793,6 +4156,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Email professionali inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Email professionali inglese
 
 
@@ -2805,7 +4185,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Email professionali inglese
+
+    Introduzione a Email professionali inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2824,22 +4218,22 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
@@ -2857,6 +4251,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Pronomi inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Pronomi inglesi
 
 
@@ -2869,7 +4280,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Pronomi inglesi
+
+    Introduzione a Pronomi inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2888,18 +4313,14 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
@@ -2908,10 +4329,14 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2921,6 +4346,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Articoli inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Articoli inglesi
 
 
@@ -2933,7 +4375,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Articoli inglesi
+
+    Introduzione a Articoli inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -2956,26 +4412,26 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -2985,6 +4441,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Plurale inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Plurale inglese
 
 
@@ -2997,7 +4470,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Plurale inglese
+
+    Introduzione a Plurale inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3020,14 +4507,10 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
@@ -3036,10 +4519,14 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3049,6 +4536,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Dimostrativi inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Dimostrativi inglesi
 
 
@@ -3061,7 +4565,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Dimostrativi inglesi
+
+    Introduzione a Dimostrativi inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3080,14 +4598,6 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
@@ -3096,14 +4606,22 @@
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3113,6 +4631,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Aggettivi inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Aggettivi inglese
 
 
@@ -3125,7 +4660,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Aggettivi inglese
+
+    Introduzione a Aggettivi inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3144,14 +4693,6 @@
   role: hub
   priority: 100
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
@@ -3164,10 +4705,18 @@
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3177,6 +4726,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Verbo essere.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Verbo essere
 
 
@@ -3189,7 +4755,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Verbo essere
+
+    Introduzione a Verbo essere.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3208,30 +4788,30 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3241,6 +4821,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Verbo avere.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Verbo avere
 
 
@@ -3253,7 +4850,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Verbo avere
+
+    Introduzione a Verbo avere.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3272,30 +4883,30 @@
   role: hub
   priority: 100
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
     funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3305,6 +4916,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Parole base inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Parole base inglese
 
 
@@ -3317,7 +4945,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Parole base inglese
+
+    Introduzione a Parole base inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3336,14 +4978,14 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
@@ -3352,14 +4994,14 @@
     url: /inglese/viaggio/aeroporto/
     cluster: travel
     funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3369,6 +5011,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Numeri inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Numeri inglese
 
 
@@ -3381,7 +5040,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Numeri inglese
+
+    Introduzione a Numeri inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3400,16 +5073,8 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
     url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
@@ -3424,6 +5089,14 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3433,6 +5106,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Colori inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Colori inglese
 
 
@@ -3445,7 +5135,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Colori inglese
+
+    Introduzione a Colori inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3464,21 +5168,21 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
     funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
     funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
@@ -3497,6 +5201,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Tempo inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Tempo inglese
 
 
@@ -3509,7 +5230,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Tempo inglese
+
+    Introduzione a Tempo inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3528,18 +5263,6 @@
   role: hub
   priority: 95
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
@@ -3552,6 +5275,18 @@
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3561,6 +5296,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Vocabolario viaggio.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Vocabolario viaggio
 
 
@@ -3573,7 +5325,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Vocabolario viaggio
+
+    Introduzione a Vocabolario viaggio.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3596,26 +5362,26 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
   - title: Fare amicizia in inglese
     url: /inglese/social/amicizia-inglese/
     cluster: social
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Numeri in inglese da 1 a 100: guida completa'
+    url: /inglese/base/numeri-inglese/
+    cluster: base
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3625,6 +5391,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Preposizioni inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Preposizioni inglesi
 
 
@@ -3637,7 +5420,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Preposizioni inglesi
+
+    Introduzione a Preposizioni inglesi.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3660,26 +5457,26 @@
     url: /inglese/base/100-parole-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
     funnel: tofu
   - title: 'Numeri in inglese da 1 a 100: guida completa'
     url: /inglese/base/numeri-inglese/
     cluster: base
     funnel: tofu
-  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
-    url: /inglese/viaggio/aeroporto/
-    cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
+    url: /inglese/viaggio/aeroporto/
+    cluster: travel
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3689,6 +5486,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Much many a lot.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Much many a lot
 
 
@@ -3701,7 +5515,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Much many a lot
+
+    Introduzione a Much many a lot.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3720,30 +5548,30 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: 100 parole inglesi più usate per iniziare subito
-    url: /inglese/base/100-parole-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
-    url: /inglese/base/alfabeto-inglese/
-    cluster: base
-    funnel: tofu
-  - title: 'Numeri in inglese da 1 a 100: guida completa'
-    url: /inglese/base/numeri-inglese/
-    cluster: base
-    funnel: tofu
   - title: 'Inglese in aeroporto: frasi essenziali per viaggiare'
     url: /inglese/viaggio/aeroporto/
     cluster: travel
-    funnel: tofu
-  - title: Fare amicizia in inglese
-    url: /inglese/social/amicizia-inglese/
-    cluster: social
     funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Fare amicizia in inglese
+    url: /inglese/social/amicizia-inglese/
+    cluster: social
+    funnel: tofu
+  - title: 'Alfabeto inglese e spelling: guida semplice per principianti'
+    url: /inglese/base/alfabeto-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 100 parole inglesi più usate per iniziare subito
+    url: /inglese/base/100-parole-inglese/
+    cluster: base
+    funnel: tofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3753,6 +5581,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Do vs Make.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Do vs Make
 
 
@@ -3765,7 +5610,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Do vs Make
+
+    Introduzione a Do vs Make.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster base.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3788,10 +5647,6 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
@@ -3800,6 +5655,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3809,6 +5668,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a CV inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# CV inglese avanzato
 
 
@@ -3821,7 +5697,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: CV inglese avanzato
+
+    Introduzione a CV inglese avanzato.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3840,10 +5730,10 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
     cluster: business
@@ -3852,10 +5742,10 @@
     url: /inglese/business/email-formali/
     cluster: business
     funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3865,6 +5755,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Colloquio inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Colloquio inglese
 
 
@@ -3877,7 +5784,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Colloquio inglese
+
+    Introduzione a Colloquio inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3896,22 +5817,22 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3921,6 +5842,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Email inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Email inglese
 
 
@@ -3933,7 +5871,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Email inglese
+
+    Introduzione a Email inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -3952,10 +5904,6 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
     cluster: business
@@ -3968,6 +5916,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -3977,6 +5929,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Presentazioni inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Presentazioni inglese
 
 
@@ -3989,7 +5958,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Presentazioni inglese
+
+    Introduzione a Presentazioni inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4008,14 +5991,6 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
@@ -4024,6 +5999,14 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
+    cluster: business
+    funnel: mofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4033,6 +6016,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Meeting inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Meeting inglese
 
 
@@ -4045,7 +6045,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Meeting inglese
+
+    Introduzione a Meeting inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4068,10 +6082,6 @@
     url: /inglese/business/cv/
     cluster: business
     funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
     cluster: business
@@ -4080,6 +6090,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4089,6 +6103,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Networking inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Networking inglese
 
 
@@ -4101,7 +6132,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Networking inglese
+
+    Introduzione a Networking inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4120,12 +6165,12 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
   - title: Colloquio di lavoro in inglese
     url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: Email formali in inglese
@@ -4145,6 +6190,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Stipendio inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Stipendio inglese
 
 
@@ -4157,7 +6219,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Stipendio inglese
+
+    Introduzione a Stipendio inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4176,22 +6252,22 @@
   role: spoke
   priority: 94
   internal_links:
-  - title: CV in inglese
-    url: /inglese/business/cv/
-    cluster: business
-    funnel: mofu
-  - title: Colloquio di lavoro in inglese
-    url: /inglese/business/interview/
-    cluster: business
-    funnel: mofu
   - title: Email formali in inglese
     url: /inglese/business/email-formali/
+    cluster: business
+    funnel: mofu
+  - title: CV in inglese
+    url: /inglese/business/cv/
     cluster: business
     funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Colloquio di lavoro in inglese
+    url: /inglese/business/interview/
+    cluster: business
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4201,6 +6277,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a LinkedIn inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# LinkedIn inglese
 
 
@@ -4213,7 +6306,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: LinkedIn inglese
+
+    Introduzione a LinkedIn inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster business.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4236,10 +6343,6 @@
     url: /inglese/cultura/parole-intraducibili/
     cluster: cultura
     funnel: tofu
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
@@ -4248,6 +6351,10 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
+    cluster: cultura
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4257,6 +6364,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Falsi amici inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Falsi amici inglese
 
 
@@ -4269,7 +6393,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Falsi amici inglese
+
+    Introduzione a Falsi amici inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4288,22 +6426,22 @@
   role: spoke
   priority: 85
   internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-    cluster: cultura
-    funnel: tofu
   - title: UK vs US
     url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
+    cluster: cultura
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4313,6 +6451,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Parole intraducibili.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Parole intraducibili
 
 
@@ -4325,7 +6480,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Parole intraducibili
+
+    Introduzione a Parole intraducibili.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4344,22 +6513,22 @@
   role: spoke
   priority: 90
   internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-    cluster: cultura
-    funnel: tofu
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-    cluster: cultura
-    funnel: tofu
   - title: Come lamentarsi in inglese (hotel, servizi, problemi)
     url: /inglese/viaggio/reclami-inglese/
     cluster: travel
     funnel: mofu
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
+    cluster: cultura
+    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Parole intraducibili
+    url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4369,6 +6538,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a UK vs US.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# UK vs US
 
 
@@ -4381,7 +6567,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: UK vs US
+
+    Introduzione a UK vs US.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4400,26 +6600,26 @@
   role: spoke
   priority: 80
   internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
+    url: /inglese/viaggio/reclami-inglese/
+    cluster: travel
+    funnel: mofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
     cluster: cultura
     funnel: tofu
   - title: Parole intraducibili
     url: /inglese/cultura/parole-intraducibili/
     cluster: cultura
     funnel: tofu
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
-  - title: Come lamentarsi in inglese (hotel, servizi, problemi)
-    url: /inglese/viaggio/reclami-inglese/
-    cluster: travel
-    funnel: mofu
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4429,6 +6629,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Storia inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Storia inglese
 
 
@@ -4441,7 +6658,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Storia inglese
+
+    Introduzione a Storia inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4473,6 +6704,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Pronuncia italiani.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster pronuncia.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Pronuncia italiani
 
 
@@ -4485,7 +6733,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Pronuncia italiani
+
+    Introduzione a Pronuncia italiani.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster pronuncia.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4504,22 +6766,22 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: Falsi amici inglese
-    url: /inglese/cultura/falsi-amici/
-    cluster: cultura
-    funnel: tofu
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-    cluster: cultura
-    funnel: tofu
   - title: UK vs US
     url: /inglese/cultura/uk-vs-us/
+    cluster: cultura
+    funnel: tofu
+  - title: Falsi amici inglese
+    url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: Parole intraducibili
+    url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4529,6 +6791,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Slang reale.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Slang reale
 
 
@@ -4541,7 +6820,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Slang reale
+
+    Introduzione a Slang reale.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4564,18 +6857,18 @@
     url: /inglese/cultura/falsi-amici/
     cluster: cultura
     funnel: tofu
-  - title: Parole intraducibili
-    url: /inglese/cultura/parole-intraducibili/
-    cluster: cultura
-    funnel: tofu
-  - title: UK vs US
-    url: /inglese/cultura/uk-vs-us/
-    cluster: cultura
-    funnel: tofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
+  - title: UK vs US
+    url: /inglese/cultura/uk-vs-us/
+    cluster: cultura
+    funnel: tofu
+  - title: Parole intraducibili
+    url: /inglese/cultura/parole-intraducibili/
+    cluster: cultura
+    funnel: tofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4585,6 +6878,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Mentalità inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Mentalità inglese
 
 
@@ -4597,7 +6907,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Mentalità inglese
+
+    Introduzione a Mentalità inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster cultura.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4633,6 +6957,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Inglese da zero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Inglese da zero
 
 
@@ -4645,7 +6986,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Inglese da zero
+
+    Introduzione a Inglese da zero.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4664,12 +7019,12 @@
   role: spoke
   priority: 100
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
   - title: Inglese da zero
@@ -4685,6 +7040,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Blocco parlare inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Blocco parlare inglese
 
 
@@ -4697,7 +7069,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Blocco parlare inglese
+
+    Introduzione a Blocco parlare inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4716,12 +7102,12 @@
   role: spoke
   priority: 95
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
   - title: Inglese da zero
@@ -4737,6 +7123,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Pensare in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Pensare in inglese
 
 
@@ -4749,7 +7152,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Pensare in inglese
+
+    Introduzione a Pensare in inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4768,6 +7185,10 @@
   role: spoke
   priority: 90
   internal_links:
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -4776,10 +7197,6 @@
     url: /metodo/blocco-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4789,6 +7206,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Shadowing.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Shadowing
 
 
@@ -4801,7 +7235,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Shadowing
+
+    Introduzione a Shadowing.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4824,14 +7272,14 @@
     url: /paura-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Inglese da zero
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  - title: Perché capisci l’inglese ma non riesci a parlare
+    url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4841,6 +7289,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Input comprensibile.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Input comprensibile
 
 
@@ -4853,7 +7318,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Input comprensibile
+
+    Introduzione a Input comprensibile.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4872,6 +7351,10 @@
   role: hub
   priority: 100
   internal_links:
+  - title: Inglese da zero
+    url: /metodo/studiare-inglese-zero/
+    cluster: method
+    funnel: mofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
@@ -4880,10 +7363,6 @@
     url: /metodo/blocco-parlare-inglese/
     cluster: method
     funnel: bofu
-  - title: Inglese da zero
-    url: /metodo/studiare-inglese-zero/
-    cluster: method
-    funnel: mofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4895,6 +7374,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Metodo FluenteMente.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Metodo FluenteMente
 
 
@@ -4907,7 +7403,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Metodo FluenteMente
+
+    Introduzione a Metodo FluenteMente.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -4932,18 +7442,18 @@
   role: spoke
   priority: 88
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
-  - title: Perché capisci l’inglese ma non riesci a parlare
-    url: /metodo/blocco-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Inglese da zero
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  - title: Perché capisci l’inglese ma non riesci a parlare
+    url: /metodo/blocco-parlare-inglese/
+    cluster: method
+    funnel: bofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -4953,6 +7463,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Ripetizione spaziata.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Ripetizione spaziata
 
 
@@ -4965,7 +7492,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Ripetizione spaziata
+
+    Introduzione a Ripetizione spaziata.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5005,6 +7546,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Routine inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Routine inglese
 
 
@@ -5017,7 +7575,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Routine inglese
+
+    Introduzione a Routine inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5036,10 +7608,6 @@
   role: spoke
   priority: 92
   internal_links:
-  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
-    url: /paura-parlare-inglese/
-    cluster: method
-    funnel: bofu
   - title: Perché capisci l’inglese ma non riesci a parlare
     url: /metodo/blocco-parlare-inglese/
     cluster: method
@@ -5048,6 +7616,10 @@
     url: /metodo/studiare-inglese-zero/
     cluster: method
     funnel: mofu
+  - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
+    url: /paura-parlare-inglese/
+    cluster: method
+    funnel: bofu
   include_layout:
     after_intro:
     - tldr-box.html
@@ -5057,6 +7629,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Smettere tradurre.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Smettere tradurre
 
 
@@ -5069,7 +7658,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Smettere tradurre
+
+    Introduzione a Smettere tradurre.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5109,6 +7712,23 @@
     before_cta: []
     footer:
     - trust-box.html
+  ai_body: '
+
+    Introduzione a Memoria vocabolario.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Memoria vocabolario
 
 
@@ -5121,7 +7741,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Memoria vocabolario
+
+    Introduzione a Memoria vocabolario.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster method.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5140,13 +7774,13 @@
   role: bridge
   priority: 95
   internal_links:
-  - title: Metodi tradizionali
-    url: /metodo/metodi-tradizionali-inglese/
-    cluster: conversion
-    funnel: bofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
+    funnel: bofu
+  - title: Metodi tradizionali
+    url: /metodo/metodi-tradizionali-inglese/
+    cluster: conversion
     funnel: bofu
   include_layout:
     after_intro:
@@ -5159,6 +7793,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Errori inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster conversion.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Errori inglese
 
 
@@ -5171,7 +7822,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Errori inglese
+
+    Introduzione a Errori inglese.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster conversion.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5196,13 +7861,13 @@
   role: bridge
   priority: 100
   internal_links:
-  - title: Errori inglese
-    url: /metodo/errori-inglese/
-    cluster: conversion
-    funnel: bofu
   - title: 'Paura di parlare inglese: come sbloccarla definitivamente'
     url: /paura-parlare-inglese/
     cluster: method
+    funnel: bofu
+  - title: Errori inglese
+    url: /metodo/errori-inglese/
+    cluster: conversion
     funnel: bofu
   include_layout:
     after_intro:
@@ -5215,6 +7880,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Metodi tradizionali.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster conversion.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Metodi tradizionali
 
 
@@ -5227,7 +7909,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Metodi tradizionali
+
+    Introduzione a Metodi tradizionali.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster conversion.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
@@ -5267,6 +7963,23 @@
     footer:
     - trust-box.html
     - affiliate-disclosure.html
+  ai_body: '
+
+    Introduzione a Recensione Babbel.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster monetization.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
+    '
   final_article: '# Recensione Babbel
 
 
@@ -5279,7 +7992,21 @@
     ## Contenuto principale
 
 
-    CONTENUTO GENERATO DA AI PER: Recensione Babbel
+
+    Introduzione a Recensione Babbel.
+
+
+    Spiegazione semplice e pratica.
+
+
+    Contesto reale nel cluster monetization.
+
+
+    Errori comuni degli italiani.
+
+
+    Esempi pratici utilizzabili subito.
+
 
 
     ## Conclusione
