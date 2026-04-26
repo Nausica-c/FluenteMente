@@ -28,7 +28,7 @@ Molti studenti sbagliano qui.
 ## Strategie pratiche
 Applicazione immediata.
 
-SEED: 3940
+SEED: 4727
 
 {% include bridge-box.html %}
 
