@@ -1,4 +1,4 @@
-name: AI Blog Build V3
+name: AI Blog Build V4
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: ai-blog-v3
+  group: ai-blog-v4
   cancel-in-progress: true
 
 jobs:
@@ -18,8 +18,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       # =========================
-      # 1. CHECKOUT
+      # 1. CHECKOUT FULL HISTORY
       # =========================
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,7 +28,7 @@ jobs:
           fetch-depth: 0
 
       # =========================
-      # 2. SETUP PYTHON
+      # 2. PYTHON
       # =========================
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -41,43 +42,52 @@ jobs:
         run: pip install pyyaml openai
 
       # =========================
-      # 4. BUILD CONTENT
+      # 4. BUILD ENGINE (WITH SECRETS)
       # =========================
-      - name: Build SEO engine
+      - name: Run AI engine
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
         run: python build_seo_engine.py
 
       # =========================
-      # 5. SWITCH TO AI BRANCH
+      # 5. CREATE CLEAN BRANCH
       # =========================
-      - name: Commit to AI branch
+      - name: Create branch & commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          BRANCH="ai-build"
+          BRANCH="ai-build-v4"
 
           git checkout -B $BRANCH
 
           git add .
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes detected"
             exit 0
           fi
 
-          git commit -m "AI blog update (V3)"
+          git commit -m "AI Blog Update V4"
 
-          git push origin $BRANCH --force
+          git push origin $BRANCH
 
       # =========================
-      # 6. CREATE PR AUTOMATICO
+      # 6. CREATE OR UPDATE PR (SAFE)
       # =========================
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ai-build
+          branch: ai-build-v4
           base: main
-          title: "AI Blog Update (V3)"
-          body: "Auto-generated SEO articles update"
-          delete-branch: false
+          title: "AI Blog Update V4"
+          body: |
+            Automated SEO blog generation update.
+
+            - Cluster-based content
+            - Internal linking optimized
+            - AI-generated articles
+
+          delete-branch: true
