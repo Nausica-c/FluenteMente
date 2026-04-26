@@ -5,33 +5,37 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          fetch-depth: 0   # 🔥 IMPORTANTISSIMO per evitare problemi di push
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - run: pip install pyyaml openai
+      - name: Install dependencies
+        run: pip install pyyaml openai
 
-      - run: python build_seo_engine.py
+      - name: Run AI builder
+        run: python build_seo_engine.py
 
-      - name: Commit & Push
+      # 🔥 FIX PRINCIPALE (ANTI CONFLICT)
+      - name: Commit & Push safely
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add .
 
           git commit -m "AI blog update" || echo "no changes"
 
-          git push origin HEAD:main
+          git pull --rebase origin main
+
+          git push
