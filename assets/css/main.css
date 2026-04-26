@@ -315,23 +315,28 @@ blockquote {
 .site-footer {
   background: #1a202c;
   color: #cbd5e1;
-  padding: 50px 20px 30px; /* Margini laterali aggiunti per mobile/desktop */
+  padding: 35px 20px 25px; /* Padding superiore e inferiore ridotti */
   margin-top: auto;
+  font-size: 0.95rem; /* Testo leggermente più compatto */
 }
 
 .site-footer p, 
 .site-footer ul {
-  margin-bottom: 16px;
-  line-height: 1.8;
+  margin-bottom: 8px; /* Margine ridotto da 16px a 8px */
+  line-height: 1.5; /* Interlinea ristretta */
+}
+
+.site-footer li {
+  margin-bottom: 4px; /* Avvicina i singoli link della lista */
 }
 
 .site-footer h3,
 .site-footer h4,
 .site-footer .footer-heading {
   color: #ffffff;
-  margin-top: 28px;
-  margin-bottom: 12px;
-  font-size: 1.1rem;
+  margin-top: 20px; /* Margine superiore ridotto */
+  margin-bottom: 8px; /* Margine inferiore ridotto */
+  font-size: 1.05rem; /* Titolo leggermente più proporzionato */
 }
 
 .site-footer a {
