@@ -2,7 +2,7 @@
 title: "Perché capisci l’inglese ma non riesci a parlare"
 permalink: /perch-capisci-linglese-ma-non-riesci-a-parlare/
 layout: post
-content_hash: bc99c60496ca3bee01ad8a6416a64495
+content_hash: 3902a303a01769bf29733e9e7ccfa493
 ---
 
 # Perché capisci l’inglese ma non riesci a parlare
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4568
+SEED: 6844
 CLUSTER: method
 FUNNEL: bofu
 

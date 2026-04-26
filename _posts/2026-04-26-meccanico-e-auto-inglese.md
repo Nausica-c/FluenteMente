@@ -2,7 +2,7 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
-content_hash: 0dbbc05635d94d08e9bcaa617ba24fa8
+content_hash: 3395b06efb0b46957aaf8c0748521026
 ---
 
 # Meccanico e auto inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 1252
+SEED: 9086
 CLUSTER: expat
 FUNNEL: mofu
 

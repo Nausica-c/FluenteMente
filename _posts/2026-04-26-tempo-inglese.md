@@ -2,7 +2,7 @@
 title: "Tempo inglese"
 permalink: /tempo-inglese/
 layout: post
-content_hash: 896ab1e8dfa79ae176738bb90bb928fa
+content_hash: e7ed86cd3d26df6bb40b55a8e3b0d7e5
 ---
 
 # Tempo inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8018
+SEED: 4742
 CLUSTER: base
 FUNNEL: tofu
 

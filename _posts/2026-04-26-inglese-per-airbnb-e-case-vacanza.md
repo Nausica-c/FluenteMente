@@ -2,7 +2,7 @@
 title: "Inglese per Airbnb e case vacanza"
 permalink: /inglese-per-airbnb-e-case-vacanza/
 layout: post
-content_hash: 9fca36ed2c3c7a0829e55f1328b675a4
+content_hash: 7f149aff643cfcce9aaac472b37dfe2a
 ---
 
 # Inglese per Airbnb e case vacanza
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9553
+SEED: 5868
 CLUSTER: travel
 FUNNEL: tofu
 

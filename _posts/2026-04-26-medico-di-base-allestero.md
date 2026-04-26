@@ -2,7 +2,7 @@
 title: "Medico di base all’estero"
 permalink: /medico-di-base-allestero/
 layout: post
-content_hash: d60b3348ead78faa48be6186cd87f62d
+content_hash: 47c73d0498c119f9bcbc30676d10c5a6
 ---
 
 # Medico di base all’estero
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4876
+SEED: 3483
 CLUSTER: expat
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Preposizioni inglesi"
 permalink: /preposizioni-inglesi/
 layout: post
-content_hash: 070d69bda2160e200b338cc11c48df3e
+content_hash: 48295553eeef61b04add68794632490d
 ---
 
 # Preposizioni inglesi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 3026
+SEED: 5003
 CLUSTER: base
 FUNNEL: tofu
 

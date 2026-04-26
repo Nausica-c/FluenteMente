@@ -2,7 +2,7 @@
 title: "Falsi amici inglese"
 permalink: /falsi-amici-inglese/
 layout: post
-content_hash: 3e3022e28543926a8f2dd367814368e3
+content_hash: a1409d6da0c3d01b6e128e731e6abbdf
 ---
 
 # Falsi amici inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 9831
+SEED: 6246
 CLUSTER: cultura
 FUNNEL: tofu
 
