@@ -44,7 +44,7 @@ def today_date():
     return datetime.now().strftime("%Y-%m-%d")
 
 # =========================
-# SAFE LOAD
+# LOAD
 # =========================
 
 def load_articles():
@@ -111,7 +111,7 @@ def pick_links(article, by_cluster, by_funnel):
     return links[:6]
 
 # =========================
-# INCLUDE SYSTEM
+# INCLUDE LAYOUT
 # =========================
 
 def assign_include_layout(article):
@@ -127,7 +127,7 @@ def assign_include_layout(article):
     }
 
 # =========================
-# 🔥 REAL AI ENGINE (FIX VERO)
+# 🔥 FIX 2: AI ENGINE CORRETTO
 # =========================
 
 def generate_ai_body(article):
@@ -167,7 +167,8 @@ def generate_article(article):
     title = article.get("title", "Untitled")
     layout = article.get("include_layout", {})
 
-    body = article.get("ai_body") or generate_ai_body(article)
+    # 🔥 FIX 2 APPLICATO: SEMPRE GENERAZIONE FRESCA
+    body = generate_ai_body(article)
 
     content = f"# {title}\n\n"
 
@@ -182,7 +183,6 @@ def generate_article(article):
     for b in layout.get("mid_article", []):
         content += f"{{% include {b} %}}\n\n"
 
-    # 🔥 INTERNAL LINKS INSIDE ARTICLE (IMPORTANT)
     if article.get("internal_links"):
         content += "## Articoli correlati\n\n"
         for l in article["internal_links"]:
@@ -197,7 +197,7 @@ def generate_article(article):
     return content
 
 # =========================
-# AUTOPUBLISH
+# EXPORT
 # =========================
 
 def export_markdown(article):
@@ -227,9 +227,7 @@ def build_output(articles):
         a["cluster"] = a.get("cluster", "base")
         a["funnel"] = a.get("funnel", "tofu")
 
-        links = pick_links(a, by_cluster, by_funnel)
-
-        a["internal_links"] = links
+        a["internal_links"] = pick_links(a, by_cluster, by_funnel)
         a["include_layout"] = assign_include_layout(a)
 
         a["final_article"] = generate_article(a)
@@ -241,7 +239,7 @@ def build_output(articles):
     return output
 
 # =========================
-# SAVE
+# SAVE YAML
 # =========================
 
 def save_yaml(data):
@@ -256,7 +254,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 V3 AUTONOMOUS BLOG ACTIVE")
+    print("🚀 V4 FIXED ENGINE ACTIVE")
 
 if __name__ == "__main__":
     main()
