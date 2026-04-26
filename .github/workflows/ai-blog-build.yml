@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 QUESTO RISOLVE IL 403
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,18 +29,13 @@ jobs:
       - name: Run AI builder
         run: python build_seo_engine.py
 
-      # 🔥 VERSIONE CORRETTA (NO CONFLICT)
       - name: Commit & Force Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 🔥 elimina vecchi post (evita duplicati + conflitti)
-          git rm -r _posts || true
-
           git add .
 
           git commit -m "AI blog rebuild" || echo "no changes"
 
-          # 🔥 NIENTE pull / rebase
           git push origin main --force
