@@ -2,7 +2,7 @@
 title: "CV inglese avanzato"
 permalink: /cv-inglese-avanzato/
 layout: post
-content_hash: f71f82b1f9b4ae433a5cfe75e6635702b38324cc1146c1d7075dfb7dc9969583
+content_hash: 3c1dc357554e341daa305319eb07102a37fca4b6a5ad8b9a90839afec30db23d
 ---
 
 # CV inglese avanzato
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 6575
+SEED: 4674
 CLUSTER: business
 FUNNEL: mofu
 

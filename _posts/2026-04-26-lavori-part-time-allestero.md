@@ -2,7 +2,7 @@
 title: "Lavori part-time all’estero"
 permalink: /lavori-part-time-allestero/
 layout: post
-content_hash: 725ba293d19f51466fda1f7a1ebce218e29988984875fbe32719caa93455e26a
+content_hash: fd3cfdd5c37c7475626d0f9e197f02a2a731cef8762c0e83356067ec2d8527c5
 ---
 
 # Lavori part-time all’estero
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 3849
+SEED: 5004
 CLUSTER: expat
 FUNNEL: mofu
 

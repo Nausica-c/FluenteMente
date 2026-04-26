@@ -2,7 +2,7 @@
 title: "Blocco parlare inglese"
 permalink: /blocco-parlare-inglese/
 layout: post
-content_hash: 815d4c6691fd02866213da1c7ed857a7f61f2df31e19a88eb52bf11361cf0f9a
+content_hash: c4e0b3d7690b8a0f3cd545fe3e3222ee16fc10bf183dc46b7704e4a8ae0cf8d1
 ---
 
 # Blocco parlare inglese
@@ -27,7 +27,7 @@ Attenzione agli errori tipici degli italiani.
 Situazioni: viaggio, lavoro, vita quotidiana.
 
 ---
-SEED: 7024
+SEED: 7555
 CLUSTER: method
 FUNNEL: mofu
 
