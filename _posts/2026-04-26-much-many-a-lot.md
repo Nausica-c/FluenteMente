@@ -2,7 +2,7 @@
 title: "Much many a lot"
 permalink: /much-many-a-lot/
 layout: post
-content_hash: 7adf511c2afd138382c31ea495d8a561e71304ae04474fc0d9412844977dafee
+content_hash: d1569f9ee1e6c9af12468b77830f5cfe7223d0d74b2c3f9f93d112176bdd04a3
 ---
 
 # Much many a lot
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Much many a lot a situazioni real
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 8522
+SEED: 1747
 CLUSTER: base
 FUNNEL: tofu
 

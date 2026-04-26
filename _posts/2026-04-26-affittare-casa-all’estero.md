@@ -2,7 +2,7 @@
 title: "Affittare casa all’estero"
 permalink: /affittare-casa-all’estero/
 layout: post
-content_hash: b90d2b4ce9eaac9bd3c2fe9a16914501547f2f2ee619f014c5be5fa0784d9943
+content_hash: b8baae55ded1e8940bcbf75e6e0fd6075099890eac704476b0f9ea81af9995f3
 ---
 
 # Affittare casa all’estero
@@ -12,7 +12,7 @@ content_hash: b90d2b4ce9eaac9bd3c2fe9a16914501547f2f2ee619f014c5be5fa0784d9943
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Affittare casa all’estero vedrai come usarlo in vita all'estero e problemi reali.
+Affittare casa all’estero è fondamentale quando ti trovi in vita all'estero e problemi reali.
 
 ## Cos’è
 Affittare casa all’estero viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Affittare casa all’estero a sit
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9151
+SEED: 6335
 CLUSTER: expat
 FUNNEL: mofu
 

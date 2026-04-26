@@ -2,7 +2,7 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: 445e8bdb1e36c9841025760477328f6b601062087a9403dd1080abce193de6cd
+content_hash: 8ddd672a85793b8f4a493ff862c6148b02eeba90da2cb9f40d02bd134f658f9d
 ---
 
 # Email professionali inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email professionali inglese a sit
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3002
+SEED: 8003
 CLUSTER: business
 FUNNEL: mofu
 

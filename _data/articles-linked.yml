@@ -6,7 +6,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 4208
+  seed: 9246
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -18,8 +18,8 @@
 
     ## Introduzione
 
-    Paura di parlare inglese: come sbloccarla definitivamente è fondamentale quando
-    ti trovi in studio e apprendimento lingua.
+    Capire Paura di parlare inglese: come sbloccarla definitivamente ti aiuta in situazioni
+    di studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -56,7 +56,7 @@
 
     ---
 
-    SEED: 4208
+    SEED: 9246
 
     CLUSTER: method
 
@@ -92,7 +92,7 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 8455
+  seed: 3518
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -142,7 +142,7 @@
 
     ---
 
-    SEED: 8455
+    SEED: 3518
 
     CLUSTER: method
 
@@ -178,7 +178,7 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 5955
+  seed: 5976
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -190,8 +190,8 @@
 
     ## Introduzione
 
-    Capire Inglese in aeroporto: frasi essenziali per viaggiare ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    Inglese in aeroporto: frasi essenziali per viaggiare è fondamentale quando ti
+    trovi in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -227,7 +227,7 @@
 
     ---
 
-    SEED: 5955
+    SEED: 5976
 
     CLUSTER: travel
 
@@ -255,7 +255,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 6093
+  seed: 1184
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -267,8 +267,8 @@
 
     ## Introduzione
 
-    Inglese in hotel: check-in, problemi e richieste è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    Capire Inglese in hotel: check-in, problemi e richieste ti aiuta in situazioni
+    di viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -304,7 +304,7 @@
 
     ---
 
-    SEED: 6093
+    SEED: 1184
 
     CLUSTER: travel
 
@@ -332,7 +332,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 9060
+  seed: 3757
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -381,7 +381,7 @@
 
     ---
 
-    SEED: 9060
+    SEED: 3757
 
     CLUSTER: base
 
@@ -409,7 +409,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 8122
+  seed: 2697
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -421,8 +421,8 @@
 
     ## Introduzione
 
-    In questa guida su Alfabeto inglese e spelling: guida semplice per principianti
-    vedrai come usarlo in situazioni quotidiane generiche.
+    Capire Alfabeto inglese e spelling: guida semplice per principianti ti aiuta in
+    situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -458,7 +458,7 @@
 
     ---
 
-    SEED: 8122
+    SEED: 2697
 
     CLUSTER: base
 
@@ -486,7 +486,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 6868
+  seed: 6451
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -535,7 +535,7 @@
 
     ---
 
-    SEED: 6868
+    SEED: 6451
 
     CLUSTER: base
 
@@ -563,7 +563,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 6972
+  seed: 5498
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -575,7 +575,7 @@
 
     ## Introduzione
 
-    Come presentarsi in inglese in modo naturale è fondamentale quando ti trovi in
+    Capire Come presentarsi in inglese in modo naturale ti aiuta in situazioni di
     situazioni quotidiane generiche.
 
 
@@ -612,7 +612,7 @@
 
     ---
 
-    SEED: 6972
+    SEED: 5498
 
     CLUSTER: base
 
@@ -640,7 +640,7 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 3634
+  seed: 3557
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -652,8 +652,8 @@
 
     ## Introduzione
 
-    Frasi inglese aeroporto: check-in, gate e bagagli è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Frasi inglese aeroporto: check-in, gate e bagagli vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -689,7 +689,7 @@
 
     ---
 
-    SEED: 3634
+    SEED: 3557
 
     CLUSTER: travel
 
@@ -717,7 +717,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 5293
+  seed: 7972
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -729,8 +729,8 @@
 
     ## Introduzione
 
-    Capire Inglese in hotel: frasi essenziali per viaggiare ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    Inglese in hotel: frasi essenziali per viaggiare è fondamentale quando ti trovi
+    in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -766,7 +766,7 @@
 
     ---
 
-    SEED: 5293
+    SEED: 7972
 
     CLUSTER: travel
 
@@ -794,7 +794,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 2420
+  seed: 2627
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -806,8 +806,8 @@
 
     ## Introduzione
 
-    Inglese per trasporti pubblici: metro, bus e taxi è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    Capire Inglese per trasporti pubblici: metro, bus e taxi ti aiuta in situazioni
+    di viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -843,7 +843,7 @@
 
     ---
 
-    SEED: 2420
+    SEED: 2627
 
     CLUSTER: travel
 
@@ -871,7 +871,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 9921
+  seed: 8614
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -883,8 +883,8 @@
 
     ## Introduzione
 
-    In questa guida su Inglese per shopping: negozi, prezzi e acquisti vedrai come
-    usarlo in viaggi, aeroporti, hotel, trasporti.
+    Inglese per shopping: negozi, prezzi e acquisti è fondamentale quando ti trovi
+    in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -920,7 +920,7 @@
 
     ---
 
-    SEED: 9921
+    SEED: 8614
 
     CLUSTER: travel
 
@@ -948,7 +948,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 7482
+  seed: 1034
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -960,8 +960,8 @@
 
     ## Introduzione
 
-    Capire Inglese per emergenze in viaggio: frasi salvavita ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Inglese per emergenze in viaggio: frasi salvavita vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -997,7 +997,7 @@
 
     ---
 
-    SEED: 7482
+    SEED: 1034
 
     CLUSTER: travel
 
@@ -1025,7 +1025,7 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 1609
+  seed: 2477
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -1037,8 +1037,8 @@
 
     ## Introduzione
 
-    Inglese per Airbnb e case vacanza è fondamentale quando ti trovi in viaggi, aeroporti,
-    hotel, trasporti.
+    In questa guida su Inglese per Airbnb e case vacanza vedrai come usarlo in viaggi,
+    aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -1074,7 +1074,7 @@
 
     ---
 
-    SEED: 1609
+    SEED: 2477
 
     CLUSTER: travel
 
@@ -1102,7 +1102,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 5088
+  seed: 8140
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -1114,8 +1114,8 @@
 
     ## Introduzione
 
-    Capire Come lamentarsi in inglese (hotel, servizi, problemi) ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    Come lamentarsi in inglese (hotel, servizi, problemi) è fondamentale quando ti
+    trovi in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -1151,7 +1151,7 @@
 
     ---
 
-    SEED: 5088
+    SEED: 8140
 
     CLUSTER: travel
 
@@ -1183,7 +1183,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 7316
+  seed: 3548
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1195,7 +1195,7 @@
 
     ## Introduzione
 
-    Affittare casa all’estero in inglese è fondamentale quando ti trovi in vita all''estero
+    Capire Affittare casa all’estero in inglese ti aiuta in situazioni di vita all''estero
     e problemi reali.
 
 
@@ -1232,7 +1232,7 @@
 
     ---
 
-    SEED: 7316
+    SEED: 3548
 
     CLUSTER: expat
 
@@ -1268,7 +1268,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6245
+  seed: 3297
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1317,7 +1317,7 @@
 
     ---
 
-    SEED: 6245
+    SEED: 3297
 
     CLUSTER: expat
 
@@ -1353,7 +1353,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 3403
+  seed: 3551
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1365,8 +1365,8 @@
 
     ## Introduzione
 
-    In questa guida su Utenze casa all’estero in inglese vedrai come usarlo in vita
-    all''estero e problemi reali.
+    Utenze casa all’estero in inglese è fondamentale quando ti trovi in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -1402,7 +1402,7 @@
 
     ---
 
-    SEED: 3403
+    SEED: 3551
 
     CLUSTER: expat
 
@@ -1438,7 +1438,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 4728
+  seed: 9622
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1450,7 +1450,7 @@
 
     ## Introduzione
 
-    Capire Andare dal medico all’estero in inglese ti aiuta in situazioni di vita
+    Andare dal medico all’estero in inglese è fondamentale quando ti trovi in vita
     all''estero e problemi reali.
 
 
@@ -1487,7 +1487,7 @@
 
     ---
 
-    SEED: 4728
+    SEED: 9622
 
     CLUSTER: expat
 
@@ -1523,7 +1523,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 3593
+  seed: 1887
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1535,8 +1535,8 @@
 
     ## Introduzione
 
-    In questa guida su Aprire un conto bancario all’estero vedrai come usarlo in vita
-    all''estero e problemi reali.
+    Aprire un conto bancario all’estero è fondamentale quando ti trovi in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -1572,7 +1572,7 @@
 
     ---
 
-    SEED: 3593
+    SEED: 1887
 
     CLUSTER: expat
 
@@ -1608,7 +1608,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 7426
+  seed: 8865
   final_article: '# Lavori part-time all’estero
 
 
@@ -1657,7 +1657,7 @@
 
     ---
 
-    SEED: 7426
+    SEED: 8865
 
     CLUSTER: expat
 
@@ -1693,7 +1693,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 2484
+  seed: 4232
   final_article: '# Fare amicizia in inglese
 
 
@@ -1705,7 +1705,7 @@
 
     ## Introduzione
 
-    Capire Fare amicizia in inglese ti aiuta in situazioni di amicizie, conversazioni,
+    Fare amicizia in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
     small talk.
 
 
@@ -1742,7 +1742,7 @@
 
     ---
 
-    SEED: 2484
+    SEED: 4232
 
     CLUSTER: social
 
@@ -1770,7 +1770,7 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 4971
+  seed: 6973
   final_article: '# Small talk in inglese
 
 
@@ -1819,7 +1819,7 @@
 
     ---
 
-    SEED: 4971
+    SEED: 6973
 
     CLUSTER: social
 
@@ -1851,7 +1851,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 1156
+  seed: 4638
   final_article: '# Slang inglese moderno
 
 
@@ -1863,7 +1863,7 @@
 
     ## Introduzione
 
-    Capire Slang inglese moderno ti aiuta in situazioni di amicizie, conversazioni,
+    In questa guida su Slang inglese moderno vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -1900,7 +1900,7 @@
 
     ---
 
-    SEED: 1156
+    SEED: 4638
 
     CLUSTER: social
 
@@ -1928,1424 +1928,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 2780
-  final_article: '# Dating in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Dating in inglese ti aiuta in situazioni di amicizie, conversazioni, small
-    talk.
-
-
-    ## Cos’è
-
-    Dating in inglese viene usato in contesti legati a amicizie, conversazioni, small
-    talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in amicizie, conversazioni, small talk
-
-    - esempio reale 2 in amicizie, conversazioni, small talk
-
-    - esempio reale 3 in amicizie, conversazioni, small talk
-
-    - esempio reale 4 in amicizie, conversazioni, small talk
-
-    - esempio reale 5 in amicizie, conversazioni, small talk
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Dating in inglese a situazioni reali
-    di amicizie, conversazioni, small talk.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 2780
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 26
-  title: Parlare al pub in inglese
-  url: /inglese/social/pub-inglese/
-  type: informational
-  funnel: tofu
-  cluster: social
-  role: spoke
-  priority: 80
-  seed: 6036
-  final_article: '# Parlare al pub in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Parlare al pub in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
-    small talk.
-
-
-    ## Cos’è
-
-    Parlare al pub in inglese viene usato in contesti legati a amicizie, conversazioni,
-    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in amicizie, conversazioni, small talk
-
-    - esempio reale 2 in amicizie, conversazioni, small talk
-
-    - esempio reale 3 in amicizie, conversazioni, small talk
-
-    - esempio reale 4 in amicizie, conversazioni, small talk
-
-    - esempio reale 5 in amicizie, conversazioni, small talk
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Parlare al pub in inglese a situazioni
-    reali di amicizie, conversazioni, small talk.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 6036
-
-    CLUSTER: social
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 27
-  title: CV in inglese
-  url: /inglese/business/cv/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: hub
-  priority: 95
-  seed: 1676
-  final_article: '# CV in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su CV in inglese vedrai come usarlo in lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    CV in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano CV in inglese a situazioni reali
-    di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 1676
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 28
-  title: Colloquio di lavoro in inglese
-  url: /inglese/business/interview/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 95
-  seed: 1924
-  final_article: '# Colloquio di lavoro in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Colloquio di lavoro in inglese è fondamentale quando ti trovi in lavoro, email,
-    colloqui, meeting.
-
-
-    ## Cos’è
-
-    Colloquio di lavoro in inglese viene usato in contesti legati a lavoro, email,
-    colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio
-    inglese nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Colloquio di lavoro in inglese a
-    situazioni reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 1924
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 29
-  title: Email formali in inglese
-  url: /inglese/business/email-formali/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 90
-  seed: 6388
-  final_article: '# Email formali in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Email formali in inglese è fondamentale quando ti trovi in lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    Email formali in inglese viene usato in contesti legati a lavoro, email, colloqui,
-    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Email formali in inglese a situazioni
-    reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 6388
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 30
-  title: LinkedIn in inglese
-  url: /inglese/business/linkedin/
-  type: informational
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 85
-  seed: 6786
-  final_article: '# LinkedIn in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire LinkedIn in inglese ti aiuta in situazioni di lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    LinkedIn in inglese viene usato in contesti legati a lavoro, email, colloqui,
-    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano LinkedIn in inglese a situazioni
-    reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 6786
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 31
-  title: Affittare casa all’estero
-  url: /inglese/expat/affitto-casa-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: hub
-  priority: 95
-  seed: 9151
-  final_article: '# Affittare casa all’estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Affittare casa all’estero vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Affittare casa all’estero viene usato in contesti legati a vita all''estero e
-    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Affittare casa all’estero a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 9151
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 32
-  title: Landlord e problemi casa
-  url: /inglese/expat/landlord-problemi-casa/
-  type: problem
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 4718
-  final_article: '# Landlord e problemi casa
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Landlord e problemi casa vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Landlord e problemi casa viene usato in contesti legati a vita all''estero e problemi
-    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Landlord e problemi casa a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 4718
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 33
-  title: Conto corrente estero
-  url: /inglese/expat/conto-corrente-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 88
-  seed: 4025
-  final_article: '# Conto corrente estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Conto corrente estero vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Conto corrente estero viene usato in contesti legati a vita all''estero e problemi
-    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Conto corrente estero a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 4025
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 34
-  title: Medico di base all’estero
-  url: /inglese/expat/medico-base-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 87
-  seed: 5928
-  final_article: '# Medico di base all’estero
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Medico di base all’estero vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Medico di base all’estero viene usato in contesti legati a vita all''estero e
-    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Medico di base all’estero a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 5928
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 35
-  title: Utenze casa inglese
-  url: /inglese/expat/utenze-casa-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 5259
-  final_article: '# Utenze casa inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Utenze casa inglese è fondamentale quando ti trovi in vita all''estero e problemi
-    reali.
-
-
-    ## Cos’è
-
-    Utenze casa inglese viene usato in contesti legati a vita all''estero e problemi
-    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Utenze casa inglese a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 5259
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 36
-  title: Supermercato in inglese
-  url: /inglese/expat/supermercato-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 80
-  seed: 2043
-  final_article: '# Supermercato in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Supermercato in inglese è fondamentale quando ti trovi in vita all''estero e problemi
-    reali.
-
-
-    ## Cos’è
-
-    Supermercato in inglese viene usato in contesti legati a vita all''estero e problemi
-    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Supermercato in inglese a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 2043
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 37
-  title: Salute e farmacia inglese
-  url: /inglese/expat/salute-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 85
-  seed: 4972
-  final_article: '# Salute e farmacia inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Salute e farmacia inglese vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Salute e farmacia inglese viene usato in contesti legati a vita all''estero e
-    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Salute e farmacia inglese a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 4972
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 38
-  title: Meccanico e auto inglese
-  url: /inglese/expat/meccanico-auto-inglese/
-  type: informational
-  funnel: mofu
-  cluster: expat
-  role: spoke
-  priority: 75
-  seed: 8273
-  final_article: '# Meccanico e auto inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Meccanico e auto inglese vedrai come usarlo in vita all''estero
-    e problemi reali.
-
-
-    ## Cos’è
-
-    Meccanico e auto inglese viene usato in contesti legati a vita all''estero e problemi
-    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
-    vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in vita all''estero e problemi reali
-
-    - esempio reale 2 in vita all''estero e problemi reali
-
-    - esempio reale 3 in vita all''estero e problemi reali
-
-    - esempio reale 4 in vita all''estero e problemi reali
-
-    - esempio reale 5 in vita all''estero e problemi reali
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Meccanico e auto inglese a situazioni
-    reali di vita all''estero e problemi reali.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 8273
-
-    CLUSTER: expat
-
-    FUNNEL: mofu
-
-
-    {% include bridge-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid:
-    - bridge-box.html
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 39
-  title: Fare amicizia in inglese
-  url: /inglese/social/amicizia-inglese/
-  type: informational
-  funnel: mofu
-  cluster: social
-  role: hub
-  priority: 90
-  seed: 1541
-  final_article: '# Fare amicizia in inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Fare amicizia in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
-    small talk.
-
-
-    ## Cos’è
-
-    Fare amicizia in inglese viene usato in contesti legati a amicizie, conversazioni,
-    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in amicizie, conversazioni, small talk
-
-    - esempio reale 2 in amicizie, conversazioni, small talk
-
-    - esempio reale 3 in amicizie, conversazioni, small talk
-
-    - esempio reale 4 in amicizie, conversazioni, small talk
-
-    - esempio reale 5 in amicizie, conversazioni, small talk
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Fare amicizia in inglese a situazioni
-    reali di amicizie, conversazioni, small talk.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 1541
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 40
-  title: Small talk senza silenzi
-  url: /inglese/social/small-talk-inglese/
-  type: bridge
-  funnel: mofu
-  cluster: social
-  role: spoke
-  priority: 95
-  seed: 6937
-  final_article: '# Small talk senza silenzi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Small talk senza silenzi ti aiuta in situazioni di amicizie, conversazioni,
-    small talk.
-
-
-    ## Cos’è
-
-    Small talk senza silenzi viene usato in contesti legati a amicizie, conversazioni,
-    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in amicizie, conversazioni, small talk
-
-    - esempio reale 2 in amicizie, conversazioni, small talk
-
-    - esempio reale 3 in amicizie, conversazioni, small talk
-
-    - esempio reale 4 in amicizie, conversazioni, small talk
-
-    - esempio reale 5 in amicizie, conversazioni, small talk
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Small talk senza silenzi a situazioni
-    reali di amicizie, conversazioni, small talk.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 6937
-
-    CLUSTER: social
-
-    FUNNEL: mofu
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 41
-  title: Slang reale inglese
-  url: /inglese/social/slang-reale/
-  type: informational
-  funnel: tofu
-  cluster: social
-  role: spoke
-  priority: 85
-  seed: 5282
-  final_article: '# Slang reale inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Slang reale inglese vedrai come usarlo in amicizie, conversazioni,
-    small talk.
-
-
-    ## Cos’è
-
-    Slang reale inglese viene usato in contesti legati a amicizie, conversazioni,
-    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in amicizie, conversazioni, small talk
-
-    - esempio reale 2 in amicizie, conversazioni, small talk
-
-    - esempio reale 3 in amicizie, conversazioni, small talk
-
-    - esempio reale 4 in amicizie, conversazioni, small talk
-
-    - esempio reale 5 in amicizie, conversazioni, small talk
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Slang reale inglese a situazioni
-    reali di amicizie, conversazioni, small talk.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 5282
-
-    CLUSTER: social
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 42
-  title: Dating in inglese
-  url: /inglese/social/dating-inglese/
-  type: informational
-  funnel: mofu
-  cluster: social
-  role: spoke
-  priority: 80
-  seed: 4141
+  seed: 7408
   final_article: '# Dating in inglese
 
 
@@ -3394,7 +1977,1423 @@
 
     ---
 
-    SEED: 4141
+    SEED: 7408
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 26
+  title: Parlare al pub in inglese
+  url: /inglese/social/pub-inglese/
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 80
+  seed: 4354
+  final_article: '# Parlare al pub in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Parlare al pub in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
+    small talk.
+
+
+    ## Cos’è
+
+    Parlare al pub in inglese viene usato in contesti legati a amicizie, conversazioni,
+    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in amicizie, conversazioni, small talk
+
+    - esempio reale 2 in amicizie, conversazioni, small talk
+
+    - esempio reale 3 in amicizie, conversazioni, small talk
+
+    - esempio reale 4 in amicizie, conversazioni, small talk
+
+    - esempio reale 5 in amicizie, conversazioni, small talk
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Parlare al pub in inglese a situazioni
+    reali di amicizie, conversazioni, small talk.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 4354
+
+    CLUSTER: social
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 27
+  title: CV in inglese
+  url: /inglese/business/cv/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 95
+  seed: 1665
+  final_article: '# CV in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire CV in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+
+
+    ## Cos’è
+
+    CV in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano CV in inglese a situazioni reali
+    di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 1665
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 28
+  title: Colloquio di lavoro in inglese
+  url: /inglese/business/interview/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 95
+  seed: 8382
+  final_article: '# Colloquio di lavoro in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Colloquio di lavoro in inglese vedrai come usarlo in lavoro,
+    email, colloqui, meeting.
+
+
+    ## Cos’è
+
+    Colloquio di lavoro in inglese viene usato in contesti legati a lavoro, email,
+    colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio
+    inglese nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Colloquio di lavoro in inglese a
+    situazioni reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 8382
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 29
+  title: Email formali in inglese
+  url: /inglese/business/email-formali/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+  seed: 7245
+  final_article: '# Email formali in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Email formali in inglese è fondamentale quando ti trovi in lavoro, email, colloqui,
+    meeting.
+
+
+    ## Cos’è
+
+    Email formali in inglese viene usato in contesti legati a lavoro, email, colloqui,
+    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Email formali in inglese a situazioni
+    reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 7245
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 30
+  title: LinkedIn in inglese
+  url: /inglese/business/linkedin/
+  type: informational
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 85
+  seed: 3549
+  final_article: '# LinkedIn in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire LinkedIn in inglese ti aiuta in situazioni di lavoro, email, colloqui,
+    meeting.
+
+
+    ## Cos’è
+
+    LinkedIn in inglese viene usato in contesti legati a lavoro, email, colloqui,
+    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano LinkedIn in inglese a situazioni
+    reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 3549
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 31
+  title: Affittare casa all’estero
+  url: /inglese/expat/affitto-casa-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: hub
+  priority: 95
+  seed: 6335
+  final_article: '# Affittare casa all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Affittare casa all’estero è fondamentale quando ti trovi in vita all''estero e
+    problemi reali.
+
+
+    ## Cos’è
+
+    Affittare casa all’estero viene usato in contesti legati a vita all''estero e
+    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Affittare casa all’estero a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 6335
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 32
+  title: Landlord e problemi casa
+  url: /inglese/expat/landlord-problemi-casa/
+  type: problem
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 2440
+  final_article: '# Landlord e problemi casa
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Landlord e problemi casa è fondamentale quando ti trovi in vita all''estero e
+    problemi reali.
+
+
+    ## Cos’è
+
+    Landlord e problemi casa viene usato in contesti legati a vita all''estero e problemi
+    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Landlord e problemi casa a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 2440
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 33
+  title: Conto corrente estero
+  url: /inglese/expat/conto-corrente-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 88
+  seed: 8355
+  final_article: '# Conto corrente estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Conto corrente estero è fondamentale quando ti trovi in vita all''estero e problemi
+    reali.
+
+
+    ## Cos’è
+
+    Conto corrente estero viene usato in contesti legati a vita all''estero e problemi
+    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Conto corrente estero a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 8355
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 34
+  title: Medico di base all’estero
+  url: /inglese/expat/medico-base-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 87
+  seed: 2662
+  final_article: '# Medico di base all’estero
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Medico di base all’estero ti aiuta in situazioni di vita all''estero e
+    problemi reali.
+
+
+    ## Cos’è
+
+    Medico di base all’estero viene usato in contesti legati a vita all''estero e
+    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Medico di base all’estero a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 2662
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 35
+  title: Utenze casa inglese
+  url: /inglese/expat/utenze-casa-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 2920
+  final_article: '# Utenze casa inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Utenze casa inglese ti aiuta in situazioni di vita all''estero e problemi
+    reali.
+
+
+    ## Cos’è
+
+    Utenze casa inglese viene usato in contesti legati a vita all''estero e problemi
+    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Utenze casa inglese a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 2920
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 36
+  title: Supermercato in inglese
+  url: /inglese/expat/supermercato-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 80
+  seed: 8346
+  final_article: '# Supermercato in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Supermercato in inglese è fondamentale quando ti trovi in vita all''estero e problemi
+    reali.
+
+
+    ## Cos’è
+
+    Supermercato in inglese viene usato in contesti legati a vita all''estero e problemi
+    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Supermercato in inglese a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 8346
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 37
+  title: Salute e farmacia inglese
+  url: /inglese/expat/salute-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 85
+  seed: 5180
+  final_article: '# Salute e farmacia inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Salute e farmacia inglese ti aiuta in situazioni di vita all''estero e
+    problemi reali.
+
+
+    ## Cos’è
+
+    Salute e farmacia inglese viene usato in contesti legati a vita all''estero e
+    problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Salute e farmacia inglese a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 5180
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 38
+  title: Meccanico e auto inglese
+  url: /inglese/expat/meccanico-auto-inglese/
+  type: informational
+  funnel: mofu
+  cluster: expat
+  role: spoke
+  priority: 75
+  seed: 1578
+  final_article: '# Meccanico e auto inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Meccanico e auto inglese è fondamentale quando ti trovi in vita all''estero e
+    problemi reali.
+
+
+    ## Cos’è
+
+    Meccanico e auto inglese viene usato in contesti legati a vita all''estero e problemi
+    reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in vita all''estero e problemi reali
+
+    - esempio reale 2 in vita all''estero e problemi reali
+
+    - esempio reale 3 in vita all''estero e problemi reali
+
+    - esempio reale 4 in vita all''estero e problemi reali
+
+    - esempio reale 5 in vita all''estero e problemi reali
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Meccanico e auto inglese a situazioni
+    reali di vita all''estero e problemi reali.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 1578
+
+    CLUSTER: expat
+
+    FUNNEL: mofu
+
+
+    {% include bridge-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid:
+    - bridge-box.html
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 39
+  title: Fare amicizia in inglese
+  url: /inglese/social/amicizia-inglese/
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: hub
+  priority: 90
+  seed: 6957
+  final_article: '# Fare amicizia in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Fare amicizia in inglese vedrai come usarlo in amicizie, conversazioni,
+    small talk.
+
+
+    ## Cos’è
+
+    Fare amicizia in inglese viene usato in contesti legati a amicizie, conversazioni,
+    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in amicizie, conversazioni, small talk
+
+    - esempio reale 2 in amicizie, conversazioni, small talk
+
+    - esempio reale 3 in amicizie, conversazioni, small talk
+
+    - esempio reale 4 in amicizie, conversazioni, small talk
+
+    - esempio reale 5 in amicizie, conversazioni, small talk
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Fare amicizia in inglese a situazioni
+    reali di amicizie, conversazioni, small talk.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 6957
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 40
+  title: Small talk senza silenzi
+  url: /inglese/social/small-talk-inglese/
+  type: bridge
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 95
+  seed: 6341
+  final_article: '# Small talk senza silenzi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Small talk senza silenzi ti aiuta in situazioni di amicizie, conversazioni,
+    small talk.
+
+
+    ## Cos’è
+
+    Small talk senza silenzi viene usato in contesti legati a amicizie, conversazioni,
+    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in amicizie, conversazioni, small talk
+
+    - esempio reale 2 in amicizie, conversazioni, small talk
+
+    - esempio reale 3 in amicizie, conversazioni, small talk
+
+    - esempio reale 4 in amicizie, conversazioni, small talk
+
+    - esempio reale 5 in amicizie, conversazioni, small talk
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Small talk senza silenzi a situazioni
+    reali di amicizie, conversazioni, small talk.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 6341
+
+    CLUSTER: social
+
+    FUNNEL: mofu
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 41
+  title: Slang reale inglese
+  url: /inglese/social/slang-reale/
+  type: informational
+  funnel: tofu
+  cluster: social
+  role: spoke
+  priority: 85
+  seed: 1439
+  final_article: '# Slang reale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Slang reale inglese ti aiuta in situazioni di amicizie, conversazioni,
+    small talk.
+
+
+    ## Cos’è
+
+    Slang reale inglese viene usato in contesti legati a amicizie, conversazioni,
+    small talk. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in amicizie, conversazioni, small talk
+
+    - esempio reale 2 in amicizie, conversazioni, small talk
+
+    - esempio reale 3 in amicizie, conversazioni, small talk
+
+    - esempio reale 4 in amicizie, conversazioni, small talk
+
+    - esempio reale 5 in amicizie, conversazioni, small talk
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Slang reale inglese a situazioni
+    reali di amicizie, conversazioni, small talk.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 1439
+
+    CLUSTER: social
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 42
+  title: Dating in inglese
+  url: /inglese/social/dating-inglese/
+  type: informational
+  funnel: mofu
+  cluster: social
+  role: spoke
+  priority: 80
+  seed: 3531
+  final_article: '# Dating in inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Dating in inglese vedrai come usarlo in amicizie, conversazioni,
+    small talk.
+
+
+    ## Cos’è
+
+    Dating in inglese viene usato in contesti legati a amicizie, conversazioni, small
+    talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella
+    vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in amicizie, conversazioni, small talk
+
+    - esempio reale 2 in amicizie, conversazioni, small talk
+
+    - esempio reale 3 in amicizie, conversazioni, small talk
+
+    - esempio reale 4 in amicizie, conversazioni, small talk
+
+    - esempio reale 5 in amicizie, conversazioni, small talk
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Dating in inglese a situazioni reali
+    di amicizie, conversazioni, small talk.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 3531
 
     CLUSTER: social
 
@@ -3426,7 +3425,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 3228
+  seed: 8354
   final_article: '# CV inglese avanzato
 
 
@@ -3438,7 +3437,7 @@
 
     ## Introduzione
 
-    In questa guida su CV inglese avanzato vedrai come usarlo in lavoro, email, colloqui,
+    CV inglese avanzato è fondamentale quando ti trovi in lavoro, email, colloqui,
     meeting.
 
 
@@ -3475,7 +3474,7 @@
 
     ---
 
-    SEED: 3228
+    SEED: 8354
 
     CLUSTER: business
 
@@ -3511,7 +3510,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 4149
+  seed: 8225
   final_article: '# Colloquio inglese avanzato
 
 
@@ -3560,7 +3559,7 @@
 
     ---
 
-    SEED: 4149
+    SEED: 8225
 
     CLUSTER: business
 
@@ -3596,7 +3595,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 3002
+  seed: 8003
   final_article: '# Email professionali inglese
 
 
@@ -3645,7 +3644,7 @@
 
     ---
 
-    SEED: 3002
+    SEED: 8003
 
     CLUSTER: business
 
@@ -3681,7 +3680,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 7529
+  seed: 8953
   final_article: '# Pronomi inglesi
 
 
@@ -3729,7 +3728,7 @@
 
     ---
 
-    SEED: 7529
+    SEED: 8953
 
     CLUSTER: base
 
@@ -3757,7 +3756,7 @@
   cluster: base
   role: spoke
   priority: 92
-  seed: 3745
+  seed: 7810
   final_article: '# Articoli inglesi
 
 
@@ -3806,7 +3805,7 @@
 
     ---
 
-    SEED: 3745
+    SEED: 7810
 
     CLUSTER: base
 
@@ -3834,7 +3833,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 5324
+  seed: 4280
   final_article: '# Plurale inglese
 
 
@@ -3846,7 +3845,7 @@
 
     ## Introduzione
 
-    Plurale inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Plurale inglese ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -3882,7 +3881,7 @@
 
     ---
 
-    SEED: 5324
+    SEED: 4280
 
     CLUSTER: base
 
@@ -3910,7 +3909,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 5499
+  seed: 7000
   final_article: '# Dimostrativi inglesi
 
 
@@ -3922,7 +3921,7 @@
 
     ## Introduzione
 
-    Capire Dimostrativi inglesi ti aiuta in situazioni di situazioni quotidiane generiche.
+    Dimostrativi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -3958,7 +3957,7 @@
 
     ---
 
-    SEED: 5499
+    SEED: 7000
 
     CLUSTER: base
 
@@ -3986,7 +3985,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4099
+  seed: 1732
   final_article: '# Aggettivi inglese
 
 
@@ -3998,7 +3997,8 @@
 
     ## Introduzione
 
-    Aggettivi inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    In questa guida su Aggettivi inglese vedrai come usarlo in situazioni quotidiane
+    generiche.
 
 
     ## Cos’è
@@ -4034,7 +4034,7 @@
 
     ---
 
-    SEED: 4099
+    SEED: 1732
 
     CLUSTER: base
 
@@ -4062,7 +4062,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 7170
+  seed: 2938
   final_article: '# Verbo essere
 
 
@@ -4110,7 +4110,7 @@
 
     ---
 
-    SEED: 7170
+    SEED: 2938
 
     CLUSTER: base
 
@@ -4138,7 +4138,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 4860
+  seed: 5224
   final_article: '# Verbo avere
 
 
@@ -4186,7 +4186,7 @@
 
     ---
 
-    SEED: 4860
+    SEED: 5224
 
     CLUSTER: base
 
@@ -4214,7 +4214,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 8489
+  seed: 6213
   final_article: '# Parole base inglese
 
 
@@ -4226,7 +4226,8 @@
 
     ## Introduzione
 
-    Parole base inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    In questa guida su Parole base inglese vedrai come usarlo in situazioni quotidiane
+    generiche.
 
 
     ## Cos’è
@@ -4262,7 +4263,7 @@
 
     ---
 
-    SEED: 8489
+    SEED: 6213
 
     CLUSTER: base
 
@@ -4290,7 +4291,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 6608
+  seed: 6814
   final_article: '# Numeri inglese
 
 
@@ -4302,8 +4303,7 @@
 
     ## Introduzione
 
-    In questa guida su Numeri inglese vedrai come usarlo in situazioni quotidiane
-    generiche.
+    Capire Numeri inglese ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4339,7 +4339,7 @@
 
     ---
 
-    SEED: 6608
+    SEED: 6814
 
     CLUSTER: base
 
@@ -4367,7 +4367,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 6975
+  seed: 8480
   final_article: '# Colori inglese
 
 
@@ -4379,8 +4379,7 @@
 
     ## Introduzione
 
-    In questa guida su Colori inglese vedrai come usarlo in situazioni quotidiane
-    generiche.
+    Capire Colori inglese ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4416,7 +4415,7 @@
 
     ---
 
-    SEED: 6975
+    SEED: 8480
 
     CLUSTER: base
 
@@ -4444,7 +4443,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 5702
+  seed: 9019
   final_article: '# Tempo inglese
 
 
@@ -4456,7 +4455,7 @@
 
     ## Introduzione
 
-    Capire Tempo inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+    Tempo inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4492,7 +4491,7 @@
 
     ---
 
-    SEED: 5702
+    SEED: 9019
 
     CLUSTER: base
 
@@ -4520,7 +4519,7 @@
   cluster: base
   role: hub
   priority: 95
-  seed: 1157
+  seed: 1362
   final_article: '# Vocabolario viaggio
 
 
@@ -4532,7 +4531,8 @@
 
     ## Introduzione
 
-    Capire Vocabolario viaggio ti aiuta in situazioni di situazioni quotidiane generiche.
+    In questa guida su Vocabolario viaggio vedrai come usarlo in situazioni quotidiane
+    generiche.
 
 
     ## Cos’è
@@ -4568,7 +4568,7 @@
 
     ---
 
-    SEED: 1157
+    SEED: 1362
 
     CLUSTER: base
 
@@ -4596,7 +4596,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 7346
+  seed: 4777
   final_article: '# Preposizioni inglesi
 
 
@@ -4608,7 +4608,7 @@
 
     ## Introduzione
 
-    Preposizioni inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Preposizioni inglesi ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4644,7 +4644,7 @@
 
     ---
 
-    SEED: 7346
+    SEED: 4777
 
     CLUSTER: base
 
@@ -4672,7 +4672,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 8522
+  seed: 1747
   final_article: '# Much many a lot
 
 
@@ -4720,7 +4720,7 @@
 
     ---
 
-    SEED: 8522
+    SEED: 1747
 
     CLUSTER: base
 
@@ -4748,7 +4748,7 @@
   cluster: base
   role: spoke
   priority: 88
-  seed: 1378
+  seed: 7104
   final_article: '# Do vs Make
 
 
@@ -4760,7 +4760,7 @@
 
     ## Introduzione
 
-    In questa guida su Do vs Make vedrai come usarlo in situazioni quotidiane generiche.
+    Do vs Make è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4796,7 +4796,7 @@
 
     ---
 
-    SEED: 1378
+    SEED: 7104
 
     CLUSTER: base
 
@@ -4824,7 +4824,7 @@
   cluster: business
   role: hub
   priority: 100
-  seed: 3658
+  seed: 3338
   final_article: '# CV inglese avanzato
 
 
@@ -4836,7 +4836,7 @@
 
     ## Introduzione
 
-    In questa guida su CV inglese avanzato vedrai come usarlo in lavoro, email, colloqui,
+    CV inglese avanzato è fondamentale quando ti trovi in lavoro, email, colloqui,
     meeting.
 
 
@@ -4873,7 +4873,7 @@
 
     ---
 
-    SEED: 3658
+    SEED: 3338
 
     CLUSTER: business
 
@@ -4909,7 +4909,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 1418
+  seed: 9630
   final_article: '# Colloquio inglese
 
 
@@ -4921,8 +4921,7 @@
 
     ## Introduzione
 
-    In questa guida su Colloquio inglese vedrai come usarlo in lavoro, email, colloqui,
-    meeting.
+    Capire Colloquio inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -4958,7 +4957,7 @@
 
     ---
 
-    SEED: 1418
+    SEED: 9630
 
     CLUSTER: business
 
@@ -4994,7 +4993,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 5253
+  seed: 2778
   final_article: '# Email inglese
 
 
@@ -5042,7 +5041,7 @@
 
     ---
 
-    SEED: 5253
+    SEED: 2778
 
     CLUSTER: business
 
@@ -5078,7 +5077,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 8799
+  seed: 5009
   final_article: '# Presentazioni inglese
 
 
@@ -5090,8 +5089,8 @@
 
     ## Introduzione
 
-    In questa guida su Presentazioni inglese vedrai come usarlo in lavoro, email,
-    colloqui, meeting.
+    Capire Presentazioni inglese ti aiuta in situazioni di lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5127,7 +5126,7 @@
 
     ---
 
-    SEED: 8799
+    SEED: 5009
 
     CLUSTER: business
 
@@ -5163,7 +5162,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 8211
+  seed: 6156
   final_article: '# Meeting inglese
 
 
@@ -5175,8 +5174,7 @@
 
     ## Introduzione
 
-    In questa guida su Meeting inglese vedrai come usarlo in lavoro, email, colloqui,
-    meeting.
+    Capire Meeting inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -5212,7 +5210,7 @@
 
     ---
 
-    SEED: 8211
+    SEED: 6156
 
     CLUSTER: business
 
@@ -5248,7 +5246,7 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 5865
+  seed: 6137
   final_article: '# Networking inglese
 
 
@@ -5260,7 +5258,8 @@
 
     ## Introduzione
 
-    Capire Networking inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    In questa guida su Networking inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5296,7 +5295,7 @@
 
     ---
 
-    SEED: 5865
+    SEED: 6137
 
     CLUSTER: business
 
@@ -5332,7 +5331,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 3575
+  seed: 1976
   final_article: '# Stipendio inglese
 
 
@@ -5344,7 +5343,8 @@
 
     ## Introduzione
 
-    Stipendio inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+    In questa guida su Stipendio inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5380,7 +5380,7 @@
 
     ---
 
-    SEED: 3575
+    SEED: 1976
 
     CLUSTER: business
 
@@ -5416,7 +5416,7 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 2714
+  seed: 1948
   final_article: '# LinkedIn inglese
 
 
@@ -5464,7 +5464,7 @@
 
     ---
 
-    SEED: 2714
+    SEED: 1948
 
     CLUSTER: business
 
@@ -5500,7 +5500,7 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 1691
+  seed: 4466
   final_article: '# Falsi amici inglese
 
 
@@ -5547,7 +5547,7 @@
 
     ---
 
-    SEED: 1691
+    SEED: 4466
 
     CLUSTER: cultura
 
@@ -5575,7 +5575,7 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 8335
+  seed: 5393
   final_article: '# Parole intraducibili
 
 
@@ -5587,7 +5587,7 @@
 
     ## Introduzione
 
-    In questa guida su Parole intraducibili vedrai come usarlo in situazioni reali.
+    Parole intraducibili è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -5622,7 +5622,7 @@
 
     ---
 
-    SEED: 8335
+    SEED: 5393
 
     CLUSTER: cultura
 
@@ -5650,7 +5650,7 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 6941
+  seed: 1814
   final_article: '# UK vs US
 
 
@@ -5697,7 +5697,7 @@
 
     ---
 
-    SEED: 6941
+    SEED: 1814
 
     CLUSTER: cultura
 
@@ -5725,7 +5725,7 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 2855
+  seed: 7076
   final_article: '# Storia inglese
 
 
@@ -5737,7 +5737,7 @@
 
     ## Introduzione
 
-    Capire Storia inglese ti aiuta in situazioni di situazioni reali.
+    In questa guida su Storia inglese vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -5772,7 +5772,7 @@
 
     ---
 
-    SEED: 2855
+    SEED: 7076
 
     CLUSTER: cultura
 
@@ -5800,7 +5800,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 5619
+  seed: 9240
   final_article: '# Pronuncia italiani
 
 
@@ -5812,7 +5812,7 @@
 
     ## Introduzione
 
-    Capire Pronuncia italiani ti aiuta in situazioni di situazioni reali.
+    In questa guida su Pronuncia italiani vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -5847,7 +5847,7 @@
 
     ---
 
-    SEED: 5619
+    SEED: 9240
 
     CLUSTER: pronuncia
 
@@ -5879,7 +5879,7 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 7715
+  seed: 4485
   final_article: '# Slang reale
 
 
@@ -5926,7 +5926,7 @@
 
     ---
 
-    SEED: 7715
+    SEED: 4485
 
     CLUSTER: cultura
 
@@ -5958,7 +5958,7 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 2340
+  seed: 9696
   final_article: '# Mentalità inglese
 
 
@@ -5970,7 +5970,7 @@
 
     ## Introduzione
 
-    In questa guida su Mentalità inglese vedrai come usarlo in situazioni reali.
+    Mentalità inglese è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -6005,7 +6005,7 @@
 
     ---
 
-    SEED: 2340
+    SEED: 9696
 
     CLUSTER: cultura
 
@@ -6037,7 +6037,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 5643
+  seed: 6926
   final_article: '# Inglese da zero
 
 
@@ -6049,8 +6049,7 @@
 
     ## Introduzione
 
-    In questa guida su Inglese da zero vedrai come usarlo in studio e apprendimento
-    lingua.
+    Inglese da zero è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6086,7 +6085,7 @@
 
     ---
 
-    SEED: 5643
+    SEED: 6926
 
     CLUSTER: method
 
@@ -6122,7 +6121,7 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 8585
+  seed: 2048
   final_article: '# Blocco parlare inglese
 
 
@@ -6134,7 +6133,7 @@
 
     ## Introduzione
 
-    Capire Blocco parlare inglese ti aiuta in situazioni di studio e apprendimento
+    Blocco parlare inglese è fondamentale quando ti trovi in studio e apprendimento
     lingua.
 
 
@@ -6171,7 +6170,7 @@
 
     ---
 
-    SEED: 8585
+    SEED: 2048
 
     CLUSTER: method
 
@@ -6207,7 +6206,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 9637
+  seed: 9183
   final_article: '# Pensare in inglese
 
 
@@ -6255,7 +6254,7 @@
 
     ---
 
-    SEED: 9637
+    SEED: 9183
 
     CLUSTER: method
 
@@ -6291,7 +6290,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 6834
+  seed: 6290
   final_article: '# Shadowing
 
 
@@ -6303,7 +6302,7 @@
 
     ## Introduzione
 
-    Capire Shadowing ti aiuta in situazioni di studio e apprendimento lingua.
+    In questa guida su Shadowing vedrai come usarlo in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6338,7 +6337,7 @@
 
     ---
 
-    SEED: 6834
+    SEED: 6290
 
     CLUSTER: method
 
@@ -6374,7 +6373,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 6279
+  seed: 4384
   final_article: '# Input comprensibile
 
 
@@ -6386,7 +6385,8 @@
 
     ## Introduzione
 
-    Input comprensibile è fondamentale quando ti trovi in studio e apprendimento lingua.
+    In questa guida su Input comprensibile vedrai come usarlo in studio e apprendimento
+    lingua.
 
 
     ## Cos’è
@@ -6422,7 +6422,7 @@
 
     ---
 
-    SEED: 6279
+    SEED: 4384
 
     CLUSTER: method
 
@@ -6458,7 +6458,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6443
+  seed: 6744
   final_article: '# Metodo FluenteMente
 
 
@@ -6470,7 +6470,7 @@
 
     ## Introduzione
 
-    Metodo FluenteMente è fondamentale quando ti trovi in studio e apprendimento lingua.
+    Capire Metodo FluenteMente ti aiuta in situazioni di studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6507,7 +6507,7 @@
 
     ---
 
-    SEED: 6443
+    SEED: 6744
 
     CLUSTER: method
 
@@ -6543,7 +6543,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 3973
+  seed: 5065
   final_article: '# Ripetizione spaziata
 
 
@@ -6592,7 +6592,7 @@
 
     ---
 
-    SEED: 3973
+    SEED: 5065
 
     CLUSTER: method
 
@@ -6628,7 +6628,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5891
+  seed: 1651
   final_article: '# Routine inglese
 
 
@@ -6640,7 +6640,8 @@
 
     ## Introduzione
 
-    Capire Routine inglese ti aiuta in situazioni di studio e apprendimento lingua.
+    In questa guida su Routine inglese vedrai come usarlo in studio e apprendimento
+    lingua.
 
 
     ## Cos’è
@@ -6676,7 +6677,7 @@
 
     ---
 
-    SEED: 5891
+    SEED: 1651
 
     CLUSTER: method
 
@@ -6712,7 +6713,7 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 8148
+  seed: 5780
   final_article: '# Smettere tradurre
 
 
@@ -6724,8 +6725,7 @@
 
     ## Introduzione
 
-    In questa guida su Smettere tradurre vedrai come usarlo in studio e apprendimento
-    lingua.
+    Smettere tradurre è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6761,7 +6761,7 @@
 
     ---
 
-    SEED: 8148
+    SEED: 5780
 
     CLUSTER: method
 
@@ -6797,7 +6797,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 1279
+  seed: 7519
   final_article: '# Memoria vocabolario
 
 
@@ -6809,7 +6809,7 @@
 
     ## Introduzione
 
-    Capire Memoria vocabolario ti aiuta in situazioni di studio e apprendimento lingua.
+    Memoria vocabolario è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6845,7 +6845,7 @@
 
     ---
 
-    SEED: 1279
+    SEED: 7519
 
     CLUSTER: method
 
@@ -6881,7 +6881,7 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 8998
+  seed: 9748
   final_article: '# Errori inglese
 
 
@@ -6893,7 +6893,7 @@
 
     ## Introduzione
 
-    In questa guida su Errori inglese vedrai come usarlo in situazioni reali.
+    Errori inglese è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -6929,7 +6929,7 @@
 
     ---
 
-    SEED: 8998
+    SEED: 9748
 
     CLUSTER: conversion
 
@@ -6965,7 +6965,7 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 2687
+  seed: 3412
   final_article: '# Metodi tradizionali
 
 
@@ -7013,7 +7013,7 @@
 
     ---
 
-    SEED: 2687
+    SEED: 3412
 
     CLUSTER: conversion
 
@@ -7049,7 +7049,7 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 7038
+  seed: 4726
   final_article: '# Recensione Babbel
 
 
@@ -7097,7 +7097,7 @@
 
     ---
 
-    SEED: 7038
+    SEED: 4726
 
     CLUSTER: monetization
 

@@ -2,7 +2,7 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: 888bbece583bf7d78af7cf84a0e68af748b140cf1e9a33ba281c108caf81925f
+content_hash: 6c5bd2506b5de12c4beced96e66fd9aea9e5825f1790aa077afea8864e952431
 ---
 
 # Shadowing
@@ -12,7 +12,7 @@ content_hash: 888bbece583bf7d78af7cf84a0e68af748b140cf1e9a33ba281c108caf81925f
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Shadowing ti aiuta in situazioni di studio e apprendimento lingua.
+In questa guida su Shadowing vedrai come usarlo in studio e apprendimento lingua.
 
 ## Cos’è
 Shadowing viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Shadowing a situazioni reali di s
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6834
+SEED: 6290
 CLUSTER: method
 FUNNEL: mofu
 

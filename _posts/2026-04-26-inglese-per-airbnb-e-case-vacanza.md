@@ -2,7 +2,7 @@
 title: "Inglese per Airbnb e case vacanza"
 permalink: /inglese-per-airbnb-e-case-vacanza/
 layout: post
-content_hash: a6b492ae2d5715f9e2cb5dcc12e3355449ea736a3f91e07e2744c1f1f0db7e01
+content_hash: 5f5dd4709911c83ab652c8a33d81106d5d0774ebfe81addbc26aeb18c24ef866
 ---
 
 # Inglese per Airbnb e case vacanza
@@ -12,7 +12,7 @@ content_hash: a6b492ae2d5715f9e2cb5dcc12e3355449ea736a3f91e07e2744c1f1f0db7e01
 {% include section-in-breve.html %}
 
 ## Introduzione
-Inglese per Airbnb e case vacanza è fondamentale quando ti trovi in viaggi, aeroporti, hotel, trasporti.
+In questa guida su Inglese per Airbnb e case vacanza vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese per Airbnb e case vacanza viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese per Airbnb e case vacanza
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 1609
+SEED: 2477
 CLUSTER: travel
 FUNNEL: tofu
 

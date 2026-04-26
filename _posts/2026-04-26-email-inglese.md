@@ -2,7 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: 8f4f62921221559604641a60926fd70aed07c771ba6313af536910c6a2bf4a72
+content_hash: a3caac49c0786cec17584620eb8a58b3c2808bc9543eee4bdbd91a045aaf003e
 ---
 
 # Email inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email inglese a situazioni reali 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5253
+SEED: 2778
 CLUSTER: business
 FUNNEL: mofu
 

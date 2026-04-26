@@ -2,7 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: afd01676a919d41bdc2b31594cf3b36a90ff237ca130a4c64cf214fc546767c7
+content_hash: e14e33acf0a35a024dec6c9d045afe9d98c448ed7a5ec5e2a56ea01cfd53649b
 ---
 
 # Smettere tradurre
@@ -12,7 +12,7 @@ content_hash: afd01676a919d41bdc2b31594cf3b36a90ff237ca130a4c64cf214fc546767c7
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Smettere tradurre vedrai come usarlo in studio e apprendimento lingua.
+Smettere tradurre è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 ## Cos’è
 Smettere tradurre viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Smettere tradurre a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8148
+SEED: 5780
 CLUSTER: method
 FUNNEL: mofu
 
