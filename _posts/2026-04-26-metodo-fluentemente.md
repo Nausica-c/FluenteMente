@@ -2,7 +2,7 @@
 title: "Metodo FluenteMente"
 permalink: /metodo-fluentemente/
 layout: post
-content_hash: d0f80e36eef7f40614545169cede5651
+content_hash: 0fe0275ac3b03056730af4444ca6307c
 ---
 
 # Metodo FluenteMente
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4289
+SEED: 8447
 CLUSTER: method
 FUNNEL: bofu
 

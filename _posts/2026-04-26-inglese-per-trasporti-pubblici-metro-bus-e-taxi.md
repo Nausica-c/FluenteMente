@@ -2,7 +2,7 @@
 title: "Inglese per trasporti pubblici: metro, bus e taxi"
 permalink: /inglese-per-trasporti-pubblici-metro-bus-e-taxi/
 layout: post
-content_hash: 68e2e70f68fb68131c35afce4797e60d
+content_hash: 0906c46797fd36bce117a043b7132094
 ---
 
 # Inglese per trasporti pubblici: metro, bus e taxi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 8137
+SEED: 2335
 CLUSTER: travel
 FUNNEL: tofu
 

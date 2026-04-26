@@ -2,7 +2,7 @@
 title: "Dimostrativi inglesi"
 permalink: /dimostrativi-inglesi/
 layout: post
-content_hash: a6f11cfe026066e52b78585622e1f051
+content_hash: a6b7b8232977aba458e4865bc9e75c58
 ---
 
 # Dimostrativi inglesi
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 4694
+SEED: 8890
 CLUSTER: base
 FUNNEL: tofu
 

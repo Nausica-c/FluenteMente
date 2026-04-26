@@ -2,7 +2,7 @@
 title: "Alfabeto inglese e spelling: guida semplice per principianti"
 permalink: /alfabeto-inglese-e-spelling-guida-semplice-per-principianti/
 layout: post
-content_hash: 7b000271a749e9039edcea10ec32cdee
+content_hash: 75c66e7be10d9f26bfd3a0b9290f1bca
 ---
 
 # Alfabeto inglese e spelling: guida semplice per principianti
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 6462
+SEED: 1259
 CLUSTER: base
 FUNNEL: tofu
 

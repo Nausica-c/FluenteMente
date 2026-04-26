@@ -2,7 +2,7 @@
 title: "Contratto d’affitto in inglese"
 permalink: /contratto-daffitto-in-inglese/
 layout: post
-content_hash: e860650b13fca19a7c3d6a2480cb1ce7
+content_hash: 4a0a61b24e5435112f79fe935576e2bd
 ---
 
 # Contratto d’affitto in inglese
@@ -30,7 +30,7 @@ Spiegazione semplice e applicabile.
 ## Uso nella vita reale
 Situazioni: viaggio, lavoro, vita quotidiana.
 
-SEED: 7618
+SEED: 4149
 CLUSTER: expat
 FUNNEL: mofu
 
