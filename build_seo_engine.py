@@ -45,7 +45,7 @@ def today_date():
     return datetime.now().strftime("%Y-%m-%d")
 
 def compute_hash(content: str) -> str:
-    return hashlib.md5(content.encode("utf-8")).hexdigest()
+    return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 # =========================
 # LOAD
@@ -131,14 +131,16 @@ def assign_include_layout(article):
     }
 
 # =========================
-# AI ENGINE (semplice stabile)
+# AI ENGINE (DETERMINISTIC)
 # =========================
 
 def generate_ai_body(article):
     title = article.get("title", "")
     cluster = article.get("cluster", "")
     funnel = article.get("funnel", "")
-    seed = random.randint(1000, 9999)
+    seed = article.get("seed", 0)
+
+    random.seed(seed)
 
     return f"""
 ## Introduzione
@@ -202,7 +204,7 @@ def generate_article(article):
     return content
 
 # =========================
-# EXPORT (FIX VERO)
+# EXPORT (NO REGEN IF NOT CHANGED)
 # =========================
 
 def export_markdown(article):
@@ -212,10 +214,9 @@ def export_markdown(article):
     slug = slugify(article.get("title", "untitled"))
     path = f"{POSTS_DIR}/{today_date()}-{slug}.md"
 
-    content = article["final_article"]
-    new_hash = compute_hash(content)
+    new_content = article["final_article"]
+    new_hash = compute_hash(new_content)
 
-    # se esiste già, controlla se è cambiato
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
             old_content = f.read()
@@ -223,7 +224,7 @@ def export_markdown(article):
         old_hash = compute_hash(old_content)
 
         if old_hash == new_hash:
-            print(f"SKIP (unchanged): {slug}")
+            print(f"⏭ SKIP: {slug}")
             return
 
     with open(path, "w", encoding="utf-8") as f:
@@ -233,9 +234,9 @@ def export_markdown(article):
         f.write("layout: post\n")
         f.write(f"content_hash: {new_hash}\n")
         f.write("---\n\n")
-        f.write(content)
+        f.write(new_content)
 
-    print(f"UPDATED: {slug}")
+    print(f"✔ UPDATED: {slug}")
 
 # =========================
 # PIPELINE
@@ -250,10 +251,17 @@ def build_output(articles):
         a["cluster"] = a.get("cluster", "base")
         a["funnel"] = a.get("funnel", "tofu")
 
+        # seed stabile
+        if not a.get("seed"):
+            a["seed"] = random.randint(1000, 9999)
+
         a["internal_links"] = pick_links(a, by_cluster, by_funnel)
         a["include_layout"] = assign_include_layout(a)
 
         a["final_article"] = generate_article(a)
+
+        # hash finale
+        a["content_hash"] = compute_hash(a["final_article"])
 
         export_markdown(a)
 
@@ -277,7 +285,7 @@ def main():
     articles = load_articles()
     output = build_output(articles)
     save_yaml(output)
-    print("🚀 FIX 1 ENGINE ACTIVE (STABLE MODE)")
+    print("🚀 V5 ENTERPRISE STABLE ENGINE ACTIVE")
 
 if __name__ == "__main__":
     main()
