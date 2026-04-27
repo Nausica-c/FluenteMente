@@ -2,7 +2,7 @@
 title: "Metodi tradizionali"
 permalink: /metodi-tradizionali/
 layout: post
-content_hash: 16825c2e20f40b268c005a9da73e77a0643b417196b2a163f9a538aefd631103
+content_hash: 27b754a5e83f0801cd11aa9684d148d95f03c588defee78696476028a47f4344
 ---
 
 # Metodi tradizionali
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Metodi tradizionali a situazioni 
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 6926
+SEED: 2048
 CLUSTER: conversion
 FUNNEL: bofu
 

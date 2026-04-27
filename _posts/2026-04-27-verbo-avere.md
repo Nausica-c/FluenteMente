@@ -2,7 +2,7 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: 918d796738f2dd999bf8cfd93664be2ecf5e1f5fa0a5785925f30ffb53b4ca4f
+content_hash: d95f685a7296e77d8b6d07622d3f27a5a3ca3e74c536577a2d0723a7173498a8
 ---
 
 # Verbo avere
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Verbo avere a situazioni reali di
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 6734
+SEED: 3531
 CLUSTER: base
 FUNNEL: tofu
 

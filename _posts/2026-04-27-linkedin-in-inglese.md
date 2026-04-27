@@ -2,7 +2,7 @@
 title: "LinkedIn in inglese"
 permalink: /linkedin-in-inglese/
 layout: post
-content_hash: 054a17b060d939b44d631bdffe5c28c87ec300d021f72739391e1c984f2fe87c
+content_hash: c6b05347654e956bd1310d32960d43a4fbe1ad593769d34cde968d35c86c0080
 ---
 
 # LinkedIn in inglese
@@ -12,7 +12,7 @@ content_hash: 054a17b060d939b44d631bdffe5c28c87ec300d021f72739391e1c984f2fe87c
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire LinkedIn in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+LinkedIn in inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 ## Cos’è
 LinkedIn in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano LinkedIn in inglese a situazioni 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5619
+SEED: 1887
 CLUSTER: business
 FUNNEL: mofu
 

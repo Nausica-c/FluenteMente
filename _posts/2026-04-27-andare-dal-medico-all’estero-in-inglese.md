@@ -2,7 +2,7 @@
 title: "Andare dal medico all’estero in inglese"
 permalink: /andare-dal-medico-all’estero-in-inglese/
 layout: post
-content_hash: 44b5371165c60f24384a7d0b68123e761d3f259c16c270cbf5d744ee5b6d551a
+content_hash: 80380ecf2422a510a69961bc40190f1d34ddda309e1792838cfa6b20aff3b8a9
 ---
 
 # Andare dal medico all’estero in inglese
@@ -12,7 +12,7 @@ content_hash: 44b5371165c60f24384a7d0b68123e761d3f259c16c270cbf5d744ee5b6d551a
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Andare dal medico all’estero in inglese vedrai come usarlo in vita all'estero e problemi reali.
+Capire Andare dal medico all’estero in inglese ti aiuta in situazioni di vita all'estero e problemi reali.
 
 ## Cos’è
 Andare dal medico all’estero in inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Andare dal medico all’estero in
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1418
+SEED: 2362
 CLUSTER: expat
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Conto corrente estero"
 permalink: /conto-corrente-estero/
 layout: post
-content_hash: bacea46b49d03f3781f8b7b968be59fe62b70654091409681fc885aa6b97ae47
+content_hash: 5f5fb74e2e228675db42cb88f317ab2feb755163dd1025353e6c99a2ff1790b8
 ---
 
 # Conto corrente estero
@@ -12,7 +12,7 @@ content_hash: bacea46b49d03f3781f8b7b968be59fe62b70654091409681fc885aa6b97ae47
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Conto corrente estero vedrai come usarlo in vita all'estero e problemi reali.
+Conto corrente estero è fondamentale quando ti trovi in vita all'estero e problemi reali.
 
 ## Cos’è
 Conto corrente estero viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Conto corrente estero a situazion
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5643
+SEED: 6973
 CLUSTER: expat
 FUNNEL: mofu
 

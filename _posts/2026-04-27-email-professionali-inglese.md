@@ -2,7 +2,7 @@
 title: "Email professionali inglese"
 permalink: /email-professionali-inglese/
 layout: post
-content_hash: d3720e220dc3d37a8c9d73b54417fdc075a2ad6aa6029a0e34da054371db2920
+content_hash: d007bf7af119cb0a0544285aae1721045c21a2731b4943e9c2b0d7e5126590db
 ---
 
 # Email professionali inglese
@@ -12,7 +12,7 @@ content_hash: d3720e220dc3d37a8c9d73b54417fdc075a2ad6aa6029a0e34da054371db2920
 {% include section-in-breve.html %}
 
 ## Introduzione
-Email professionali inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+Capire Email professionali inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Email professionali inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email professionali inglese a sit
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 7038
+SEED: 2920
 CLUSTER: business
 FUNNEL: mofu
 

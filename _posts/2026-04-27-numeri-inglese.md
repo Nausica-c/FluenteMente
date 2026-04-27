@@ -2,7 +2,7 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: b4c6af1e558a9f98ba1001aa8c18463cd940f9c61e7b0a1db76e3a152254839c
+content_hash: ea2b6ba509b66b12a2d4a5949b0bd0a8d04b22228232ffa8a4a75cc1a6e7ec19
 ---
 
 # Numeri inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Numeri inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 8354
+SEED: 8225
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Parole intraducibili"
 permalink: /parole-intraducibili/
 layout: post
-content_hash: 6f833252af155eb3e5998955ad9f3431c8b26a200118682479cd7a0429036404
+content_hash: ab8b4c9e0cc3b6e6c6973926e1428b3b85b3d819a2da36d2def5b70dec0abd10
 ---
 
 # Parole intraducibili
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Parole intraducibili a situazioni
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 1747
+SEED: 7104
 CLUSTER: cultura
 FUNNEL: tofu
 

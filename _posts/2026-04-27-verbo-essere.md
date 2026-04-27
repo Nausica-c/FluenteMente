@@ -2,7 +2,7 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: 0df9834685e654ef00178d326284db6b2230d82b9bf3b54d2873f9c5f2db2107
+content_hash: cb1d46eee2b7a4aae384d85df1abb3a2a4fc65e07fea61c4daa28fc0916ee261
 ---
 
 # Verbo essere
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Verbo essere a situazioni reali d
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2138
+SEED: 1439
 CLUSTER: base
 FUNNEL: tofu
 

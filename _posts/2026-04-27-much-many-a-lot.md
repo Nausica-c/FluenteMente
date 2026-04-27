@@ -2,7 +2,7 @@
 title: "Much many a lot"
 permalink: /much-many-a-lot/
 layout: post
-content_hash: 060284df1b67f9ce4a68d445114efa6427f4fff719422bead1d67eca6174adec
+content_hash: c78b2ce4d935432343dd4cdbef7fee7ffe2f0d85d5b039b58b5699cf842df606
 ---
 
 # Much many a lot
@@ -12,7 +12,7 @@ content_hash: 060284df1b67f9ce4a68d445114efa6427f4fff719422bead1d67eca6174adec
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Much many a lot ti aiuta in situazioni di situazioni quotidiane generiche.
+Much many a lot è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 ## Cos’è
 Much many a lot viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Much many a lot a situazioni real
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 4280
+SEED: 7000
 CLUSTER: base
 FUNNEL: tofu
 
