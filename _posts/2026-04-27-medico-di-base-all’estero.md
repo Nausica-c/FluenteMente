@@ -2,7 +2,7 @@
 title: "Medico di base all’estero"
 permalink: /medico-di-base-all’estero/
 layout: post
-content_hash: 2ee0facb8f29ef29032f10b7e7264ed013b468246fdd92dd72d184d9e3fd7c9a
+content_hash: a539183d0c338bef5e845c7c71c5f7092a009426b51f8b2a76c162309470cfac
 ---
 
 # Medico di base all’estero
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Medico di base all’estero a sit
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6868
+SEED: 8585
 CLUSTER: expat
 FUNNEL: mofu
 

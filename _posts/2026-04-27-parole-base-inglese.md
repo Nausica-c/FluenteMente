@@ -2,7 +2,7 @@
 title: "Parole base inglese"
 permalink: /parole-base-inglese/
 layout: post
-content_hash: dcfcb64cfcf8bacee23bf5655c82d567271d9af03e896b003289f4dbd8e2ee44
+content_hash: 7d3c0b2ec4bc48c74181063e856265e0188b2e94fc4cf4633ec3346c53e0bc9f
 ---
 
 # Parole base inglese
@@ -12,7 +12,7 @@ content_hash: dcfcb64cfcf8bacee23bf5655c82d567271d9af03e896b003289f4dbd8e2ee44
 {% include section-in-breve.html %}
 
 ## Introduzione
-Parole base inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+In questa guida su Parole base inglese vedrai come usarlo in situazioni quotidiane generiche.
 
 ## Cos’è
 Parole base inglese viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Parole base inglese a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 6036
+SEED: 4097
 CLUSTER: base
 FUNNEL: tofu
 

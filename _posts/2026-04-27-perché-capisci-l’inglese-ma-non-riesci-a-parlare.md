@@ -2,7 +2,7 @@
 title: "Perché capisci l’inglese ma non riesci a parlare"
 permalink: /perché-capisci-l’inglese-ma-non-riesci-a-parlare/
 layout: post
-content_hash: 30ba7b380ea1f6f2dc0d9c7b59834bc94b68db500d0039d32426bd5e59f7d550
+content_hash: 4ca68d1392f9a1c1e4268cd819fb568db9164114b4cfb37e3617f6c8b0266b5e
 ---
 
 # Perché capisci l’inglese ma non riesci a parlare
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Perché capisci l’inglese ma no
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 1733
+SEED: 2660
 CLUSTER: method
 FUNNEL: bofu
 

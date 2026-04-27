@@ -2,7 +2,7 @@
 title: "Inglese per shopping: negozi, prezzi e acquisti"
 permalink: /inglese-per-shopping:-negozi,-prezzi-e-acquisti/
 layout: post
-content_hash: 637cbc6ab285c0d178dc648b73e16fa5676b91d63b4bc38afc407d989efe03f5
+content_hash: d6ba3fcc38b5cad95e939ee3f3edecd2e41683e0241c3e4e7c24f8ba0d4e9cf7
 ---
 
 # Inglese per shopping: negozi, prezzi e acquisti
@@ -12,7 +12,7 @@ content_hash: 637cbc6ab285c0d178dc648b73e16fa5676b91d63b4bc38afc407d989efe03f5
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Inglese per shopping: negozi, prezzi e acquisti vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
+Capire Inglese per shopping: negozi, prezzi e acquisti ti aiuta in situazioni di viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese per shopping: negozi, prezzi e acquisti viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese per shopping: negozi, pre
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 3934
+SEED: 3496
 CLUSTER: travel
 FUNNEL: tofu
 

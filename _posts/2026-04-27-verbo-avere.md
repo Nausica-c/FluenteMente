@@ -2,7 +2,7 @@
 title: "Verbo avere"
 permalink: /verbo-avere/
 layout: post
-content_hash: f151270e224937ad5cdad8d8476aab7c6fd124db26c48d9c26f9c9186704a7c3
+content_hash: 918d796738f2dd999bf8cfd93664be2ecf5e1f5fa0a5785925f30ffb53b4ca4f
 ---
 
 # Verbo avere
@@ -12,7 +12,7 @@ content_hash: f151270e224937ad5cdad8d8476aab7c6fd124db26c48d9c26f9c9186704a7c3
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Verbo avere ti aiuta in situazioni di situazioni quotidiane generiche.
+In questa guida su Verbo avere vedrai come usarlo in situazioni quotidiane generiche.
 
 ## Cos’è
 Verbo avere viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Verbo avere a situazioni reali di
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2780
+SEED: 6734
 CLUSTER: base
 FUNNEL: tofu
 

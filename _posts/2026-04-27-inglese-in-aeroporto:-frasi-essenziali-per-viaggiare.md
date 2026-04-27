@@ -2,7 +2,7 @@
 title: "Inglese in aeroporto: frasi essenziali per viaggiare"
 permalink: /inglese-in-aeroporto:-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: be228f3b2fd3e3147e5c124c0f3cf457123e72f8b8a422330977540193d53f22
+content_hash: 02e898d7b6f8325a2ed66b8ec805e4bbb76fdec93e2030fec7bb12fd5f16b75b
 ---
 
 # Inglese in aeroporto: frasi essenziali per viaggiare
@@ -12,7 +12,7 @@ content_hash: be228f3b2fd3e3147e5c124c0f3cf457123e72f8b8a422330977540193d53f22
 {% include section-in-breve.html %}
 
 ## Introduzione
-Inglese in aeroporto: frasi essenziali per viaggiare è fondamentale quando ti trovi in viaggi, aeroporti, hotel, trasporti.
+In questa guida su Inglese in aeroporto: frasi essenziali per viaggiare vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese in aeroporto: frasi essenziali per viaggiare viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese in aeroporto: frasi essen
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9673
+SEED: 2771
 CLUSTER: travel
 FUNNEL: tofu
 

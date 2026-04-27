@@ -2,7 +2,7 @@
 title: "Meeting inglese"
 permalink: /meeting-inglese/
 layout: post
-content_hash: 72aee042df5f7c8b5cfa499c7f37ff1311a1609d0d87d56bda58b5b462703955
+content_hash: 9b3dc91163d7e816bd3a1fb7a57fcdddb3d9656011bc38db1764fe32d5e87a7a
 ---
 
 # Meeting inglese
@@ -12,7 +12,7 @@ content_hash: 72aee042df5f7c8b5cfa499c7f37ff1311a1609d0d87d56bda58b5b462703955
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Meeting inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
+Capire Meeting inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Meeting inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Meeting inglese a situazioni real
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8273
+SEED: 6814
 CLUSTER: business
 FUNNEL: mofu
 

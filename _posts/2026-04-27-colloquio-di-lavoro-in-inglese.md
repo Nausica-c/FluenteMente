@@ -2,7 +2,7 @@
 title: "Colloquio di lavoro in inglese"
 permalink: /colloquio-di-lavoro-in-inglese/
 layout: post
-content_hash: e36388d22ce7207f1944fc9649f8ab5f47db32e5f82421f2d22ca4014ea4821f
+content_hash: 2d9e2f399a808be666a4c4101fa8979191cd7f3e55969ebdce2604372be06b6c
 ---
 
 # Colloquio di lavoro in inglese
@@ -12,7 +12,7 @@ content_hash: e36388d22ce7207f1944fc9649f8ab5f47db32e5f82421f2d22ca4014ea4821f
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Colloquio di lavoro in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+In questa guida su Colloquio di lavoro in inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Colloquio di lavoro in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colloquio di lavoro in inglese a 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 2858
+SEED: 6941
 CLUSTER: business
 FUNNEL: mofu
 
