@@ -2,7 +2,7 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: 7f8da6c37b1388fafc88d6df843aa84ea7eef7a9eb82c874ad2fba28532d8687
+content_hash: 5978a528502716f51b5747e1b174eb28b554958543c14f33aedbfd925d606fe3
 ---
 
 # Input comprensibile
@@ -12,7 +12,7 @@ content_hash: 7f8da6c37b1388fafc88d6df843aa84ea7eef7a9eb82c874ad2fba28532d8687
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Input comprensibile vedrai come usarlo in studio e apprendimento lingua.
+Input comprensibile è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 ## Cos’è
 Input comprensibile viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Input comprensibile a situazioni 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6581
+SEED: 8489
 CLUSTER: method
 FUNNEL: mofu
 

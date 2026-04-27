@@ -2,7 +2,7 @@
 title: "Colloquio inglese avanzato"
 permalink: /colloquio-inglese-avanzato/
 layout: post
-content_hash: 5e78db537091be10776c8ed5963cfb78220781630473bddaeb80818199832666
+content_hash: 884448519921f6bc2f17935cc5e6e1f2b19cdcedfc67e03baf31145b3dc5efb7
 ---
 
 # Colloquio inglese avanzato
@@ -12,7 +12,7 @@ content_hash: 5e78db537091be10776c8ed5963cfb78220781630473bddaeb80818199832666
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Colloquio inglese avanzato vedrai come usarlo in lavoro, email, colloqui, meeting.
+Colloquio inglese avanzato è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Colloquio inglese avanzato viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colloquio inglese avanzato a situ
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1690
+SEED: 6245
 CLUSTER: business
 FUNNEL: mofu
 

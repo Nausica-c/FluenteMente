@@ -2,7 +2,7 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
-content_hash: a9f92bc919abd73269ceca2d9c3e9ad1ca111074d383643bc7eed082fbfec134
+content_hash: 4ca2f949fbe11b475267dc42249237eba2142c0fda4567fe498f2f8f627798a7
 ---
 
 # Pensare in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Pensare in inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1660
+SEED: 7170
 CLUSTER: method
 FUNNEL: mofu
 

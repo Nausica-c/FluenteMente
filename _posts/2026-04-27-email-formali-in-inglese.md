@@ -2,7 +2,7 @@
 title: "Email formali in inglese"
 permalink: /email-formali-in-inglese/
 layout: post
-content_hash: 722c36e3f849cab2da1cfc8c0ac28bc36df99359fc95e122d7a1fb30c08042ed
+content_hash: 36feae8a29d8ea0ca59f167b06466f77c79af916e7e0a4c8cb90254141a04587
 ---
 
 # Email formali in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email formali in inglese a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1038
+SEED: 4652
 CLUSTER: business
 FUNNEL: mofu
 

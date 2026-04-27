@@ -2,7 +2,7 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: db7978bcd302e7a695e7496b89dd68b3c9a124efac39cb6dc18e9de983390016
+content_hash: b570d8000bb4ae15bc24f479dfde798b7e9b717c14639f85c478d51fbd59084c
 ---
 
 # Salute e farmacia inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Salute e farmacia inglese a situa
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1943
+SEED: 5293
 CLUSTER: expat
 FUNNEL: mofu
 

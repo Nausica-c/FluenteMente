@@ -2,7 +2,7 @@
 title: "Errori inglese"
 permalink: /errori-inglese/
 layout: post
-content_hash: 6bb02db738d75acb1c9a4c0a1cc7f890cfc4b4d763ef732f67f0794640b06894
+content_hash: e195c5c9510a54f1f176e73057f447486d111b148fe97ee004ed4169905e9078
 ---
 
 # Errori inglese
@@ -12,7 +12,7 @@ content_hash: 6bb02db738d75acb1c9a4c0a1cc7f890cfc4b4d763ef732f67f0794640b06894
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Errori inglese vedrai come usarlo in situazioni reali.
+Errori inglese è fondamentale quando ti trovi in situazioni reali.
 
 ## Cos’è
 Errori inglese viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Errori inglese a situazioni reali
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 7240
+SEED: 8522
 CLUSTER: conversion
 FUNNEL: bofu
 

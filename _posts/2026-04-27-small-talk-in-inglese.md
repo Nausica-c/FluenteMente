@@ -2,7 +2,7 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: 2ea66bc8dfbf29b8a1ac89624a7ffd6edc7fe4632649331719a110597ac6b595
+content_hash: eee2aeccbbe2124e951bdf8b8c92e81863f0f78abb143355398a33b7dd002250
 ---
 
 # Small talk in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Small talk in inglese a situazion
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4747
+SEED: 2041
 CLUSTER: social
 FUNNEL: mofu
 

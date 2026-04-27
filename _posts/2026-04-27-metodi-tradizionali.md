@@ -2,7 +2,7 @@
 title: "Metodi tradizionali"
 permalink: /metodi-tradizionali/
 layout: post
-content_hash: 77c9f6ef4ef176385d0da9d39e87f80882dc700cfe170aa06e1dc18b40d92f90
+content_hash: 134a7d286c1869e73977927080509522912b125ad5f957d1dfeecc16452f307e
 ---
 
 # Metodi tradizionali
@@ -12,7 +12,7 @@ content_hash: 77c9f6ef4ef176385d0da9d39e87f80882dc700cfe170aa06e1dc18b40d92f90
 {% include section-in-breve.html %}
 
 ## Introduzione
-Metodi tradizionali è fondamentale quando ti trovi in situazioni reali.
+In questa guida su Metodi tradizionali vedrai come usarlo in situazioni reali.
 
 ## Cos’è
 Metodi tradizionali viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Metodi tradizionali a situazioni 
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 4047
+SEED: 1378
 CLUSTER: conversion
 FUNNEL: bofu
 

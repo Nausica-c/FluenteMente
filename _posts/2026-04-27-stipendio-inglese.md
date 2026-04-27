@@ -2,7 +2,7 @@
 title: "Stipendio inglese"
 permalink: /stipendio-inglese/
 layout: post
-content_hash: 09e7a59e49f310accf89be45332d98af70306734d547efcf59fb6ed2b8ef7ea4
+content_hash: 82ad75c2743d92e1459bf678a46a9849c9c4de47198c639ff5a4bb482404db52
 ---
 
 # Stipendio inglese
@@ -12,7 +12,7 @@ content_hash: 09e7a59e49f310accf89be45332d98af70306734d547efcf59fb6ed2b8ef7ea4
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Stipendio inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
+Capire Stipendio inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Stipendio inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Stipendio inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8802
+SEED: 6937
 CLUSTER: business
 FUNNEL: mofu
 

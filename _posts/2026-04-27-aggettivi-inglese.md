@@ -2,7 +2,7 @@
 title: "Aggettivi inglese"
 permalink: /aggettivi-inglese/
 layout: post
-content_hash: 32b0c918887640217cf6e139e04d86488e2d78629114c06578adb00cc2eff01c
+content_hash: f6c0aa5d4d342e9e5fa69209440be46221ff53b8828e7bbd71c670d9ab938744
 ---
 
 # Aggettivi inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Aggettivi inglese a situazioni re
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 4047
+SEED: 4971
 CLUSTER: base
 FUNNEL: tofu
 

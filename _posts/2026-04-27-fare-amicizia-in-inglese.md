@@ -2,7 +2,7 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: 897118b709c2fa029460e7a46ae9c14f46dbdb3c8b17ae024810ee9abdc1bfe9
+content_hash: 1f951e57b8001694259bf7010ea0e83f570a874a0c205eca0405444bf0415942
 ---
 
 # Fare amicizia in inglese
@@ -12,7 +12,7 @@ content_hash: 897118b709c2fa029460e7a46ae9c14f46dbdb3c8b17ae024810ee9abdc1bfe9
 {% include section-in-breve.html %}
 
 ## Introduzione
-Fare amicizia in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
+In questa guida su Fare amicizia in inglese vedrai come usarlo in amicizie, conversazioni, small talk.
 
 ## Cos’è
 Fare amicizia in inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Fare amicizia in inglese a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9331
+SEED: 9921
 CLUSTER: social
 FUNNEL: mofu
 

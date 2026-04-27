@@ -2,7 +2,7 @@
 title: "Colori inglese"
 permalink: /colori-inglese/
 layout: post
-content_hash: fbd0d6c415c37296a439ce7e5451fe38aea52fb15885c0f740d99c5aac870c01
+content_hash: 5c1321cec0b5eaca3eb3bc9d846d343efc38d10d0cc2d869a4afefbf9185350f
 ---
 
 # Colori inglese
@@ -12,7 +12,7 @@ content_hash: fbd0d6c415c37296a439ce7e5451fe38aea52fb15885c0f740d99c5aac870c01
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Colori inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+Colori inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 ## Cos’è
 Colori inglese viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colori inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 3458
+SEED: 1924
 CLUSTER: base
 FUNNEL: tofu
 

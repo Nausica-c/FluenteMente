@@ -2,7 +2,7 @@
 title: "Preposizioni inglesi"
 permalink: /preposizioni-inglesi/
 layout: post
-content_hash: da6accaf577aa0e5465de28092460e8e45a042a83d5e7a98bd9f83f91f7c4508
+content_hash: 41cb507c12ab63307dfa414a67ea972a32c7bc087659a9486909b6ca424bbd59
 ---
 
 # Preposizioni inglesi
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Preposizioni inglesi a situazioni
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2765
+SEED: 9151
 CLUSTER: base
 FUNNEL: tofu
 
