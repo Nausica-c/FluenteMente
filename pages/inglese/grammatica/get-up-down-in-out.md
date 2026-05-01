@@ -121,4 +121,3 @@ permalink: /inglese/grammatica/get-up-down-in-out/
 
 </main>
 
-{% include footer-cta.html %}
