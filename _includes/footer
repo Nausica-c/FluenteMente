@@ -35,7 +35,7 @@
       <div class="footer-col link-col">
         <p class="footer-heading">Strumento consigliato</p>
         <ul class="footer-links">
-          <li><a href="{{ '/recensione-babbel/' | relative_url }}" style="font-weight:bold; color:#d97706;">
+          <li><a href="{{ '/recensione/babbel/' | relative_url }}" style="font-weight:bold; color:#d97706;">
             Babbel (recensione completa)
           </a></li>
         </ul>
