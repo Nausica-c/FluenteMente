@@ -2,7 +2,7 @@
 title: "Tempo inglese"
 permalink: /tempo-inglese/
 layout: post
-content_hash: aa07abc04ae746cdbde3c73172bd28a70a5e574d3d84008a7570221ecfccedbb
+content_hash: 9691859cd43dd4e983b2e183d7b7b8860a252bae0ee7ef6b66902aff637eb973
 ---
 
 # Tempo inglese
@@ -12,7 +12,7 @@ content_hash: aa07abc04ae746cdbde3c73172bd28a70a5e574d3d84008a7570221ecfccedbb
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Tempo inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+Tempo inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 ## Cos’è
 Tempo inglese viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Tempo inglese a situazioni reali 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 3458
+SEED: 4860
 CLUSTER: base
 FUNNEL: tofu
 

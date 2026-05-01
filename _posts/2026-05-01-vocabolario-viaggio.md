@@ -2,7 +2,7 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: 01a77295182822ef3dd1fc0538cb2bc3f4ded6eca989deee5eb2a554951467b8
+content_hash: e930d5d872a3f61b53d70cc0f788949b2b3ef7bbb8dd0967f5e1bb4daff66cdf
 ---
 
 # Vocabolario viaggio
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Vocabolario viaggio a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 7195
+SEED: 8489
 CLUSTER: base
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Colloquio inglese avanzato"
 permalink: /colloquio-inglese-avanzato/
 layout: post
-content_hash: 3874277b683feb360ea47a7d586ad21931802ee56007f6d7c03911b018405e5d
+content_hash: 9612b496cfdc894ae9a482ad7b5b14fc61ded1de2a43f7eca016d8fcd703e71a
 ---
 
 # Colloquio inglese avanzato
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colloquio inglese avanzato a situ
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8045
+SEED: 6937
 CLUSTER: business
 FUNNEL: mofu
 

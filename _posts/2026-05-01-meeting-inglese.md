@@ -2,7 +2,7 @@
 title: "Meeting inglese"
 permalink: /meeting-inglese/
 layout: post
-content_hash: dd8d3d81ac3b4076be7451c36ce400ed531820fa05e1853ec5b6b8d52b67196c
+content_hash: ff2ba9d954ca5410f29e07eb95a2b6078bd4afbbd875120cda929d1f20c1e028
 ---
 
 # Meeting inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Meeting inglese a situazioni real
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8141
+SEED: 3658
 CLUSTER: business
 FUNNEL: mofu
 

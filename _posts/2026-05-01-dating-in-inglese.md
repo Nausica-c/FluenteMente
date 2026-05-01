@@ -2,7 +2,7 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: ae02acf18a0626343013d8e256529947448f070651e4b948169605296ebc52cc
+content_hash: 4ae145196711fae80d77a1fe2313ec485f2d06bdda0428be0ff3fea33e649682
 ---
 
 # Dating in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Dating in inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6691
+SEED: 8273
 CLUSTER: social
 FUNNEL: mofu
 

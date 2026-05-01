@@ -2,7 +2,7 @@
 title: "Verbo essere"
 permalink: /verbo-essere/
 layout: post
-content_hash: daa7c0eac8cee061654d747041801a1f986ce2cba15acbcafd03f78f26529594
+content_hash: 07dd72076774971d1746310e2f0ae92db41f05b2ed2852a1c590f9f4b9bfbd53
 ---
 
 # Verbo essere
@@ -12,7 +12,7 @@ content_hash: daa7c0eac8cee061654d747041801a1f986ce2cba15acbcafd03f78f26529594
 {% include section-in-breve.html %}
 
 ## Introduzione
-Verbo essere è fondamentale quando ti trovi in situazioni quotidiane generiche.
+In questa guida su Verbo essere vedrai come usarlo in situazioni quotidiane generiche.
 
 ## Cos’è
 Verbo essere viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Verbo essere a situazioni reali d
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 4047
+SEED: 3745
 CLUSTER: base
 FUNNEL: tofu
 

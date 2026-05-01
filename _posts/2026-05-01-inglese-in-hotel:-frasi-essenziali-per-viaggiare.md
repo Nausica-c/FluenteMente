@@ -2,7 +2,7 @@
 title: "Inglese in hotel: frasi essenziali per viaggiare"
 permalink: /inglese-in-hotel:-frasi-essenziali-per-viaggiare/
 layout: post
-content_hash: 579b26961b236a48697803b3d0412a36b837e38d8df72ba68e76b4bbaa1556b5
+content_hash: 4bcad2fd822630b8eca2840e9c46c4042fa54efc795a89cf938f18de0c9c4144
 ---
 
 # Inglese in hotel: frasi essenziali per viaggiare
@@ -12,7 +12,7 @@ content_hash: 579b26961b236a48697803b3d0412a36b837e38d8df72ba68e76b4bbaa1556b5
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Inglese in hotel: frasi essenziali per viaggiare ti aiuta in situazioni di viaggi, aeroporti, hotel, trasporti.
+In questa guida su Inglese in hotel: frasi essenziali per viaggiare vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese in hotel: frasi essenziali per viaggiare viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese in hotel: frasi essenzial
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 6890
+SEED: 5711
 CLUSTER: travel
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "Blocco parlare inglese"
 permalink: /blocco-parlare-inglese/
 layout: post
-content_hash: e950f57a5ff941c1c003d3dfba98fc9dcc72ff400434a6432c4250582ac04054
+content_hash: 07a21ff0e51e4815486a92d0fa37289f4919223c3c1d074d7954e436dc0c410f
 ---
 
 # Blocco parlare inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Blocco parlare inglese a situazio
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9219
+SEED: 5619
 CLUSTER: method
 FUNNEL: mofu
 

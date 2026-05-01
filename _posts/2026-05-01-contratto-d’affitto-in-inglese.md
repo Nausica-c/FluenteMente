@@ -2,7 +2,7 @@
 title: "Contratto d’affitto in inglese"
 permalink: /contratto-d’affitto-in-inglese/
 layout: post
-content_hash: a10e462c87214fac6110ba90d3c5bd5a53d166ee8a51aecbfc0110f6c501b8c3
+content_hash: b8f4080b7db0026a6b71e42da80a1b72bb267de4dc8f15b28bb64475eb8213d0
 ---
 
 # Contratto d’affitto in inglese
@@ -12,7 +12,7 @@ content_hash: a10e462c87214fac6110ba90d3c5bd5a53d166ee8a51aecbfc0110f6c501b8c3
 {% include section-in-breve.html %}
 
 ## Introduzione
-Contratto d’affitto in inglese è fondamentale quando ti trovi in vita all'estero e problemi reali.
+In questa guida su Contratto d’affitto in inglese vedrai come usarlo in vita all'estero e problemi reali.
 
 ## Cos’è
 Contratto d’affitto in inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Contratto d’affitto in inglese 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5371
+SEED: 8214
 CLUSTER: expat
 FUNNEL: mofu
 

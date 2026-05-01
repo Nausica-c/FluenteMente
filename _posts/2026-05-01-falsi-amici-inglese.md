@@ -2,7 +2,7 @@
 title: "Falsi amici inglese"
 permalink: /falsi-amici-inglese/
 layout: post
-content_hash: 0484b59c711b232620f3b1c83cacc2b33e55d1fdb2843b88de531fdf2af79a1c
+content_hash: 6078dd64fde0e249e249344d04e2bad3c7529c69a760478e21a896f15367c98c
 ---
 
 # Falsi amici inglese
@@ -12,7 +12,7 @@ content_hash: 0484b59c711b232620f3b1c83cacc2b33e55d1fdb2843b88de531fdf2af79a1c
 {% include section-in-breve.html %}
 
 ## Introduzione
-Falsi amici inglese è fondamentale quando ti trovi in situazioni reali.
+In questa guida su Falsi amici inglese vedrai come usarlo in situazioni reali.
 
 ## Cos’è
 Falsi amici inglese viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Falsi amici inglese a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2374
+SEED: 8211
 CLUSTER: cultura
 FUNNEL: tofu
 

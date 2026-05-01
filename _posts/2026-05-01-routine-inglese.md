@@ -2,7 +2,7 @@
 title: "Routine inglese"
 permalink: /routine-inglese/
 layout: post
-content_hash: bdc68bc726231508f90bbc20ddfbf279cff586a906519ae5762fa1ba3989de1c
+content_hash: ab07c7fa06fa327ecf6f94f3ed67e275f22ce9852c3ffbcdc327da0e3d0c7a68
 ---
 
 # Routine inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Routine inglese a situazioni real
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4380
+SEED: 6834
 CLUSTER: method
 FUNNEL: mofu
 

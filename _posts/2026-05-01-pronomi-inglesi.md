@@ -2,7 +2,7 @@
 title: "Pronomi inglesi"
 permalink: /pronomi-inglesi/
 layout: post
-content_hash: fde2ac3332fa03e88f9619e18522ad01c5cd6c5ae3cdaa9f4cf9cd576cc80535
+content_hash: 71e8e7821b1bc810f005fffeaa461eb2a21a4be0ab7ebc521a8258c06d4c817c
 ---
 
 # Pronomi inglesi
@@ -12,7 +12,7 @@ content_hash: fde2ac3332fa03e88f9619e18522ad01c5cd6c5ae3cdaa9f4cf9cd576cc80535
 {% include section-in-breve.html %}
 
 ## Introduzione
-Pronomi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
+In questa guida su Pronomi inglesi vedrai come usarlo in situazioni quotidiane generiche.
 
 ## Cos’è
 Pronomi inglesi viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Pronomi inglesi a situazioni real
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9229
+SEED: 4141
 CLUSTER: base
 FUNNEL: tofu
 
