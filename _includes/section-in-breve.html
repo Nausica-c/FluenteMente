@@ -1,14 +1,13 @@
-<div class="section-in-breve">
+<div class="section-in-breve {{ include.class | default: '' }}">
   <div class="sib-header">
-    <span class="sib-icon">🎯</span>
-    <h3 class="sib-title">In breve:</h3>
+    <span class="sib-icon">{{ include.icon | default: "🎯" }}</span>
+    <h3 class="sib-title">{{ include.title | default: "In breve:" }}</h3>
   </div>
 
   <ul class="sib-list">
-    {% if include.p1 %}<li>{{ include.p1 }}</li>{% endif %}
-    {% if include.p2 %}<li>{{ include.p2 }}</li>{% endif %}
-    {% if include.p3 %}<li>{{ include.p3 }}</li>{% endif %}
-    {% if include.p4 %}<li>{{ include.p4 }}</li>{% endif %}
-    {% if include.p5 %}<li>{{ include.p5 }}</li>{% endif %}
+    {% for i in (1..5) %}
+      {% capture p %}p{{ i }}{% endcapture %}
+      {% if include[p] %}<li>{{ include[p] }}</li>{% endif %}
+    {% endfor %}
   </ul>
 </div>
