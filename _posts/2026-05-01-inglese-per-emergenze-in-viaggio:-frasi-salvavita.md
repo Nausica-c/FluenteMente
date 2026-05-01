@@ -2,7 +2,7 @@
 title: "Inglese per emergenze in viaggio: frasi salvavita"
 permalink: /inglese-per-emergenze-in-viaggio:-frasi-salvavita/
 layout: post
-content_hash: e74ae1b18a7ab0c8540fab0400e7bc6b1c40fb3b6e642074991b8d30129a4630
+content_hash: a6b6290ac1ac683150c27b9467660d7769d6abba3f011421b8c9ec9cd772f1d7
 ---
 
 # Inglese per emergenze in viaggio: frasi salvavita
@@ -12,7 +12,7 @@ content_hash: e74ae1b18a7ab0c8540fab0400e7bc6b1c40fb3b6e642074991b8d30129a4630
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Inglese per emergenze in viaggio: frasi salvavita vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
+Inglese per emergenze in viaggio: frasi salvavita è fondamentale quando ti trovi in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese per emergenze in viaggio: frasi salvavita viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese per emergenze in viaggio:
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 3002
+SEED: 8522
 CLUSTER: travel
 FUNNEL: tofu
 

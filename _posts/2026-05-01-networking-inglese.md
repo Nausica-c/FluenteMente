@@ -2,7 +2,7 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: f275eeca716b0b7eb29c81dcb0d584192646bd77a87307d47f7f51fe82b6a585
+content_hash: 54238dbf7843e80703b1f9012e297a2cec4559748731ce0f2e86576751f64755
 ---
 
 # Networking inglese
@@ -12,7 +12,7 @@ content_hash: f275eeca716b0b7eb29c81dcb0d584192646bd77a87307d47f7f51fe82b6a585
 {% include section-in-breve.html %}
 
 ## Introduzione
-Networking inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+Capire Networking inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Networking inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Networking inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8225
+SEED: 4777
 CLUSTER: business
 FUNNEL: mofu
 

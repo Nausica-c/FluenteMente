@@ -2,7 +2,7 @@
 title: "Pronomi inglesi"
 permalink: /pronomi-inglesi/
 layout: post
-content_hash: c240f1ef00babd6df38f411c06ddbba31e85f107a2dd98078ae95597e9efe81a
+content_hash: 7a426e7f8a43cf01b432e740bb01b0b307a2583ac3da94052c68848e8d6507cc
 ---
 
 # Pronomi inglesi
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Pronomi inglesi a situazioni real
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9637
+SEED: 6638
 CLUSTER: base
 FUNNEL: tofu
 
