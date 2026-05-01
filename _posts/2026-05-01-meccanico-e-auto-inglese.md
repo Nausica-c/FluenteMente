@@ -2,7 +2,7 @@
 title: "Meccanico e auto inglese"
 permalink: /meccanico-e-auto-inglese/
 layout: post
-content_hash: 034cff12cbd47874556472c6f187a94a98d4409e9f312597019be89686a539cf
+content_hash: c0761d42cb08779d23c1c38ea19cff62d95ea06f8b1469f91ae4b7d185dd3ec9
 ---
 
 # Meccanico e auto inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Meccanico e auto inglese a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8148
+SEED: 8277
 CLUSTER: expat
 FUNNEL: mofu
 

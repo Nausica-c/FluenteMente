@@ -2,7 +2,7 @@
 title: "Presentazioni inglese"
 permalink: /presentazioni-inglese/
 layout: post
-content_hash: 4a6451009c267def49e1a881bc9c16278152eb382227c712760e596937c05eaa
+content_hash: 591c6adcc107043b2995eaa119b5e138066b0358b17624f8ebde9f33b7607ba8
 ---
 
 # Presentazioni inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Presentazioni inglese a situazion
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9019
+SEED: 4047
 CLUSTER: business
 FUNNEL: mofu
 

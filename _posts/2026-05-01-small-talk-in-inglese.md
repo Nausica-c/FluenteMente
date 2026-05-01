@@ -2,7 +2,7 @@
 title: "Small talk in inglese"
 permalink: /small-talk-in-inglese/
 layout: post
-content_hash: 7c1273fd60d77b4365b46668ccc924d47cf6e4b001e2c61eae29251f2d5373b0
+content_hash: 613761e89a1dd8d9d9a81c62b751af95ada89d97c28a02c7c0734ac7a5d9aa2c
 ---
 
 # Small talk in inglese
@@ -12,7 +12,7 @@ content_hash: 7c1273fd60d77b4365b46668ccc924d47cf6e4b001e2c61eae29251f2d5373b0
 {% include section-in-breve.html %}
 
 ## Introduzione
-Small talk in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
+Capire Small talk in inglese ti aiuta in situazioni di amicizie, conversazioni, small talk.
 
 ## Cos’è
 Small talk in inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Small talk in inglese a situazion
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1691
+SEED: 3051
 CLUSTER: social
 FUNNEL: mofu
 

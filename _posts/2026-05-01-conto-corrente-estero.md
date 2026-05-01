@@ -2,7 +2,7 @@
 title: "Conto corrente estero"
 permalink: /conto-corrente-estero/
 layout: post
-content_hash: f0bfd54e051787d76facc63c03bf6fd1cfe0c704fdf618999abbb15a445a8ee4
+content_hash: ee996e6bcbaa99d0d25b4937f122d28902d3f7e4db2be538430eb3fe86f1643f
 ---
 
 # Conto corrente estero
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Conto corrente estero a situazion
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6834
+SEED: 7412
 CLUSTER: expat
 FUNNEL: mofu
 

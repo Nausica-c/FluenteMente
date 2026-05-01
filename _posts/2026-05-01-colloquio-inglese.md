@@ -2,7 +2,7 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: 7ebc321daf2ad3375b23e8a6a36aa410c699285cf9118d70822645a29b234d52
+content_hash: e7d34c49b38ea3ad3ec9dc78c20639200b9d2d880e0e45df8ff377e1e02185ca
 ---
 
 # Colloquio inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colloquio inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6814
+SEED: 8163
 CLUSTER: business
 FUNNEL: mofu
 

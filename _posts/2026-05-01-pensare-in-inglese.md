@@ -2,7 +2,7 @@
 title: "Pensare in inglese"
 permalink: /pensare-in-inglese/
 layout: post
-content_hash: 7735e7ad009801518746a095b610d37bea8ef3b6c38aaf18baf775d9fba3712f
+content_hash: 687136acd981fcf057ef7fa46f57748254c52393dface4d04bfebfb33e520da2
 ---
 
 # Pensare in inglese
@@ -12,7 +12,7 @@ content_hash: 7735e7ad009801518746a095b610d37bea8ef3b6c38aaf18baf775d9fba3712f
 {% include section-in-breve.html %}
 
 ## Introduzione
-Pensare in inglese è fondamentale quando ti trovi in studio e apprendimento lingua.
+In questa guida su Pensare in inglese vedrai come usarlo in studio e apprendimento lingua.
 
 ## Cos’è
 Pensare in inglese viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Pensare in inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5393
+SEED: 8141
 CLUSTER: method
 FUNNEL: mofu
 

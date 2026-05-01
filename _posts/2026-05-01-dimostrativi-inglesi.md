@@ -2,7 +2,7 @@
 title: "Dimostrativi inglesi"
 permalink: /dimostrativi-inglesi/
 layout: post
-content_hash: c88c525c35a07c47181a2b13c626766b437b4f1873a4f9978a3a5bcb3c8c35f4
+content_hash: 96e53b398d30b8958de6a1ac4f2cbb054910fc1cfee70106a8618d47596ff0ee
 ---
 
 # Dimostrativi inglesi
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Dimostrativi inglesi a situazioni
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 6734
+SEED: 8559
 CLUSTER: base
 FUNNEL: tofu
 

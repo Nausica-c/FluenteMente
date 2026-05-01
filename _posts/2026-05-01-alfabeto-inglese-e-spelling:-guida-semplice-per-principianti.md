@@ -2,7 +2,7 @@
 title: "Alfabeto inglese e spelling: guida semplice per principianti"
 permalink: /alfabeto-inglese-e-spelling:-guida-semplice-per-principianti/
 layout: post
-content_hash: 44dba03cd257d9144681cc8b16ca6166e18b1ba2a3b5492686eae7f5018c959c
+content_hash: 9754938641e45a58cf0116da091384db3b6e55fed9f56818514dc37f1d34d4a3
 ---
 
 # Alfabeto inglese e spelling: guida semplice per principianti
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Alfabeto inglese e spelling: guid
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 4860
+SEED: 4228
 CLUSTER: base
 FUNNEL: tofu
 

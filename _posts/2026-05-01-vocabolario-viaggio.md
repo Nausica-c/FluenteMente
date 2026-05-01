@@ -2,7 +2,7 @@
 title: "Vocabolario viaggio"
 permalink: /vocabolario-viaggio/
 layout: post
-content_hash: cdf844ce48b25e058d801fa24b7fcb9293bbca7350c4c5967759bf8909938677
+content_hash: 9424e8a7af3326acd46133bc5a9ee626ea4fc1d53ebc9538a31d8fb375c960c3
 ---
 
 # Vocabolario viaggio
@@ -12,7 +12,7 @@ content_hash: cdf844ce48b25e058d801fa24b7fcb9293bbca7350c4c5967759bf8909938677
 {% include section-in-breve.html %}
 
 ## Introduzione
-Vocabolario viaggio è fondamentale quando ti trovi in situazioni quotidiane generiche.
+Capire Vocabolario viaggio ti aiuta in situazioni di situazioni quotidiane generiche.
 
 ## Cos’è
 Vocabolario viaggio viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Vocabolario viaggio a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 7000
+SEED: 8045
 CLUSTER: base
 FUNNEL: tofu
 

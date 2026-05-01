@@ -2,7 +2,7 @@
 title: "Pronuncia italiani"
 permalink: /pronuncia-italiani/
 layout: post
-content_hash: 2cffc148eb34c6296fcfa0feab47475b9398c3514df42da53f9ecd4b5c10cbda
+content_hash: 13a331f473238a599dd96073b4b5370944a7cff31579b451c4621c9ef1879469
 ---
 
 # Pronuncia italiani
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Pronuncia italiani a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6156
+SEED: 4005
 CLUSTER: pronuncia
 FUNNEL: mofu
 

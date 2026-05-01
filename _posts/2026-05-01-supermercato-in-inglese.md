@@ -2,7 +2,7 @@
 title: "Supermercato in inglese"
 permalink: /supermercato-in-inglese/
 layout: post
-content_hash: 5db88d676f35ca23bbfb9b44083ea468cc56e4fa0c2ad52d08edeba25a5f2197
+content_hash: 71944cfe7dfc0859e7be7266a02823fbe353081671b558e0affb8cb4aad3b932
 ---
 
 # Supermercato in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Supermercato in inglese a situazi
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3973
+SEED: 3706
 CLUSTER: expat
 FUNNEL: mofu
 

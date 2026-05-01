@@ -6,7 +6,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 6521
+  seed: 9806
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -18,8 +18,8 @@
 
     ## Introduzione
 
-    Paura di parlare inglese: come sbloccarla definitivamente è fondamentale quando
-    ti trovi in studio e apprendimento lingua.
+    In questa guida su Paura di parlare inglese: come sbloccarla definitivamente vedrai
+    come usarlo in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -56,7 +56,7 @@
 
     ---
 
-    SEED: 6521
+    SEED: 9806
 
     CLUSTER: method
 
@@ -92,7 +92,7 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 3616
+  seed: 1748
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -142,7 +142,7 @@
 
     ---
 
-    SEED: 3616
+    SEED: 1748
 
     CLUSTER: method
 
@@ -178,7 +178,7 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 4437
+  seed: 7393
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -227,7 +227,7 @@
 
     ---
 
-    SEED: 4437
+    SEED: 7393
 
     CLUSTER: travel
 
@@ -255,7 +255,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 1059
+  seed: 5124
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -304,7 +304,7 @@
 
     ---
 
-    SEED: 1059
+    SEED: 5124
 
     CLUSTER: travel
 
@@ -332,7 +332,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 2788
+  seed: 8358
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -344,8 +344,8 @@
 
     ## Introduzione
 
-    100 parole inglesi più usate per iniziare subito è fondamentale quando ti trovi
-    in situazioni quotidiane generiche.
+    In questa guida su 100 parole inglesi più usate per iniziare subito vedrai come
+    usarlo in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -381,7 +381,7 @@
 
     ---
 
-    SEED: 2788
+    SEED: 8358
 
     CLUSTER: base
 
@@ -409,7 +409,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4860
+  seed: 4228
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -458,7 +458,7 @@
 
     ---
 
-    SEED: 4860
+    SEED: 4228
 
     CLUSTER: base
 
@@ -486,7 +486,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 8489
+  seed: 8333
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -498,8 +498,8 @@
 
     ## Introduzione
 
-    Numeri in inglese da 1 a 100: guida completa è fondamentale quando ti trovi in
-    situazioni quotidiane generiche.
+    In questa guida su Numeri in inglese da 1 a 100: guida completa vedrai come usarlo
+    in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -535,7 +535,7 @@
 
     ---
 
-    SEED: 8489
+    SEED: 8333
 
     CLUSTER: base
 
@@ -563,7 +563,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 6608
+  seed: 4422
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -575,8 +575,8 @@
 
     ## Introduzione
 
-    In questa guida su Come presentarsi in inglese in modo naturale vedrai come usarlo
-    in situazioni quotidiane generiche.
+    Capire Come presentarsi in inglese in modo naturale ti aiuta in situazioni di
+    situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -612,7 +612,7 @@
 
     ---
 
-    SEED: 6608
+    SEED: 4422
 
     CLUSTER: base
 
@@ -640,7 +640,7 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 6975
+  seed: 3107
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -689,7 +689,7 @@
 
     ---
 
-    SEED: 6975
+    SEED: 3107
 
     CLUSTER: travel
 
@@ -717,7 +717,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 5702
+  seed: 3748
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -729,8 +729,8 @@
 
     ## Introduzione
 
-    Capire Inglese in hotel: frasi essenziali per viaggiare ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    Inglese in hotel: frasi essenziali per viaggiare è fondamentale quando ti trovi
+    in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -766,7 +766,7 @@
 
     ---
 
-    SEED: 5702
+    SEED: 3748
 
     CLUSTER: travel
 
@@ -794,7 +794,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 1157
+  seed: 7896
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -843,7 +843,7 @@
 
     ---
 
-    SEED: 1157
+    SEED: 7896
 
     CLUSTER: travel
 
@@ -871,7 +871,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 7346
+  seed: 7288
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -883,8 +883,8 @@
 
     ## Introduzione
 
-    Inglese per shopping: negozi, prezzi e acquisti è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    Capire Inglese per shopping: negozi, prezzi e acquisti ti aiuta in situazioni
+    di viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -920,7 +920,7 @@
 
     ---
 
-    SEED: 7346
+    SEED: 7288
 
     CLUSTER: travel
 
@@ -948,7 +948,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 8522
+  seed: 6203
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -960,8 +960,8 @@
 
     ## Introduzione
 
-    Inglese per emergenze in viaggio: frasi salvavita è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Inglese per emergenze in viaggio: frasi salvavita vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -997,7 +997,7 @@
 
     ---
 
-    SEED: 8522
+    SEED: 6203
 
     CLUSTER: travel
 
@@ -1025,7 +1025,7 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 1378
+  seed: 6476
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -1037,8 +1037,8 @@
 
     ## Introduzione
 
-    In questa guida su Inglese per Airbnb e case vacanza vedrai come usarlo in viaggi,
-    aeroporti, hotel, trasporti.
+    Inglese per Airbnb e case vacanza è fondamentale quando ti trovi in viaggi, aeroporti,
+    hotel, trasporti.
 
 
     ## Cos’è
@@ -1074,7 +1074,7 @@
 
     ---
 
-    SEED: 1378
+    SEED: 6476
 
     CLUSTER: travel
 
@@ -1102,7 +1102,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 3658
+  seed: 3005
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -1114,8 +1114,8 @@
 
     ## Introduzione
 
-    In questa guida su Come lamentarsi in inglese (hotel, servizi, problemi) vedrai
-    come usarlo in viaggi, aeroporti, hotel, trasporti.
+    Capire Come lamentarsi in inglese (hotel, servizi, problemi) ti aiuta in situazioni
+    di viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -1151,7 +1151,7 @@
 
     ---
 
-    SEED: 3658
+    SEED: 3005
 
     CLUSTER: travel
 
@@ -1183,7 +1183,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 1418
+  seed: 2007
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1232,7 +1232,7 @@
 
     ---
 
-    SEED: 1418
+    SEED: 2007
 
     CLUSTER: expat
 
@@ -1268,7 +1268,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 5253
+  seed: 2151
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1280,7 +1280,7 @@
 
     ## Introduzione
 
-    Contratto d’affitto in inglese è fondamentale quando ti trovi in vita all''estero
+    Capire Contratto d’affitto in inglese ti aiuta in situazioni di vita all''estero
     e problemi reali.
 
 
@@ -1317,7 +1317,7 @@
 
     ---
 
-    SEED: 5253
+    SEED: 2151
 
     CLUSTER: expat
 
@@ -1353,7 +1353,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 8799
+  seed: 5735
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1365,8 +1365,8 @@
 
     ## Introduzione
 
-    In questa guida su Utenze casa all’estero in inglese vedrai come usarlo in vita
-    all''estero e problemi reali.
+    Utenze casa all’estero in inglese è fondamentale quando ti trovi in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -1402,7 +1402,7 @@
 
     ---
 
-    SEED: 8799
+    SEED: 5735
 
     CLUSTER: expat
 
@@ -1438,7 +1438,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 8211
+  seed: 5577
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1450,8 +1450,8 @@
 
     ## Introduzione
 
-    In questa guida su Andare dal medico all’estero in inglese vedrai come usarlo
-    in vita all''estero e problemi reali.
+    Andare dal medico all’estero in inglese è fondamentale quando ti trovi in vita
+    all''estero e problemi reali.
 
 
     ## Cos’è
@@ -1487,7 +1487,7 @@
 
     ---
 
-    SEED: 8211
+    SEED: 5577
 
     CLUSTER: expat
 
@@ -1523,7 +1523,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 5865
+  seed: 6920
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1572,7 +1572,7 @@
 
     ---
 
-    SEED: 5865
+    SEED: 6920
 
     CLUSTER: expat
 
@@ -1608,7 +1608,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 3575
+  seed: 6332
   final_article: '# Lavori part-time all’estero
 
 
@@ -1620,7 +1620,7 @@
 
     ## Introduzione
 
-    Lavori part-time all’estero è fondamentale quando ti trovi in vita all''estero
+    In questa guida su Lavori part-time all’estero vedrai come usarlo in vita all''estero
     e problemi reali.
 
 
@@ -1657,7 +1657,7 @@
 
     ---
 
-    SEED: 3575
+    SEED: 6332
 
     CLUSTER: expat
 
@@ -1693,7 +1693,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 2714
+  seed: 3498
   final_article: '# Fare amicizia in inglese
 
 
@@ -1742,7 +1742,7 @@
 
     ---
 
-    SEED: 2714
+    SEED: 3498
 
     CLUSTER: social
 
@@ -1770,7 +1770,7 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 1691
+  seed: 3051
   final_article: '# Small talk in inglese
 
 
@@ -1782,7 +1782,7 @@
 
     ## Introduzione
 
-    Small talk in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
+    Capire Small talk in inglese ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -1819,7 +1819,7 @@
 
     ---
 
-    SEED: 1691
+    SEED: 3051
 
     CLUSTER: social
 
@@ -1851,7 +1851,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 8335
+  seed: 2663
   final_article: '# Slang inglese moderno
 
 
@@ -1863,7 +1863,7 @@
 
     ## Introduzione
 
-    In questa guida su Slang inglese moderno vedrai come usarlo in amicizie, conversazioni,
+    Capire Slang inglese moderno ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -1900,7 +1900,7 @@
 
     ---
 
-    SEED: 8335
+    SEED: 2663
 
     CLUSTER: social
 
@@ -1928,7 +1928,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 6941
+  seed: 6481
   final_article: '# Dating in inglese
 
 
@@ -1977,7 +1977,7 @@
 
     ---
 
-    SEED: 6941
+    SEED: 6481
 
     CLUSTER: social
 
@@ -2009,7 +2009,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 2855
+  seed: 6162
   final_article: '# Parlare al pub in inglese
 
 
@@ -2021,7 +2021,7 @@
 
     ## Introduzione
 
-    Capire Parlare al pub in inglese ti aiuta in situazioni di amicizie, conversazioni,
+    In questa guida su Parlare al pub in inglese vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -2058,7 +2058,7 @@
 
     ---
 
-    SEED: 2855
+    SEED: 6162
 
     CLUSTER: social
 
@@ -2086,7 +2086,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 5619
+  seed: 9674
   final_article: '# CV in inglese
 
 
@@ -2134,7 +2134,7 @@
 
     ---
 
-    SEED: 5619
+    SEED: 9674
 
     CLUSTER: business
 
@@ -2170,7 +2170,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 7715
+  seed: 9420
   final_article: '# Colloquio di lavoro in inglese
 
 
@@ -2182,7 +2182,7 @@
 
     ## Introduzione
 
-    Capire Colloquio di lavoro in inglese ti aiuta in situazioni di lavoro, email,
+    Colloquio di lavoro in inglese è fondamentale quando ti trovi in lavoro, email,
     colloqui, meeting.
 
 
@@ -2219,7 +2219,7 @@
 
     ---
 
-    SEED: 7715
+    SEED: 9420
 
     CLUSTER: business
 
@@ -2255,7 +2255,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 2340
+  seed: 1625
   final_article: '# Email formali in inglese
 
 
@@ -2267,8 +2267,8 @@
 
     ## Introduzione
 
-    In questa guida su Email formali in inglese vedrai come usarlo in lavoro, email,
-    colloqui, meeting.
+    Email formali in inglese è fondamentale quando ti trovi in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -2304,7 +2304,7 @@
 
     ---
 
-    SEED: 2340
+    SEED: 1625
 
     CLUSTER: business
 
@@ -2340,7 +2340,7 @@
   cluster: business
   role: spoke
   priority: 85
-  seed: 5643
+  seed: 5129
   final_article: '# LinkedIn in inglese
 
 
@@ -2352,7 +2352,7 @@
 
     ## Introduzione
 
-    In questa guida su LinkedIn in inglese vedrai come usarlo in lavoro, email, colloqui,
+    Capire LinkedIn in inglese ti aiuta in situazioni di lavoro, email, colloqui,
     meeting.
 
 
@@ -2389,7 +2389,7 @@
 
     ---
 
-    SEED: 5643
+    SEED: 5129
 
     CLUSTER: business
 
@@ -2425,7 +2425,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 8585
+  seed: 6899
   final_article: '# Affittare casa all’estero
 
 
@@ -2437,8 +2437,8 @@
 
     ## Introduzione
 
-    Capire Affittare casa all’estero ti aiuta in situazioni di vita all''estero e
-    problemi reali.
+    In questa guida su Affittare casa all’estero vedrai come usarlo in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -2474,7 +2474,7 @@
 
     ---
 
-    SEED: 8585
+    SEED: 6899
 
     CLUSTER: expat
 
@@ -2510,7 +2510,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 9637
+  seed: 6022
   final_article: '# Landlord e problemi casa
 
 
@@ -2559,7 +2559,7 @@
 
     ---
 
-    SEED: 9637
+    SEED: 6022
 
     CLUSTER: expat
 
@@ -2595,7 +2595,7 @@
   cluster: expat
   role: spoke
   priority: 88
-  seed: 6834
+  seed: 7412
   final_article: '# Conto corrente estero
 
 
@@ -2644,7 +2644,7 @@
 
     ---
 
-    SEED: 6834
+    SEED: 7412
 
     CLUSTER: expat
 
@@ -2680,7 +2680,7 @@
   cluster: expat
   role: spoke
   priority: 87
-  seed: 6279
+  seed: 7911
   final_article: '# Medico di base all’estero
 
 
@@ -2729,7 +2729,7 @@
 
     ---
 
-    SEED: 6279
+    SEED: 7911
 
     CLUSTER: expat
 
@@ -2765,7 +2765,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6443
+  seed: 1626
   final_article: '# Utenze casa inglese
 
 
@@ -2814,7 +2814,7 @@
 
     ---
 
-    SEED: 6443
+    SEED: 1626
 
     CLUSTER: expat
 
@@ -2850,7 +2850,7 @@
   cluster: expat
   role: spoke
   priority: 80
-  seed: 3973
+  seed: 3706
   final_article: '# Supermercato in inglese
 
 
@@ -2899,7 +2899,7 @@
 
     ---
 
-    SEED: 3973
+    SEED: 3706
 
     CLUSTER: expat
 
@@ -2935,7 +2935,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 5891
+  seed: 2062
   final_article: '# Salute e farmacia inglese
 
 
@@ -2947,7 +2947,7 @@
 
     ## Introduzione
 
-    Capire Salute e farmacia inglese ti aiuta in situazioni di vita all''estero e
+    Salute e farmacia inglese è fondamentale quando ti trovi in vita all''estero e
     problemi reali.
 
 
@@ -2984,7 +2984,7 @@
 
     ---
 
-    SEED: 5891
+    SEED: 2062
 
     CLUSTER: expat
 
@@ -3020,7 +3020,7 @@
   cluster: expat
   role: spoke
   priority: 75
-  seed: 8148
+  seed: 8277
   final_article: '# Meccanico e auto inglese
 
 
@@ -3069,7 +3069,7 @@
 
     ---
 
-    SEED: 8148
+    SEED: 8277
 
     CLUSTER: expat
 
@@ -3105,7 +3105,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 1279
+  seed: 6659
   final_article: '# Fare amicizia in inglese
 
 
@@ -3117,7 +3117,7 @@
 
     ## Introduzione
 
-    Capire Fare amicizia in inglese ti aiuta in situazioni di amicizie, conversazioni,
+    In questa guida su Fare amicizia in inglese vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -3154,7 +3154,7 @@
 
     ---
 
-    SEED: 1279
+    SEED: 6659
 
     CLUSTER: social
 
@@ -3186,7 +3186,7 @@
   cluster: social
   role: spoke
   priority: 95
-  seed: 8998
+  seed: 5744
   final_article: '# Small talk senza silenzi
 
 
@@ -3198,7 +3198,7 @@
 
     ## Introduzione
 
-    In questa guida su Small talk senza silenzi vedrai come usarlo in amicizie, conversazioni,
+    Capire Small talk senza silenzi ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -3235,7 +3235,7 @@
 
     ---
 
-    SEED: 8998
+    SEED: 5744
 
     CLUSTER: social
 
@@ -3267,7 +3267,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 2687
+  seed: 5214
   final_article: '# Slang reale inglese
 
 
@@ -3316,7 +3316,7 @@
 
     ---
 
-    SEED: 2687
+    SEED: 5214
 
     CLUSTER: social
 
@@ -3344,7 +3344,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 7038
+  seed: 3771
   final_article: '# Dating in inglese
 
 
@@ -3356,7 +3356,7 @@
 
     ## Introduzione
 
-    Dating in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small
+    Capire Dating in inglese ti aiuta in situazioni di amicizie, conversazioni, small
     talk.
 
 
@@ -3393,7 +3393,7 @@
 
     ---
 
-    SEED: 7038
+    SEED: 3771
 
     CLUSTER: social
 
@@ -3425,7 +3425,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 1908
+  seed: 5375
   final_article: '# CV inglese avanzato
 
 
@@ -3437,7 +3437,7 @@
 
     ## Introduzione
 
-    In questa guida su CV inglese avanzato vedrai come usarlo in lavoro, email, colloqui,
+    CV inglese avanzato è fondamentale quando ti trovi in lavoro, email, colloqui,
     meeting.
 
 
@@ -3474,7 +3474,7 @@
 
     ---
 
-    SEED: 1908
+    SEED: 5375
 
     CLUSTER: business
 
@@ -3510,7 +3510,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 8731
+  seed: 2166
   final_article: '# Colloquio inglese avanzato
 
 
@@ -3522,8 +3522,8 @@
 
     ## Introduzione
 
-    Capire Colloquio inglese avanzato ti aiuta in situazioni di lavoro, email, colloqui,
-    meeting.
+    In questa guida su Colloquio inglese avanzato vedrai come usarlo in lavoro, email,
+    colloqui, meeting.
 
 
     ## Cos’è
@@ -3559,7 +3559,7 @@
 
     ---
 
-    SEED: 8731
+    SEED: 2166
 
     CLUSTER: business
 
@@ -3595,7 +3595,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 2783
+  seed: 9975
   final_article: '# Email professionali inglese
 
 
@@ -3607,7 +3607,7 @@
 
     ## Introduzione
 
-    Capire Email professionali inglese ti aiuta in situazioni di lavoro, email, colloqui,
+    Email professionali inglese è fondamentale quando ti trovi in lavoro, email, colloqui,
     meeting.
 
 
@@ -3644,7 +3644,7 @@
 
     ---
 
-    SEED: 2783
+    SEED: 9975
 
     CLUSTER: business
 
@@ -3680,7 +3680,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 6638
+  seed: 6034
   final_article: '# Pronomi inglesi
 
 
@@ -3692,7 +3692,8 @@
 
     ## Introduzione
 
-    Pronomi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    In questa guida su Pronomi inglesi vedrai come usarlo in situazioni quotidiane
+    generiche.
 
 
     ## Cos’è
@@ -3728,7 +3729,7 @@
 
     ---
 
-    SEED: 6638
+    SEED: 6034
 
     CLUSTER: base
 
@@ -3756,7 +3757,7 @@
   cluster: base
   role: spoke
   priority: 92
-  seed: 7290
+  seed: 4583
   final_article: '# Articoli inglesi
 
 
@@ -3804,7 +3805,7 @@
 
     ---
 
-    SEED: 7290
+    SEED: 4583
 
     CLUSTER: base
 
@@ -3832,7 +3833,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 2138
+  seed: 9230
   final_article: '# Plurale inglese
 
 
@@ -3844,7 +3845,7 @@
 
     ## Introduzione
 
-    Capire Plurale inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+    Plurale inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -3880,7 +3881,7 @@
 
     ---
 
-    SEED: 2138
+    SEED: 9230
 
     CLUSTER: base
 
@@ -3908,7 +3909,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 6734
+  seed: 8559
   final_article: '# Dimostrativi inglesi
 
 
@@ -3957,7 +3958,7 @@
 
     ---
 
-    SEED: 6734
+    SEED: 8559
 
     CLUSTER: base
 
@@ -3985,7 +3986,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4097
+  seed: 6847
   final_article: '# Aggettivi inglese
 
 
@@ -3997,8 +3998,7 @@
 
     ## Introduzione
 
-    In questa guida su Aggettivi inglese vedrai come usarlo in situazioni quotidiane
-    generiche.
+    Aggettivi inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4034,7 +4034,7 @@
 
     ---
 
-    SEED: 4097
+    SEED: 6847
 
     CLUSTER: base
 
@@ -4062,7 +4062,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 8354
+  seed: 1943
   final_article: '# Verbo essere
 
 
@@ -4074,7 +4074,7 @@
 
     ## Introduzione
 
-    Verbo essere è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Verbo essere ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4110,7 +4110,7 @@
 
     ---
 
-    SEED: 8354
+    SEED: 1943
 
     CLUSTER: base
 
@@ -4138,7 +4138,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 8225
+  seed: 1935
   final_article: '# Verbo avere
 
 
@@ -4150,7 +4150,7 @@
 
     ## Introduzione
 
-    Verbo avere è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    In questa guida su Verbo avere vedrai come usarlo in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4186,7 +4186,7 @@
 
     ---
 
-    SEED: 8225
+    SEED: 1935
 
     CLUSTER: base
 
@@ -4214,7 +4214,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 8003
+  seed: 9331
   final_article: '# Parole base inglese
 
 
@@ -4226,8 +4226,7 @@
 
     ## Introduzione
 
-    In questa guida su Parole base inglese vedrai come usarlo in situazioni quotidiane
-    generiche.
+    Parole base inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4263,7 +4262,7 @@
 
     ---
 
-    SEED: 8003
+    SEED: 9331
 
     CLUSTER: base
 
@@ -4291,7 +4290,7 @@
   cluster: base
   role: spoke
   priority: 95
-  seed: 8953
+  seed: 5607
   final_article: '# Numeri inglese
 
 
@@ -4303,7 +4302,7 @@
 
     ## Introduzione
 
-    Numeri inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Numeri inglese ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4339,7 +4338,7 @@
 
     ---
 
-    SEED: 8953
+    SEED: 5607
 
     CLUSTER: base
 
@@ -4367,7 +4366,7 @@
   cluster: base
   role: spoke
   priority: 80
-  seed: 7810
+  seed: 6691
   final_article: '# Colori inglese
 
 
@@ -4416,7 +4415,7 @@
 
     ---
 
-    SEED: 7810
+    SEED: 6691
 
     CLUSTER: base
 
@@ -4444,7 +4443,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 4280
+  seed: 3730
   final_article: '# Tempo inglese
 
 
@@ -4456,7 +4455,7 @@
 
     ## Introduzione
 
-    Capire Tempo inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+    Tempo inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4492,7 +4491,7 @@
 
     ---
 
-    SEED: 4280
+    SEED: 3730
 
     CLUSTER: base
 
@@ -4520,7 +4519,7 @@
   cluster: base
   role: hub
   priority: 95
-  seed: 7000
+  seed: 8045
   final_article: '# Vocabolario viaggio
 
 
@@ -4532,7 +4531,7 @@
 
     ## Introduzione
 
-    Vocabolario viaggio è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Vocabolario viaggio ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4568,7 +4567,7 @@
 
     ---
 
-    SEED: 7000
+    SEED: 8045
 
     CLUSTER: base
 
@@ -4596,7 +4595,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 1732
+  seed: 1690
   final_article: '# Preposizioni inglesi
 
 
@@ -4645,7 +4644,7 @@
 
     ---
 
-    SEED: 1732
+    SEED: 1690
 
     CLUSTER: base
 
@@ -4673,7 +4672,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 2938
+  seed: 9229
   final_article: '# Much many a lot
 
 
@@ -4685,8 +4684,7 @@
 
     ## Introduzione
 
-    In questa guida su Much many a lot vedrai come usarlo in situazioni quotidiane
-    generiche.
+    Much many a lot è fondamentale quando ti trovi in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4722,7 +4720,7 @@
 
     ---
 
-    SEED: 2938
+    SEED: 9229
 
     CLUSTER: base
 
@@ -4750,7 +4748,7 @@
   cluster: base
   role: spoke
   priority: 88
-  seed: 5224
+  seed: 3802
   final_article: '# Do vs Make
 
 
@@ -4762,7 +4760,7 @@
 
     ## Introduzione
 
-    Do vs Make è fondamentale quando ti trovi in situazioni quotidiane generiche.
+    Capire Do vs Make ti aiuta in situazioni di situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -4798,7 +4796,7 @@
 
     ---
 
-    SEED: 5224
+    SEED: 3802
 
     CLUSTER: base
 
@@ -4826,7 +4824,7 @@
   cluster: business
   role: hub
   priority: 100
-  seed: 6213
+  seed: 2749
   final_article: '# CV inglese avanzato
 
 
@@ -4875,7 +4873,7 @@
 
     ---
 
-    SEED: 6213
+    SEED: 2749
 
     CLUSTER: business
 
@@ -4911,7 +4909,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 6814
+  seed: 8163
   final_article: '# Colloquio inglese
 
 
@@ -4959,7 +4957,7 @@
 
     ---
 
-    SEED: 6814
+    SEED: 8163
 
     CLUSTER: business
 
@@ -4995,7 +4993,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 8480
+  seed: 7240
   final_article: '# Email inglese
 
 
@@ -5007,7 +5005,8 @@
 
     ## Introduzione
 
-    Capire Email inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    In questa guida su Email inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5043,7 +5042,7 @@
 
     ---
 
-    SEED: 8480
+    SEED: 7240
 
     CLUSTER: business
 
@@ -5079,7 +5078,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 9019
+  seed: 4047
   final_article: '# Presentazioni inglese
 
 
@@ -5128,7 +5127,7 @@
 
     ---
 
-    SEED: 9019
+    SEED: 4047
 
     CLUSTER: business
 
@@ -5164,7 +5163,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 1362
+  seed: 3139
   final_article: '# Meeting inglese
 
 
@@ -5176,8 +5175,7 @@
 
     ## Introduzione
 
-    In questa guida su Meeting inglese vedrai come usarlo in lavoro, email, colloqui,
-    meeting.
+    Meeting inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -5213,7 +5211,7 @@
 
     ---
 
-    SEED: 1362
+    SEED: 3139
 
     CLUSTER: business
 
@@ -5249,7 +5247,7 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 4777
+  seed: 2254
   final_article: '# Networking inglese
 
 
@@ -5261,7 +5259,8 @@
 
     ## Introduzione
 
-    Capire Networking inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    In questa guida su Networking inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5297,7 +5296,7 @@
 
     ---
 
-    SEED: 4777
+    SEED: 2254
 
     CLUSTER: business
 
@@ -5333,7 +5332,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 1747
+  seed: 9678
   final_article: '# Stipendio inglese
 
 
@@ -5345,7 +5344,8 @@
 
     ## Introduzione
 
-    Stipendio inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+    In questa guida su Stipendio inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5381,7 +5381,7 @@
 
     ---
 
-    SEED: 1747
+    SEED: 9678
 
     CLUSTER: business
 
@@ -5417,7 +5417,7 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 7104
+  seed: 5086
   final_article: '# LinkedIn inglese
 
 
@@ -5465,7 +5465,7 @@
 
     ---
 
-    SEED: 7104
+    SEED: 5086
 
     CLUSTER: business
 
@@ -5501,7 +5501,7 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 3338
+  seed: 3458
   final_article: '# Falsi amici inglese
 
 
@@ -5513,7 +5513,7 @@
 
     ## Introduzione
 
-    Falsi amici inglese è fondamentale quando ti trovi in situazioni reali.
+    Capire Falsi amici inglese ti aiuta in situazioni di situazioni reali.
 
 
     ## Cos’è
@@ -5548,7 +5548,7 @@
 
     ---
 
-    SEED: 3338
+    SEED: 3458
 
     CLUSTER: cultura
 
@@ -5576,7 +5576,7 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 9630
+  seed: 7195
   final_article: '# Parole intraducibili
 
 
@@ -5588,7 +5588,7 @@
 
     ## Introduzione
 
-    Capire Parole intraducibili ti aiuta in situazioni di situazioni reali.
+    Parole intraducibili è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -5623,7 +5623,7 @@
 
     ---
 
-    SEED: 9630
+    SEED: 7195
 
     CLUSTER: cultura
 
@@ -5651,7 +5651,7 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 2778
+  seed: 2860
   final_article: '# UK vs US
 
 
@@ -5663,7 +5663,7 @@
 
     ## Introduzione
 
-    UK vs US è fondamentale quando ti trovi in situazioni reali.
+    Capire UK vs US ti aiuta in situazioni di situazioni reali.
 
 
     ## Cos’è
@@ -5698,7 +5698,7 @@
 
     ---
 
-    SEED: 2778
+    SEED: 2860
 
     CLUSTER: cultura
 
@@ -5726,7 +5726,7 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 5009
+  seed: 2765
   final_article: '# Storia inglese
 
 
@@ -5738,7 +5738,7 @@
 
     ## Introduzione
 
-    Capire Storia inglese ti aiuta in situazioni di situazioni reali.
+    In questa guida su Storia inglese vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -5773,7 +5773,7 @@
 
     ---
 
-    SEED: 5009
+    SEED: 2765
 
     CLUSTER: cultura
 
@@ -5801,7 +5801,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 6156
+  seed: 4005
   final_article: '# Pronuncia italiani
 
 
@@ -5848,7 +5848,7 @@
 
     ---
 
-    SEED: 6156
+    SEED: 4005
 
     CLUSTER: pronuncia
 
@@ -5880,7 +5880,7 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 6137
+  seed: 4810
   final_article: '# Slang reale
 
 
@@ -5892,7 +5892,7 @@
 
     ## Introduzione
 
-    In questa guida su Slang reale vedrai come usarlo in situazioni reali.
+    Slang reale è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -5927,7 +5927,7 @@
 
     ---
 
-    SEED: 6137
+    SEED: 4810
 
     CLUSTER: cultura
 
@@ -5959,7 +5959,7 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 1976
+  seed: 6751
   final_article: '# Mentalità inglese
 
 
@@ -6006,7 +6006,7 @@
 
     ---
 
-    SEED: 1976
+    SEED: 6751
 
     CLUSTER: cultura
 
@@ -6038,7 +6038,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 1948
+  seed: 1669
   final_article: '# Inglese da zero
 
 
@@ -6050,7 +6050,8 @@
 
     ## Introduzione
 
-    Inglese da zero è fondamentale quando ti trovi in studio e apprendimento lingua.
+    In questa guida su Inglese da zero vedrai come usarlo in studio e apprendimento
+    lingua.
 
 
     ## Cos’è
@@ -6086,7 +6087,7 @@
 
     ---
 
-    SEED: 1948
+    SEED: 1669
 
     CLUSTER: method
 
@@ -6122,7 +6123,7 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 4466
+  seed: 3058
   final_article: '# Blocco parlare inglese
 
 
@@ -6134,7 +6135,7 @@
 
     ## Introduzione
 
-    Blocco parlare inglese è fondamentale quando ti trovi in studio e apprendimento
+    Capire Blocco parlare inglese ti aiuta in situazioni di studio e apprendimento
     lingua.
 
 
@@ -6171,7 +6172,7 @@
 
     ---
 
-    SEED: 4466
+    SEED: 3058
 
     CLUSTER: method
 
@@ -6207,7 +6208,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 5393
+  seed: 8141
   final_article: '# Pensare in inglese
 
 
@@ -6219,7 +6220,8 @@
 
     ## Introduzione
 
-    Pensare in inglese è fondamentale quando ti trovi in studio e apprendimento lingua.
+    In questa guida su Pensare in inglese vedrai come usarlo in studio e apprendimento
+    lingua.
 
 
     ## Cos’è
@@ -6255,7 +6257,7 @@
 
     ---
 
-    SEED: 5393
+    SEED: 8141
 
     CLUSTER: method
 
@@ -6291,7 +6293,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 1814
+  seed: 2069
   final_article: '# Shadowing
 
 
@@ -6303,7 +6305,7 @@
 
     ## Introduzione
 
-    In questa guida su Shadowing vedrai come usarlo in studio e apprendimento lingua.
+    Shadowing è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6338,7 +6340,7 @@
 
     ---
 
-    SEED: 1814
+    SEED: 2069
 
     CLUSTER: method
 
@@ -6374,7 +6376,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 7076
+  seed: 5279
   final_article: '# Input comprensibile
 
 
@@ -6386,8 +6388,7 @@
 
     ## Introduzione
 
-    In questa guida su Input comprensibile vedrai come usarlo in studio e apprendimento
-    lingua.
+    Capire Input comprensibile ti aiuta in situazioni di studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6423,7 +6424,7 @@
 
     ---
 
-    SEED: 7076
+    SEED: 5279
 
     CLUSTER: method
 
@@ -6459,7 +6460,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 9240
+  seed: 8802
   final_article: '# Metodo FluenteMente
 
 
@@ -6509,7 +6510,7 @@
 
     ---
 
-    SEED: 9240
+    SEED: 8802
 
     CLUSTER: method
 
@@ -6545,7 +6546,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 4485
+  seed: 2374
   final_article: '# Ripetizione spaziata
 
 
@@ -6557,7 +6558,8 @@
 
     ## Introduzione
 
-    Capire Ripetizione spaziata ti aiuta in situazioni di studio e apprendimento lingua.
+    Ripetizione spaziata è fondamentale quando ti trovi in studio e apprendimento
+    lingua.
 
 
     ## Cos’è
@@ -6593,7 +6595,7 @@
 
     ---
 
-    SEED: 4485
+    SEED: 2374
 
     CLUSTER: method
 
@@ -6629,7 +6631,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 9696
+  seed: 9182
   final_article: '# Routine inglese
 
 
@@ -6641,7 +6643,7 @@
 
     ## Introduzione
 
-    Routine inglese è fondamentale quando ti trovi in studio e apprendimento lingua.
+    Capire Routine inglese ti aiuta in situazioni di studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6677,7 +6679,7 @@
 
     ---
 
-    SEED: 9696
+    SEED: 9182
 
     CLUSTER: method
 
@@ -6713,7 +6715,7 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 6926
+  seed: 3012
   final_article: '# Smettere tradurre
 
 
@@ -6761,7 +6763,7 @@
 
     ---
 
-    SEED: 6926
+    SEED: 3012
 
     CLUSTER: method
 
@@ -6797,7 +6799,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 2048
+  seed: 4273
   final_article: '# Memoria vocabolario
 
 
@@ -6845,7 +6847,7 @@
 
     ---
 
-    SEED: 2048
+    SEED: 4273
 
     CLUSTER: method
 
@@ -6881,7 +6883,7 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 9183
+  seed: 5162
   final_article: '# Errori inglese
 
 
@@ -6929,7 +6931,7 @@
 
     ---
 
-    SEED: 9183
+    SEED: 5162
 
     CLUSTER: conversion
 
@@ -6965,7 +6967,7 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 6290
+  seed: 4820
   final_article: '# Metodi tradizionali
 
 
@@ -7013,7 +7015,7 @@
 
     ---
 
-    SEED: 6290
+    SEED: 4820
 
     CLUSTER: conversion
 
@@ -7049,7 +7051,7 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 4384
+  seed: 2579
   final_article: '# Recensione Babbel
 
 
@@ -7061,7 +7063,7 @@
 
     ## Introduzione
 
-    In questa guida su Recensione Babbel vedrai come usarlo in situazioni reali.
+    Capire Recensione Babbel ti aiuta in situazioni di situazioni reali.
 
 
     ## Cos’è
@@ -7097,7 +7099,7 @@
 
     ---
 
-    SEED: 4384
+    SEED: 2579
 
     CLUSTER: monetization
 

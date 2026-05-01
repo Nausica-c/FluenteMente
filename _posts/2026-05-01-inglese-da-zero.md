@@ -2,7 +2,7 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: 35b3fc9233c60c0edeec2a0a91d19c15e92154b6c624737e7e3a4c5bc33e05d1
+content_hash: fa46a4e3fb7a4b0809099ded8bed069887e80ce99d0b7165cd54c270f35bd58d
 ---
 
 # Inglese da zero
@@ -12,7 +12,7 @@ content_hash: 35b3fc9233c60c0edeec2a0a91d19c15e92154b6c624737e7e3a4c5bc33e05d1
 {% include section-in-breve.html %}
 
 ## Introduzione
-Inglese da zero è fondamentale quando ti trovi in studio e apprendimento lingua.
+In questa guida su Inglese da zero vedrai come usarlo in studio e apprendimento lingua.
 
 ## Cos’è
 Inglese da zero viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese da zero a situazioni real
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1948
+SEED: 1669
 CLUSTER: method
 FUNNEL: mofu
 

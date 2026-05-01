@@ -2,7 +2,7 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: 6b53e9197840c5ffc94c0e4af7bbac0e4c5d6060e6c0af7ea5797008e99c25d7
+content_hash: ecfc74e3d28eb85287148e2b12744f557e8e9e569c3f8d653439fb9267507f17
 ---
 
 # Slang inglese moderno
@@ -12,7 +12,7 @@ content_hash: 6b53e9197840c5ffc94c0e4af7bbac0e4c5d6060e6c0af7ea5797008e99c25d7
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Slang inglese moderno vedrai come usarlo in amicizie, conversazioni, small talk.
+Capire Slang inglese moderno ti aiuta in situazioni di amicizie, conversazioni, small talk.
 
 ## Cos’è
 Slang inglese moderno viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Slang inglese moderno a situazion
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 8335
+SEED: 2663
 CLUSTER: social
 FUNNEL: tofu
 

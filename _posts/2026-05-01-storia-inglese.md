@@ -2,7 +2,7 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: 95343d5a75ca05bbcff969e919ef4686a592a0a29e2481a5cd55fe65e9821ff0
+content_hash: ce12c2d8ce220c1eaafffdf61d44cb5285f1516ea9a2eae910fef6e2d5422263
 ---
 
 # Storia inglese
@@ -12,7 +12,7 @@ content_hash: 95343d5a75ca05bbcff969e919ef4686a592a0a29e2481a5cd55fe65e9821ff0
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Storia inglese ti aiuta in situazioni di situazioni reali.
+In questa guida su Storia inglese vedrai come usarlo in situazioni reali.
 
 ## Cos’è
 Storia inglese viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Storia inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 5009
+SEED: 2765
 CLUSTER: cultura
 FUNNEL: tofu
 

@@ -2,7 +2,7 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: df654a07ffccb104ad447cf03a7b1d07a433f67182183855fe4dea22fc5dc64a
+content_hash: a56a5f9b8de045d1013b626d5fcc440a5936083b765a07b6cf647398600b8f67
 ---
 
 # CV in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano CV in inglese a situazioni reali 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5619
+SEED: 9674
 CLUSTER: business
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: fee8d16ac204e8052c42f49d3c91d76fde12f89fab15b8c8840302beb49334ef
+content_hash: 9f956670905b35f9d0aed66820504197d515d65e527b00ee0bea6e9d44fc43e1
 ---
 
 # Slang reale inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Slang reale inglese a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2687
+SEED: 5214
 CLUSTER: social
 FUNNEL: tofu
 
