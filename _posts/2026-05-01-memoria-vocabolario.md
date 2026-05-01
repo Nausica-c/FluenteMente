@@ -2,7 +2,7 @@
 title: "Memoria vocabolario"
 permalink: /memoria-vocabolario/
 layout: post
-content_hash: 4e812004c0c1df6d7373106282ce1c5741c1d059e4a6ee0f5e462bf5a64ac821
+content_hash: 1b9efc8317edb6f5d457b0e5d229138d20957e4f5e1490c82117099bd7c248b1
 ---
 
 # Memoria vocabolario
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Memoria vocabolario a situazioni 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6443
+SEED: 2374
 CLUSTER: method
 FUNNEL: mofu
 

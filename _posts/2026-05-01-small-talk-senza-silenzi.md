@@ -2,7 +2,7 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: dc08f1ea4e799c884d3bc09b5ed6e219dc51b2cfc0c277884705f517f52ed329
+content_hash: 7bafd5b8a4a374bd572d7aec8473a05afa11a06c8b39e2db6c450ef1e8b2d72f
 ---
 
 # Small talk senza silenzi
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Small talk senza silenzi a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 2043
+SEED: 2062
 CLUSTER: social
 FUNNEL: mofu
 

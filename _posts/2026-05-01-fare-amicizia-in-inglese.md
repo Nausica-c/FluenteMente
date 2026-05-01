@@ -2,7 +2,7 @@
 title: "Fare amicizia in inglese"
 permalink: /fare-amicizia-in-inglese/
 layout: post
-content_hash: fd4ac826049d84c0a67a774417cf22c97fa3315af70997072bd414af6e165b1a
+content_hash: 153e5c03aa57599c4916c5ac8384f8864dcfba17288104e071b5a8832663fc71
 ---
 
 # Fare amicizia in inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Fare amicizia in inglese a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5259
+SEED: 3706
 CLUSTER: social
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Networking inglese"
 permalink: /networking-inglese/
 layout: post
-content_hash: ecd9754c9f32350a29b972ccfce70864a857de26e673e7d6ab5df9f4d964d2be
+content_hash: 0b56209cc7b1f246e6cfff5934ae8534658f3c15b9b1c17e5c5e81524e3b0f1b
 ---
 
 # Networking inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Networking inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1418
+SEED: 7240
 CLUSTER: business
 FUNNEL: mofu
 

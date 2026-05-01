@@ -2,7 +2,7 @@
 title: "Perché capisci l’inglese ma non riesci a parlare"
 permalink: /perché-capisci-l’inglese-ma-non-riesci-a-parlare/
 layout: post
-content_hash: 1b6f4fad01feaa5990123fe3ea83b0790b77e968778c1fd410f4ceadbd2119f1
+content_hash: 1d99cd634ed4c8e3c12b0b6f3a21dc5100d23ef11c6b54a2b8b98146605881a6
 ---
 
 # Perché capisci l’inglese ma non riesci a parlare
@@ -12,7 +12,7 @@ content_hash: 1b6f4fad01feaa5990123fe3ea83b0790b77e968778c1fd410f4ceadbd2119f1
 {% include section-in-breve.html %}
 
 ## Introduzione
-Perché capisci l’inglese ma non riesci a parlare è fondamentale quando ti trovi in studio e apprendimento lingua.
+In questa guida su Perché capisci l’inglese ma non riesci a parlare vedrai come usarlo in studio e apprendimento lingua.
 
 ## Cos’è
 Perché capisci l’inglese ma non riesci a parlare viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Perché capisci l’inglese ma no
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 4734
+SEED: 7889
 CLUSTER: method
 FUNNEL: bofu
 

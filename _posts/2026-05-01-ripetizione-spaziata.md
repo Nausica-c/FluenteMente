@@ -2,7 +2,7 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
-content_hash: 2348a9e558fcdb99f73e9cc913ea440ac853b526f54fd973ffc7b0b7a765a661
+content_hash: e2c04d5716e621b300ece2b3f6a3f75ebafdd89793e873370f41e8055327d5b1
 ---
 
 # Ripetizione spaziata
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Ripetizione spaziata a situazioni
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9637
+SEED: 2069
 CLUSTER: method
 FUNNEL: mofu
 

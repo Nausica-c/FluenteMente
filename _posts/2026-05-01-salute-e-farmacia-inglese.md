@@ -2,7 +2,7 @@
 title: "Salute e farmacia inglese"
 permalink: /salute-e-farmacia-inglese/
 layout: post
-content_hash: cdb71094b1ac755d2f0dd9c51bc9bf2b92cc9a12419802d7701ea5fa1c02fc62
+content_hash: 75ae0c15d80c6d597908da6d02427394a53c14532eda8dd70f6ceb3c8380ddd6
 ---
 
 # Salute e farmacia inglese
@@ -12,7 +12,7 @@ content_hash: cdb71094b1ac755d2f0dd9c51bc9bf2b92cc9a12419802d7701ea5fa1c02fc62
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Salute e farmacia inglese vedrai come usarlo in vita all'estero e problemi reali.
+Salute e farmacia inglese è fondamentale quando ti trovi in vita all'estero e problemi reali.
 
 ## Cos’è
 Salute e farmacia inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Salute e farmacia inglese a situa
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4025
+SEED: 7911
 CLUSTER: expat
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Inglese in hotel: check-in, problemi e richieste"
 permalink: /inglese-in-hotel:-check-in,-problemi-e-richieste/
 layout: post
-content_hash: 85847d839c26c86441bd529ab4b4860531d4511261e1cd274dfe73815b346ff5
+content_hash: a5fde2fc3f8227894e28df714e22265dbec9098322404cc6d2f31c48871e9a3e
 ---
 
 # Inglese in hotel: check-in, problemi e richieste
@@ -12,7 +12,7 @@ content_hash: 85847d839c26c86441bd529ab4b4860531d4511261e1cd274dfe73815b346ff5
 {% include section-in-breve.html %}
 
 ## Introduzione
-Inglese in hotel: check-in, problemi e richieste è fondamentale quando ti trovi in viaggi, aeroporti, hotel, trasporti.
+In questa guida su Inglese in hotel: check-in, problemi e richieste vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese in hotel: check-in, problemi e richieste viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese in hotel: check-in, probl
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 5327
+SEED: 4694
 CLUSTER: travel
 FUNNEL: tofu
 

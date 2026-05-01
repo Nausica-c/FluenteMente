@@ -2,7 +2,7 @@
 title: "CV in inglese"
 permalink: /cv-in-inglese/
 layout: post
-content_hash: fbbe8647a02b66ca1d2128dd5deb276af4e80b60b4f44a891c0b1e7308b75b51
+content_hash: 0f4bd8e58975bc9ef2de592cbe6f8bf03b9f938e9f9018ee1be21db60f39e385
 ---
 
 # CV in inglese
@@ -12,7 +12,7 @@ content_hash: fbbe8647a02b66ca1d2128dd5deb276af4e80b60b4f44a891c0b1e7308b75b51
 {% include section-in-breve.html %}
 
 ## Introduzione
-CV in inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+Capire CV in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 CV in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano CV in inglese a situazioni reali 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4971
+SEED: 2663
 CLUSTER: business
 FUNNEL: mofu
 

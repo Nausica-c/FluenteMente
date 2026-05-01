@@ -2,7 +2,7 @@
 title: "Articoli inglesi"
 permalink: /articoli-inglesi/
 layout: post
-content_hash: 2d918a49b73878ac28570328c52c6310f2604ad1e2d0c18e3d1da82984ec4ebd
+content_hash: 191eb43088e333a0afbc6fc234b25032d1985bee3e2ff69bbdb541832df0482c
 ---
 
 # Articoli inglesi
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Articoli inglesi a situazioni rea
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 3228
+SEED: 2166
 CLUSTER: base
 FUNNEL: tofu
 
