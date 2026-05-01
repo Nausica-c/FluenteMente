@@ -2,7 +2,7 @@
 title: "Stipendio inglese"
 permalink: /stipendio-inglese/
 layout: post
-content_hash: ced0749dd4d737cce90bbcaa4a2fa79c5cf09bc828445e179fc7b98c4b638237
+content_hash: 1344caea5a4403c1b01b6f66b846c9a485eb8250e3276ca9824519acea9abcfe
 ---
 
 # Stipendio inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Stipendio inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9678
+SEED: 5542
 CLUSTER: business
 FUNNEL: mofu
 

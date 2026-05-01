@@ -2,7 +2,7 @@
 title: "Supermercato in inglese"
 permalink: /supermercato-in-inglese/
 layout: post
-content_hash: 71944cfe7dfc0859e7be7266a02823fbe353081671b558e0affb8cb4aad3b932
+content_hash: 48bd0a5784b32f692956beaceaf64ab6b7936c3f60ae5ebdd054919a1416a2f4
 ---
 
 # Supermercato in inglese
@@ -12,7 +12,7 @@ content_hash: 71944cfe7dfc0859e7be7266a02823fbe353081671b558e0affb8cb4aad3b932
 {% include section-in-breve.html %}
 
 ## Introduzione
-Supermercato in inglese è fondamentale quando ti trovi in vita all'estero e problemi reali.
+In questa guida su Supermercato in inglese vedrai come usarlo in vita all'estero e problemi reali.
 
 ## Cos’è
 Supermercato in inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Supermercato in inglese a situazi
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3706
+SEED: 2517
 CLUSTER: expat
 FUNNEL: mofu
 

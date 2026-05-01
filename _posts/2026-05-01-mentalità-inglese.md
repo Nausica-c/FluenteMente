@@ -2,7 +2,7 @@
 title: "Mentalità inglese"
 permalink: /mentalità-inglese/
 layout: post
-content_hash: 9076867610c18cc2792212ac1a8627f80e5560bc502e57a2ad4dfc37f72f7724
+content_hash: dee1d89617fbd13c932ca5ccd8831ebb4294d9292d6b23d2a0e0f01765d9f40b
 ---
 
 # Mentalità inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Mentalità inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6751
+SEED: 4426
 CLUSTER: cultura
 FUNNEL: mofu
 

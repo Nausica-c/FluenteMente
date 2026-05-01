@@ -2,7 +2,7 @@
 title: "Storia inglese"
 permalink: /storia-inglese/
 layout: post
-content_hash: ce12c2d8ce220c1eaafffdf61d44cb5285f1516ea9a2eae910fef6e2d5422263
+content_hash: da90e9e7aea502c88b991b4a37c5a6ac4746e0e0730c8f9b6d8e0de8086780e4
 ---
 
 # Storia inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Storia inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 2765
+SEED: 4272
 CLUSTER: cultura
 FUNNEL: tofu
 

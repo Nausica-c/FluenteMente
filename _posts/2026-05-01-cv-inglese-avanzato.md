@@ -2,7 +2,7 @@
 title: "CV inglese avanzato"
 permalink: /cv-inglese-avanzato/
 layout: post
-content_hash: 02c05dbb5222e5162597701ab2616467363e4404f00c83f7b31bec3197990ef6
+content_hash: cb0dadb270d24eb50b974c2d0c4d65198168d1108cd03728f5e5545c2fbd2234
 ---
 
 # CV inglese avanzato
@@ -12,7 +12,7 @@ content_hash: 02c05dbb5222e5162597701ab2616467363e4404f00c83f7b31bec3197990ef6
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su CV inglese avanzato vedrai come usarlo in lavoro, email, colloqui, meeting.
+Capire CV inglese avanzato ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 CV inglese avanzato viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano CV inglese avanzato a situazioni 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 2749
+SEED: 9927
 CLUSTER: business
 FUNNEL: mofu
 

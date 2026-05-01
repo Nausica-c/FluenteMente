@@ -2,7 +2,7 @@
 title: "Input comprensibile"
 permalink: /input-comprensibile/
 layout: post
-content_hash: e8ce9fb0fbad7384fc823a43efdaed61bcc1584271e2b9684f6ecd5180c730f2
+content_hash: fd13768d2dc05d7c964deb044e04bf6385e14b0c0c7d780d6e90c3cf8203a918
 ---
 
 # Input comprensibile
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Input comprensibile a situazioni 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 5279
+SEED: 7849
 CLUSTER: method
 FUNNEL: mofu
 

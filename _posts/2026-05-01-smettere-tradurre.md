@@ -2,7 +2,7 @@
 title: "Smettere tradurre"
 permalink: /smettere-tradurre/
 layout: post
-content_hash: 2fac7901d11568eb993130f4ac6aff53db2049546499d4e874ab5e012d8c3bd4
+content_hash: 04d1812292e3d4245d16c5f740c83193aea7e4733ede740b0450eeb0662c2fd7
 ---
 
 # Smettere tradurre
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Smettere tradurre a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3012
+SEED: 3350
 CLUSTER: method
 FUNNEL: mofu
 

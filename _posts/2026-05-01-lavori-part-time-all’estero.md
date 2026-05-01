@@ -2,7 +2,7 @@
 title: "Lavori part-time all’estero"
 permalink: /lavori-part-time-all’estero/
 layout: post
-content_hash: 73e15338ad2ef52f10f53bd36c4a5e12e11053bfe7b756f0ec00673e9b66aeca
+content_hash: 2b522ab0837f7a1d5ce488f9e015f5e76fef3e937b4ba182c3f8ac2f977302e8
 ---
 
 # Lavori part-time all’estero
@@ -12,7 +12,7 @@ content_hash: 73e15338ad2ef52f10f53bd36c4a5e12e11053bfe7b756f0ec00673e9b66aeca
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Lavori part-time all’estero vedrai come usarlo in vita all'estero e problemi reali.
+Lavori part-time all’estero è fondamentale quando ti trovi in vita all'estero e problemi reali.
 
 ## Cos’è
 Lavori part-time all’estero viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Lavori part-time all’estero a s
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6332
+SEED: 3289
 CLUSTER: expat
 FUNNEL: mofu
 

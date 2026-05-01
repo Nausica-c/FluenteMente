@@ -2,7 +2,7 @@
 title: "Email inglese"
 permalink: /email-inglese/
 layout: post
-content_hash: 67564e16155cc86f0eec34cad0dc1af5e9e33cbbf0a2c79f1c25be552e231142
+content_hash: cfa7477bd20d7572db904230ae306821c7255426dc3cdf601c83e20783dd54ac
 ---
 
 # Email inglese
@@ -12,7 +12,7 @@ content_hash: 67564e16155cc86f0eec34cad0dc1af5e9e33cbbf0a2c79f1c25be552e231142
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Email inglese vedrai come usarlo in lavoro, email, colloqui, meeting.
+Email inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Email inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email inglese a situazioni reali 
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 7240
+SEED: 9004
 CLUSTER: business
 FUNNEL: mofu
 

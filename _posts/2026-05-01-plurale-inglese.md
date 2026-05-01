@@ -2,7 +2,7 @@
 title: "Plurale inglese"
 permalink: /plurale-inglese/
 layout: post
-content_hash: fbbc2ce36007c5f078ab6e35e5ff4b0759212f2fa273c688b825207423ebd299
+content_hash: 4fa069e0c36927ad3e49d61b2ae438f97f9ebf2e5bd044e90041f7d7b317d388
 ---
 
 # Plurale inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Plurale inglese a situazioni real
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9230
+SEED: 9461
 CLUSTER: base
 FUNNEL: tofu
 
