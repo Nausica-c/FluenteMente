@@ -1,6 +1,8 @@
-<div class="trust-box">
-  <h3>{{ include.title | default: "Perché fidarti di FluenteMente?" }}</h3>
-  <p>
+<div class="trust-box {{ include.class | default: '' }}">
+  {% if include.title %}
+    <h3 class="trust-title">{{ include.title }}</h3>
+  {% endif %}
+  <p class="trust-text">
     {{ include.text | default: "Niente promesse irrealistiche: solo strategie sostenibili da 15 minuti al giorno." }}
   </p>
 </div>
