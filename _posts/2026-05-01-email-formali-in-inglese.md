@@ -2,7 +2,7 @@
 title: "Email formali in inglese"
 permalink: /email-formali-in-inglese/
 layout: post
-content_hash: 1ae8c200ab0b742febe247b1e667b189ff75db9849aa006d2ad270cad3ae362c
+content_hash: 4a7f1bd89cc2ecb276f87d67697270870dd0b39256e4dd52517b5e2bd83f0733
 ---
 
 # Email formali in inglese
@@ -12,7 +12,7 @@ content_hash: 1ae8c200ab0b742febe247b1e667b189ff75db9849aa006d2ad270cad3ae362c
 {% include section-in-breve.html %}
 
 ## Introduzione
-Email formali in inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+Capire Email formali in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Email formali in inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Email formali in inglese a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9019
+SEED: 8886
 CLUSTER: business
 FUNNEL: mofu
 

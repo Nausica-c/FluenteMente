@@ -2,7 +2,7 @@
 title: "Inglese da zero"
 permalink: /inglese-da-zero/
 layout: post
-content_hash: 260806f9aa1a90dd9e375492b3118b52d0b2c4637ef0899ab3f48e7b7a5c9d21
+content_hash: 3c537505be14f8d40166fcddc5d5446c11475b12649e520b0f9ac3c410995dc8
 ---
 
 # Inglese da zero
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese da zero a situazioni real
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3012
+SEED: 6951
 CLUSTER: method
 FUNNEL: mofu
 

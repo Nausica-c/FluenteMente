@@ -2,7 +2,7 @@
 title: "Inglese per trasporti pubblici: metro, bus e taxi"
 permalink: /inglese-per-trasporti-pubblici:-metro,-bus-e-taxi/
 layout: post
-content_hash: 062eafc6db22bb9c4fd454687af6780a6acc2d76043fd704d7ceed971130a108
+content_hash: 939eb99c768de8347249437f2fe6e7b2fc7e2e679556cfce01a0be54008e07a0
 ---
 
 # Inglese per trasporti pubblici: metro, bus e taxi
@@ -12,7 +12,7 @@ content_hash: 062eafc6db22bb9c4fd454687af6780a6acc2d76043fd704d7ceed971130a108
 {% include section-in-breve.html %}
 
 ## Introduzione
-Inglese per trasporti pubblici: metro, bus e taxi è fondamentale quando ti trovi in viaggi, aeroporti, hotel, trasporti.
+In questa guida su Inglese per trasporti pubblici: metro, bus e taxi vedrai come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 ## Cos’è
 Inglese per trasporti pubblici: metro, bus e taxi viene usato in contesti legati a viaggi, aeroporti, hotel, trasporti. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Inglese per trasporti pubblici: m
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 6638
+SEED: 5390
 CLUSTER: travel
 FUNNEL: tofu
 

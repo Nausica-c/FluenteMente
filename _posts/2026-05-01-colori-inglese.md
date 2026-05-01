@@ -2,7 +2,7 @@
 title: "Colori inglese"
 permalink: /colori-inglese/
 layout: post
-content_hash: 005e358618b73ba6eddea7bddb629e4e8ef8e4949381ca23eef052e927e1e934
+content_hash: 93c704fa3985d9e29d5d2f086c211227d580b12b39830e1280af468fe4455a60
 ---
 
 # Colori inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colori inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 5065
+SEED: 5086
 CLUSTER: base
 FUNNEL: tofu
 

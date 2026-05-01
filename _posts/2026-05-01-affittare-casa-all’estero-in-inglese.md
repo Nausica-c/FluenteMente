@@ -2,7 +2,7 @@
 title: "Affittare casa all’estero in inglese"
 permalink: /affittare-casa-all’estero-in-inglese/
 layout: post
-content_hash: 3ba3c46e244f01edc91cc9518a39edb90cf6abce096a0e5da3818d49ea8e9aa2
+content_hash: 8a8a288a1ea3ac90fbe9f803c03feb66c989904aa608588e5875c2960bb29aac
 ---
 
 # Affittare casa all’estero in inglese
@@ -12,7 +12,7 @@ content_hash: 3ba3c46e244f01edc91cc9518a39edb90cf6abce096a0e5da3818d49ea8e9aa2
 {% include section-in-breve.html %}
 
 ## Introduzione
-Affittare casa all’estero in inglese è fondamentale quando ti trovi in vita all'estero e problemi reali.
+In questa guida su Affittare casa all’estero in inglese vedrai come usarlo in vita all'estero e problemi reali.
 
 ## Cos’è
 Affittare casa all’estero in inglese viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Affittare casa all’estero in in
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 8354
+SEED: 3432
 CLUSTER: expat
 FUNNEL: mofu
 

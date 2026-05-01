@@ -2,7 +2,7 @@
 title: "Dating in inglese"
 permalink: /dating-in-inglese/
 layout: post
-content_hash: 6b91e7f7245582840851bab76683ab958b7835f287ee2f8eba0013fd6c848e16
+content_hash: ae02acf18a0626343013d8e256529947448f070651e4b948169605296ebc52cc
 ---
 
 # Dating in inglese
@@ -12,7 +12,7 @@ content_hash: 6b91e7f7245582840851bab76683ab958b7835f287ee2f8eba0013fd6c848e16
 {% include section-in-breve.html %}
 
 ## Introduzione
-Dating in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
+In questa guida su Dating in inglese vedrai come usarlo in amicizie, conversazioni, small talk.
 
 ## Cos’è
 Dating in inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Dating in inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 4466
+SEED: 6691
 CLUSTER: social
 FUNNEL: mofu
 

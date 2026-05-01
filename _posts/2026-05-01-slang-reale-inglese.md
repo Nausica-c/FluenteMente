@@ -2,7 +2,7 @@
 title: "Slang reale inglese"
 permalink: /slang-reale-inglese/
 layout: post
-content_hash: 0e056fee2935e1b6be49f620da9f0497d8e72eaba34b4a1ac4479603099ec9f3
+content_hash: e50deb630f8288faf87fd747d0c5ac6a2365c4c6a2d4a5e74d47fb7b9147c0cc
 ---
 
 # Slang reale inglese
@@ -12,7 +12,7 @@ content_hash: 0e056fee2935e1b6be49f620da9f0497d8e72eaba34b4a1ac4479603099ec9f3
 {% include section-in-breve.html %}
 
 ## Introduzione
-Slang reale inglese è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
+Capire Slang reale inglese ti aiuta in situazioni di amicizie, conversazioni, small talk.
 
 ## Cos’è
 Slang reale inglese viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Slang reale inglese a situazioni 
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 1948
+SEED: 5607
 CLUSTER: social
 FUNNEL: tofu
 

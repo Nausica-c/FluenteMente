@@ -2,7 +2,7 @@
 title: "Medico di base all’estero"
 permalink: /medico-di-base-all’estero/
 layout: post
-content_hash: 7e36d5defbb732f79ec10597c731dc8de89852cb794bc0446ad2caee31dc28e9
+content_hash: 17271e8efcf4af9f9231639b39c836a0c3535c43f8eee02db71bc9bcf3debf59
 ---
 
 # Medico di base all’estero
@@ -12,7 +12,7 @@ content_hash: 7e36d5defbb732f79ec10597c731dc8de89852cb794bc0446ad2caee31dc28e9
 {% include section-in-breve.html %}
 
 ## Introduzione
-Medico di base all’estero è fondamentale quando ti trovi in vita all'estero e problemi reali.
+Capire Medico di base all’estero ti aiuta in situazioni di vita all'estero e problemi reali.
 
 ## Cos’è
 Medico di base all’estero viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Medico di base all’estero a sit
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3338
+SEED: 4583
 CLUSTER: expat
 FUNNEL: mofu
 
