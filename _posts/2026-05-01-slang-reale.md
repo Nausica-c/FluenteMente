@@ -2,7 +2,7 @@
 title: "Slang reale"
 permalink: /slang-reale/
 layout: post
-content_hash: d080cb19a37eea059a60b76a491c7e419b9bc5d7e2157ff576d7bd21254cde90
+content_hash: 76a64d1c9c426052f7b5cde6fbb031f0197275100c208434d1978cc38db63a05
 ---
 
 # Slang reale
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Slang reale a situazioni reali di
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 6443
+SEED: 2374
 CLUSTER: cultura
 FUNNEL: mofu
 

@@ -2,7 +2,7 @@
 title: "Mentalità inglese"
 permalink: /mentalità-inglese/
 layout: post
-content_hash: dd1e3e53509a0d7a995566a2b0d9308ef7196e48019ed4364e6f75f5dd6d26b8
+content_hash: 8459153522bf52d91c8ea7a9c7c6a67dfb33ec19333f8d741b1858d9d60c5a49
 ---
 
 # Mentalità inglese
@@ -12,7 +12,7 @@ content_hash: dd1e3e53509a0d7a995566a2b0d9308ef7196e48019ed4364e6f75f5dd6d26b8
 {% include section-in-breve.html %}
 
 ## Introduzione
-Mentalità inglese è fondamentale quando ti trovi in situazioni reali.
+Capire Mentalità inglese ti aiuta in situazioni di situazioni reali.
 
 ## Cos’è
 Mentalità inglese viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Mentalità inglese a situazioni r
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 3973
+SEED: 9182
 CLUSTER: cultura
 FUNNEL: mofu
 

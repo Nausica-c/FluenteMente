@@ -2,7 +2,7 @@
 title: "Metodo FluenteMente"
 permalink: /metodo-fluentemente/
 layout: post
-content_hash: b739e1cd1916ef93f18e74bf066888babd755f8c8d9969a15c699473deea3cc4
+content_hash: 809155868f4feb8250f7f9f0a2f2b6b6f95b89481424b79b03f850dfcb08d96e
 ---
 
 # Metodo FluenteMente
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Metodo FluenteMente a situazioni 
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 7038
+SEED: 6951
 CLUSTER: method
 FUNNEL: bofu
 

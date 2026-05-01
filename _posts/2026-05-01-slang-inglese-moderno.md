@@ -2,7 +2,7 @@
 title: "Slang inglese moderno"
 permalink: /slang-inglese-moderno/
 layout: post
-content_hash: e9aa8a6fbc5e18ee458b251232aad1bcd594642734487defdfb2c141835dfd0d
+content_hash: fbdabb9528735de9177542388443f40c4b3c1c29ca14a0c6c77a066a387bcfe2
 ---
 
 # Slang inglese moderno
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Slang inglese moderno a situazion
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 9151
+SEED: 2938
 CLUSTER: social
 FUNNEL: tofu
 

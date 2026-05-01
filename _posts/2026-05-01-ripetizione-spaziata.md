@@ -2,7 +2,7 @@
 title: "Ripetizione spaziata"
 permalink: /ripetizione-spaziata/
 layout: post
-content_hash: 8b23286c3abf5154c95f9fa06e7b9a3b790699c0ec8a097dbb2598c8a7888ac3
+content_hash: 512badd91fe8a0c1d16ad485da2e68eec53c6a4a7e801a4fc830259e3012e216
 ---
 
 # Ripetizione spaziata
@@ -12,7 +12,7 @@ content_hash: 8b23286c3abf5154c95f9fa06e7b9a3b790699c0ec8a097dbb2598c8a7888ac3
 {% include section-in-breve.html %}
 
 ## Introduzione
-In questa guida su Ripetizione spaziata vedrai come usarlo in studio e apprendimento lingua.
+Capire Ripetizione spaziata ti aiuta in situazioni di studio e apprendimento lingua.
 
 ## Cos’è
 Ripetizione spaziata viene usato in contesti legati a studio e apprendimento lingua. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Ripetizione spaziata a situazioni
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1908
+SEED: 9219
 CLUSTER: method
 FUNNEL: mofu
 

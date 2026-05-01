@@ -2,7 +2,7 @@
 title: "Parole intraducibili"
 permalink: /parole-intraducibili/
 layout: post
-content_hash: 4bff324ccec01fd14abc9bdd30b36b800a56d831cf7fc2e215ece5f5b2d2b358
+content_hash: 3435d1b23c877a857fc2966e6c6108122235c8c299da88bfe372f8d3d1b25b45
 ---
 
 # Parole intraducibili
@@ -12,7 +12,7 @@ content_hash: 4bff324ccec01fd14abc9bdd30b36b800a56d831cf7fc2e215ece5f5b2d2b358
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Parole intraducibili ti aiuta in situazioni di situazioni reali.
+In questa guida su Parole intraducibili vedrai come usarlo in situazioni reali.
 
 ## Cos’è
 Parole intraducibili viene usato in contesti legati a situazioni reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Parole intraducibili a situazioni
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 8585
+SEED: 8141
 CLUSTER: cultura
 FUNNEL: tofu
 
