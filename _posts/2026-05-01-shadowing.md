@@ -2,7 +2,7 @@
 title: "Shadowing"
 permalink: /shadowing/
 layout: post
-content_hash: 3f52d81f0401782497f287d684f13b1389d96e95b428113aa37f16b3b0c42a93
+content_hash: a2f727790d80d6042975a652e712f250ca91424e69329f874cbdc67118644bf0
 ---
 
 # Shadowing
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Shadowing a situazioni reali di s
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1669
+SEED: 1362
 CLUSTER: method
 FUNNEL: mofu
 

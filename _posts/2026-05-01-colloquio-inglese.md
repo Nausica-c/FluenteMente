@@ -2,7 +2,7 @@
 title: "Colloquio inglese"
 permalink: /colloquio-inglese/
 layout: post
-content_hash: 0171a448ee7700c1243f7b1ffd1394363c2edf6583b7f381f39cee5c92c2d9a6
+content_hash: b046a35a41f38a2121767012d27f89d2003fb95e8210a050b0b69fec796ef21f
 ---
 
 # Colloquio inglese
@@ -12,7 +12,7 @@ content_hash: 0171a448ee7700c1243f7b1ffd1394363c2edf6583b7f381f39cee5c92c2d9a6
 {% include section-in-breve.html %}
 
 ## Introduzione
-Colloquio inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+Capire Colloquio inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 ## Cos’è
 Colloquio inglese viene usato in contesti legati a lavoro, email, colloqui, meeting. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Colloquio inglese a situazioni re
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 9229
+SEED: 2138
 CLUSTER: business
 FUNNEL: mofu
 

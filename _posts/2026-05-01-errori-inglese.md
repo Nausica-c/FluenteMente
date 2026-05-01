@@ -2,7 +2,7 @@
 title: "Errori inglese"
 permalink: /errori-inglese/
 layout: post
-content_hash: ba069f6dcdfcb360e54b2c3c77114769872ff8c295c4d4f8375971ed912336fe
+content_hash: f0666d6d6ec7540f1d4be5c330f294a9c3ad49a359230fc03219bc9e9ec6f1d5
 ---
 
 # Errori inglese
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Errori inglese a situazioni reali
 Questo concetto si applica soprattutto in: applicazione avanzata e casi reali complessi.
 
 ---
-SEED: 9182
+SEED: 5009
 CLUSTER: conversion
 FUNNEL: bofu
 

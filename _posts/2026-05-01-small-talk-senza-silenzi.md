@@ -2,7 +2,7 @@
 title: "Small talk senza silenzi"
 permalink: /small-talk-senza-silenzi/
 layout: post
-content_hash: 7bafd5b8a4a374bd572d7aec8473a05afa11a06c8b39e2db6c450ef1e8b2d72f
+content_hash: e4392964533bdf4f858d0c887f698b29207ef9f484db1fe0f1bed6db41edb5af
 ---
 
 # Small talk senza silenzi
@@ -12,7 +12,7 @@ content_hash: 7bafd5b8a4a374bd572d7aec8473a05afa11a06c8b39e2db6c450ef1e8b2d72f
 {% include section-in-breve.html %}
 
 ## Introduzione
-Small talk senza silenzi è fondamentale quando ti trovi in amicizie, conversazioni, small talk.
+Capire Small talk senza silenzi ti aiuta in situazioni di amicizie, conversazioni, small talk.
 
 ## Cos’è
 Small talk senza silenzi viene usato in contesti legati a amicizie, conversazioni, small talk. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Small talk senza silenzi a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 2062
+SEED: 2855
 CLUSTER: social
 FUNNEL: mofu
 

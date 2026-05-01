@@ -2,7 +2,7 @@
 title: "Landlord e problemi casa"
 permalink: /landlord-e-problemi-casa/
 layout: post
-content_hash: a75b53dc31386cd9ccc1077cdd928bb4ac5ce88e10bea190c7d0df2cbc3ac698
+content_hash: c6539d5456dcfae844bbfcbc4ff360a266c68d8b5a6a35a37f7e3d241485f6d7
 ---
 
 # Landlord e problemi casa
@@ -12,7 +12,7 @@ content_hash: a75b53dc31386cd9ccc1077cdd928bb4ac5ce88e10bea190c7d0df2cbc3ac698
 {% include section-in-breve.html %}
 
 ## Introduzione
-Landlord e problemi casa è fondamentale quando ti trovi in vita all'estero e problemi reali.
+In questa guida su Landlord e problemi casa vedrai come usarlo in vita all'estero e problemi reali.
 
 ## Cos’è
 Landlord e problemi casa viene usato in contesti legati a vita all'estero e problemi reali. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Landlord e problemi casa a situaz
 Questo concetto si applica soprattutto in: esempi pratici e uso reale.
 
 ---
-SEED: 1625
+SEED: 8799
 CLUSTER: expat
 FUNNEL: mofu
 

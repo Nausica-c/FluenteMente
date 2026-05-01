@@ -2,7 +2,7 @@
 title: "Numeri inglese"
 permalink: /numeri-inglese/
 layout: post
-content_hash: c0a34d49bd98c5fa8be3f11d7842489069f7d136fda990a7b36d3c3692f12cef
+content_hash: 0afc6892d4e430c20b0122e386d15ad6f7ad6d3ec155df756cb7f967e7d890a4
 ---
 
 # Numeri inglese
@@ -12,7 +12,7 @@ content_hash: c0a34d49bd98c5fa8be3f11d7842489069f7d136fda990a7b36d3c3692f12cef
 {% include section-in-breve.html %}
 
 ## Introduzione
-Capire Numeri inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+In questa guida su Numeri inglese vedrai come usarlo in situazioni quotidiane generiche.
 
 ## Cos’è
 Numeri inglese viene usato in contesti legati a situazioni quotidiane generiche. È importante soprattutto per chi vuole migliorare il proprio inglese nella vita reale.
@@ -31,7 +31,7 @@ Molti italiani sbagliano perché non collegano Numeri inglese a situazioni reali
 Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
 
 ---
-SEED: 1943
+SEED: 8998
 CLUSTER: base
 FUNNEL: tofu
 

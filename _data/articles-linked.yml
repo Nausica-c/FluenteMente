@@ -6,7 +6,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 2201
+  seed: 4025
   final_article: '# Paura di parlare inglese: come sbloccarla definitivamente
 
 
@@ -56,7 +56,7 @@
 
     ---
 
-    SEED: 2201
+    SEED: 4025
 
     CLUSTER: method
 
@@ -92,7 +92,7 @@
   cluster: method
   role: bridge
   priority: 95
-  seed: 7889
+  seed: 5928
   final_article: '# Perché capisci l’inglese ma non riesci a parlare
 
 
@@ -142,7 +142,7 @@
 
     ---
 
-    SEED: 7889
+    SEED: 5928
 
     CLUSTER: method
 
@@ -178,7 +178,7 @@
   cluster: travel
   role: hub
   priority: 95
-  seed: 4006
+  seed: 5259
   final_article: '# Inglese in aeroporto: frasi essenziali per viaggiare
 
 
@@ -190,8 +190,8 @@
 
     ## Introduzione
 
-    Capire Inglese in aeroporto: frasi essenziali per viaggiare ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    Inglese in aeroporto: frasi essenziali per viaggiare è fondamentale quando ti
+    trovi in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -227,7 +227,7 @@
 
     ---
 
-    SEED: 4006
+    SEED: 5259
 
     CLUSTER: travel
 
@@ -255,7 +255,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 4694
+  seed: 2043
   final_article: '# Inglese in hotel: check-in, problemi e richieste
 
 
@@ -267,8 +267,8 @@
 
     ## Introduzione
 
-    In questa guida su Inglese in hotel: check-in, problemi e richieste vedrai come
-    usarlo in viaggi, aeroporti, hotel, trasporti.
+    Inglese in hotel: check-in, problemi e richieste è fondamentale quando ti trovi
+    in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -304,7 +304,7 @@
 
     ---
 
-    SEED: 4694
+    SEED: 2043
 
     CLUSTER: travel
 
@@ -332,7 +332,7 @@
   cluster: base
   role: hub
   priority: 100
-  seed: 5111
+  seed: 4972
   final_article: '# 100 parole inglesi più usate per iniziare subito
 
 
@@ -381,7 +381,7 @@
 
     ---
 
-    SEED: 5111
+    SEED: 4972
 
     CLUSTER: base
 
@@ -409,7 +409,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 1379
+  seed: 8273
   final_article: '# Alfabeto inglese e spelling: guida semplice per principianti
 
 
@@ -421,8 +421,8 @@
 
     ## Introduzione
 
-    Capire Alfabeto inglese e spelling: guida semplice per principianti ti aiuta in
-    situazioni di situazioni quotidiane generiche.
+    In questa guida su Alfabeto inglese e spelling: guida semplice per principianti
+    vedrai come usarlo in situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -458,7 +458,7 @@
 
     ---
 
-    SEED: 1379
+    SEED: 8273
 
     CLUSTER: base
 
@@ -486,7 +486,7 @@
   cluster: base
   role: spoke
   priority: 90
-  seed: 5124
+  seed: 1541
   final_article: '# Numeri in inglese da 1 a 100: guida completa
 
 
@@ -498,8 +498,8 @@
 
     ## Introduzione
 
-    In questa guida su Numeri in inglese da 1 a 100: guida completa vedrai come usarlo
-    in situazioni quotidiane generiche.
+    Numeri in inglese da 1 a 100: guida completa è fondamentale quando ti trovi in
+    situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -535,7 +535,7 @@
 
     ---
 
-    SEED: 5124
+    SEED: 1541
 
     CLUSTER: base
 
@@ -563,7 +563,7 @@
   cluster: base
   role: spoke
   priority: 85
-  seed: 8358
+  seed: 6937
   final_article: '# Come presentarsi in inglese in modo naturale
 
 
@@ -575,8 +575,8 @@
 
     ## Introduzione
 
-    In questa guida su Come presentarsi in inglese in modo naturale vedrai come usarlo
-    in situazioni quotidiane generiche.
+    Capire Come presentarsi in inglese in modo naturale ti aiuta in situazioni di
+    situazioni quotidiane generiche.
 
 
     ## Cos’è
@@ -612,7 +612,7 @@
 
     ---
 
-    SEED: 8358
+    SEED: 6937
 
     CLUSTER: base
 
@@ -640,7 +640,7 @@
   cluster: travel
   role: spoke
   priority: 95
-  seed: 4228
+  seed: 5282
   final_article: '# Frasi inglese aeroporto: check-in, gate e bagagli
 
 
@@ -652,8 +652,8 @@
 
     ## Introduzione
 
-    Frasi inglese aeroporto: check-in, gate e bagagli è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Frasi inglese aeroporto: check-in, gate e bagagli vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -689,7 +689,7 @@
 
     ---
 
-    SEED: 4228
+    SEED: 5282
 
     CLUSTER: travel
 
@@ -717,7 +717,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 8333
+  seed: 4141
   final_article: '# Inglese in hotel: frasi essenziali per viaggiare
 
 
@@ -766,7 +766,7 @@
 
     ---
 
-    SEED: 8333
+    SEED: 4141
 
     CLUSTER: travel
 
@@ -794,7 +794,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 4422
+  seed: 3228
   final_article: '# Inglese per trasporti pubblici: metro, bus e taxi
 
 
@@ -806,8 +806,8 @@
 
     ## Introduzione
 
-    Capire Inglese per trasporti pubblici: metro, bus e taxi ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Inglese per trasporti pubblici: metro, bus e taxi vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -843,7 +843,7 @@
 
     ---
 
-    SEED: 4422
+    SEED: 3228
 
     CLUSTER: travel
 
@@ -871,7 +871,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 3107
+  seed: 4149
   final_article: '# Inglese per shopping: negozi, prezzi e acquisti
 
 
@@ -883,8 +883,8 @@
 
     ## Introduzione
 
-    In questa guida su Inglese per shopping: negozi, prezzi e acquisti vedrai come
-    usarlo in viaggi, aeroporti, hotel, trasporti.
+    Inglese per shopping: negozi, prezzi e acquisti è fondamentale quando ti trovi
+    in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -920,7 +920,7 @@
 
     ---
 
-    SEED: 3107
+    SEED: 4149
 
     CLUSTER: travel
 
@@ -948,7 +948,7 @@
   cluster: travel
   role: spoke
   priority: 90
-  seed: 3748
+  seed: 3002
   final_article: '# Inglese per emergenze in viaggio: frasi salvavita
 
 
@@ -960,8 +960,8 @@
 
     ## Introduzione
 
-    Inglese per emergenze in viaggio: frasi salvavita è fondamentale quando ti trovi
-    in viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Inglese per emergenze in viaggio: frasi salvavita vedrai come
+    usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -997,7 +997,7 @@
 
     ---
 
-    SEED: 3748
+    SEED: 3002
 
     CLUSTER: travel
 
@@ -1025,7 +1025,7 @@
   cluster: travel
   role: spoke
   priority: 80
-  seed: 7896
+  seed: 7529
   final_article: '# Inglese per Airbnb e case vacanza
 
 
@@ -1037,7 +1037,7 @@
 
     ## Introduzione
 
-    Capire Inglese per Airbnb e case vacanza ti aiuta in situazioni di viaggi, aeroporti,
+    Inglese per Airbnb e case vacanza è fondamentale quando ti trovi in viaggi, aeroporti,
     hotel, trasporti.
 
 
@@ -1074,7 +1074,7 @@
 
     ---
 
-    SEED: 7896
+    SEED: 7529
 
     CLUSTER: travel
 
@@ -1102,7 +1102,7 @@
   cluster: travel
   role: spoke
   priority: 85
-  seed: 7288
+  seed: 3745
   final_article: '# Come lamentarsi in inglese (hotel, servizi, problemi)
 
 
@@ -1114,8 +1114,8 @@
 
     ## Introduzione
 
-    Capire Come lamentarsi in inglese (hotel, servizi, problemi) ti aiuta in situazioni
-    di viaggi, aeroporti, hotel, trasporti.
+    In questa guida su Come lamentarsi in inglese (hotel, servizi, problemi) vedrai
+    come usarlo in viaggi, aeroporti, hotel, trasporti.
 
 
     ## Cos’è
@@ -1151,7 +1151,7 @@
 
     ---
 
-    SEED: 7288
+    SEED: 3745
 
     CLUSTER: travel
 
@@ -1183,7 +1183,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 6203
+  seed: 5324
   final_article: '# Affittare casa all’estero in inglese
 
 
@@ -1195,8 +1195,8 @@
 
     ## Introduzione
 
-    In questa guida su Affittare casa all’estero in inglese vedrai come usarlo in
-    vita all''estero e problemi reali.
+    Affittare casa all’estero in inglese è fondamentale quando ti trovi in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -1232,7 +1232,7 @@
 
     ---
 
-    SEED: 6203
+    SEED: 5324
 
     CLUSTER: expat
 
@@ -1268,7 +1268,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6476
+  seed: 5499
   final_article: '# Contratto d’affitto in inglese
 
 
@@ -1280,7 +1280,7 @@
 
     ## Introduzione
 
-    Contratto d’affitto in inglese è fondamentale quando ti trovi in vita all''estero
+    Capire Contratto d’affitto in inglese ti aiuta in situazioni di vita all''estero
     e problemi reali.
 
 
@@ -1317,7 +1317,7 @@
 
     ---
 
-    SEED: 6476
+    SEED: 5499
 
     CLUSTER: expat
 
@@ -1353,7 +1353,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 3005
+  seed: 4099
   final_article: '# Utenze casa all’estero in inglese
 
 
@@ -1365,7 +1365,7 @@
 
     ## Introduzione
 
-    Capire Utenze casa all’estero in inglese ti aiuta in situazioni di vita all''estero
+    Utenze casa all’estero in inglese è fondamentale quando ti trovi in vita all''estero
     e problemi reali.
 
 
@@ -1402,7 +1402,7 @@
 
     ---
 
-    SEED: 3005
+    SEED: 4099
 
     CLUSTER: expat
 
@@ -1438,7 +1438,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 2007
+  seed: 7170
   final_article: '# Andare dal medico all’estero in inglese
 
 
@@ -1487,7 +1487,7 @@
 
     ---
 
-    SEED: 2007
+    SEED: 7170
 
     CLUSTER: expat
 
@@ -1523,7 +1523,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 2151
+  seed: 4860
   final_article: '# Aprire un conto bancario all’estero
 
 
@@ -1535,7 +1535,7 @@
 
     ## Introduzione
 
-    Capire Aprire un conto bancario all’estero ti aiuta in situazioni di vita all''estero
+    Aprire un conto bancario all’estero è fondamentale quando ti trovi in vita all''estero
     e problemi reali.
 
 
@@ -1572,7 +1572,7 @@
 
     ---
 
-    SEED: 2151
+    SEED: 4860
 
     CLUSTER: expat
 
@@ -1608,7 +1608,7 @@
   cluster: expat
   role: spoke
   priority: 90
-  seed: 5735
+  seed: 8489
   final_article: '# Lavori part-time all’estero
 
 
@@ -1657,7 +1657,7 @@
 
     ---
 
-    SEED: 5735
+    SEED: 8489
 
     CLUSTER: expat
 
@@ -1693,7 +1693,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 5577
+  seed: 6608
   final_article: '# Fare amicizia in inglese
 
 
@@ -1705,7 +1705,7 @@
 
     ## Introduzione
 
-    Fare amicizia in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
+    In questa guida su Fare amicizia in inglese vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -1742,7 +1742,7 @@
 
     ---
 
-    SEED: 5577
+    SEED: 6608
 
     CLUSTER: social
 
@@ -1770,7 +1770,7 @@
   cluster: social
   role: spoke
   priority: 90
-  seed: 6920
+  seed: 6975
   final_article: '# Small talk in inglese
 
 
@@ -1782,7 +1782,7 @@
 
     ## Introduzione
 
-    Capire Small talk in inglese ti aiuta in situazioni di amicizie, conversazioni,
+    In questa guida su Small talk in inglese vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -1819,7 +1819,7 @@
 
     ---
 
-    SEED: 6920
+    SEED: 6975
 
     CLUSTER: social
 
@@ -1851,7 +1851,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 6332
+  seed: 5702
   final_article: '# Slang inglese moderno
 
 
@@ -1863,7 +1863,7 @@
 
     ## Introduzione
 
-    In questa guida su Slang inglese moderno vedrai come usarlo in amicizie, conversazioni,
+    Capire Slang inglese moderno ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -1900,7 +1900,7 @@
 
     ---
 
-    SEED: 6332
+    SEED: 5702
 
     CLUSTER: social
 
@@ -1928,7 +1928,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 3498
+  seed: 1157
   final_article: '# Dating in inglese
 
 
@@ -1940,7 +1940,7 @@
 
     ## Introduzione
 
-    Dating in inglese è fondamentale quando ti trovi in amicizie, conversazioni, small
+    Capire Dating in inglese ti aiuta in situazioni di amicizie, conversazioni, small
     talk.
 
 
@@ -1977,7 +1977,7 @@
 
     ---
 
-    SEED: 3498
+    SEED: 1157
 
     CLUSTER: social
 
@@ -2009,7 +2009,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 3051
+  seed: 7346
   final_article: '# Parlare al pub in inglese
 
 
@@ -2021,7 +2021,7 @@
 
     ## Introduzione
 
-    Capire Parlare al pub in inglese ti aiuta in situazioni di amicizie, conversazioni,
+    Parlare al pub in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
     small talk.
 
 
@@ -2058,7 +2058,7 @@
 
     ---
 
-    SEED: 3051
+    SEED: 7346
 
     CLUSTER: social
 
@@ -2086,7 +2086,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 2663
+  seed: 8522
   final_article: '# CV in inglese
 
 
@@ -2098,7 +2098,7 @@
 
     ## Introduzione
 
-    Capire CV in inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    CV in inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -2134,7 +2134,7 @@
 
     ---
 
-    SEED: 2663
+    SEED: 8522
 
     CLUSTER: business
 
@@ -2170,7 +2170,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 6481
+  seed: 1378
   final_article: '# Colloquio di lavoro in inglese
 
 
@@ -2219,7 +2219,7 @@
 
     ---
 
-    SEED: 6481
+    SEED: 1378
 
     CLUSTER: business
 
@@ -2255,7 +2255,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 6162
+  seed: 3658
   final_article: '# Email formali in inglese
 
 
@@ -2304,7 +2304,7 @@
 
     ---
 
-    SEED: 6162
+    SEED: 3658
 
     CLUSTER: business
 
@@ -2340,7 +2340,7 @@
   cluster: business
   role: spoke
   priority: 85
-  seed: 9674
+  seed: 1418
   final_article: '# LinkedIn in inglese
 
 
@@ -2352,7 +2352,7 @@
 
     ## Introduzione
 
-    Capire LinkedIn in inglese ti aiuta in situazioni di lavoro, email, colloqui,
+    In questa guida su LinkedIn in inglese vedrai come usarlo in lavoro, email, colloqui,
     meeting.
 
 
@@ -2389,7 +2389,7 @@
 
     ---
 
-    SEED: 9674
+    SEED: 1418
 
     CLUSTER: business
 
@@ -2425,7 +2425,7 @@
   cluster: expat
   role: hub
   priority: 95
-  seed: 9420
+  seed: 5253
   final_article: '# Affittare casa all’estero
 
 
@@ -2474,7 +2474,7 @@
 
     ---
 
-    SEED: 9420
+    SEED: 5253
 
     CLUSTER: expat
 
@@ -2510,7 +2510,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 1625
+  seed: 8799
   final_article: '# Landlord e problemi casa
 
 
@@ -2522,8 +2522,8 @@
 
     ## Introduzione
 
-    Landlord e problemi casa è fondamentale quando ti trovi in vita all''estero e
-    problemi reali.
+    In questa guida su Landlord e problemi casa vedrai come usarlo in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -2559,7 +2559,7 @@
 
     ---
 
-    SEED: 1625
+    SEED: 8799
 
     CLUSTER: expat
 
@@ -2595,7 +2595,7 @@
   cluster: expat
   role: spoke
   priority: 88
-  seed: 5129
+  seed: 8211
   final_article: '# Conto corrente estero
 
 
@@ -2607,8 +2607,8 @@
 
     ## Introduzione
 
-    Capire Conto corrente estero ti aiuta in situazioni di vita all''estero e problemi
-    reali.
+    In questa guida su Conto corrente estero vedrai come usarlo in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -2644,7 +2644,7 @@
 
     ---
 
-    SEED: 5129
+    SEED: 8211
 
     CLUSTER: expat
 
@@ -2680,7 +2680,7 @@
   cluster: expat
   role: spoke
   priority: 87
-  seed: 6899
+  seed: 5865
   final_article: '# Medico di base all’estero
 
 
@@ -2692,8 +2692,8 @@
 
     ## Introduzione
 
-    In questa guida su Medico di base all’estero vedrai come usarlo in vita all''estero
-    e problemi reali.
+    Capire Medico di base all’estero ti aiuta in situazioni di vita all''estero e
+    problemi reali.
 
 
     ## Cos’è
@@ -2729,7 +2729,7 @@
 
     ---
 
-    SEED: 6899
+    SEED: 5865
 
     CLUSTER: expat
 
@@ -2765,7 +2765,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 6022
+  seed: 3575
   final_article: '# Utenze casa inglese
 
 
@@ -2814,7 +2814,7 @@
 
     ---
 
-    SEED: 6022
+    SEED: 3575
 
     CLUSTER: expat
 
@@ -2850,7 +2850,7 @@
   cluster: expat
   role: spoke
   priority: 80
-  seed: 7412
+  seed: 2714
   final_article: '# Supermercato in inglese
 
 
@@ -2862,7 +2862,7 @@
 
     ## Introduzione
 
-    Capire Supermercato in inglese ti aiuta in situazioni di vita all''estero e problemi
+    Supermercato in inglese è fondamentale quando ti trovi in vita all''estero e problemi
     reali.
 
 
@@ -2899,7 +2899,7 @@
 
     ---
 
-    SEED: 7412
+    SEED: 2714
 
     CLUSTER: expat
 
@@ -2935,7 +2935,7 @@
   cluster: expat
   role: spoke
   priority: 85
-  seed: 7911
+  seed: 1691
   final_article: '# Salute e farmacia inglese
 
 
@@ -2984,7 +2984,7 @@
 
     ---
 
-    SEED: 7911
+    SEED: 1691
 
     CLUSTER: expat
 
@@ -3020,7 +3020,7 @@
   cluster: expat
   role: spoke
   priority: 75
-  seed: 1626
+  seed: 8335
   final_article: '# Meccanico e auto inglese
 
 
@@ -3032,8 +3032,8 @@
 
     ## Introduzione
 
-    Meccanico e auto inglese è fondamentale quando ti trovi in vita all''estero e
-    problemi reali.
+    In questa guida su Meccanico e auto inglese vedrai come usarlo in vita all''estero
+    e problemi reali.
 
 
     ## Cos’è
@@ -3069,7 +3069,7 @@
 
     ---
 
-    SEED: 1626
+    SEED: 8335
 
     CLUSTER: expat
 
@@ -3105,7 +3105,7 @@
   cluster: social
   role: hub
   priority: 90
-  seed: 3706
+  seed: 6941
   final_article: '# Fare amicizia in inglese
 
 
@@ -3117,7 +3117,7 @@
 
     ## Introduzione
 
-    Fare amicizia in inglese è fondamentale quando ti trovi in amicizie, conversazioni,
+    In questa guida su Fare amicizia in inglese vedrai come usarlo in amicizie, conversazioni,
     small talk.
 
 
@@ -3154,7 +3154,7 @@
 
     ---
 
-    SEED: 3706
+    SEED: 6941
 
     CLUSTER: social
 
@@ -3186,7 +3186,7 @@
   cluster: social
   role: spoke
   priority: 95
-  seed: 2062
+  seed: 2855
   final_article: '# Small talk senza silenzi
 
 
@@ -3198,7 +3198,7 @@
 
     ## Introduzione
 
-    Small talk senza silenzi è fondamentale quando ti trovi in amicizie, conversazioni,
+    Capire Small talk senza silenzi ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -3235,7 +3235,7 @@
 
     ---
 
-    SEED: 2062
+    SEED: 2855
 
     CLUSTER: social
 
@@ -3267,7 +3267,7 @@
   cluster: social
   role: spoke
   priority: 85
-  seed: 8277
+  seed: 5619
   final_article: '# Slang reale inglese
 
 
@@ -3279,7 +3279,7 @@
 
     ## Introduzione
 
-    In questa guida su Slang reale inglese vedrai come usarlo in amicizie, conversazioni,
+    Capire Slang reale inglese ti aiuta in situazioni di amicizie, conversazioni,
     small talk.
 
 
@@ -3316,7 +3316,7 @@
 
     ---
 
-    SEED: 8277
+    SEED: 5619
 
     CLUSTER: social
 
@@ -3344,7 +3344,7 @@
   cluster: social
   role: spoke
   priority: 80
-  seed: 6659
+  seed: 7715
   final_article: '# Dating in inglese
 
 
@@ -3356,8 +3356,8 @@
 
     ## Introduzione
 
-    In questa guida su Dating in inglese vedrai come usarlo in amicizie, conversazioni,
-    small talk.
+    Capire Dating in inglese ti aiuta in situazioni di amicizie, conversazioni, small
+    talk.
 
 
     ## Cos’è
@@ -3393,7 +3393,7 @@
 
     ---
 
-    SEED: 6659
+    SEED: 7715
 
     CLUSTER: social
 
@@ -3425,1406 +3425,7 @@
   cluster: business
   role: hub
   priority: 95
-  seed: 5744
-  final_article: '# CV inglese avanzato
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire CV inglese avanzato ti aiuta in situazioni di lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    CV inglese avanzato viene usato in contesti legati a lavoro, email, colloqui,
-    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano CV inglese avanzato a situazioni
-    reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 5744
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 44
-  title: Colloquio inglese avanzato
-  url: /inglese/business/colloquio-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 92
-  seed: 5214
-  final_article: '# Colloquio inglese avanzato
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Colloquio inglese avanzato è fondamentale quando ti trovi in lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    Colloquio inglese avanzato viene usato in contesti legati a lavoro, email, colloqui,
-    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Colloquio inglese avanzato a situazioni
-    reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 5214
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 45
-  title: Email professionali inglese
-  url: /inglese/business/email-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: spoke
-  priority: 90
-  seed: 3771
-  final_article: '# Email professionali inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Email professionali inglese ti aiuta in situazioni di lavoro, email, colloqui,
-    meeting.
-
-
-    ## Cos’è
-
-    Email professionali inglese viene usato in contesti legati a lavoro, email, colloqui,
-    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
-    nella vita reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in lavoro, email, colloqui, meeting
-
-    - esempio reale 2 in lavoro, email, colloqui, meeting
-
-    - esempio reale 3 in lavoro, email, colloqui, meeting
-
-    - esempio reale 4 in lavoro, email, colloqui, meeting
-
-    - esempio reale 5 in lavoro, email, colloqui, meeting
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Email professionali inglese a situazioni
-    reali di lavoro, email, colloqui, meeting.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
-
-
-    ---
-
-    SEED: 3771
-
-    CLUSTER: business
-
-    FUNNEL: mofu
-
-
-    {% include promo-box.html %}
-
-
-    {% include trust-box.html %}
-
-
-    {% include affiliate-disclosure.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta:
-    - promo-box.html
-    footer:
-    - trust-box.html
-    - affiliate-disclosure.html
-- id: 46
-  title: Pronomi inglesi
-  url: /inglese/base/pronomi-personali-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 90
-  seed: 5375
-  final_article: '# Pronomi inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Pronomi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Pronomi inglesi viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Pronomi inglesi a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 5375
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 47
-  title: Articoli inglesi
-  url: /inglese/base/articoli-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 92
-  seed: 2166
-  final_article: '# Articoli inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Articoli inglesi vedrai come usarlo in situazioni quotidiane
-    generiche.
-
-
-    ## Cos’è
-
-    Articoli inglesi viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Articoli inglesi a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 2166
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 48
-  title: Plurale inglese
-  url: /inglese/base/plurale-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 9975
-  final_article: '# Plurale inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Plurale inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Plurale inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Plurale inglese a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 9975
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 49
-  title: Dimostrativi inglesi
-  url: /inglese/base/dimostrativi-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 80
-  seed: 6034
-  final_article: '# Dimostrativi inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Dimostrativi inglesi vedrai come usarlo in situazioni quotidiane
-    generiche.
-
-
-    ## Cos’è
-
-    Dimostrativi inglesi viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Dimostrativi inglesi a situazioni
-    reali di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 6034
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 50
-  title: Aggettivi inglese
-  url: /inglese/base/aggettivi-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 4583
-  final_article: '# Aggettivi inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Aggettivi inglese ti aiuta in situazioni di situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Aggettivi inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Aggettivi inglese a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 4583
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 51
-  title: Verbo essere
-  url: /inglese/base/verbo-essere/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 100
-  seed: 9230
-  final_article: '# Verbo essere
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Verbo essere è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Verbo essere viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Verbo essere a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 9230
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 52
-  title: Verbo avere
-  url: /inglese/base/verbo-avere/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 95
-  seed: 8559
-  final_article: '# Verbo avere
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Verbo avere vedrai come usarlo in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Verbo avere viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Verbo avere a situazioni reali di
-    situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 8559
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 53
-  title: Parole base inglese
-  url: /inglese/base/parole-base/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 100
-  seed: 6847
-  final_article: '# Parole base inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Parole base inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Parole base inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Parole base inglese a situazioni
-    reali di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 6847
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 54
-  title: Numeri inglese
-  url: /inglese/base/numeri-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 95
-  seed: 1943
-  final_article: '# Numeri inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Numeri inglese ti aiuta in situazioni di situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Numeri inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Numeri inglese a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 1943
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 55
-  title: Colori inglese
-  url: /inglese/base/colori-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 80
-  seed: 1935
-  final_article: '# Colori inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Colori inglese vedrai come usarlo in situazioni quotidiane
-    generiche.
-
-
-    ## Cos’è
-
-    Colori inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Colori inglese a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 1935
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 56
-  title: Tempo inglese
-  url: /inglese/base/tempo-inglese/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 9331
-  final_article: '# Tempo inglese
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Tempo inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Tempo inglese viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Tempo inglese a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 9331
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 57
-  title: Vocabolario viaggio
-  url: /inglese/base/vocabolario-viaggio/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: hub
-  priority: 95
-  seed: 5607
-  final_article: '# Vocabolario viaggio
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Vocabolario viaggio ti aiuta in situazioni di situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Vocabolario viaggio viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Vocabolario viaggio a situazioni
-    reali di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 5607
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 58
-  title: Preposizioni inglesi
-  url: /inglese/base/preposizioni-in-on-at/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 90
-  seed: 6691
-  final_article: '# Preposizioni inglesi
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    In questa guida su Preposizioni inglesi vedrai come usarlo in situazioni quotidiane
-    generiche.
-
-
-    ## Cos’è
-
-    Preposizioni inglesi viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Preposizioni inglesi a situazioni
-    reali di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 6691
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 59
-  title: Much many a lot
-  url: /inglese/base/much-many-a-lot-of/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 85
-  seed: 3730
-  final_article: '# Much many a lot
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Much many a lot è fondamentale quando ti trovi in situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Much many a lot viene usato in contesti legati a situazioni quotidiane generiche.
-    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Much many a lot a situazioni reali
-    di situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 3730
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 60
-  title: Do vs Make
-  url: /inglese/base/do-vs-make/
-  type: informational
-  funnel: tofu
-  cluster: base
-  role: spoke
-  priority: 88
-  seed: 8045
-  final_article: '# Do vs Make
-
-
-    {% include tldr-box.html %}
-
-
-    {% include section-in-breve.html %}
-
-
-    ## Introduzione
-
-    Capire Do vs Make ti aiuta in situazioni di situazioni quotidiane generiche.
-
-
-    ## Cos’è
-
-    Do vs Make viene usato in contesti legati a situazioni quotidiane generiche. È
-    importante soprattutto per chi vuole migliorare il proprio inglese nella vita
-    reale.
-
-
-    ## Esempi pratici
-
-    - esempio reale 1 in situazioni quotidiane generiche
-
-    - esempio reale 2 in situazioni quotidiane generiche
-
-    - esempio reale 3 in situazioni quotidiane generiche
-
-    - esempio reale 4 in situazioni quotidiane generiche
-
-    - esempio reale 5 in situazioni quotidiane generiche
-
-
-    ## Errori comuni
-
-    Molti italiani sbagliano perché non collegano Do vs Make a situazioni reali di
-    situazioni quotidiane generiche.
-
-
-    ## Uso nella vita reale
-
-    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
-
-
-    ---
-
-    SEED: 8045
-
-    CLUSTER: base
-
-    FUNNEL: tofu
-
-
-    {% include trust-box.html %}
-
-
-    '
-  layout:
-    after_intro:
-    - tldr-box.html
-    after_h1:
-    - section-in-breve.html
-    mid: []
-    before_cta: []
-    footer:
-    - trust-box.html
-- id: 61
-  title: CV inglese avanzato
-  url: /inglese/business/cv-inglese/
-  type: method
-  funnel: mofu
-  cluster: business
-  role: hub
-  priority: 100
-  seed: 1690
+  seed: 2340
   final_article: '# CV inglese avanzato
 
 
@@ -4873,7 +3474,1404 @@
 
     ---
 
-    SEED: 1690
+    SEED: 2340
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 44
+  title: Colloquio inglese avanzato
+  url: /inglese/business/colloquio-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 92
+  seed: 5643
+  final_article: '# Colloquio inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Colloquio inglese avanzato vedrai come usarlo in lavoro, email,
+    colloqui, meeting.
+
+
+    ## Cos’è
+
+    Colloquio inglese avanzato viene usato in contesti legati a lavoro, email, colloqui,
+    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Colloquio inglese avanzato a situazioni
+    reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 5643
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 45
+  title: Email professionali inglese
+  url: /inglese/business/email-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: spoke
+  priority: 90
+  seed: 8585
+  final_article: '# Email professionali inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Email professionali inglese ti aiuta in situazioni di lavoro, email, colloqui,
+    meeting.
+
+
+    ## Cos’è
+
+    Email professionali inglese viene usato in contesti legati a lavoro, email, colloqui,
+    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Email professionali inglese a situazioni
+    reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 8585
+
+    CLUSTER: business
+
+    FUNNEL: mofu
+
+
+    {% include promo-box.html %}
+
+
+    {% include trust-box.html %}
+
+
+    {% include affiliate-disclosure.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta:
+    - promo-box.html
+    footer:
+    - trust-box.html
+    - affiliate-disclosure.html
+- id: 46
+  title: Pronomi inglesi
+  url: /inglese/base/pronomi-personali-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+  seed: 9637
+  final_article: '# Pronomi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Pronomi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Pronomi inglesi viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Pronomi inglesi a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 9637
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 47
+  title: Articoli inglesi
+  url: /inglese/base/articoli-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 92
+  seed: 6834
+  final_article: '# Articoli inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Articoli inglesi ti aiuta in situazioni di situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Articoli inglesi viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Articoli inglesi a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 6834
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 48
+  title: Plurale inglese
+  url: /inglese/base/plurale-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 6279
+  final_article: '# Plurale inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Plurale inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Plurale inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Plurale inglese a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 6279
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 49
+  title: Dimostrativi inglesi
+  url: /inglese/base/dimostrativi-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+  seed: 6443
+  final_article: '# Dimostrativi inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Dimostrativi inglesi è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Dimostrativi inglesi viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Dimostrativi inglesi a situazioni
+    reali di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 6443
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 50
+  title: Aggettivi inglese
+  url: /inglese/base/aggettivi-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 3973
+  final_article: '# Aggettivi inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Aggettivi inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Aggettivi inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Aggettivi inglese a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 3973
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 51
+  title: Verbo essere
+  url: /inglese/base/verbo-essere/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+  seed: 5891
+  final_article: '# Verbo essere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Verbo essere ti aiuta in situazioni di situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Verbo essere viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Verbo essere a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 5891
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 52
+  title: Verbo avere
+  url: /inglese/base/verbo-avere/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+  seed: 8148
+  final_article: '# Verbo avere
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Verbo avere vedrai come usarlo in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Verbo avere viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Verbo avere a situazioni reali di
+    situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 8148
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 53
+  title: Parole base inglese
+  url: /inglese/base/parole-base/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 100
+  seed: 1279
+  final_article: '# Parole base inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Parole base inglese ti aiuta in situazioni di situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Parole base inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Parole base inglese a situazioni
+    reali di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 1279
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 54
+  title: Numeri inglese
+  url: /inglese/base/numeri-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 95
+  seed: 8998
+  final_article: '# Numeri inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Numeri inglese vedrai come usarlo in situazioni quotidiane
+    generiche.
+
+
+    ## Cos’è
+
+    Numeri inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Numeri inglese a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 8998
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 55
+  title: Colori inglese
+  url: /inglese/base/colori-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 80
+  seed: 2687
+  final_article: '# Colori inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Colori inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Colori inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Colori inglese a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 2687
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 56
+  title: Tempo inglese
+  url: /inglese/base/tempo-inglese/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 7038
+  final_article: '# Tempo inglese
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Tempo inglese è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Tempo inglese viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Tempo inglese a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 7038
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 57
+  title: Vocabolario viaggio
+  url: /inglese/base/vocabolario-viaggio/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: hub
+  priority: 95
+  seed: 1908
+  final_article: '# Vocabolario viaggio
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    In questa guida su Vocabolario viaggio vedrai come usarlo in situazioni quotidiane
+    generiche.
+
+
+    ## Cos’è
+
+    Vocabolario viaggio viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Vocabolario viaggio a situazioni
+    reali di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 1908
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 58
+  title: Preposizioni inglesi
+  url: /inglese/base/preposizioni-in-on-at/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 90
+  seed: 8731
+  final_article: '# Preposizioni inglesi
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Preposizioni inglesi ti aiuta in situazioni di situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Preposizioni inglesi viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Preposizioni inglesi a situazioni
+    reali di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 8731
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 59
+  title: Much many a lot
+  url: /inglese/base/much-many-a-lot-of/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 85
+  seed: 2783
+  final_article: '# Much many a lot
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire Much many a lot ti aiuta in situazioni di situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Much many a lot viene usato in contesti legati a situazioni quotidiane generiche.
+    È importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Much many a lot a situazioni reali
+    di situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 2783
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 60
+  title: Do vs Make
+  url: /inglese/base/do-vs-make/
+  type: informational
+  funnel: tofu
+  cluster: base
+  role: spoke
+  priority: 88
+  seed: 6638
+  final_article: '# Do vs Make
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Do vs Make è fondamentale quando ti trovi in situazioni quotidiane generiche.
+
+
+    ## Cos’è
+
+    Do vs Make viene usato in contesti legati a situazioni quotidiane generiche. È
+    importante soprattutto per chi vuole migliorare il proprio inglese nella vita
+    reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in situazioni quotidiane generiche
+
+    - esempio reale 2 in situazioni quotidiane generiche
+
+    - esempio reale 3 in situazioni quotidiane generiche
+
+    - esempio reale 4 in situazioni quotidiane generiche
+
+    - esempio reale 5 in situazioni quotidiane generiche
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano Do vs Make a situazioni reali di
+    situazioni quotidiane generiche.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: introduzione semplice e accessibile.
+
+
+    ---
+
+    SEED: 6638
+
+    CLUSTER: base
+
+    FUNNEL: tofu
+
+
+    {% include trust-box.html %}
+
+
+    '
+  layout:
+    after_intro:
+    - tldr-box.html
+    after_h1:
+    - section-in-breve.html
+    mid: []
+    before_cta: []
+    footer:
+    - trust-box.html
+- id: 61
+  title: CV inglese avanzato
+  url: /inglese/business/cv-inglese/
+  type: method
+  funnel: mofu
+  cluster: business
+  role: hub
+  priority: 100
+  seed: 7290
+  final_article: '# CV inglese avanzato
+
+
+    {% include tldr-box.html %}
+
+
+    {% include section-in-breve.html %}
+
+
+    ## Introduzione
+
+    Capire CV inglese avanzato ti aiuta in situazioni di lavoro, email, colloqui,
+    meeting.
+
+
+    ## Cos’è
+
+    CV inglese avanzato viene usato in contesti legati a lavoro, email, colloqui,
+    meeting. È importante soprattutto per chi vuole migliorare il proprio inglese
+    nella vita reale.
+
+
+    ## Esempi pratici
+
+    - esempio reale 1 in lavoro, email, colloqui, meeting
+
+    - esempio reale 2 in lavoro, email, colloqui, meeting
+
+    - esempio reale 3 in lavoro, email, colloqui, meeting
+
+    - esempio reale 4 in lavoro, email, colloqui, meeting
+
+    - esempio reale 5 in lavoro, email, colloqui, meeting
+
+
+    ## Errori comuni
+
+    Molti italiani sbagliano perché non collegano CV inglese avanzato a situazioni
+    reali di lavoro, email, colloqui, meeting.
+
+
+    ## Uso nella vita reale
+
+    Questo concetto si applica soprattutto in: esempi pratici e uso reale.
+
+
+    ---
+
+    SEED: 7290
 
     CLUSTER: business
 
@@ -4909,7 +4907,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 9229
+  seed: 2138
   final_article: '# Colloquio inglese
 
 
@@ -4921,7 +4919,7 @@
 
     ## Introduzione
 
-    Colloquio inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+    Capire Colloquio inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -4957,7 +4955,7 @@
 
     ---
 
-    SEED: 9229
+    SEED: 2138
 
     CLUSTER: business
 
@@ -4993,7 +4991,7 @@
   cluster: business
   role: spoke
   priority: 95
-  seed: 3802
+  seed: 6734
   final_article: '# Email inglese
 
 
@@ -5005,7 +5003,8 @@
 
     ## Introduzione
 
-    Capire Email inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    In questa guida su Email inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5041,7 +5040,7 @@
 
     ---
 
-    SEED: 3802
+    SEED: 6734
 
     CLUSTER: business
 
@@ -5077,7 +5076,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 2749
+  seed: 4097
   final_article: '# Presentazioni inglese
 
 
@@ -5126,7 +5125,7 @@
 
     ---
 
-    SEED: 2749
+    SEED: 4097
 
     CLUSTER: business
 
@@ -5162,7 +5161,7 @@
   cluster: business
   role: spoke
   priority: 90
-  seed: 8163
+  seed: 8354
   final_article: '# Meeting inglese
 
 
@@ -5174,7 +5173,7 @@
 
     ## Introduzione
 
-    Capire Meeting inglese ti aiuta in situazioni di lavoro, email, colloqui, meeting.
+    Meeting inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
 
 
     ## Cos’è
@@ -5210,7 +5209,7 @@
 
     ---
 
-    SEED: 8163
+    SEED: 8354
 
     CLUSTER: business
 
@@ -5246,7 +5245,7 @@
   cluster: business
   role: spoke
   priority: 88
-  seed: 7240
+  seed: 8225
   final_article: '# Networking inglese
 
 
@@ -5258,7 +5257,7 @@
 
     ## Introduzione
 
-    In questa guida su Networking inglese vedrai come usarlo in lavoro, email, colloqui,
+    Networking inglese è fondamentale quando ti trovi in lavoro, email, colloqui,
     meeting.
 
 
@@ -5295,7 +5294,7 @@
 
     ---
 
-    SEED: 7240
+    SEED: 8225
 
     CLUSTER: business
 
@@ -5331,7 +5330,7 @@
   cluster: business
   role: spoke
   priority: 92
-  seed: 4047
+  seed: 8003
   final_article: '# Stipendio inglese
 
 
@@ -5343,7 +5342,8 @@
 
     ## Introduzione
 
-    Stipendio inglese è fondamentale quando ti trovi in lavoro, email, colloqui, meeting.
+    In questa guida su Stipendio inglese vedrai come usarlo in lavoro, email, colloqui,
+    meeting.
 
 
     ## Cos’è
@@ -5379,7 +5379,7 @@
 
     ---
 
-    SEED: 4047
+    SEED: 8003
 
     CLUSTER: business
 
@@ -5415,7 +5415,7 @@
   cluster: business
   role: spoke
   priority: 94
-  seed: 3139
+  seed: 8953
   final_article: '# LinkedIn inglese
 
 
@@ -5463,7 +5463,7 @@
 
     ---
 
-    SEED: 3139
+    SEED: 8953
 
     CLUSTER: business
 
@@ -5499,7 +5499,7 @@
   cluster: cultura
   role: hub
   priority: 95
-  seed: 2254
+  seed: 7810
   final_article: '# Falsi amici inglese
 
 
@@ -5546,7 +5546,7 @@
 
     ---
 
-    SEED: 2254
+    SEED: 7810
 
     CLUSTER: cultura
 
@@ -5574,7 +5574,7 @@
   cluster: cultura
   role: spoke
   priority: 85
-  seed: 9678
+  seed: 4280
   final_article: '# Parole intraducibili
 
 
@@ -5586,7 +5586,7 @@
 
     ## Introduzione
 
-    In questa guida su Parole intraducibili vedrai come usarlo in situazioni reali.
+    Capire Parole intraducibili ti aiuta in situazioni di situazioni reali.
 
 
     ## Cos’è
@@ -5621,7 +5621,7 @@
 
     ---
 
-    SEED: 9678
+    SEED: 4280
 
     CLUSTER: cultura
 
@@ -5649,7 +5649,7 @@
   cluster: cultura
   role: spoke
   priority: 90
-  seed: 5086
+  seed: 7000
   final_article: '# UK vs US
 
 
@@ -5696,7 +5696,7 @@
 
     ---
 
-    SEED: 5086
+    SEED: 7000
 
     CLUSTER: cultura
 
@@ -5724,7 +5724,7 @@
   cluster: cultura
   role: spoke
   priority: 80
-  seed: 3458
+  seed: 1732
   final_article: '# Storia inglese
 
 
@@ -5736,7 +5736,7 @@
 
     ## Introduzione
 
-    Capire Storia inglese ti aiuta in situazioni di situazioni reali.
+    In questa guida su Storia inglese vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -5771,7 +5771,7 @@
 
     ---
 
-    SEED: 3458
+    SEED: 1732
 
     CLUSTER: cultura
 
@@ -5799,7 +5799,7 @@
   cluster: pronuncia
   role: spoke
   priority: 90
-  seed: 7195
+  seed: 2938
   final_article: '# Pronuncia italiani
 
 
@@ -5811,7 +5811,7 @@
 
     ## Introduzione
 
-    Pronuncia italiani è fondamentale quando ti trovi in situazioni reali.
+    In questa guida su Pronuncia italiani vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -5846,7 +5846,7 @@
 
     ---
 
-    SEED: 7195
+    SEED: 2938
 
     CLUSTER: pronuncia
 
@@ -5878,7 +5878,7 @@
   cluster: cultura
   role: spoke
   priority: 88
-  seed: 2860
+  seed: 5224
   final_article: '# Slang reale
 
 
@@ -5890,7 +5890,7 @@
 
     ## Introduzione
 
-    Capire Slang reale ti aiuta in situazioni di situazioni reali.
+    Slang reale è fondamentale quando ti trovi in situazioni reali.
 
 
     ## Cos’è
@@ -5925,7 +5925,7 @@
 
     ---
 
-    SEED: 2860
+    SEED: 5224
 
     CLUSTER: cultura
 
@@ -5957,7 +5957,7 @@
   cluster: cultura
   role: spoke
   priority: 92
-  seed: 2765
+  seed: 6213
   final_article: '# Mentalità inglese
 
 
@@ -6004,7 +6004,7 @@
 
     ---
 
-    SEED: 2765
+    SEED: 6213
 
     CLUSTER: cultura
 
@@ -6036,7 +6036,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 4005
+  seed: 6814
   final_article: '# Inglese da zero
 
 
@@ -6084,7 +6084,7 @@
 
     ---
 
-    SEED: 4005
+    SEED: 6814
 
     CLUSTER: method
 
@@ -6120,7 +6120,7 @@
   cluster: method
   role: spoke
   priority: 100
-  seed: 4810
+  seed: 8480
   final_article: '# Blocco parlare inglese
 
 
@@ -6132,7 +6132,7 @@
 
     ## Introduzione
 
-    Blocco parlare inglese è fondamentale quando ti trovi in studio e apprendimento
+    Capire Blocco parlare inglese ti aiuta in situazioni di studio e apprendimento
     lingua.
 
 
@@ -6169,7 +6169,7 @@
 
     ---
 
-    SEED: 4810
+    SEED: 8480
 
     CLUSTER: method
 
@@ -6205,7 +6205,7 @@
   cluster: method
   role: spoke
   priority: 95
-  seed: 6751
+  seed: 9019
   final_article: '# Pensare in inglese
 
 
@@ -6217,8 +6217,7 @@
 
     ## Introduzione
 
-    In questa guida su Pensare in inglese vedrai come usarlo in studio e apprendimento
-    lingua.
+    Pensare in inglese è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6254,7 +6253,7 @@
 
     ---
 
-    SEED: 6751
+    SEED: 9019
 
     CLUSTER: method
 
@@ -6290,7 +6289,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 1669
+  seed: 1362
   final_article: '# Shadowing
 
 
@@ -6337,7 +6336,7 @@
 
     ---
 
-    SEED: 1669
+    SEED: 1362
 
     CLUSTER: method
 
@@ -6373,7 +6372,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 3058
+  seed: 4777
   final_article: '# Input comprensibile
 
 
@@ -6421,7 +6420,7 @@
 
     ---
 
-    SEED: 3058
+    SEED: 4777
 
     CLUSTER: method
 
@@ -6457,7 +6456,7 @@
   cluster: method
   role: hub
   priority: 100
-  seed: 8141
+  seed: 1747
   final_article: '# Metodo FluenteMente
 
 
@@ -6469,8 +6468,7 @@
 
     ## Introduzione
 
-    In questa guida su Metodo FluenteMente vedrai come usarlo in studio e apprendimento
-    lingua.
+    Metodo FluenteMente è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6507,7 +6505,7 @@
 
     ---
 
-    SEED: 8141
+    SEED: 1747
 
     CLUSTER: method
 
@@ -6543,7 +6541,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 2069
+  seed: 7104
   final_article: '# Ripetizione spaziata
 
 
@@ -6592,7 +6590,7 @@
 
     ---
 
-    SEED: 2069
+    SEED: 7104
 
     CLUSTER: method
 
@@ -6628,7 +6626,7 @@
   cluster: method
   role: spoke
   priority: 90
-  seed: 5279
+  seed: 3338
   final_article: '# Routine inglese
 
 
@@ -6640,7 +6638,7 @@
 
     ## Introduzione
 
-    Capire Routine inglese ti aiuta in situazioni di studio e apprendimento lingua.
+    Routine inglese è fondamentale quando ti trovi in studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6676,7 +6674,7 @@
 
     ---
 
-    SEED: 5279
+    SEED: 3338
 
     CLUSTER: method
 
@@ -6712,7 +6710,7 @@
   cluster: method
   role: spoke
   priority: 92
-  seed: 8802
+  seed: 9630
   final_article: '# Smettere tradurre
 
 
@@ -6724,8 +6722,7 @@
 
     ## Introduzione
 
-    In questa guida su Smettere tradurre vedrai come usarlo in studio e apprendimento
-    lingua.
+    Capire Smettere tradurre ti aiuta in situazioni di studio e apprendimento lingua.
 
 
     ## Cos’è
@@ -6761,7 +6758,7 @@
 
     ---
 
-    SEED: 8802
+    SEED: 9630
 
     CLUSTER: method
 
@@ -6797,7 +6794,7 @@
   cluster: method
   role: spoke
   priority: 88
-  seed: 2374
+  seed: 2778
   final_article: '# Memoria vocabolario
 
 
@@ -6845,7 +6842,7 @@
 
     ---
 
-    SEED: 2374
+    SEED: 2778
 
     CLUSTER: method
 
@@ -6881,7 +6878,7 @@
   cluster: conversion
   role: bridge
   priority: 95
-  seed: 9182
+  seed: 5009
   final_article: '# Errori inglese
 
 
@@ -6929,7 +6926,7 @@
 
     ---
 
-    SEED: 9182
+    SEED: 5009
 
     CLUSTER: conversion
 
@@ -6965,7 +6962,7 @@
   cluster: conversion
   role: bridge
   priority: 100
-  seed: 3012
+  seed: 6156
   final_article: '# Metodi tradizionali
 
 
@@ -6977,7 +6974,7 @@
 
     ## Introduzione
 
-    Metodi tradizionali è fondamentale quando ti trovi in situazioni reali.
+    Capire Metodi tradizionali ti aiuta in situazioni di situazioni reali.
 
 
     ## Cos’è
@@ -7013,7 +7010,7 @@
 
     ---
 
-    SEED: 3012
+    SEED: 6156
 
     CLUSTER: conversion
 
@@ -7049,7 +7046,7 @@
   cluster: monetization
   role: money
   priority: 100
-  seed: 4273
+  seed: 6137
   final_article: '# Recensione Babbel
 
 
@@ -7061,7 +7058,7 @@
 
     ## Introduzione
 
-    Recensione Babbel è fondamentale quando ti trovi in situazioni reali.
+    In questa guida su Recensione Babbel vedrai come usarlo in situazioni reali.
 
 
     ## Cos’è
@@ -7097,7 +7094,7 @@
 
     ---
 
-    SEED: 4273
+    SEED: 6137
 
     CLUSTER: monetization
 
