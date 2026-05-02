@@ -3,30 +3,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>
-    {% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}
+    {% if page.title %}{{ page.title }} | FluenteMente{% else %}FluenteMente | Impara le lingue in modo semplice{% endif %}
   </title>
 
-  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}Impara inglese e lingue straniere con un metodo semplice, pratico e sostenibile da 10-15 minuti al giorno.{% endif %}" />
 
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  <!-- SEO -->
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#111827" />
+
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 
   <!-- OPEN GRAPH -->
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="FluenteMente" />
   <meta property="og:title" content="{{ page.title | default: site.title }}" />
   <meta property="og:description" content="{{ page.description | default: site.description }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:image" content="{{ '/assets/img/og-default.jpg' | relative_url }}" />
 
   <!-- TWITTER -->
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}" />
 
-  <!-- SCHEMA BASIC -->
+  <!-- SCHEMA SEO -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}"
+    "name": "FluenteMente",
+    "url": "{{ site.url }}",
+    "description": "Metodo semplice per imparare lingue in modo pratico"
   }
   </script>
 
