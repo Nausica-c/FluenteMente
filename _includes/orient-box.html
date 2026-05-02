@@ -1,14 +1,9 @@
-<div class="orient-box {{ include.class | default: '' }}">
-  <h3 class="orient-title">
-    {{ include.title | default: "🧭 Qual è il tuo prossimo passo?" }}
-  </h3>
-  
-  <p class="orient-text">
-    {{ include.text | default: "Hai capito il problema, ora serve un metodo strutturato per risolverlo davvero." }}
-  </p>
+<div class="guide-block orient-box {{ include.class }}">
+  <h3>{{ include.title | default: "🧭 Prossimo passo" }}</h3>
 
-  <a href="{{ include.link_url | default: '/principianti/' | relative_url }}" 
-     class="btn-outline">
-    {{ include.link_text | default: "Scopri da dove partire →" }}
+  <p>{{ include.text | default: "Hai capito il problema, ora serve un metodo." }}</p>
+
+  <a href="{{ include.link_url | relative_url }}" class="btn-outline">
+    {{ include.link_text | default: "Vai alla guida →" }}
   </a>
 </div>
