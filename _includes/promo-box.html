@@ -1,17 +1,32 @@
-<div class="cta-block promo-box {{ include.class }}">
-  <h3>
-    {{ include.title | default: "🚀 Inizia a parlare davvero" }}
-  </h3>
+{% assign t = page.type %}
 
-  <p>
-    {{ include.text | default: "Il modo più semplice per applicare questo metodo è usare un percorso guidato come Babbel." }}
-  </p>
+{% if t == "beginner" %}
+  {% assign title = "🚀 Parti senza confusione" %}
+  {% assign text = "Invece di perdere tempo a capire cosa studiare, segui un percorso già guidato." %}
+{% elsif t == "problem" %}
+  {% assign title = "🧠 Sbloccati più velocemente" %}
+  {% assign text = "Non devi studiare di più, ma usare un metodo che ti fa parlare subito." %}
+{% elsif t == "vocab" %}
+  {% assign title = "🔁 Memorizza davvero" %}
+  {% assign text = "Studiare liste non basta: serve ripetizione intelligente." %}
+{% elsif t == "review" %}
+  {% assign title = "🔥 Provalo senza rischi" %}
+  {% assign text = "Hai tutte le info: ora il modo migliore è provarlo." %}
+{% else %}
+  {% assign title = "🚀 Inizia a parlare davvero" %}
+  {% assign text = "Usa un metodo pratico per sbloccarti subito." %}
+{% endif %}
+
+<div class="cta-block promo-box {{ include.class }}">
+  <h3>{{ include.title | default: title }}</h3>
+
+  <p>{{ include.text | default: text }}</p>
 
   <a rel="sponsored noopener"
      target="_blank"
      href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
      class="btn-primary">
-     {{ include.link_text | default: "Buttati. Prova Babbel gratis →" }}
+     {{ include.link_text | default: "Inizia gratis con Babbel →" }}
   </a>
 
   <span class="cta-micro">
