@@ -1,5 +1,6 @@
 {% assign t = page.type %}
 {% assign s = page.subtype %}
+{% assign level = page.intent_level %}
 
 {%- comment -%}
 ========================
@@ -13,30 +14,35 @@ DEFAULT FALLBACK
 
 {%- comment -%}
 ========================
-TYPE BASE LOGIC
+TYPE LOGIC (macro intent)
 ========================
 {%- endcomment -%}
 
 {% if t == "beginner" %}
+
   {% assign title = "🚀 Parti senza confusione" %}
   {% assign text = "Il problema non è la lingua, ma non avere un percorso chiaro da seguire." %}
 
 {% elsif t == "problem" %}
-  {% assign title = "🧠 Non sei bloccato: stai usando il metodo sbagliato" %}
+
+  {% assign title = "🧠 Non sei bloccato: è il metodo" %}
   {% assign text = "Puoi iniziare a parlare più velocemente cambiando approccio, non studiando di più." %}
 
 {% elsif t == "vocab" %}
+
   {% assign title = "🔁 Studiare liste non basta" %}
   {% assign text = "Per ricordare davvero serve ripetizione nel tempo, non accumulo di parole." %}
 
 {% elsif t == "review" %}
+
   {% assign title = "🔥 Ora hai tutte le informazioni" %}
   {% assign text = "Il modo migliore per capire se funziona è provarlo direttamente." %}
+
 {% endif %}
 
 {%- comment -%}
 ========================
-SUBTYPE OVERRIDES (10 CTA)
+SUBTYPE OVERRIDES (contesto)
 ========================
 {%- endcomment -%}
 
@@ -46,12 +52,6 @@ SUBTYPE OVERRIDES (10 CTA)
   {% assign text = "Bastano poche frasi giuste per cavartela ovunque. Allenale prima di partire." %}
   {% assign link_text = "Preparati con Babbel →" %}
 
-{% elsif s == "hotel" %}
-
-  {% assign title = "🏨 Sapere cosa dire fa la differenza" %}
-  {% assign text = "Check-in, richieste e problemi: basta conoscere le frasi giuste." %}
-  {% assign link_text = "Impara l’inglese per hotel →" %}
-
 {% elsif s == "speaking" %}
 
   {% assign title = "🗣️ Inizia finalmente a parlare" %}
@@ -60,33 +60,27 @@ SUBTYPE OVERRIDES (10 CTA)
 
 {% elsif s == "confidence" %}
 
-  {% assign title = "💪 La paura di parlare si elimina con la pratica" %}
+  {% assign title = "💪 La paura si elimina con la pratica" %}
   {% assign text = "Non devi essere perfetto, devi solo iniziare a usare la lingua." %}
   {% assign link_text = "Inizia ora →" %}
 
 {% elsif s == "business" %}
 
-  {% assign title = "💼 Inglese utile per il lavoro reale" %}
+  {% assign title = "💼 Inglese per il lavoro reale" %}
   {% assign text = "Email, call e riunioni: frasi pratiche subito utilizzabili." %}
   {% assign link_text = "Migliora il tuo inglese professionale →" %}
-
-{% elsif s == "study" %}
-
-  {% assign title = "📚 Studiare meglio, non di più" %}
-  {% assign text = "Il problema non è il tempo, ma il metodo con cui studi." %}
-  {% assign link_text = "Ottimizza il tuo studio →" %}
-
-{% elsif s == "fast-results" %}
-
-  {% assign title = "⚡ Risultati più veloci senza stress" %}
-  {% assign text = "Piccoli esercizi quotidiani battono ore di studio passivo." %}
-  {% assign link_text = "Inizia oggi →" %}
 
 {% elsif s == "grammar" %}
 
   {% assign title = "📘 La grammatica serve solo se la usi" %}
   {% assign text = "Non imparare regole: impara frasi che funzionano davvero." %}
   {% assign link_text = "Usala nella pratica →" %}
+
+{% elsif s == "fast-results" %}
+
+  {% assign title = "⚡ Risultati più veloci senza stress" %}
+  {% assign text = "Piccoli esercizi quotidiani battono ore di studio passivo." %}
+  {% assign link_text = "Inizia oggi →" %}
 
 {% elsif s == "beginner-core" %}
 
@@ -104,7 +98,34 @@ SUBTYPE OVERRIDES (10 CTA)
 
 {%- comment -%}
 ========================
-CTA BOX OUTPUT
+INTENT LEVEL OVERRIDE (NUOVO SISTEMA)
+========================
+========================
+{%- endcomment -%}
+
+{% if level == "soft" %}
+
+  {% assign title = "💡 Un modo più semplice esiste" %}
+  {% assign text = "Se vuoi evitare confusione, esistono metodi guidati che ti fanno risparmiare tempo." %}
+  {% assign link_text = "Scopri come funziona →" %}
+
+{% elsif level == "medium" %}
+
+  {% assign title = "🚀 Potresti iniziare oggi stesso" %}
+  {% assign text = "Un sistema guidato ti fa progredire più velocemente rispetto allo studio improvvisato." %}
+  {% assign link_text = "Prova ora →" %}
+
+{% elsif level == "hard" %}
+
+  {% assign title = "🔥 Inizia subito a parlare" %}
+  {% assign text = "Lezioni brevi e guidate per usare la lingua nella vita reale fin da subito." %}
+  {% assign link_text = "Inizia gratis →" %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT
 ========================
 {%- endcomment -%}
 
