@@ -1,23 +1,115 @@
 {% assign t = page.type %}
+{% assign s = page.subtype %}
+
+{%- comment -%}
+========================
+DEFAULT FALLBACK
+========================
+{%- endcomment -%}
+
+{% assign title = "🚀 Inizia a parlare davvero" %}
+{% assign text = "Usa un metodo pratico per sbloccarti subito, senza perdere tempo con teoria inutile." %}
+{% assign link_text = "Inizia gratis con Babbel →" %}
+
+{%- comment -%}
+========================
+TYPE BASE LOGIC
+========================
+{%- endcomment -%}
 
 {% if t == "beginner" %}
   {% assign title = "🚀 Parti senza confusione" %}
-  {% assign text = "Invece di perdere tempo a capire cosa studiare, segui un percorso già guidato." %}
+  {% assign text = "Il problema non è la lingua, ma non avere un percorso chiaro da seguire." %}
+
 {% elsif t == "problem" %}
-  {% assign title = "🧠 Sbloccati più velocemente" %}
-  {% assign text = "Non devi studiare di più, ma usare un metodo che ti fa parlare subito." %}
+  {% assign title = "🧠 Non sei bloccato: stai usando il metodo sbagliato" %}
+  {% assign text = "Puoi iniziare a parlare più velocemente cambiando approccio, non studiando di più." %}
+
 {% elsif t == "vocab" %}
-  {% assign title = "🔁 Memorizza davvero" %}
-  {% assign text = "Studiare liste non basta: serve ripetizione intelligente." %}
+  {% assign title = "🔁 Studiare liste non basta" %}
+  {% assign text = "Per ricordare davvero serve ripetizione nel tempo, non accumulo di parole." %}
+
 {% elsif t == "review" %}
-  {% assign title = "🔥 Provalo senza rischi" %}
-  {% assign text = "Hai tutte le info: ora il modo migliore è provarlo." %}
-{% else %}
-  {% assign title = "🚀 Inizia a parlare davvero" %}
-  {% assign text = "Usa un metodo pratico per sbloccarti subito." %}
+  {% assign title = "🔥 Ora hai tutte le informazioni" %}
+  {% assign text = "Il modo migliore per capire se funziona è provarlo direttamente." %}
 {% endif %}
 
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES (10 CTA)
+========================
+{%- endcomment -%}
+
+{% if s == "travel" %}
+
+  {% assign title = "✈️ Non arrivare impreparato" %}
+  {% assign text = "Bastano poche frasi giuste per cavartela ovunque. Allenale prima di partire." %}
+  {% assign link_text = "Preparati con Babbel →" %}
+
+{% elsif s == "hotel" %}
+
+  {% assign title = "🏨 Sapere cosa dire fa la differenza" %}
+  {% assign text = "Check-in, richieste e problemi: basta conoscere le frasi giuste." %}
+  {% assign link_text = "Impara l’inglese per hotel →" %}
+
+{% elsif s == "speaking" %}
+
+  {% assign title = "🗣️ Inizia finalmente a parlare" %}
+  {% assign text = "Non serve sapere tutto, serve allenare il parlato ogni giorno." %}
+  {% assign link_text = "Sblocca lo speaking →" %}
+
+{% elsif s == "confidence" %}
+
+  {% assign title = "💪 La paura di parlare si elimina con la pratica" %}
+  {% assign text = "Non devi essere perfetto, devi solo iniziare a usare la lingua." %}
+  {% assign link_text = "Inizia ora →" %}
+
+{% elsif s == "business" %}
+
+  {% assign title = "💼 Inglese utile per il lavoro reale" %}
+  {% assign text = "Email, call e riunioni: frasi pratiche subito utilizzabili." %}
+  {% assign link_text = "Migliora il tuo inglese professionale →" %}
+
+{% elsif s == "study" %}
+
+  {% assign title = "📚 Studiare meglio, non di più" %}
+  {% assign text = "Il problema non è il tempo, ma il metodo con cui studi." %}
+  {% assign link_text = "Ottimizza il tuo studio →" %}
+
+{% elsif s == "fast-results" %}
+
+  {% assign title = "⚡ Risultati più veloci senza stress" %}
+  {% assign text = "Piccoli esercizi quotidiani battono ore di studio passivo." %}
+  {% assign link_text = "Inizia oggi →" %}
+
+{% elsif s == "grammar" %}
+
+  {% assign title = "📘 La grammatica serve solo se la usi" %}
+  {% assign text = "Non imparare regole: impara frasi che funzionano davvero." %}
+  {% assign link_text = "Usala nella pratica →" %}
+
+{% elsif s == "beginner-core" %}
+
+  {% assign title = "🌱 Parti dalle basi giuste" %}
+  {% assign text = "Se inizi bene, tutto il resto diventa più semplice." %}
+  {% assign link_text = "Inizia da zero →" %}
+
+{% elsif s == "motivation" %}
+
+  {% assign title = "🔥 Non serve motivazione, serve sistema" %}
+  {% assign text = "La costanza arriva quando il metodo è semplice da seguire." %}
+  {% assign link_text = "Inizia il tuo percorso →" %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+CTA BOX OUTPUT
+========================
+{%- endcomment -%}
+
 <div class="cta-block promo-box {{ include.class }}">
+
   <h3>{{ include.title | default: title }}</h3>
 
   <p>{{ include.text | default: text }}</p>
@@ -26,10 +118,13 @@
      target="_blank"
      href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
      class="btn-primary">
-     {{ include.link_text | default: "Inizia gratis con Babbel →" }}
+
+     {{ include.link_text | default: link_text }}
+
   </a>
 
   <span class="cta-micro">
     {{ include.microcopy | default: "Prima lezione gratuita • Nessun rischio" }}
   </span>
+
 </div>
