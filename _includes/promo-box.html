@@ -1,20 +1,20 @@
-<div class="promo-box {{ include.class | default: '' }}">
-  <h3 class="promo-title">
-    {{ include.title | default: "🚀 Pronto a parlare davvero?" }}
+<div class="cta-block promo-box {{ include.class }}">
+  <h3>
+    {{ include.title | default: "🚀 Inizia a parlare davvero" }}
   </h3>
-  
-  <p class="promo-text">
-    {{ include.text | default: "Lezioni da 15 minuti progettate per farti usare la lingua subito, anche se parti da zero." }}
+
+  <p>
+    {{ include.text | default: "Il modo più semplice per applicare questo metodo è usare un percorso guidato come Babbel." }}
   </p>
 
-  <a href="{{ include.link_url | default: 'https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=' }}" 
-     class="btn-primary"
-     target="_blank" 
-     rel="sponsored noopener">
-    {{ include.link_text | default: "Inizia la prova gratuita su Babbel" }}
+  <a rel="sponsored noopener"
+     target="_blank"
+     href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
+     class="btn-primary">
+     {{ include.link_text | default: "Buttati. Prova Babbel gratis →" }}
   </a>
 
-  <span class="microcopy">
-    {{ include.microcopy | default: "Cancella quando vuoi, zero rischi." }}
+  <span class="cta-micro">
+    {{ include.microcopy | default: "Prima lezione gratuita • Nessun rischio" }}
   </span>
 </div>
