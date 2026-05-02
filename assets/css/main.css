@@ -1,0 +1,151 @@
+:root {
+  --primary-color: #ff8000;
+  --primary-hover: #e67300;
+
+  --text-main: #1f2937;
+  --text-light: #6b7280;
+
+  --bg-body: #f8fafc;
+  --bg-header: #ffffff;
+  --bg-surface: #ffffff;
+
+  --border-color: #e5e7eb;
+
+  --content-width: 840px;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+
+  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+/* BASE */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: var(--text-main);
+  background: var(--bg-body);
+}
+
+/* WRAPPER */
+.wrapper {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* TYPO */
+p { margin-bottom: 18px; }
+h1,h2,h3 { margin: 32px 0 12px; }
+
+/* BUTTONS */
+.btn-primary {
+  background: var(--primary-color);
+  color: #fff !important;
+  padding: 14px 30px;
+  border-radius: 50px;
+  font-weight: 700;
+}
+
+.btn-outline {
+  border: 2px solid var(--primary-color);
+  color: var(--primary-color);
+  padding: 14px 28px;
+  border-radius: 50px;
+  font-weight: 700;
+}
+
+/* =========================================================
+   🧠 CORE DESIGN SYSTEM
+========================================================= */
+
+/* VALUE */
+.value-block,
+.trust-box,
+.tldr-box {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  padding: 20px;
+  border-radius: var(--radius-md);
+  margin: 24px 0;
+}
+
+/* GUIDE */
+.guide-block,
+.orient-box {
+  background: #f9fafb;
+  border-left: 4px solid var(--primary-color);
+  padding: 20px;
+  border-radius: var(--radius-sm);
+  margin: 24px 0;
+}
+
+/* CTA */
+.cta-block,
+.promo-box,
+.bridge-box {
+  text-align: center;
+  padding: 28px;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--primary-color);
+  background: linear-gradient(180deg, rgba(255,128,0,0.06), #fff);
+  margin: 40px 0;
+}
+
+.cta-micro,
+.microcopy {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin-top: 10px;
+}
+
+/* SUMMARY */
+.summary-block,
+.section-in-breve {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  padding: 20px;
+  border-radius: var(--radius-md);
+  margin: 24px 0;
+}
+
+.summary-list li,
+.sib-list li {
+  margin-bottom: 8px;
+  padding-left: 18px;
+  position: relative;
+}
+
+.summary-list li::before,
+.sib-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--primary-color);
+}
+
+/* =========================================================
+   HEADER / FOOTER (KEEP SIMPLE)
+========================================================= */
+
+.site-header {
+  background: var(--bg-header);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.site-footer {
+  background: #1a202c;
+  color: #cbd5e1;
+  padding: 30px 20px;
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 768px) {
+  .wrapper { padding: 0 16px; }
+}
