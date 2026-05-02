@@ -1,6 +1,5 @@
-<div class="tldr-box {{ include.class | default: '' }}">
-  <strong class="tldr-title">In sintesi</strong>
-  <p class="tldr-text">
-    {{ include.text | default: page.tldr | default: "Qui trovi un riassunto pratico dei punti chiave dell’articolo." }}
-  </p>
+<div class="value-block tldr-box {{ include.class }}">
+  <strong>{{ include.title | default: "In sintesi" }}</strong>
+
+  <p>{{ include.text | default: page.tldr }}</p>
 </div>
