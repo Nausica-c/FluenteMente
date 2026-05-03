@@ -29,32 +29,32 @@ Il nostro percorso per principianti è studiato per portarti rapidamente dal sil
 Qui sotto trovi tutte le guide specifiche del percorso **Beginner**, divise per aree tematiche per aiutarti a progredire un passo alla volta.
 
 ### 🚀 Le basi e il metodo
-1. [**Come iniziare a imparare inglese da zero**](/inglese/principianti/come-iniziare-inglese-da-zero/): La guida completa per chi non sa da dove partire.
-2. [**Da zero a conversazione**](/inglese/principianti/percorso-inglese-da-zero-a-conversazione/): Il percorso per iniziare a parlare velocemente.
-3. [**Quanto tempo serve per imparare?**](/inglese/principianti/quanto-tempo-per-imparare-inglese/): Una risposta realistica basata sulla scienza dell'apprendimento.
-4. [**Studiare inglese da autodidatta**](/inglese/principianti/inglese-autodidatta/): Come migliorare da soli senza insegnanti o corsi costosi.
-5. [**Metodo semplice per l'inglese**](/inglese/principianti/metodo-semplice-inglese/): La tecnica che funziona davvero per chi è all'inizio.
+1. [**Come iniziare a imparare inglese da zero (guida semplice per principianti)**](/inglese/principianti/come-iniziare-inglese-da-zero/): La guida completa per chi non sa da dove partire e vuole un metodo pratico.
+2. [**Da zero a conversazione in inglese: percorso semplice e veloce**](/inglese/principianti/percorso-inglese-da-zero-a-conversazione/): Il percorso passo passo per iniziare a conversare velocemente.
+3. [**Quanto tempo serve per imparare inglese davvero? (risposta realistica)**](/inglese/principianti/quanto-tempo-per-imparare-inglese/): Scopri la risposta reale e come accelerare il tuo percorso.
+4. [**Come studiare inglese da autodidatta (metodo efficace e semplice)**](/inglese/principianti/inglese-autodidatta/): Come migliorare da soli e senza perdere tempo.
+5. [**Metodo semplice per imparare inglese (funziona davvero)**](/inglese/principianti/metodo-semplice-inglese/): La tecnica per ottenere risultati reali senza stress.
 
 ### 🧩 Frasi Base
-* [**Le prime frasi da imparare subito**](/inglese/principianti/frasi-base-inglese-subito/)
-* [**Costruire frasi semplici (senza errori)**](/inglese/principianti/costruire-frasi-semplici-inglese/)
-* [**Presentarsi in inglese**](/inglese/principianti/presentarsi-in-inglese/)
-* [**Salutare in inglese (formale e informale)**](/inglese/principianti/salutare-in-inglese/)
-* [**Fare domande semplici**](/inglese/principianti/domande-semplici-inglese/)
+* [**Le prime frasi in inglese da imparare subito (guida facile per principianti)**](/inglese/principianti/frasi-base-inglese-subito/): Scopri le espressioni essenziali per iniziare a parlare senza stress.
+* [**Come costruire frasi semplici in inglese (metodo facile per principianti)**](/inglese/principianti/costruire-frasi-semplici-inglese/): Impara a costruire frasi con una struttura chiara ed esempi reali.
+* [**Come presentarsi in inglese: frasi semplici per iniziare una conversazione**](/inglese/principianti/presentarsi-in-inglese/): Frasi utili per dire chi sei, cosa fai e iniziare a parlare in modo naturale.
+* [**Come salutare in inglese: frasi semplici per ogni situazione**](/inglese/principianti/salutare-in-inglese/): Formule base ed espressioni corrette per incontri formali e informali.
+* [**Come fare domande semplici in inglese (guida facile per principianti)**](/inglese/principianti/domande-semplici-inglese/): Strutture base ed esempi pratici per iniziare subito a comunicare.
 
 ### 🧠 Mindset e Logica
-* [**Come funziona una frase inglese**](/inglese/principianti/struttura-frase-inglese-base/)
-* [**Perché l'inglese è più semplice di quanto pensi**](/inglese/principianti/inglese-semplice-spiegazione/)
-* [**Smettere di tradurre parola per parola**](/inglese/principianti/non-tradurre-mentalmente-inglese/)
-* [**Capire frasi inglesi semplici all'ascolto**](/inglese/principianti/capire-inglese-semplice/)
-* [**Iniziare a pensare in inglese**](/inglese/principianti/pensare-in-inglese-base/)
+* [**Come funziona una frase in inglese: struttura base spiegata semplice**](/inglese/principianti/struttura-frase-inglese-base/): Una guida chiara per principianti su come si costruiscono i periodi.
+* [**Perché l’inglese è più semplice di quanto pensi (spiegazione chiara)**](/inglese/principianti/inglese-semplice-spiegazione/): Scopri come cambiare mentalità per apprendere molto più velocemente.
+* [**Come evitare di tradurre parola per parola in inglese**](/inglese/principianti/non-tradurre-mentalmente-inglese/): Impara a smettere di tradurre dall’italiano e inizia a pensare direttamente in inglese.
+* [**Come capire frasi semplici in inglese (guida per principianti)**](/inglese/principianti/capire-inglese-semplice/): Strategie facili ed esempi pratici per migliorare la comprensione immediata.
+* [**Come iniziare a pensare in inglese: metodo semplice per principianti**](/inglese/principianti/pensare-in-inglese-base/): Il metodo per pensare nella lingua senza tradurre, parlando in modo naturale.
 
 ### ⚡ Micro Skills (Esercizi pratici)
-* [**Memorizzare parole velocemente**](/inglese/principianti/memorizzare-parole-inglese/)
-* [**Migliorare l'ascolto da zero**](/inglese/principianti/ascolto-inglese-base/)
-* [**Capire l'inglese parlato lento**](/inglese/principianti/capire-inglese-parlato-lento/)
-* [**Routine inglese di 10 minuti al giorno**](/inglese/principianti/routine-inglese-10-minuti/)
-* [**Come non dimenticare quello che studi**](/inglese/principianti/non-dimenticare-inglese/)
+* [**Come memorizzare parole inglesi velocemente (metodo facile)**](/inglese/principianti/memorizzare-parole-inglese/): Un metodo semplice per imparare nuovi vocaboli senza dimenticarli.
+* [**Come migliorare l’ascolto in inglese da zero (guida semplice)**](/inglese/principianti/ascolto-inglese-base/): Tecniche semplici ed efficaci per allenare il tuo orecchio fin dal primo giorno.
+* [**Come capire l’inglese parlato lento (guida per principianti)**](/inglese/principianti/capire-inglese-parlato-lento/): Tecniche e ascolti guidati per abituarsi ai suoni dei madrelingua.
+* [**Routine inglese 10 minuti al giorno: metodo semplice per migliorare**](/inglese/principianti/routine-inglese-10-minuti/): Una pratica quotidiana per migliorare in modo costante e senza stress.
+* [**Come non dimenticare quello che studi in inglese (metodo efficace)**](/inglese/principianti/non-dimenticare-inglese/): Tecniche di ripasso e di memoria a lungo termine per consolidare quanto appreso.
 
 ### 🔄 Transizione verso lo Speaking
 * [**Quando sei pronto per iniziare a parlare?**](/inglese/principianti/quando-pronto-per-parlare-inglese/)
@@ -63,7 +63,7 @@ Qui sotto trovi tutte le guide specifiche del percorso **Beginner**, divise per 
 * [**Gli errori più comuni dei principianti**](/inglese/principianti/errori-principianti-inglese/)
 * [**Cosa fare dopo aver completato le basi**](/inglese/principianti/cosa-fare-dopo-iniziare-inglese/)
 
-{% include section-in-breve.html %}
+{% include section-in-breve %}
 
 ## Obiettivo
 L'obiettivo di questo cluster è farti superare la barriera dell'inerzia. Seguendo queste guide, passerai dal non capire nulla a **padroneggiare le strutture base**, essere in grado di presentarti, fare domande e comprendere i concetti chiave di una conversazione semplice.
