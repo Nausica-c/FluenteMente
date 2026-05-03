@@ -26,7 +26,7 @@ Il modo peggiore per studiare l'inglese è aprire un libro e imparare a memoria 
 
 Il segreto è adottare un [metodo semplice per l'inglese](/inglese/principianti/metodo-semplice-inglese/) basato sulla pratica e sull'imitazione, non sullo studio mnemonico. Se hai deciso di procedere con l'[inglese da autodidatta](/inglese/principianti/inglese-autodidatta/), il tuo primo obiettivo non è la perfezione, ma la comprensione. Non serve chiudersi in casa per ore: bastano davvero pochi minuti al giorno di esposizione alla lingua viva per abituare l'orecchio e sbloccare l'apprendimento.
 
-{% include section-in-breve %}
+
 
 ## Le prime cose da imparare
 
@@ -36,8 +36,7 @@ La mossa vincente è concentrarsi sull'[imparare frasi base in inglese da usare 
 
 Ecco qualche esempio pratico:
 * Non imparare "Would" e "Like" separati. Impara direttamente **"I would like..."** (Vorrei...).
-* Non studiare la regola interrogativa del verbo essere, impara **"Where is...?"** (Dov'è...?).
-* Non cercare di tradurre letteralmente i tuoi pensieri, ma scopri come [presentarti in inglese](/inglese/principianti/presentarsi-in-inglese/) dicendo il tuo nome, la tua età o il tuo lavoro in modo naturale (*I'm 30 years old*, non *I have 30 years*).
+* Non studiare la regola interrogativa del verbo essere, impara **"Where is...?"** (Dov'è. Non cercare di tradurre letteralmente i tuoi pensieri, ma scopri come [presentarti in inglese](/inglese/principianti/presentarsi-in-inglese/) dicendo il tuo nome, la tua età o il tuo lavoro in modo naturale (*I'm 30 years old*, non *I have 30 years*).
 
 **Micro esercizio di oggi:** Scegli due frasi base e ripetile ad alta voce davanti allo specchio. Ripeterle e usarle è il modo più efficace per [memorizzare parole in inglese](/inglese/principianti/memorizzare-parole-inglese/) facendole tue per sempre.
 
