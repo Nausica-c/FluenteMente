@@ -184,7 +184,7 @@ a:hover {
 }
 
 /* =========================
-   HEADER (FLEXBOX)
+   HEADER
 ========================= */
 .site-header {
   background: var(--bg-header);
@@ -192,42 +192,37 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 100;
-  padding: var(--space-xs) 0;
+  padding: var(--space-md) 20px; 
+  margin-bottom: var(--space-xl); /* Dà respiro tra l'header e il titolo della pagina */
 }
 
-.header-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.logo {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--text-main) !important;
+.site-header a, 
+.site-header a:visited {
+  color: var(--text-main); /* Testo scuro per i link del menu */
   text-decoration: none;
-}
-
-.logo:hover {
-  text-decoration: none;
-}
-
-.main-nav {
-  display: flex;
-  align-items: center;
-  gap: var(--space-md);
-}
-
-.main-nav a,
-.main-nav a:visited {
-  color: var(--text-main);
   font-weight: 500;
+  display: inline-block;
+  margin-right: var(--space-sm);
+  margin-bottom: var(--space-xs);
   transition: color 0.2s ease;
 }
 
-.main-nav a:hover {
+.site-header a:hover {
   color: var(--primary-color);
-  text-decoration: none;
+}
+
+/* Stile specifico per il nome del sito (primo link) */
+.site-header a:first-of-type {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--primary-color);
+  display: block;
+  margin-bottom: var(--space-sm);
+}
+
+/* Nasconde la casella di controllo del menu mobile */
+.site-header input[type="checkbox"] {
+  display: none;
 }
 
 /* GLOBAL SPACING BETWEEN SECTIONS */
@@ -256,7 +251,7 @@ section {
 
 .site-footer a, 
 .site-footer a:visited {
-  color: #cbd5e1;
+  color: #cbd5e1; /* Colore chiaro leggibile sul nero */
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -282,19 +277,6 @@ section {
     font-size: 1.8rem;
   }
 
-  /* Adattamento Header per Mobile */
-  .header-inner {
-    flex-direction: column;
-    gap: var(--space-sm);
-    padding: var(--space-sm) 0;
-  }
-  
-  .main-nav {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: var(--space-sm);
-  }
-
   .cta-block,
   .promo-box,
   .bridge-box {
@@ -307,3 +289,4 @@ section {
     text-align: center;
   }
   }
+             
