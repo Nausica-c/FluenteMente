@@ -500,27 +500,43 @@ blockquote {
 }
 
 /* =========================
-   AFFILIATE DISCLOSURE
+   DISCLAIMER / AFFILIATE
 ========================= */
-.affiliate-disclosure {
-  background-color: #f1f5f9; /* Un grigio chiarissimo e discreto */
-  border-left: 3px solid var(--text-light); /* Una linea laterale per evidenziarlo elegantemente */
-  padding: var(--space-sm) var(--space-md);
-  margin: var(--space-md) 0 var(--space-lg) 0;
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-  font-size: 0.85rem; /* Testo più piccolo del normale */
-  color: var(--text-light);
-  line-height: 1.5;
+.disclaimer-inline {
+  display: flex; /* Allinea perfettamente l'icona e il testo */
+  align-items: flex-start;
+  gap: 12px; /* Spazio tra l'emoji e il testo */
+  background-color: #f1f5f9;
+  border-left: 3px solid var(--text-light); 
+  padding: 16px 20px;
+  margin: 32px 0; /* Gestisce automaticamente i margini sopra e sotto */
+  border-radius: 0 8px 8px 0;
 }
 
-/* Stile per i link dentro al box (es. se linki la tua privacy policy) */
-.affiliate-disclosure a {
+.disclaimer-icon {
+  font-size: 1.4rem;
+  line-height: 1.2;
+}
+
+.disclaimer-text {
+  margin-bottom: 0; /* Sovrascrive il margine standard dei paragrafi */
+  font-size: 0.9rem;
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+.disclaimer-text strong {
   color: var(--text-main);
+}
+
+.disclaimer-text a {
+  color: inherit; /* Prende il colore del testo circostante */
   text-decoration: underline;
   font-weight: 500;
+  transition: color 0.2s ease;
 }
 
-.affiliate-disclosure a:hover {
+.disclaimer-text a:hover {
   color: var(--primary-color);
 }
 
