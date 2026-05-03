@@ -63,7 +63,7 @@ Qui sotto trovi tutte le guide specifiche del percorso **Beginner**, divise per 
 * [**Gli errori più comuni dei principianti**](/inglese/principianti/errori-principianti-inglese/)
 * [**Cosa fare dopo aver completato le basi**](/inglese/principianti/cosa-fare-dopo-iniziare-inglese/)
 
-{% include section-in-breve %}
+{% include section-in-breve.html %}
 
 ## Obiettivo
 L'obiettivo di questo cluster è farti superare la barriera dell'inerzia. Seguendo queste guide, passerai dal non capire nulla a **padroneggiare le strutture base**, essere in grado di presentarti, fare domande e comprendere i concetti chiave di una conversazione semplice.
