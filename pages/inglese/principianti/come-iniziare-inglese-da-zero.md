@@ -26,7 +26,7 @@ Il modo peggiore per studiare l'inglese è aprire un libro e imparare a memoria 
 
 Il segreto è adottare un [metodo semplice per l'inglese](/inglese/principianti/metodo-semplice-inglese/) basato sulla pratica e sull'imitazione, non sullo studio mnemonico. Se hai deciso di procedere con l'[inglese da autodidatta](/inglese/principianti/inglese-autodidatta/), il tuo primo obiettivo non è la perfezione, ma la comprensione. Non serve chiudersi in casa per ore: bastano davvero pochi minuti al giorno di esposizione alla lingua viva per abituare l'orecchio e sbloccare l'apprendimento.
 
-
+{% include section-in-breve.html %}
 
 ## Le prime cose da imparare
 
