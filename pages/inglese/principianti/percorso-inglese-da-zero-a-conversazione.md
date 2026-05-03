@@ -24,7 +24,7 @@ Il primo passo per **imparare inglese velocemente** è cambiare mentalità: non 
 
 Cosa fare subito? Inizia con l'[ascolto inglese base](/inglese/principianti/ascolto-inglese-base/) ogni singolo giorno. Non serve capire tutto, serve abituare l'orecchio ai suoni. Questo approccio pratico è il cuore di un [metodo semplice per l'inglese](/inglese/principianti/metodo-semplice-inglese/) che funziona perché imita il modo in cui abbiamo imparato l'italiano da bambini: prima ascoltiamo, poi capiamo, infine parliamo.
 
-{% include section-in-breve %}
+{% include section-in-breve.html %}
 
 ## Le prime cose da imparare
 
