@@ -57,11 +57,11 @@ Qui sotto trovi tutte le guide specifiche del percorso **Beginner**, divise per 
 * [**Come non dimenticare quello che studi in inglese (metodo efficace)**](/inglese/principianti/non-dimenticare-inglese/): Tecniche di ripasso e di memoria a lungo termine per consolidare quanto appreso.
 
 ### 🔄 Transizione verso lo Speaking
-* [**Quando sei pronto per iniziare a parlare?**](/inglese/principianti/quando-pronto-per-parlare-inglese/)
-* [**Perché la grammatica da sola non basta**](/inglese/principianti/grammatica-non-basta/)
-* [**Passare dallo studio alla pratica orale**](/inglese/principianti/da-studio-a-parlato/)
-* [**Gli errori più comuni dei principianti**](/inglese/principianti/errori-principianti-inglese/)
-* [**Cosa fare dopo aver completato le basi**](/inglese/principianti/cosa-fare-dopo-iniziare-inglese/)
+* [**Quando sei pronto per parlare inglese: segnali chiari e percorso**](/inglese/principianti/quando-pronto-per-parlare-inglese/): Scopri quando sei davvero pronto per iniziare a parlare inglese e quali segnali indicano che puoi passare alla conversazione.
+* [**Perché studiare grammatica non basta per parlare inglese**](/inglese/principianti/grammatica-non-basta/): Scopri perché la grammatica da sola non ti permette di parlare inglese e cosa serve davvero per iniziare a comunicare.
+* [**Come passare da studiare a parlare inglese (metodo pratico)**](/inglese/principianti/da-studio-a-parlato/): Scopri come trasformare lo studio dell’inglese in capacità di parlare con un metodo semplice e pratico.
+* [**Errori comuni dei principianti in inglese (e come evitarli)**](/inglese/principianti/errori-principianti-inglese/): Scopri gli errori più comuni che fanno i principianti in inglese e come evitarli per migliorare più velocemente.
+* [**Cosa fare dopo aver iniziato a imparare inglese (guida semplice)**](/inglese/principianti/cosa-fare-dopo-iniziare-inglese/): Scopri cosa fare dopo aver iniziato a studiare inglese per continuare a migliorare in modo semplice e strutturato.
 
 {% include section-in-breve.html %}
 
