@@ -1,31 +1,26 @@
 /* ============================================================
-   RISOLUZIONE PROBLEMI DESIGN FLUENTEMENTE
-   1. Crea un vero Menu Mobile (Hamburger) funzionale (CSS-only)
-   2. Risolve l'illeggibilità del Footer (link viola su nero)
-   3. Elimina l'"effetto muro di testo" per una lettura fluida
-   4. Aggiunge spaziatura globale tra i componenti
+   FLUENTEMENTE - CSS DEFINITIVO PER GITHUB PAGES
    ============================================================ */
 
 :root {
   /* COLORS */
   --primary-color: #ff8000;
   --primary-hover: #e67300;
-  --text-main: #1f2937;
-  --text-light: #6b7280;
+  --text-main: #334155; /* Grigio ardesia scuro, molto leggibile */
+  --text-dark: #0f172a; /* Per i titoli */
+  --text-light: #64748b;
   --bg-body: #f8fafc;
   --bg-header: #ffffff;
   --bg-surface: #ffffff;
-  --border-color: #e5e7eb;
+  --border-color: #e2e8f0;
 
-  /* LAYOUT */
-  --content-width: 720px; /* Ridotto leggermente per migliorare la leggibilità */
+  /* LAYOUT - Ottimizzato contro il "muro di testo" */
+  --content-width: 720px; /* Larghezza perfetta per la lettura */
 
-  /* RADIUS */
+  /* RADIUS & SHADOW */
   --radius-sm: 8px;
   --radius-md: 12px;
-
-  /* SHADOW */
-  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-sm: 0 4px 6px -1px rgba(0,0,0,0.05);
 
   /* SPACING SYSTEM */
   --space-xs: 8px;
@@ -45,11 +40,11 @@
 }
 
 body {
-  font-family: system-ui, -apple-system, sans-serif;
-  line-height: 1.75; /* Aumentato per abbattere il "muro di testo" */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.8; /* Aumentato per far respirare il testo */
   color: var(--text-main);
   background: var(--bg-body);
-  font-size: 18px; /* Leggermente più grande per accessibilità mobile */
+  font-size: 19px; /* Testo leggermente più grande e comodo */
   -webkit-font-smoothing: antialiased;
 }
 
@@ -63,40 +58,51 @@ body {
    TYPOGRAPHY (Leggibilità)
 ========================= */
 p {
-  margin-bottom: var(--space-md); /* Più spazio tra i paragrafi */
-  color: var(--text-main);
-  max-width: 65ch; /* Limita i caratteri per riga per una lettura ottimale */
+  margin-bottom: var(--space-md);
+}
+
+/* Spazio extra per staccare i paragrafi e spezzare il muro di testo */
+p + p {
+  margin-top: 1.2rem; 
+}
+
+h1, h2, h3, h4 {
+  color: var(--text-dark);
+  font-weight: 800;
+  line-height: 1.3;
 }
 
 h1 {
-  font-size: 2.8rem;
-  line-height: 1.2;
+  font-size: 2.6rem;
   margin: var(--space-lg) 0 var(--space-md);
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  font-size: 2.0rem;
-  line-height: 1.3;
-  margin: var(--space-xl) 0 var(--space-md);
+  font-size: 1.8rem;
+  margin: var(--space-xl) 0 var(--space-sm);
+  border-bottom: 2px solid #f1f5f9;
+  padding-bottom: 10px;
 }
 
 h3 {
-  font-size: 1.5rem;
-  margin: var(--space-md) 0 var(--space-sm);
+  font-size: 1.4rem;
+  margin: var(--space-md) 0 var(--space-xs);
 }
 
 strong {
   font-weight: 700;
+  color: var(--text-dark);
 }
 
 /* =========================
-   LINKS GLOBALI (Colore)
+   LINKS GLOBALI
 ========================= */
-/* Risolve il problema dei link viola ovunque */
 a, a:visited {
   color: var(--primary-color);
   text-decoration: none;
-  transition: color 0.2s ease, background 0.2s ease;
+  font-weight: 500;
+  transition: color 0.2s ease;
 }
 
 a:hover {
@@ -105,300 +111,175 @@ a:hover {
 }
 
 /* =========================
-   BUTTONS
+   HEADER & MENU (FIX GITHUB PAGES)
 ========================= */
-.btn-primary,
-.btn-outline,
-.site-header .btn-primary { /* Assicura che il pulsante nell'header sia corretto */
-  display: inline-block;
-  text-decoration: none;
-  padding: 12px 28px;
-  border-radius: 50px;
-  font-weight: 700;
-  cursor: pointer;
-  border: none;
-  text-align: center;
-}
-
-.btn-primary, .site-header .btn-primary {
-  background: var(--primary-color);
-  color: #fff !important;
-}
-
-.btn-primary:hover, .site-header .btn-primary:hover {
-  background: var(--primary-hover);
-  text-decoration: none;
-  transform: translateY(-1px);
-}
-
-.btn-outline {
-  border: 2px solid var(--primary-color);
-  color: var(--primary-color);
-  background: transparent;
-}
-
-.btn-outline:hover {
-  background: var(--primary-color);
-  color: #fff !important;
-  text-decoration: none;
-}
-
-/* ============================================================
-   HEADER & MENU HAMBURGER (Il Fix Principale)
-   Basato sull'HTML preimpostato del tema
-   ============================================================ */
 .site-header {
   background: var(--bg-header);
   border-bottom: 1px solid var(--border-color);
   position: sticky;
   top: 0;
-  z-index: 1000; /* Assicura che il menu sia sopra tutto */
-  padding: var(--space-xs) 0; 
+  z-index: 1000;
+  padding: 15px 0;
   margin-bottom: var(--space-lg);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
 
-.header-inner {
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Titolo "FluenteMente" */
+.site-title {
+  font-size: 1.6rem !important;
+  font-weight: 800 !important;
+  color: var(--text-dark) !important;
+  text-decoration: none !important;
+  letter-spacing: -0.5px;
+}
+
+/* Nasconde la casella di controllo brutta `[ ]` */
+.nav-trigger {
+  display: none !important;
+}
+
+/* Contenitore Menu */
+.site-nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
-/* Logo FluenteMente */
-.logo {
-  font-size: 1.6rem;
-  font-weight: 800;
+/* I link del menu in alto */
+.site-nav .page-link,
+.site-header a:not(.site-title) {
   color: var(--text-main) !important;
-  text-decoration: none;
-  z-index: 1001; /* Sopra il menu espanso */
+  margin-left: 24px;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none !important;
 }
 
-.logo:hover {
-  text-decoration: none;
+.site-nav .page-link:hover,
+.site-header a:not(.site-title):hover {
+  color: var(--primary-color) !important;
 }
 
-/* Il selettore del menu mobile (nascondiamo l'input base) */
-.nav-trigger {
+/* Icona Hamburger (Nascosta su PC) */
+.site-nav .menu-icon {
   display: none;
 }
 
-/* Menu di navigazione */
-.main-nav {
-  display: flex;
-  align-items: center;
-  gap: var(--space-md); /* Distanza uniforme tra i link */
-}
-
-/* Link del menu desktop */
-.main-nav a {
-  color: var(--text-main) !important; 
-  font-weight: 500;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-.main-nav a:hover {
-  color: var(--primary-color) !important;
-  text-decoration: none;
-}
-
-/* Gestione del pulsante CTA nell'header desktop */
-.site-header .btn-primary {
-  padding: 8px 20px;
-  font-size: 15px;
-}
-
-/* ============================================================
-   RESPONSIVE: MENU HAMBURGER MOBILE (Sotto 768px)
-   ============================================================ */
+/* =========================
+   MOBILE RESPONSIVE
+========================= */
 @media (max-width: 768px) {
+  body {
+    font-size: 17px; /* Leggermente ridotto su mobile ma sempre leggibile */
+    line-height: 1.7;
+  }
+
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.6rem; }
+
   .site-header {
-    padding: var(--space-sm) 0;
+    padding: 10px 0;
   }
 
-  /* Rimuove Flexbox base per l'header mobile */
-  .header-inner {
+  /* Rimuove il flex per permettere al menu di andare a capo */
+  .site-header .wrapper {
+    display: block;
     position: relative;
-    display: block; /* Permette all'hamburger di posizionarsi */
   }
 
-  /* Logo mobile sempre a sinistra */
-  .logo {
+  .site-title {
     display: inline-block;
-    padding-left: 0;
+    padding: 8px 0;
   }
 
-  /* CREA L'ICON HAMBURGER (TRE LINEE) */
-  /* Mostriamo l'hamburger solo su mobile */
-  .nav-trigger-label {
-    display: block;
+  /* Mostra l'icona Hamburger (Le 3 lineette fornite da Github) */
+  .site-nav {
     position: absolute;
-    top: 50%;
-    right: 0;
-    transform: translateY(-50%);
-    width: 30px;
-    height: 20px;
+    top: 12px;
+    right: 20px;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
     cursor: pointer;
-    z-index: 1002;
   }
 
-  /* Le tre linee dell'hamburger */
-  .nav-trigger-label span,
-  .nav-trigger-label span::before,
-  .nav-trigger-label span::after {
-    display: block;
+  .site-nav .menu-icon svg {
+    width: 28px;
+    height: 28px;
+    fill: var(--text-dark);
+  }
+
+  /* Nasconde i link di base e crea la tendina */
+  .site-nav .trigger {
+    display: none;
     position: absolute;
-    height: 3px;
-    width: 100%;
-    background: var(--text-main);
-    border-radius: 2px;
-    transition: all 0.3s ease;
-  }
-
-  .nav-trigger-label span::before {
-    content: '';
-    top: -8px;
-  }
-
-  .nav-trigger-label span::after {
-    content: '';
-    top: 8px;
-  }
-
-  /* TRASFORMAZIONE IN 'X' QUANDO APERTO */
-  .nav-trigger:checked ~ .nav-trigger-label span {
-    background: transparent;
-  }
-
-  .nav-trigger:checked ~ .nav-trigger-label span::before {
-    transform: rotate(45deg);
-    top: 0;
-  }
-
-  .nav-trigger:checked ~ .nav-trigger-label span::after {
-    transform: rotate(-45deg);
-    top: 0;
-  }
-
-  /* IL MENU MOBILE ESPANSO */
-  .main-nav {
-    display: none; /* Nascondiamo di default */
-    flex-direction: column;
-    position: absolute;
-    top: 100%;
-    left: -20px; /* Estendiamo a tutta larghezza */
-    width: calc(100% + 40px);
+    top: 40px; /* Sotto l'header */
+    right: -20px; /* Si allinea al bordo */
     background: var(--bg-header);
-    border-top: 1px solid var(--border-color);
-    box-shadow: 0 10px 15px rgba(0,0,0,0.1);
-    padding: var(--space-md) 20px;
-    z-index: 1000;
-    opacity: 0;
-    transform: translateY(-10px);
-    transition: opacity 0.3s ease, transform 0.3s ease;
+    width: 250px;
+    padding: 15px 20px;
+    border: 1px solid var(--border-color);
+    border-radius: 0 0 0 12px;
+    box-shadow: -4px 10px 15px rgba(0,0,0,0.1);
+    z-index: 999;
   }
 
-  /* MOSTRA IL MENU QUANDO LA CHECKBOX È SELEZIONATA */
-  .nav-trigger:checked ~ .main-nav {
-    display: flex;
-    opacity: 1;
-    transform: translateY(0);
+  /* Quando clicchi sull'hamburger, mostra la tendina */
+  .nav-trigger:checked ~ .trigger {
+    display: block;
   }
 
-  /* Stile link del menu mobile */
-  .main-nav a {
-    width: 100%;
-    padding: var(--space-sm) 0;
-    font-size: 18px;
+  /* Stile dei link nel menu mobile */
+  .site-nav .page-link,
+  .site-header a:not(.site-title) {
+    display: block;
+    margin: 0;
+    padding: 12px 0;
     border-bottom: 1px solid #f1f5f9;
+    font-size: 18px;
   }
 
-  /* Il pulsante CTA su mobile */
-  .site-header .btn-primary {
-    width: 100%;
-    margin-top: var(--space-sm);
-    padding: 14px;
-    font-size: 16px;
+  .site-nav .page-link:last-child,
+  .site-header a:not(.site-title):last-child {
+    border-bottom: none;
   }
 }
 
 /* =========================
-   FOOTER (Il secondo fix)
+   FOOTER
 ========================= */
 .site-footer {
-  background: #111827; /* Nero/Blu scuro molto profondo */
-  color: #f1f5f9; /* Grigio chiarissimo per il testo */
+  background: #0f172a; 
+  color: #cbd5e1;
   padding: var(--space-xl) 20px;
-  margin-top: var(--space-xl);
-}
-
-.footer-inner {
-  max-width: var(--content-width);
-  margin: 0 auto;
-}
-
-/* Titoli nel footer */
-.site-footer h2 {
-  color: #fff;
-  font-size: 1.4rem;
-  margin-bottom: var(--space-md);
-  margin-top: 0; /* Rimuove i margini globali delle sezioni */
+  margin-top: 80px;
+  border-top: 4px solid var(--primary-color);
 }
 
 .site-footer ul {
   list-style-type: none;
   padding-left: 0;
-  margin-bottom: var(--space-lg);
+  margin: 0;
 }
 
 .site-footer li {
   margin-bottom: 12px;
 }
 
-/* IL FIX FONDAMENTALE PER IL FOOTER */
-/* Forza il colore chiaro sui link per visibilità su sfondo scuro */
 .site-footer a, 
 .site-footer a:visited {
-  color: #e2e8f0; /* Grigio chiarissimo leggibile */
+  color: #e2e8f0; 
   text-decoration: none;
   font-weight: 400;
-  transition: color 0.2s ease;
 }
 
-/* Colore primario solo all'hover per interattività */
 .site-footer a:hover {
-  color: var(--primary-color) !important;
-  text-decoration: none;
-}
-
-/* microcopy nel footer */
-.footer-microcopy {
-  display: block;
-  font-size: 0.85rem;
-  color: #94a3b8;
-  margin-top: var(--space-lg);
-  border-top: 1px solid #1f2937;
-  padding-top: var(--space-md);
-  text-align: center;
-}
-
-/* =========================
-   MOBILE RESPONSIVE GLOBALE
-========================= */
-@media (max-width: 768px) {
-  body {
-    font-size: 16px;
-    line-height: 1.7;
-  }
-
-  .wrapper {
-    padding: 0 16px;
-  }
-
-  h1 {
-    font-size: 2.4rem;
-  }
-
-  h2 {
-    font-size: 1.8rem;
-  }
-    }
+  color: var(--primary-color);
+   }
+   
