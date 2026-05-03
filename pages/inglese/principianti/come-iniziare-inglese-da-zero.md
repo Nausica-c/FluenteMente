@@ -9,7 +9,8 @@ description: "Scopri come iniziare a imparare inglese da zero con un metodo semp
 
 tldr: "Smetti di studiare solo grammatica: parti da frasi utili, crea una routine di pochi minuti al giorno e inizia a parlare senza paura."
 permalink: /inglese/principianti/come-iniziare-inglese-da-zero/
-
+redirect_from:
+  - /principianti/
 ---
 
 Hai deciso di **imparare l'inglese da zero**, ma ti senti perso? Apri un libro di grammatica, guardi una lista infinita di verbi irregolari e lo richiudi dopo cinque minuti? 
