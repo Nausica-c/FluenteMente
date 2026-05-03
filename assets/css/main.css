@@ -498,3 +498,29 @@ blockquote {
   position: absolute; 
   left: 0; 
 }
+
+/* =========================
+   AFFILIATE DISCLOSURE
+========================= */
+.affiliate-disclosure {
+  background-color: #f1f5f9; /* Un grigio chiarissimo e discreto */
+  border-left: 3px solid var(--text-light); /* Una linea laterale per evidenziarlo elegantemente */
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-md) 0 var(--space-lg) 0;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.85rem; /* Testo più piccolo del normale */
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+/* Stile per i link dentro al box (es. se linki la tua privacy policy) */
+.affiliate-disclosure a {
+  color: var(--text-main);
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.affiliate-disclosure a:hover {
+  color: var(--primary-color);
+}
+
