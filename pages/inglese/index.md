@@ -33,7 +33,7 @@ Per offrirti un'esperienza su misura, abbiamo diviso il percorso in aree tematic
 * **[Grammar](/inglese/grammatica/):** Le regole strutturali spiegate in modo semplice, intuitivo e sempre orientate all'applicazione pratica.
 * **[Vocabulary](/inglese/vocabolario/):** Espansione mirata del lessico, con focus su phrasal verbs, idioms e falsi amici.
 
-{% include section-in-breve %}
+{% include section-in-breve.html %}
 
 ## Come funziona il percorso
 Il viaggio verso la fluenza è strutturato per evitarti la sensazione di sovraccarico cognitivo. Il processo segue un'evoluzione naturale in tre fasi:
