@@ -74,8 +74,8 @@ h3 {
   margin: var(--space-md) 0 var(--space-xs);
 }
 
-/* LINKS */
-a {
+/* LINKS GLOBALI */
+a, a:visited {
   color: var(--primary-color);
   text-decoration: none;
 }
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-outline:hover {
   background: var(--primary-color);
-  color: #fff;
+  color: #fff !important;
 }
 
 /* =========================
@@ -183,25 +183,87 @@ a:hover {
   color: var(--primary-color);
 }
 
-/* HEADER */
+/* =========================
+   HEADER (FLEXBOX)
+========================= */
 .site-header {
   background: var(--bg-header);
   border-bottom: 1px solid var(--border-color);
   position: sticky;
   top: 0;
   z-index: 100;
+  padding: var(--space-xs) 0;
 }
 
-/* FOOTER */
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-main) !important;
+  text-decoration: none;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.main-nav a,
+.main-nav a:visited {
+  color: var(--text-main);
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.main-nav a:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+/* GLOBAL SPACING BETWEEN SECTIONS */
+section {
+  margin: var(--space-xl) 0;
+}
+
+/* =========================
+   FOOTER
+========================= */
 .site-footer {
   background: #1a202c;
   color: #cbd5e1;
   padding: var(--space-lg) 20px;
 }
 
-/* GLOBAL SPACING BETWEEN SECTIONS */
-section {
-  margin: var(--space-xl) 0;
+.site-footer ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.site-footer li {
+  margin-bottom: var(--space-xs);
+}
+
+.site-footer a, 
+.site-footer a:visited {
+  color: #cbd5e1;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.site-footer a:hover {
+  color: var(--primary-color);
+  text-decoration: none;
 }
 
 /* =========================
@@ -220,6 +282,19 @@ section {
     font-size: 1.8rem;
   }
 
+  /* Adattamento Header per Mobile */
+  .header-inner {
+    flex-direction: column;
+    gap: var(--space-sm);
+    padding: var(--space-sm) 0;
+  }
+  
+  .main-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-sm);
+  }
+
   .cta-block,
   .promo-box,
   .bridge-box {
@@ -231,4 +306,4 @@ section {
     width: 100%;
     text-align: center;
   }
-}
+  }
