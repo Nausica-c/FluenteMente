@@ -499,44 +499,46 @@ blockquote {
   left: 0; 
 }
 
+
 /* =========================
-   DISCLAIMER / AFFILIATE
+   DISCLAIMER / AFFILIATE (FORZATO)
 ========================= */
 .disclaimer-inline {
-  display: flex; /* Allinea perfettamente l'icona e il testo */
-  align-items: flex-start;
-  gap: 12px; /* Spazio tra l'emoji e il testo */
-  background-color: #f1f5f9;
-  border-left: 3px solid var(--text-light); 
-  padding: 16px 20px;
-  margin: 32px 0; /* Gestisce automaticamente i margini sopra e sotto */
-  border-radius: 0 8px 8px 0;
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 12px !important;
+  background-color: #f1f5f9 !important;
+  border-left: 3px solid var(--text-light) !important;
+  padding: 16px 20px !important;
+  margin: 32px 0 !important;
+  border-radius: 0 8px 8px 0 !important;
 }
 
 .disclaimer-icon {
-  font-size: 1.4rem;
-  line-height: 1.2;
+  font-size: 1.4rem !important;
+  line-height: 1.2 !important;
 }
 
 .disclaimer-text {
-  margin-bottom: 0; /* Sovrascrive il margine standard dei paragrafi */
-  font-size: 0.9rem;
-  color: var(--text-light);
-  line-height: 1.6;
+  margin-bottom: 0 !important;
+  font-size: 0.9rem !important;
+  color: var(--text-light) !important;
+  line-height: 1.6 !important;
 }
 
 .disclaimer-text strong {
-  color: var(--text-main);
+  color: var(--text-main) !important;
 }
 
 .disclaimer-text a {
-  color: inherit; /* Prende il colore del testo circostante */
-  text-decoration: underline;
-  font-weight: 500;
+  color: inherit !important;
+  text-decoration: underline !important;
+  font-weight: 500 !important;
   transition: color 0.2s ease;
 }
 
 .disclaimer-text a:hover {
-  color: var(--primary-color);
+  color: var(--primary-color) !important;
 }
+
 
