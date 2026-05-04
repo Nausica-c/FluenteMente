@@ -2,11 +2,17 @@
   <h3>{{ include.title | default: "🎯 In breve" }}</h3>
 
   <ul class="summary-list">
-    {% for i in (1..5) %}
-      {% capture p %}p{{ i }}{% endcapture %}
-      {% if include[p] %}
-        <li>{{ include[p] }}</li>
-      {% endif %}
-    {% endfor %}
+    {% if page.inbreve %}
+      {% for punto in page.inbreve %}
+        <li>{{ punto }}</li>
+      {% endfor %}
+    {% elsif include.p1 %}
+      {% for i in (1..5) %}
+        {% capture p %}p{{ i }}{% endcapture %}
+        {% if include[p] %}
+          <li>{{ include[p] }}</li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </ul>
 </div>
