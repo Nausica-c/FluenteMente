@@ -9,63 +9,67 @@ tldr: "Le parole per lavorare in inglese."
 permalink: /inglese/business/
 ---
 
-{% include bridge-box.html %}
 
 ## Inglese professionale
-L'errore più comune che si fa quando si usa l'inglese al lavoro è pensare di dover usare paroloni complessi o tradurre letteralmente le lunghe e articolate frasi tipiche dell'italiano. In realtà, nel Business English la regola d'oro è un'altra: **chiarezza e precisione**. 
 
-L'obiettivo non è impressionare i colleghi con la grammatica, ma far passare il tuo messaggio senza fraintendimenti, mantenendo un tono cortese e professionale. Per farlo, ti bastano strutture standard e un set di formule pronte all'uso.
+L'errore più comune quando si usa l'inglese al lavoro? Pensare di dover usare termini complessi o tradurre alla lettera le lunghe frasi tipiche dell'italiano. Nel Business English la regola d'oro è un'altra: **chiarezza e precisione**.
 
-## Aree principali
-Abbiamo suddiviso l'inglese per il lavoro nelle situazioni più frequenti della vita aziendale. In questo modo puoi concentrarti subito su quello che ti serve per la tua giornata:
+L'obiettivo non è impressionare i colleghi con la grammatica, ma trasmettere il tuo messaggio senza ambiguità, con un tono cortese e professionale. Per riuscirci non servono anni di studio: bastano strutture solide e un set di formule pronte all'uso.
 
-* **Email:** Le formule corrette per aprire, gestire e chiudere comunicazioni scritte formali e informali.
-* **Meeting e Call:** Come prendere la parola, gestire i problemi tecnici in video call e moderare le riunioni.
-* **Colloqui e Carriera:** Come presentare le tue competenze, rispondere alle domande dei recruiter e curare il tuo profilo LinkedIn.
-* **Business Operativo:** Il vocabolario per la vita da ufficio, la negoziazione e la gestione dei clienti internazionali.
+{% include bridge-box.html %}
 
-## Articoli del cluster
-Scegli la categoria che ti serve di più in questo momento e scopri le frasi e i metodi per lavorare in inglese senza stress:
+
+## Cosa trovi in questa sezione
+
+Abbiamo organizzato l'inglese professionale nelle situazioni più frequenti della vita aziendale, così puoi concentrarti subito su ciò che ti serve:
+
+* **Email:** Le formule giuste per aprire, gestire e chiudere comunicazioni scritte, formali e informali.
+* **Meeting e Call:** Come prendere la parola, gestire problemi tecnici in video call e moderare le riunioni.
+* **Colloqui e Carriera:** Come presentare le tue competenze, rispondere ai recruiter e ottimizzare il profilo LinkedIn.
+* **Business Operativo:** Il vocabolario per la vita d'ufficio, la negoziazione e i clienti internazionali.
+
+## Scegli il tuo punto di partenza
 
 ### 📧 Comunicazione Scritta
-* [**Come scrivere email formali in inglese: guida semplice con esempi**](/inglese/business/email-formali-inglese/): Impara a scrivere in modo chiaro e professionale con frasi pronte all’uso.
-* [**Frasi per email ai clienti in inglese: esempi pronti da usare**](/inglese/business/email-clienti-inglese/): Le espressioni più utili e naturali per gestire la comunicazione esterna.
-* [**Come scrivere email di lavoro efficaci in inglese (guida pratica)**](/inglese/business/email-lavoro-efficaci-inglese/): Struttura chiara, esempi pratici e l'approccio giusto per farsi leggere e rispondere.
+* [**Come scrivere email formali in inglese: guida con esempi**](/inglese/business/email-formali-inglese/): Scrivi in modo chiaro e professionale con frasi pronte all'uso.
+* [**Frasi per email ai clienti in inglese: esempi pronti**](/inglese/business/email-clienti-inglese/): Le espressioni più utili e naturali per gestire la comunicazione esterna.
+* [**Come scrivere email di lavoro efficaci in inglese**](/inglese/business/email-lavoro-efficaci-inglese/): Struttura, esempi pratici e l'approccio giusto per essere letti e ottenere risposta.
 
-### 🗣️ Riunioni & Call
+### 🗣️ Riunioni e Call
 * [**Come fare una video call in inglese: frasi e situazioni reali**](/inglese/business/video-call-inglese/): Gestisci i meeting online dall'apertura ai classici problemi di connessione.
 * [**Small talk in ufficio in inglese: frasi semplici e naturali**](/inglese/business/small-talk-ufficio-inglese/): Rompi il ghiaccio prima di un meeting o alla macchinetta del caffè.
 * [**Come parlare in meeting in inglese senza bloccarti**](/inglese/business/parlare-meeting-inglese/): Strategie e formule per intervenire in modo fluente e sicuro.
-* [**Come partecipare a una riunione in inglese: guida pratica**](/inglese/business/partecipare-riunione-inglese/): Come rispondere, dare la tua opinione e comunicare efficacemente in team.
+* [**Come partecipare a una riunione in inglese: guida pratica**](/inglese/business/partecipare-riunione-inglese/): Rispondi, esprimi la tua opinione e comunica in modo efficace con il team.
 
 ### 💼 Carriera e Networking
 * [**Inglese per colloqui di lavoro: domande e risposte utili**](/inglese/business/colloquio-lavoro-inglese/): Preparati alle domande più frequenti dei recruiter internazionali.
-* [**Come presentarsi in un colloquio in inglese (esempi pronti)**](/inglese/business/presentarsi-colloquio-inglese/): Impara a raccontare chi sei e cosa fai con strutture semplici ed d'impatto.
-* [**Inglese per LinkedIn: come scrivere un profilo professionale**](/inglese/business/linkedin-inglese/): Attrarre opportunità lavorative ottimizzando il tuo profilo in lingua.
-* [**Inglese per networking professionale: frasi utili e strategie**](/inglese/business/networking-professionale-inglese/): Frasi pratiche per farsi notare agli eventi e creare contatti solidi.
+* [**Come presentarsi in un colloquio in inglese (con esempi)**](/inglese/business/presentarsi-colloquio-inglese/): Racconta chi sei e cosa fai con strutture semplici e d'impatto.
+* [**Inglese per LinkedIn: come scrivere un profilo professionale**](/inglese/business/linkedin-inglese/): Ottimizza il tuo profilo per attrarre opportunità lavorative.
+* [**Inglese per networking professionale: frasi e strategie**](/inglese/business/networking-professionale-inglese/): Come farti notare agli eventi e costruire contatti solidi.
 
 ### ⚙️ Business Operativo
-* [**Inglese per ufficio base: frasi utili per il lavoro quotidiano**](/inglese/business/inglese-ufficio-base/): Le espressioni immancabili per la vita di tutti i giorni in azienda.
-* [**Inglese per clienti internazionali: comunicare senza errori**](/inglese/business/clienti-internazionali-inglese/): Mantenere un approccio professionale e chiaro con i partner esteri.
-* [**Come negoziare in inglese: frasi e strategie efficaci**](/inglese/business/negoziare-inglese/): Condurre trattative e difendere le tue posizioni in contesti commerciali.
-* [**Inglese per startup: frasi e comunicazione essenziale**](/inglese/business/inglese-startup/): Dal pitch agli investitori alla comunicazione snella tipica dei team agili.
+* [**Inglese per ufficio: frasi utili per il lavoro quotidiano**](/inglese/business/inglese-ufficio-base/): Le espressioni indispensabili per la vita di tutti i giorni in azienda.
+* [**Inglese per clienti internazionali: comunicare senza errori**](/inglese/business/clienti-internazionali-inglese/): Un approccio professionale e chiaro con partner e fornitori esteri.
+* [**Come negoziare in inglese: frasi e strategie efficaci**](/inglese/business/negoziare-inglese/): Conduci trattative e difendi le tue posizioni in contesti commerciali.
+* [**Inglese per startup: frasi e comunicazione essenziale**](/inglese/business/inglese-startup/): Dal pitch agli investitori alla comunicazione agile nei team moderni.
 
-### 🚨 Errori & Fluency
-* [**Business English kit base: frasi essenziali per lavorare subito**](/inglese/business/business-english-kit-base/): Il punto di partenza assoluto per iniziare a operare in inglese.
+### 🚨 Errori e Fluency
+* [**Business English kit base: frasi essenziali per iniziare subito**](/inglese/business/business-english-kit-base/): Il punto di partenza assoluto per operare in inglese da domani.
 * [**Errori comuni in inglese sul lavoro e come evitarli**](/inglese/business/errori-comuni-inglese-lavoro/): Gli scivoloni classici che rischiano di farti sembrare poco professionale.
-* [**Come parlare in modo professionale in inglese al lavoro**](/inglese/business/parlare-professionale-inglese/): Strategie per elevare il tuo tono senza complicare la grammatica.
-* [**Inglese per manager: comunicazione efficace in azienda**](/inglese/business/inglese-manager/): Gestire il team e dimostrare leadership usando le parole giuste.
-* [**Inglese per team remote: comunicare da remoto senza errori**](/inglese/business/inglese-team-remote/): Gestire lo smart working e il lavoro asincrono superando le barriere linguistiche.
+* [**Come parlare in modo professionale in inglese**](/inglese/business/parlare-professionale-inglese/): Alza il tuo tono senza complicare la grammatica.
+* [**Inglese per manager: comunicazione efficace in azienda**](/inglese/business/inglese-manager/): Guida il team e dimostra leadership con le parole giuste.
+* [**Inglese per team remoti: comunicare da remoto senza errori**](/inglese/business/inglese-team-remote/): Gestisci lo smart working e il lavoro asincrono superando le barriere linguistiche.
 
 {% include section-in-breve.html %}
 
-## Obiettivo
-Il fine di questo percorso è farti comunicare in modo professionale e farti guadagnare autorevolezza sul posto di lavoro. Usando le formule giuste eliminerai la "sindrome dell'impostore" e potrai concentrarti sulle tue vere competenze, non sulla traduzione.
+## Cosa otterrai
+
+Questo percorso ti aiuta a comunicare con sicurezza e a guadagnare autorevolezza sul posto di lavoro. Con le formule giuste non dovrai più tradurre in tempo reale: potrai concentrarti sulle tue competenze, non sulla lingua.
 
 {% include tldr-box.html %}
 
-## Avanza
-Non aspettare di sentirti perfetto per usare queste frasi. Usa l’inglese nel lavoro reale a partire dalla tua prossima email. Se hai ancora esitazioni nel parlare ad alta voce con i tuoi colleghi, ti consigliamo di fare un ripasso delle tecniche base nella nostra sezione dedicata allo [Speaking](/inglese/speaking/).
+## Il prossimo passo
+
+Non aspettare di sentirti pronto. Usa queste frasi nel lavoro reale — parti dalla tua prossima email. Se hai ancora esitazioni nel parlare ad alta voce con i colleghi, dai un'occhiata alle tecniche base nella nostra sezione [Speaking](/inglese/speaking/).
 
 {% include promo-box.html %}
-
