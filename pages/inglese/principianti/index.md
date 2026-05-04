@@ -70,7 +70,6 @@ Il percorso per principianti è studiato per portarti rapidamente dal silenzio a
 
 Seguendo questo percorso supererai la barriera dell'inerzia: passerai dal non capire nulla a **padroneggiare le strutture base**, presentarti, fare domande e reggere una conversazione semplice.
 
-{% include tldr-box.html %}
 
 ## Il prossimo passo
 
