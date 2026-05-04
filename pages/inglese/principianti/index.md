@@ -5,7 +5,7 @@ subtype: core-vocab
 intent_level: soft
 title: "Inglese da zero: parole ed esempi per iniziare"
 description: "Scopri le basi dell'inglese con esempi semplici e pratici."
-tldr: "Le parole e le basi per iniziare a parlare inglese."
+inbreve: "Le parole e le basi per iniziare a parlare inglese."
 permalink: /inglese/principianti/
 ---
 
