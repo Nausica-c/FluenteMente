@@ -4,8 +4,9 @@ title: "Come Salutare in Inglese: 50 Frasi Pronte e 5 Dialoghi Reali"
 date: 2026-04-01
 subtitle: "Evita l'effetto 'libro di scuola': impara le formule naturali per ogni situazione, dal colloquio al pub."
 description: "Guida definitiva ai saluti in inglese. 50 frasi ed esempi di dialoghi reali per situazioni formali e informali. Scopri come rispondere a 'How are you'."
-permalink: /inglese/da-zero/come-salutare-inglese/
+permalink: /inglese/beginner/come-salutare-inglese/
 redirect_from:
+  - /inglese/da-zero/come-salutare-inglese/
   - /inglese/da-zero/salutari-in-inglese/
 tldr: "Salutare correttamente è il 50% della conversazione. Non limitarti a 'Hello': impara le 50 formule essenziali per sembrare un locale e guarda come usarle in 5 situazioni reali, dal lavoro al bar."
 ---
