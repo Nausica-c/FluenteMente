@@ -2,7 +2,9 @@
 layout: post
 title: "Ansia Linguistica: Perché ti blocchi a parlare in inglese (e come uscirne)"
 date: 2026-04-01
-permalink: /ansia-linguistica-parlare-inglese/
+permalink: /inglese/mindset/ansia-parlare-inglese/
+redirect_from:
+- /ansia-linguistica-parlare-inglese/
 tldr: "Il vuoto totale quando devi parlare inglese non è mancanza di studio, è una reazione fisiologica allo stress. Scopri le tecniche per disinnescare la paura del giudizio, allenarti in privato e sbloccare la tua voce."
 ---
 
