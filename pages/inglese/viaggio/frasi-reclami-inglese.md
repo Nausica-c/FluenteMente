@@ -4,7 +4,9 @@ title: "Inglese per Business Travel e Reclami: Come Farsi Valere all'Estero"
 date: 2026-03-29
 subtitle: "Voli in ritardo, errori in fattura e imprevisti: le frasi esatte per essere assertivi e professionali (senza sembrare maleducati)."
 description: "Guida all'inglese per viaggi di lavoro e reclami. Impara le frasi per gestire ritardi, chiedere rimborsi e farti rispettare all'estero."
-permalink: /inglese/viaggio/inglese-business-reclami-viaggio/
+permalink: /inglese/viaggio/frasi-reclami-inglese/
+redirect_from:
+  - /inglese/viaggio/inglese-business-reclami-viaggio/
 tldr: "Gestire un imprevisto o un reclamo in inglese è la prova del nove per ogni professionista. Se traduci letteralmente dall'italiano, rischi di sembrare aggressivo o insicuro. Troverai le formule diplomatiche per farti rimborsare e gestire il tuo viaggio di lavoro con autorevolezza."
 ---
 
