@@ -3,7 +3,9 @@ layout: page
 title: "Present Perfect vs Past Simple: come smettere di confonderli"
 date: 2026-05-04
 description: "Non sai quando usare il Present Perfect o il Past Simple in inglese? Scopri la regola visiva della porta e del ponte per non sbagliare mai più (anche ai colloqui)."
-permalink: /inglese/grammatica/present-perfect-vs-past-simple/
+permalink: /inglese/grammatica-pratica/present-perfect-vs-past-simple/
+redirect_from:
+ - /inglese/grammatica/present-perfect-vs-past-simple/
 categories: [inglese, grammatica]
 ---
 
