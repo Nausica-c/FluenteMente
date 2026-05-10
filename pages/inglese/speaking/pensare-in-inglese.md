@@ -2,7 +2,9 @@
 layout: post
 title: "Come Pensare in Inglese senza tradurre a mente: 3 Esercizi"
 date: 2026-04-01
-permalink: /pensare-in-inglese/
+permalink: /inglese/speaking/pensare-in-inglese/
+redirect_from:
+- /pensare-in-inglese/
 tldr: "Tradurre dall'italiano all'inglese nella tua testa è un'operazione lenta che ti fa balbettare. Il segreto della fluidità è eliminare l'intermediario italiano."
 ---
 
