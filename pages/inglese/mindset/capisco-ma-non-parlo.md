@@ -3,8 +3,9 @@ layout: post
 title: "Capisco l’inglese ma non lo parlo: cause del blocco e come sbloccarsi"
 date: 2026-04-08
 description: "Capisci l’inglese ma ti blocchi quando devi parlare? Scopri la differenza tra vocabolario passivo e attivo, e le tecniche pratiche per sbloccarti."
-permalink: /capisco-ma-non-parlo/
+permalink: /inglese/mindset/capisco-ma-non-parlo/
 redirect_from:
+  - /capisco-ma-non-parlo/
   - /perche-italiani-sbagliano-inglese/
 categories: [inglese, speaking]
 ---
