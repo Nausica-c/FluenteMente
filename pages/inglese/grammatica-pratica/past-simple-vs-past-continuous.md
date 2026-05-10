@@ -4,7 +4,9 @@ title: "Past Simple vs Past Continuous: Come raccontare storie in inglese"
 date: 2026-04-01
 subtitle: "Smetti di fare confusione tra lo 'sfondo' e l'azione. La guida definitiva per non sbagliare più i racconti."
 description: "Scopri la differenza tra Past Simple e Past Continuous. Impara la regola dell'interruzione, l'uso di When e While e come smettere di tradurre dall'italiano."
-permalink: /inglese/grammatica/past-simple-vs-past-continuous/
+permalink: /inglese/grammatica-pratica/past-simple-vs-past-continuous
+redirect_from:
+ - /inglese/grammatica/past-simple-vs-past-continuous/
 categories: [inglese, grammatica]
 tldr: "Il Past Continuous crea l'atmosfera (stavo facendo), il Past Simple racconta il fatto (è successo). In questa guida vediamo come usarli insieme per descrivere scene, interruzioni e azioni simultanee senza sembrare un libro di grammatica polveroso."
 ---
