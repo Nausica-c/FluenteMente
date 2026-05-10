@@ -2,10 +2,11 @@
 layout: post
 title: "La Routine Infallibile: Imparare l'inglese in 15 Minuti al Giorno"
 date: 2026-03-26
-permalink: /routine/
+permalink: /inglese/metodo/routine/
 redirect_from:
   - /tempo-apprendimento-app/
   - /planner-studio-inglese-adulto/
+  - /routine/
   - 
 tldr: "Il segreto per imparare l'inglese da adulti non è l'intensità dello sforzo, ma la frequenza. Con il protocollo dei 15 minuti trasformi lo studio in un automatismo simile a lavarti i denti, azzerando la fatica mentale."
 ---
