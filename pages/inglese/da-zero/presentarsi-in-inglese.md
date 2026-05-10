@@ -4,9 +4,9 @@ title: "Presentarsi in Inglese: 40 Frasi e 5 Dialoghi per la Vita Reale"
 date: 2026-04-01
 subtitle: "Fai un'ottima prima impressione: tutto il vocabolario per rompere il ghiaccio e fare nuove amicizie."
 description: "Guida pratica per presentarsi in inglese. 40 frasi essenziali e 5 dialoghi pronti all'uso per situazioni formali e informali."
-permalink:/inglese/beginner/presentarsi-in-inglese/
+permalink: /inglese/beginner/presentarsi-in-inglese/
 redirect_from:
-- /inglese/da-zero/presentarsi-in-inglese/
+  - /inglese/da-zero/presentarsi-in-inglese/
   - /inglese/frasi/frasi-base-presentazioni/
 tldr: "Presentarsi è lo schema più ripetitivo di ogni lingua. Non serve creatività, serve avere un 'set' di frasi pronte all'uso per non balbettare quando ti chiedono 'So, tell me about yourself'. In questa guida trovi il kit di sopravvivenza per nomi, lavoro, hobby e come chiudere la conversazione."
 ---
