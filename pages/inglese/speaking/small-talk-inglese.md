@@ -5,7 +5,9 @@ date: 2026-03-28
 subtitle: "I 3 minuti prima dell'inizio di una riunione sono i più difficili. Scopri le frasi (e gli argomenti) per gestire le chiacchiere informali senza sembrare un robot."
 description: "Guida di sopravvivenza allo small talk in inglese. Gli argomenti sicuri, le frasi per rompere il ghiaccio e come allenare l'orecchio a capire i colleghi."
 category: inglese
-permalink: /inglese/business/small-talk-inglese/
+permalink: /inglese/speaking/small-talk-inglese/
+redirect_from: 
+- /inglese/business/small-talk-inglese/
 tags:
   - inglese
   - business
