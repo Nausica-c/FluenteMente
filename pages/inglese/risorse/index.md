@@ -2,7 +2,9 @@
 layout: post
 title: "Risorse Lingue 2026: Il Kit Essenziale per Adulti"
 date: 2026-03-26
-permalink: /risorse/
+permalink: /inglese/risorse/
+redirect_from:
+ - /risorse/
 tldr: "Cercare infinite risorse online è il modo migliore per procrastinare. Non ti servono decine di strumenti e PDF gratuiti, ti serve un sistema. Ecco il kit essenziale testato da FluenteMente per imparare una lingua."
 ---
 
