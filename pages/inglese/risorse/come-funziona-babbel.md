@@ -3,7 +3,9 @@ layout: page
 title: "Come funziona Babbel davvero: l'app alla prova per chi ha poco tempo"
 date: 2026-04-09
 description: "Cosa succede davvero quando scarichi Babbel? Scopri l'esperienza d'uso reale, gli esercizi e i veri pro e contro per capire se fa per te."
-permalink: /come-funziona-babbel/
+permalink: /inglese/risorse/come-funziona-babbel/
+redirect_from:
+ - /come-funziona-babbel/
 categories: [inglese, recensioni, metodo]
 ---
 
