@@ -4,7 +4,9 @@ title: "I Numeri in Inglese: La Guida Definitiva per non sbagliare mai"
 date: 2026-04-01
 subtitle: "Dall'ora ai prezzi, fino ai grandi numeri: impara a contare e a pronunciare correttamente ogni cifra."
 description: "Guida completa ai numeri cardinali e ordinali in inglese. Pronuncia corretta, differenze tra -teen e -ty e come leggere le date."
-permalink: /inglese/vocabolario/numeri-in-inglese/
+permalink: /inglese/beginner/numeri-in-inglese/
+redirect_from:
+-  /inglese/vocabolario/numeri-in-inglese/
 tldr: "Saper contare è fondamentale per sopravvivere: pagare il conto, leggere l'ora o dare il numero di telefono. In questa guida analizziamo le trappole della pronuncia e come gestire i numeri grandi."
 ---
 
