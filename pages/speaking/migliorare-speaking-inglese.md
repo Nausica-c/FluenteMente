@@ -4,7 +4,9 @@ title: "Come Migliorare lo Speaking in Inglese da Adulto (Senza Tornare a Scuola
 date: 2026-03-27
 subtitle: "Scopri perché l'età non è un limite e le 3 strategie pratiche per sbloccare la tua conversazione."
 description: "Ti blocchi quando devi parlare in inglese? Scopri perché succede agli adulti e 3 tecniche pratiche per sbloccare il tuo speaking senza stress."
-permalink: /metodo/migliorare-speaking-inglese/
+permalink: /speaking/migliorare-speaking-inglese/
+redirect_from:
+- /metodo/migliorare-speaking-inglese/
 tldr: "Il blocco nel parlato non è questione di età, ma di metodo e paura del giudizio. Scopri i 3 errori da evitare e le strategie pratiche per sbloccarti da casa in soli 15 minuti al giorno."
 ---
 
