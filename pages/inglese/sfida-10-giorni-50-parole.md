@@ -2,8 +2,9 @@
 layout: post
 title: "Sfida 10 Giorni: Impara le tue prime 50 Parole in Inglese"
 date: 2026-03-22
-permalink: /inglese/da-zero/sfida-10-giorni-50-parole/
+permalink: /inglese/beginner/sfida-10-giorni-50-parole/
 redirect_from:
+  - /inglese/da-zero/sfida-10-giorni-50-parole/
   - /inglese/da-zero/100-frasi-base-inglese-ogni-giorno/
   - /inglese/vocabolario/verbi-frasali-piu-usati/
   - /inglese/sfida-10-giorni-50-parole/
