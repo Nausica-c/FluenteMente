@@ -2,7 +2,9 @@
 layout: post
 title: "Babbel: Recensioni Negative e Opinioni. Funziona davvero? (2026)"
 date: 2026-04-01
-permalink: /babbel-opinioni-negative/
+permalink: /inglese/risorse/babbel-opinioni-negative/
+redirect_from:
+ - /babbel-opinioni-negative/
 tldr: "Le lamentele su Babbel riguardano quasi sempre tre punti: il costo, la mancanza di 'gioco' e l'assenza di alcune lingue. In questa analisi spietata vediamo se questi sono limiti dell'app o se sono proprio i motivi per cui un adulto dovrebbe sceglierla."
 ---
 
