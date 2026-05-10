@@ -3,7 +3,9 @@ layout: post
 title: "Imparare una lingua in 15 minuti: la routine per chi non ha tempo"
 date: 2026-05-02
 description: "Scopri come imparare una lingua straniera lavorando a tempo pieno. La tecnica dell'Habit Stacking per creare una routine di 15 minuti al giorno che funziona."
-permalink: /metodo/routine-15-minuti/
+permalink: /inglese/metodo/routine-15-minuti/
+redirect_from:
+  - /metodo/routine-15-minuti/
 categories: [metodo, lingue]
 ---
 
