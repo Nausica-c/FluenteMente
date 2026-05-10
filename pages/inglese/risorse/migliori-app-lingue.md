@@ -2,7 +2,9 @@
 layout: post
 title: "Migliori App per Imparare l'Inglese 2026: Classifica per Adulti"
 date: 2026-04-01
-permalink: /migliori-app-lingue/
+permalink: migliori-app-lingue.md 
+redirect_from:
+- /migliori-app-lingue/
 tldr: "Esistono centinaia di app, ma quante funzionano per chi lavora e ha poco tempo? Abbiamo testato le più famose (Babbel, Duolingo, Mondly, Rosetta Stone) per capire quale offre il miglior rapporto risultati-tempo."
 ---
 
