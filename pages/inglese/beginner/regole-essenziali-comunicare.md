@@ -4,9 +4,10 @@ title: "Grammatica Inglese: Le Regole Essenziali (Senza Stress)"
 date: 2026-04-01
 subtitle: "Dimentica i manuali da 500 pagine. Ecco il 20% della grammatica che copre l'80% delle conversazioni quotidiane."
 description: "Guida rapida alla grammatica inglese per adulti. I 4 tempi chiave, la struttura S-V-O e i verbi modali per parlare senza blocchi."
-permalink: /inglese/grammatica/regole-essenziali-comunicare/
+permalink: /inglese/beginner/regole-essenziali-comunicare/
 categories: [inglese, grammatica]
 redirect_from:
+  - /inglese/grammatica/regole-essenziali-comunicare/
   - /inglese/grammatica/30-regole-grammatica-parte-1/
   - /inglese/grammatica/30-regole-grammatica-parte-2/
   - /inglese/grammatica/30-regole-grammatica-parte-3/
