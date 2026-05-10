@@ -2,7 +2,9 @@
 layout: post
 title: "Ripetizione Spaziata (SRS): Il segreto per non dimenticare i vocaboli"
 date: 2026-04-01
-permalink: /metodo/ripetizione-spaziata-lingue/
+permalink: /inglese/metodo/ripetizione-spaziata-lingue/
+redirect_from:
+- /metodo/ripetizione-spaziata-lingue/
 tldr: "La Ripetizione Spaziata è l'unico metodo scientificamente provato per fissare le parole nella memoria a lungo termine. Ma c'è un problema: applicarla manualmente con flashcard di carta o file Excel è un lavoro a tempo pieno. Ecco come automatizzarla."
 ---
 
