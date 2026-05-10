@@ -4,8 +4,9 @@ title: "Il Vocabolario Base dell'Inglese: La Guida Completa per Adulti"
 date: 2026-04-01
 subtitle: "Numeri, colori, mesi e parole essenziali: tutto il kit di sopravvivenza in un'unica pagina."
 description: "Tutto il vocabolario inglese di base in un'unica risorsa: numeri, colori, mesi, stagioni, parti del corpo e verbi più usati con traduzione."
-permalink: /inglese/vocabolario/vocabolario-base-inglese/
+permalink: /inglese/beginner/vocabolario-base-inglese/
 redirect_from:
+  - /inglese/vocabolario/vocabolario-base-inglese/
   - /inglese/vocabolario/colori-inglese/
   - /inglese/vocabolario/mesi-stagioni-inglese/
   - /inglese/vocabolario/nomi-animali-inglese/
