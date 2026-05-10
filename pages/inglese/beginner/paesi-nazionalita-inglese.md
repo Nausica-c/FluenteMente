@@ -4,10 +4,11 @@ title: "Paesi, Nazionalità e Origini: La Guida per Presentarsi al Mondo"
 date: 2026-04-01
 subtitle: "Saper dire 'Italy' è solo l'inizio. Impara a raccontare le tue radici e la tua storia come un vero madrelingua."
 description: "Guida completa ai nomi dei paesi e nazionalità in inglese. Include 20+ nazioni, esempi di dialoghi e le frasi per rispondere a 'Where are you from?'."
-permalink: /inglese/vocabolario/paesi-nazionalita-inglese/
+permalink: /inglese/beginner/paesi-nazionalita-inglese/
 redirect_from:
   - /inglese/vocabolario/parlare-nazionalita-origini-inglese/
   - /inglese/da-zero/paesi-nazionalita-inglese/
+  - /inglese/vocabolario/paesi-nazionalita-inglese/
 tldr: "In questa guida definitiva impari non solo i nomi delle nazioni, ma il kit di sopravvivenza per parlare della tua identità: dove sei nato, dove vivi ora e quali sono le tue radici familiari."
 ---
 
