@@ -4,7 +4,9 @@ title: "Present Simple vs Present Continuous: Guida alla Scelta Istintiva"
 date: 2026-04-01
 subtitle: "Smetti di tradurre 'faccio' con 'I do'. Scopri la differenza tra la tua identità e le tue azioni."
 description: "Impara quando usare il Present Simple e il Present Continuous. La guida pratica per distinguere routine e azioni temporanee senza errori."
-permalink: /inglese/grammatica/present-simple-vs-present-continuous/
+permalink: /inglese/grammatica-pratica/present-simple-vs-present-continuous
+redirect_from:
+- /inglese/grammatica/present-simple-vs-present-continuous/
 categories: [inglese, grammatica]
 tldr: "Il Present Simple descrive chi sei e cosa fai di solito (la tua 'statua'). Il Present Continuous descrive cosa sta succedendo ora (il tuo 'video'). In questa guida vediamo come scegliere il tempo giusto in un millisecondo."
 ---
