@@ -2,7 +2,9 @@
 layout: post
 title: "I Migliori Podcast in Inglese (2026): Guida Divisa per Livelli (A1-C1)"
 date: 2026-03-26
-permalink: /migliori-podcast-inglese-livelli/
+permalink: /inglese/risorse/migliori-podcast-inglese-livelli/
+redirect_from:
+- /migliori-podcast-inglese-livelli/
 tldr: "Smetti di ascoltare audio incomprensibili in sottofondo. Per migliorare davvero il listening devi ascoltare materiali adatti al tuo livello attuale. Ecco la selezione dei migliori podcast del 2026, dai principianti assoluti agli avanzati."
 ---
 
