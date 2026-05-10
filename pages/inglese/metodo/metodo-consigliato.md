@@ -2,7 +2,7 @@
 layout: post
 title: "Il Metodo Consigliato: Come imparare l'inglese da adulti (2026)"
 date: 2026-03-26
-permalink:/inglese/metodo/metodo-consigliato/
+permalink: /inglese/metodo/metodo-consigliato/
 redirect_from:
   - /errori-imparare-lingue-adulti/
   - /ripetizione-spaziata-lingue/
