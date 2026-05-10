@@ -4,8 +4,9 @@ title: "La Tecnica dello Shadowing: L'Allenamento Muscolare per Parlare Inglese"
 date: 2026-04-01
 subtitle: "Non impari a nuotare leggendo un manuale. Scopri la tecnica usata dagli interpreti per sbloccare i muscoli della bocca e parlare senza balbettare."
 description: "Cos'è la tecnica dello Shadowing in inglese e come si applica. La guida pratica per allenare i muscoli facciali, migliorare la pronuncia e sbloccare il parlato."
-permalink: /tecnica-shadowing-inglese/
+permalink: /inglese/speaking/tecnica-shadowing-inglese/
 redirect_from:
+  - /tecnica-shadowing-inglese/
   - /inglese/pronuncia/come-migliorare-accento/
   - /inglese/pronuncia/alfabeto-fonetico-inglese/
   - /inglese/pronuncia/suoni-difficili-th/
