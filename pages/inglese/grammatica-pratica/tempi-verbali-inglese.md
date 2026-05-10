@@ -4,7 +4,9 @@ title: "Tempi Verbali Inglesi: La Mappa Strategica 80/20"
 date: 2026-04-01
 subtitle: "Dimentica i manuali. Ecco i 6 tempi verbali che coprono il 90% delle tue conversazioni reali."
 description: "Guida completa ai tempi verbali inglesi per adulti. Una panoramica strategica per capire cosa studiare e cosa ignorare per essere fluenti subito."
-permalink: /inglese/grammatica/tempi-verbali-inglese/
+permalink: /inglese/grammatica-pratica/tempi-verbali-inglese/
+redirect_from:
+- /inglese/grammatica/tempi-verbali-inglese/
 categories: [inglese, grammatica]
 tldr: "Non ti servono 12 tempi verbali per lavorare o viaggiare. Te ne servono 6, usati bene. In questa guida mappiamo l'inglese in base alle tue intenzioni comunicative, non alle regole scolastiche."
 ---
