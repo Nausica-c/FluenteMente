@@ -2,7 +2,10 @@
 layout: page
 title: "Grammatica Inglese: Tutti gli articoli"
 description: "Archivio completo delle nostre guide di grammatica inglese per adulti: regole spiegate in modo semplice, esempi pratici e uso reale."
-permalink: /inglese/grammatica/
+permalink: /inglese/grammatica-pratica/
+redirect_from:
+- /inglese/grammatica/
+
 bridge_type: grammatica
 
 next_title: "Hai chiarito le regole: qual è il prossimo passo?"
