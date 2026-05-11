@@ -1,0 +1,69 @@
+{% assign t = page.type %}
+{% assign s = page.subtype %}
+
+{%- comment -%}
+========================
+DEFAULT
+========================
+{%- endcomment -%}
+
+{% assign quote = "Capire una lingua non significa saperla usare." %}
+{% assign author = "FluenteMente" %}
+
+{%- comment -%}
+========================
+TYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if t == "problem" %}
+
+  {% assign quote = "Il blocco non è mancanza di conoscenza, ma mancanza di pratica." %}
+
+{% elsif t == "beginner" %}
+
+  {% assign quote = "Non devi studiare di più, devi usare meglio quello che già sai." %}
+
+{% elsif t == "review" %}
+
+  {% assign quote = "Il vero cambiamento avviene quando smetti di studiare e inizi a parlare." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES
+========================
+{%- endcomment -%}
+
+{% if s == "confidence" %}
+
+  {% assign quote = "La paura di parlare sparisce solo quando inizi a parlare davvero." %}
+
+{% elsif s == "speaking" %}
+
+  {% assign quote = "Parlare è una skill fisica, non solo mentale." %}
+
+{% elsif s == "grammar" %}
+
+  {% assign quote = "La grammatica non serve se non la trasformi in azione." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT
+========================
+{%- endcomment -%}
+
+<blockquote class="fm-quote-card {{ include.class }}">
+
+  <p class="fm-quote-text">
+    “{{ include.quote | default: quote }}”
+  </p>
+
+  <span class="fm-quote-author">
+    — {{ include.author | default: author }}
+  </span>
+
+</blockquote>
