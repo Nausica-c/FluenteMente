@@ -1,0 +1,27 @@
+{% assign author = include.author | default: "FluenteMente" %}
+{% assign title = include.title | default: "👤 Perché fidarti di questo contenuto" %}
+{% assign text = include.text | default: "Questo contenuto è basato su metodi pratici di apprendimento linguistico e strategie di acquisizione reale della lingua, non teoria scolastica." %}
+
+<div class="fm-trust-box {{ include.class }}">
+
+  <div class="fm-trust-title">
+    {{ title }}
+  </div>
+
+  <p class="fm-trust-text">
+    {{ text }}
+  </p>
+
+  {% if include.points %}
+  <ul class="fm-trust-list">
+    {% for item in include.points %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <div class="fm-trust-footer">
+    — {{ author }}
+  </div>
+
+</div>
