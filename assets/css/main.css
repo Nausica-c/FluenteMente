@@ -541,4 +541,9 @@ blockquote {
   color: var(--primary-color) !important;
 }
 
-
+@import "components/insight-box";
+@import "components/quote-card";
+@import "components/cta-card";
+@import "components/warning-box";
+@import "components/diagnosis-grid";
+@import "components/timeline";
