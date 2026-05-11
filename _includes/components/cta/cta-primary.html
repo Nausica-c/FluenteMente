@@ -1,17 +1,18 @@
-{% assign t = page.type %}
-{% assign s = page.subtype %}
-{% assign level = page.intent_level %}
+{%- assign t = page.type -%}
+{%- assign s = page.subtype -%}
+{%- assign level = page.intent_level -%}
 
 {%- comment -%}
 ========================
-DEFAULT
+DEFAULT CONTENT
 ========================
 {%- endcomment -%}
 
-{% assign title = "🚀 Inizia a parlare davvero" %}
-{% assign text = "Usa un metodo pratico per sbloccarti subito senza perdere tempo con teoria inutile." %}
-{% assign link_text = "Inizia gratis con Babbel →" %}
-{% assign badge = "✨ Consigliato" %}
+{%- assign cta_title = "🚀 Inizia a parlare davvero" -%}
+{%- assign cta_text = "Usa un metodo pratico per sbloccarti subito senza perdere tempo con teoria inutile." -%}
+{%- assign cta_link_text = "Inizia gratis con Babbel →" -%}
+{%- assign cta_badge = "✨ Consigliato" -%}
+{%- assign cta_class = "soft" -%}
 
 {%- comment -%}
 ========================
@@ -21,106 +22,99 @@ TYPE LOGIC
 
 {% if t == "beginner" %}
 
-  {% assign title = "🌱 Parti senza confusione" %}
-  {% assign text = "Ti serve un percorso chiaro, non altro caos." %}
+  {%- assign cta_title = "🌱 Parti senza confusione" -%}
+  {%- assign cta_text = "Ti serve un percorso chiaro, non altro caos." -%}
 
 {% elsif t == "problem" %}
 
-  {% assign title = "🧠 Il problema non sei tu" %}
-  {% assign text = "Spesso è il metodo a creare il blocco, non la tua capacità." %}
+  {%- assign cta_title = "🧠 Il problema non sei tu" -%}
+  {%- assign cta_text = "Spesso è il metodo a creare il blocco, non la tua capacità." -%}
 
 {% elsif t == "review" %}
 
-  {% assign title = "🔥 Ora puoi provarlo davvero" %}
-  {% assign text = "Dopo aver letto la guida, il modo migliore per capire se funziona è testarlo." %}
+  {%- assign cta_title = "🔥 Ora puoi provarlo davvero" -%}
+  {%- assign cta_text = "Il modo migliore per capire se funziona è testarlo." -%}
 
 {% endif %}
 
 {%- comment -%}
 ========================
-SUBTYPE
+SUBTYPE LOGIC
 ========================
 {%- endcomment -%}
 
 {% if s == "speaking" %}
 
-  {% assign badge = "🗣️ Speaking" %}
-  {% assign title = "🗣️ Inizia finalmente a parlare" %}
-  {% assign text = "Allenare il parlato ogni giorno vale più di studiare altra teoria." %}
-  {% assign link_text = "Sblocca il tuo speaking →" %}
+  {%- assign cta_badge = "🗣️ Speaking" -%}
+  {%- assign cta_title = "🗣️ Inizia finalmente a parlare" -%}
+  {%- assign cta_text = "Allenare il parlato ogni giorno vale più della teoria." -%}
+  {%- assign cta_link_text = "Sblocca il tuo speaking →" -%}
 
 {% elsif s == "confidence" %}
 
-  {% assign badge = "💪 Confidence" %}
-  {% assign title = "💪 La sicurezza arriva usando la lingua" %}
-  {% assign text = "Non devi essere perfetto. Devi iniziare a parlare." %}
-  {% assign link_text = "Allenati senza stress →" %}
+  {%- assign cta_badge = "💪 Confidence" -%}
+  {%- assign cta_title = "💪 La sicurezza arriva usando la lingua" -%}
+  {%- assign cta_text = "Non devi essere perfetto. Devi iniziare a parlare." -%}
+  {%- assign cta_link_text = "Allenati senza stress →" -%}
 
 {% elsif s == "travel" %}
 
-  {% assign badge = "✈️ Travel" %}
-  {% assign title = "✈️ Preparati prima di partire" %}
-  {% assign text = "Poche frasi pratiche possono salvarti durante un viaggio." %}
-  {% assign link_text = "Preparati con Babbel →" %}
+  {%- assign cta_badge = "✈️ Travel" -%}
+  {%- assign cta_title = "✈️ Preparati prima di partire" -%}
+  {%- assign cta_text = "Poche frasi pratiche possono salvarti durante un viaggio." -%}
+  {%- assign cta_link_text = "Preparati con Babbel →" -%}
 
 {% endif %}
 
 {%- comment -%}
 ========================
-INTENT LEVEL
+INTENT LEVEL (UI INTENSITY)
 ========================
 {%- endcomment -%}
 
 {% if level == "soft" %}
-
-  {% assign cta_class = "soft" %}
+  {%- assign cta_class = "fm-cta--soft" -%}
 
 {% elsif level == "medium" %}
-
-  {% assign cta_class = "medium" %}
+  {%- assign cta_class = "fm-cta--medium" -%}
 
 {% elsif level == "hard" %}
-
-  {% assign cta_class = "hard" %}
-
-{% else %}
-
-  {% assign cta_class = "soft" %}
+  {%- assign cta_class = "fm-cta--hard" -%}
 
 {% endif %}
 
 {%- comment -%}
 ========================
-OUTPUT
+OUTPUT (UI LAYER ONLY)
 ========================
 {%- endcomment -%}
 
 <div class="fm-cta {{ cta_class }}">
 
-  <div class="fm-cta-badge">
-    {{ include.badge | default: badge }}
+  {% if cta_badge %}
+  <div class="fm-cta__badge">
+    {{ cta_badge }}
   </div>
+  {% endif %}
 
-  <h3>
-    {{ include.title | default: title }}
+  <h3 class="fm-cta__title">
+    {{ cta_title }}
   </h3>
 
-  <p>
-    {{ include.text | default: text }}
+  <p class="fm-cta__text">
+    {{ cta_text }}
   </p>
 
   <a
+    class="fm-cta__btn"
     rel="sponsored noopener"
     target="_blank"
     href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
-    class="fm-btn"
   >
-
-    {{ include.link_text | default: link_text }}
-
+    {{ cta_link_text }}
   </a>
 
-  <span class="fm-cta-micro">
+  <span class="fm-cta__micro">
     {{ include.microcopy | default: "Prima lezione gratuita • Nessun rischio" }}
   </span>
 
