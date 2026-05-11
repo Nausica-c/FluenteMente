@@ -1,0 +1,18 @@
+.fm-insight-box{
+  background:#f3f7ff;
+  border-left:4px solid #4f7cff;
+  padding:18px;
+  border-radius:14px;
+  margin:28px 0;
+}
+
+.fm-insight-title{
+  font-weight:700;
+  margin-bottom:8px;
+  font-size:1.05rem;
+}
+
+.fm-insight-box p{
+  margin:0;
+  line-height:1.7;
+}
