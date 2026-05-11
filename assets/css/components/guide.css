@@ -1,0 +1,99 @@
+.fm-next-step{
+  background:#f8fafc;
+  border:1px solid #e5e7eb;
+  border-radius:22px;
+  padding:28px;
+  margin:42px 0;
+  position:relative;
+}
+
+/* ========================
+TITLE
+======================== */
+
+.fm-next-step h3{
+  margin-top:0;
+  margin-bottom:12px;
+  font-size:1.35rem;
+  line-height:1.3;
+  color:#111827;
+}
+
+/* ========================
+TEXT
+======================== */
+
+.fm-next-step p{
+  line-height:1.7;
+  margin-bottom:18px;
+  color:#374151;
+}
+
+/* ========================
+BUTTON
+======================== */
+
+.fm-next-btn{
+  display:inline-block;
+  padding:12px 18px;
+  border-radius:14px;
+  font-weight:700;
+  text-decoration:none;
+  background:#111827;
+  color:white;
+  transition:all .2s ease;
+}
+
+/* hover */
+.fm-next-btn:hover{
+  transform:translateY(-2px);
+  opacity:0.9;
+}
+
+/* ========================
+BADGE
+======================== */
+
+.fm-next-badge{
+  display:inline-block;
+  margin-bottom:14px;
+  padding:6px 12px;
+  border-radius:999px;
+  font-size:0.82rem;
+  font-weight:700;
+  background:#e0e7ff;
+  color:#4f46e5;
+}
+
+/* ========================
+VARIANTI (OPZIONALE FUTURO)
+======================== */
+
+.fm-next-step.speaking{
+  border-left:4px solid #4f46e5;
+}
+
+.fm-next-step.confidence{
+  border-left:4px solid #10b981;
+}
+
+.fm-next-step.travel{
+  border-left:4px solid #f59e0b;
+}
+
+/* ========================
+MOBILE
+======================== */
+
+@media(max-width:768px){
+
+  .fm-next-step{
+    padding:22px;
+    border-radius:18px;
+  }
+
+  .fm-next-step h3{
+    font-size:1.2rem;
+  }
+
+}
