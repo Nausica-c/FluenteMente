@@ -1,0 +1,89 @@
+.fm-quote-card{
+  margin:42px 0;
+  padding:28px 26px;
+  border-radius:22px;
+  position:relative;
+  background:#0f172a;
+  color:white;
+  overflow:hidden;
+}
+
+/* ========================
+QUOTE TEXT
+======================== */
+
+.fm-quote-text{
+  font-size:1.2rem;
+  line-height:1.6;
+  margin:0;
+  font-style:italic;
+  position:relative;
+  z-index:2;
+}
+
+/* ========================
+AUTHOR
+======================== */
+
+.fm-quote-author{
+  display:block;
+  margin-top:14px;
+  font-size:0.9rem;
+  opacity:0.75;
+  position:relative;
+  z-index:2;
+}
+
+/* ========================
+VISUAL ACCENT (BIG QUOTE MARK)
+======================== */
+
+.fm-quote-card::before{
+  content:"“";
+  position:absolute;
+  top:-20px;
+  left:10px;
+  font-size:120px;
+  color:rgba(255,255,255,0.08);
+  font-family:serif;
+}
+
+/* ========================
+LIGHT VARIANT (OPTIONAL FUTURE)
+======================== */
+
+.fm-quote-card.light{
+  background:#f8fafc;
+  color:#111827;
+  border:1px solid #e5e7eb;
+}
+
+.fm-quote-card.light::before{
+  color:rgba(17,24,39,0.06);
+}
+
+/* ========================
+HOVER (subtle depth)
+======================== */
+
+.fm-quote-card:hover{
+  transform:translateY(-2px);
+  transition:all .2s ease;
+}
+
+/* ========================
+MOBILE
+======================== */
+
+@media(max-width:768px){
+
+  .fm-quote-card{
+    padding:22px;
+    border-radius:18px;
+  }
+
+  .fm-quote-text{
+    font-size:1.05rem;
+  }
+
+}
