@@ -1,0 +1,33 @@
+.fm-next-step{
+  background:#f8fafc;
+  border:1px solid #e5e7eb;
+  border-radius:22px;
+  padding:28px;
+  margin:42px 0;
+}
+
+.fm-next-step h3{
+  margin-top:0;
+  font-size:1.35rem;
+}
+
+.fm-next-step p{
+  line-height:1.7;
+}
+
+.fm-next-btn{
+  display:inline-block;
+  margin-top:16px;
+  text-decoration:none;
+  font-weight:700;
+}
+
+.fm-next-step-badge{
+  display:inline-block;
+  margin-bottom:14px;
+  font-size:0.82rem;
+  background:#eef2ff;
+  color:#4f46e5;
+  padding:6px 12px;
+  border-radius:999px;
+}
