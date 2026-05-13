@@ -308,6 +308,47 @@ blockquote {
   border-radius: var(--radius-md);
   padding: 22px;
 }
+/* ==========================================================================
+   CLUSTER GRID (Card per i percorsi)
+========================================================================== */
+.cluster-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.cluster-box {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cluster-box:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary-color);
+}
+
+.cluster-box h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+}
+
+.cluster-box p {
+  margin: 0;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+.text-orange {
+  color: var(--primary-color);
+}
 
 /* ==========================================================================
    FOOTER
