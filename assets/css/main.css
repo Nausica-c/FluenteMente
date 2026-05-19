@@ -2,584 +2,212 @@
   --primary-color: #ff8000;
   --primary-hover: #e67300;
 
-  --text-main: #2d3748;
-  --text-light: #718096;
+  --text-main: #1f2937;
+  --text-light: #6b7280;
 
-  --bg-body: #f8fafc;
-  --bg-header: #ffffff;
+  --bg-body: #f6f8fb;
+  --bg-card: #ffffff;
 
-  --border-color: #e2e8f0;
+  --border-color: #e5e7eb;
 
-  --content-width: 840px;
+  --content-width: 820px;
 
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 16px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
 
-  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
-  --shadow-md: 0 10px 20px rgba(0,0,0,0.05);
-  --shadow-lg: 0 18px 50px rgba(0,0,0,0.06);
+  --shadow-sm: 0 2px 10px rgba(0,0,0,0.04);
+  --shadow-md: 0 14px 30px rgba(0,0,0,0.06);
 }
 
-/* ==========================================================================
-   BASE & RESET
-========================================================================== */
-* { box-sizing: border-box; margin: 0; padding: 0; }
-html:focus-within { scroll-behavior: smooth; }
+/* =========================
+   BASE — ANTI MUR0 DI TESTO
+========================= */
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif;
+  line-height: 1.75;
   color: var(--text-main);
-  background-color: var(--bg-body);
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  background: var(--bg-body);
 }
 
-a { color: var(--primary-color); text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-a:focus-visible, button:focus-visible, input:focus-visible {
-  outline: 3px solid rgba(255,128,0,0.25);
-  outline-offset: 3px;
-  border-radius: 6px;
-}
-
-ul { list-style: none; }
-
-.wrapper {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-/* ==========================================================================
-   TIPOGRAFIA & SPAZIATURE TESTO
-========================================================================== */
 p {
-  margin-bottom: 18px;
-}
-
-h1, h2, h3 {
-  margin-top: 36px;
-  margin-bottom: 14px;
-  line-height: 1.3;
-}
-
-blockquote {
-  margin: 24px 0;
-  padding: 20px;
-  border-left: 4px solid var(--text-light);
-  background-color: #f1f5f9;
-}
-
-/* ==========================================================================
-   HEADER & NAV 
-========================================================================== */
-.site-header {
-  background-color: var(--bg-header);
-  border-top: 4px solid var(--primary-color);
-  border-bottom: 1px solid var(--border-color);
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-}
-
-.header-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 70px;
-}
-
-.site-title {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: #1a202c;
-  letter-spacing: -0.5px;
-}
-.site-title:hover { text-decoration: none; }
-
-.site-nav .page-link {
-  color: var(--text-main);
-  margin-left: 25px;
-  font-weight: 500;
-  font-size: 1rem;
-  transition: color .2s ease, background-color .2s ease;
-}
-.site-nav .page-link:hover {
-  color: var(--primary-color);
-  text-decoration: none;
-}
-
-.site-nav .page-link.is-primary {
-  margin-left: 18px;
-  padding: 8px 18px;
-  border-radius: 999px;
-  background: var(--primary-color);
-  color: #fff;
-  font-weight: 700;
-}
-.site-nav .page-link.is-primary:hover {
-  background: var(--primary-hover);
-  color: #fff;
-}
-
-/* HAMBURGER BASE (Nascondi su Desktop) */
-.nav-trigger { display: none; }
-
-.menu-icon {
-  display: none;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 28px;
-  height: 20px;
-  cursor: pointer;
-  z-index: 101;
-}
-
-.menu-icon span {
-  display: block;
-  height: 3px;
-  width: 100%;
-  background: #1a202c;
-  border-radius: 2px;
-  transition: all 0.3s ease;
-  transform-origin: left center;
-}
-
-/* CONTAINER LINKS DESKTOP */
-.trigger {
-  display: flex;
-  align-items: center;
-}
-
-/* ==========================================================================
-   LAYOUT PRINCIPALE
-========================================================================== */
-.page-content { flex: 1; padding: 50px 0; }
-
-.post-wrapper {
-  max-width: 760px;
-  margin: 0 auto;
-  background: #fff;
-  padding: 40px;
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-sm);
-}
-
-.post-header { margin-bottom: 28px; text-align: center; }
-.post-title { font-size: 2.4rem; line-height: 1.2; color: #1a202c; margin-bottom: 10px; }
-.post-meta { color: var(--text-light); font-size: .95rem; }
-
-/* ==========================================================================
-   PULSANTI
-========================================================================== */
-.btn-primary {
-  display: inline-block;
-  background: var(--primary-color);
-  color: #fff !important;
-  padding: 15px 35px;
+  margin-bottom: 22px;
   font-size: 1.05rem;
-  font-weight: 800;
-  border-radius: 50px;
-  text-decoration: none;
-  text-align: center;
-  transition: background-color .3s, transform .2s;
-}
-.btn-primary:hover {
-  background: var(--primary-hover);
-  transform: translateY(-2px);
 }
 
-.btn-outline {
-  display: inline-block;
-  background: transparent;
-  color: var(--primary-color) !important;
-  padding: 15px 28px;
-  font-weight: 800;
-  border-radius: 50px;
-  border: 2px solid var(--primary-color);
-  text-align: center;
+/* 👇 CHIAVE: più respiro tra sezioni */
+h1, h2, h3 {
+  margin-top: 48px;
+  margin-bottom: 16px;
+  line-height: 1.25;
+  letter-spacing: -0.3px;
 }
 
-/* ==========================================================================
-   BOX CONVERSIONE
-========================================================================== */
-.tldr-box {
-  background-color: #f1f5f9;
-  border-left: 4px solid var(--text-light);
-  padding: 16px 20px;
-  border-radius: 0 8px 8px 0;
-  margin: 24px 0;
+/* divide mentalmente il contenuto */
+section {
+  margin: 42px 0;
 }
 
-.bridge-box {
-  margin: 40px 0;
-  padding: 24px;
-  background-color: #f8fafc;
-  border-left: 5px solid var(--primary-color);
+/* =========================
+   ARTICLE FLOW (CORE ENGINE)
+========================= */
+
+.article-flow > * + * {
+  margin-top: 26px;
 }
 
-.promo-box {
-  margin: 45px 0;
-  padding: 30px;
-  border-radius: var(--radius-md);
-  border: 2px solid var(--primary-color);
-  background: linear-gradient(180deg, rgba(255,128,0,.08), #fff);
-  text-align: center;
+/* crea “blocchi cognitivi” */
+.content-block {
+  padding: 4px 0;
 }
 
-/* ==========================================================================
-   HERO CLEAN & HERO SAAS
-========================================================================== */
-.hero-clean {
-  background: #fff;
-  padding: 70px 0 30px;
-  border-bottom: 1px solid var(--border-color);
-}
+/* =========================
+   CARD SYSTEM PIÙ LEGGERO
+========================= */
 
-.hero-clean__title { font-size: 2.6rem; text-align: center; }
-.hero-clean__subtitle { text-align: center; color: var(--text-light); }
-
-.hero-saas {
-  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
-  padding: 90px 0 70px;
-  text-align: center;
-  border-bottom: 1px solid var(--border-color);
-}
-
-.hero-saas__inner {
-  max-width: 720px;
-  margin: 0 auto;
-}
-
-.hero-saas__badge {
-  display: inline-block;
-  background: rgba(255,128,0,0.1);
-  color: #1a202c;
-  padding: 6px 12px;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 700;
-  margin-bottom: 18px;
-}
-
-.hero-saas__title {
-  font-size: 2.8rem;
-  line-height: 1.15;
-  color: #1a202c;
-  margin-bottom: 18px;
-}
-
-.hero-saas__subtitle {
-  font-size: 1.15rem;
-  color: var(--text-light);
-  margin-bottom: 30px;
-}
-
-.hero-saas__actions {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-bottom: 18px;
-}
-
-.hero-saas__proof {
-  font-size: 0.9rem;
-  color: var(--text-light);
-}
-
-/* ==========================================================================
-   GRID
-========================================================================== */
-.start-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 18px;
-}
-
-.start-card {
-  background: #fff;
+.card {
+  background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   padding: 22px;
-}
-/* ==========================================================================
-   CLUSTER GRID (Card per i percorsi)
-========================================================================== */
-.cluster-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  margin-top: 20px;
-  margin-bottom: 30px;
-}
-
-.cluster-box {
-  background-color: #ffffff;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
-  padding: 20px;
   box-shadow: var(--shadow-sm);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin: 28px 0;
 }
 
-.cluster-box:hover {
+/* hover soft */
+.card:hover {
   transform: translateY(-2px);
   box-shadow: var(--shadow-md);
-  border-color: var(--primary-color);
+  transition: 0.2s ease;
 }
 
-.cluster-box h3 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 1.2rem;
+/* =========================
+   TYPOGRAPHY ENGINE
+========================= */
+
+h1 {
+  font-size: 2.4rem;
 }
 
-.cluster-box p {
-  margin: 0;
-  color: var(--text-light);
-  line-height: 1.5;
+h2 {
+  font-size: 1.7rem;
 }
 
-.text-orange {
-  color: var(--primary-color);
+h3 {
+  font-size: 1.25rem;
 }
 
-/* ==========================================================================
-   FOOTER
-========================================================================== */
-.site-footer {
-  background: #1a202c;
-  color: #cbd5e1;
-  padding: 35px 20px 25px; /* Padding superiore e inferiore ridotti */
-  margin-top: auto;
-  font-size: 0.95rem; /* Testo leggermente più compatto */
+/* sottolinea concetti chiave */
+strong {
+  color: var(--text-main);
+  font-weight: 700;
 }
 
-.site-footer p, 
-.site-footer ul {
-  margin-bottom: 8px; /* Margine ridotto da 16px a 8px */
-  line-height: 1.5; /* Interlinea ristretta */
-}
+/* =========================
+   BOX CONVERSIONE (RIDOTTI “PESO”)
+========================= */
 
-.site-footer li {
-  margin-bottom: 4px; /* Avvicina i singoli link della lista */
-}
-
-.site-footer h3,
-.site-footer h4,
-.site-footer .footer-heading {
-  color: #ffffff;
-  margin-top: 20px; /* Margine superiore ridotto */
-  margin-bottom: 8px; /* Margine inferiore ridotto */
-  font-size: 1.05rem; /* Titolo leggermente più proporzionato */
-}
-
-.site-footer a {
-  color: var(--primary-color);
-}
-
-.site-footer a:hover {
-  color: var(--primary-hover);
-}
-
-/* ==========================================================================
-   MOBILE & RESPONSIVE (FIX DEFINITIVO)
-========================================================================== */
-@media screen and (max-width: 768px) {
-
-  /* Spaziature laterali testuali forzate (Fix Definitivo) */
-  .page-content, 
-  .post-wrapper, 
-  .wrapper,
-  main, 
-  article {
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    width: 100%;
-  }
-
-  /* Mostra icona hamburger */
-  .menu-icon { display: flex; }
-
-  /* Configurazione Dropdown Mobile */
-  .trigger {
-    display: none;
-    position: absolute;
-    top: 70px;
-    left: 0;
-    width: 100%;
-    background: #fff;
-    flex-direction: column;
-    border-bottom: 1px solid var(--border-color);
-    box-shadow: 0 10px 15px rgba(0,0,0,0.05);
-  }
-
-  /* Mostra dropdown quando cliccato */
-  .nav-trigger:checked ~ .trigger { display: flex; }
-
-  /* Link del menu mobile */
-  .site-nav .page-link {
-    display: block;
-    padding: 16px 20px;
-    margin: 0;
-    border-top: 1px solid var(--border-color);
-    font-size: 1.1rem;
-  }
-
-  /* Fix stile bottone "Inizia" nel menu mobile */
-  .site-nav .page-link.is-primary {
-    margin: 16px 20px;
-    text-align: center;
-    border-radius: 50px;
-  }
-
-  /* ANIMAZIONE HAMBURGER → X PULITA */
-  .nav-trigger:checked + .menu-icon span:nth-child(1) { transform: rotate(45deg); }
-  .nav-trigger:checked + .menu-icon span:nth-child(2) { opacity: 0; }
-  .nav-trigger:checked + .menu-icon span:nth-child(3) { transform: rotate(-45deg); }
-
-  /* Ridimensionamento contenuti principali */
-  .post-wrapper { 
-    padding-top: 20px; 
-    padding-bottom: 20px; 
-    border-radius: var(--radius-sm); 
-  }
-  .hero-clean__title { font-size: 2rem; }
-
-  /* Hero SaaS Mobile */
-  .hero-saas { padding: 60px 0 40px; }
-  .hero-saas__title { font-size: 2rem; }
-  .hero-saas__subtitle { font-size: 1rem; }
-  }
-  
-/* ==========================================================================
-   COMPONENTI FUNNEL - AGGIORNATI
-========================================================================== */
-
-/* Bridge Box - Variante Standard e Highlighted */
-.bridge-box {
-  margin: 40px 0;
-  padding: 24px;
-  background-color: #f8fafc;
-  border-left: 5px solid var(--primary-color);
+.tldr-box,
+.bridge-box,
+.promo-box,
+.trust-box {
+  margin: 34px 0;
+  padding: 18px 20px;
   border-radius: var(--radius-sm);
 }
 
-.bridge-box.is-highlighted {
-  border-left: 5px solid var(--primary-color);
-  background: #fff9f0;
-  box-shadow: var(--shadow-sm);
+/* TLDR più “veloce” */
+.tldr-box {
+  background: #f3f4f6;
+  border-left: 4px solid var(--text-light);
 }
 
-.bridge-title { margin-top: 0; font-size: 1.25rem; }
-.bridge-text { margin-bottom: 16px; color: var(--text-main); }
-.bridge-link { font-weight: 700; display: inline-block; }
+/* bridge meno aggressivo */
+.bridge-box {
+  background: #fff;
+  border-left: 4px solid var(--primary-color);
+}
 
-/* Promo Box - Migliorato per conversioni */
+/* promo più soft → meno “pubblicità aggressiva” */
 .promo-box {
-  margin: 45px 0;
-  padding: 30px;
-  border-radius: var(--radius-md);
-  border: 2px solid var(--primary-color);
-  background: linear-gradient(180deg, rgba(255,128,0,.05), #ffffff);
+  background: linear-gradient(180deg, rgba(255,128,0,0.06), #fff);
+  border: 1px solid rgba(255,128,0,0.2);
+}
+
+/* =========================
+   LISTE = ANTIDOTO MUR0 TESTO
+========================= */
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  padding-left: 18px;
+  position: relative;
+}
+
+li::before {
+  content: "•";
+  color: var(--primary-color);
+  position: absolute;
+  left: 0;
+}
+
+/* =========================
+   PARAGRAFI SCANNABLE
+========================= */
+
+p {
+  max-width: 70ch;
+}
+
+/* ogni blocco respira */
+.block {
+  margin: 28px 0;
+}
+
+/* =========================
+   HERO PIÙ EDITORIALE
+========================= */
+
+.hero {
+  padding: 80px 0 50px;
   text-align: center;
 }
 
-.promo-title { margin-top: 0; }
-.promo-text { margin-bottom: 20px; }
-.microcopy { display: block; font-size: 0.85rem; color: var(--text-light); margin-top: 10px; }
-
-/* TLDR Box - Design pulito */
-.tldr-box {
-  background-color: #f1f5f9;
-  border-left: 4px solid var(--text-light);
-  padding: 16px 20px;
-  border-radius: 0 8px 8px 0;
-  margin: 24px 0;
-}
-.tldr-title { display: block; margin-bottom: 8px; color: #1a202c; }
-
-/* Trust Box - Autorità */
-.trust-box {
-  margin: 30px 0;
-  padding: 24px;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border-color);
-  background: #fff;
-}
-.trust-title { margin-top: 0; font-size: 1.2rem; margin-bottom: 10px; }
-.trust-text { margin-bottom: 0; }
-
-/* Section in Breve (SIB) - Ottimizzata per mobile */
-.section-in-breve {
-  background: #ffffff;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
-  padding: 20px;
-  margin: 24px 0;
-}
-.sib-header { display: flex; align-items: center; margin-bottom: 12px; }
-.sib-icon { margin-right: 10px; font-size: 1.5rem; }
-.sib-title { margin: 0; font-size: 1.1rem; }
-.sib-list li { 
-  margin-bottom: 8px; 
-  padding-left: 20px; 
-  position: relative; 
-}
-.sib-list li::before { 
-  content: "✓"; 
-  color: var(--primary-color); 
-  font-weight: bold; 
-  position: absolute; 
-  left: 0; 
+.hero h1 {
+  font-size: 2.6rem;
+  margin-bottom: 12px;
 }
 
+.hero p {
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
 
 /* =========================
-   DISCLAIMER / AFFILIATE (FORZATO)
+   MOBILE — ULTRA SCAN MODE
 ========================= */
-.disclaimer-inline {
-  display: flex !important;
-  align-items: flex-start !important;
-  gap: 12px !important;
-  background-color: #f1f5f9 !important;
-  border-left: 3px solid var(--text-light) !important;
-  padding: 16px 20px !important;
-  margin: 32px 0 !important;
-  border-radius: 0 8px 8px 0 !important;
-}
 
-.disclaimer-icon {
-  font-size: 1.4rem !important;
-  line-height: 1.2 !important;
-}
+@media (max-width: 768px) {
 
-.disclaimer-text {
-  margin-bottom: 0 !important;
-  font-size: 0.9rem !important;
-  color: var(--text-light) !important;
-  line-height: 1.6 !important;
-}
+  p {
+    font-size: 1rem;
+    line-height: 1.8;
+  }
 
-.disclaimer-text strong {
-  color: var(--text-main) !important;
-}
+  section {
+    margin: 32px 0;
+  }
 
-.disclaimer-text a {
-  color: inherit !important;
-  text-decoration: underline !important;
-  font-weight: 500 !important;
-  transition: color 0.2s ease;
-}
+  h1 {
+    font-size: 2rem;
+  }
 
-.disclaimer-text a:hover {
-  color: var(--primary-color) !important;
-}
-
+  .card {
+    padding: 16px;
+  }
+  }
   
