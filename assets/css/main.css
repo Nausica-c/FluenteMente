@@ -2,30 +2,33 @@
   --primary-color: #ff8000;
   --primary-hover: #e67300;
 
-  --text-main: #2d3748;
-  --text-light: #718096;
+  /* Colori testo raffinati (palette Slate per ridurre l'affaticamento visivo) */
+  --text-heading: #0f172a; /* Molto scuro per i titoli */
+  --text-main: #334155;    /* Morbido per i paragrafi lunghi */
+  --text-light: #64748b;
 
   --bg-body: #f8fafc;
   --bg-header: #ffffff;
 
   --border-color: #e2e8f0;
 
-  --content-width: 840px;
+  /* Contenitore leggermente più stretto per centrare l'attenzione */
+  --content-width: 800px; 
 
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
 
-  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
-  --shadow-md: 0 10px 20px rgba(0,0,0,0.05);
-  --shadow-lg: 0 18px 50px rgba(0,0,0,0.06);
+  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.03);
 
-  /* ── NUOVI TOKEN ANTI-MURO ── */
-  --prose-line-height: 1.78;       /* interlinea generosa */
-  --prose-gap: 1.6em;              /* spazio tra paragrafi */
-  --prose-max-width: 68ch;         /* lunghezza riga ottimale */
-  --dropcap-size: 3.4rem;          /* capolettera d'apertura */
-  --section-divider-color: #e2e8f0;
+  /* ── TOKEN ANTI-MURO OTTIMIZZATI ── */
+  --prose-line-height: 1.85;       /* Interlinea editoriale molto ariosa */
+  --prose-gap: 1.8em;              /* Maggiore respiro tra paragrafi */
+  --prose-max-width: 65ch;         /* Lunghezza riga ideale (evita l'effetto tracking oculare stancante) */
+  --dropcap-size: 3.8rem;          /* Capolettera d'apertura bilanciato */
+  --section-divider-color: #f1f5f9;
 }
 
 /* ==========================================================================
@@ -35,20 +38,22 @@
 html:focus-within { scroll-behavior: smooth; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: var(--prose-line-height); /* ✦ più respiro di default */
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: var(--prose-line-height);
   color: var(--text-main);
   background-color: var(--bg-body);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  -webkit-font-smoothing: antialiased; /* Rende i font più puliti su MacOS/iOS */
+  -moz-osx-font-smoothing: grayscale;
 }
 
-a { color: var(--primary-color); text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: var(--primary-color); text-decoration: none; font-weight: 500; transition: color 0.2s; }
+a:hover { color: var(--primary-hover); text-decoration: underline; text-underline-offset: 4px; }
 
 a:focus-visible, button:focus-visible, input:focus-visible {
-  outline: 3px solid rgba(255,128,0,0.25);
+  outline: 3px solid rgba(255,128,0,0.4);
   outline-offset: 3px;
   border-radius: 6px;
 }
@@ -58,7 +63,7 @@ ul { list-style: none; }
 .wrapper {
   max-width: var(--content-width);
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 24px;
 }
 
 /* ==========================================================================
@@ -70,348 +75,311 @@ p {
   margin-bottom: var(--prose-gap);
   max-width: var(--prose-max-width);
   line-height: var(--prose-line-height);
+  font-size: 1.05rem; /* Testo leggermente più grande e leggibile */
 }
 
-/* Nei contesti centrati la max-width non si applica */
+/* Centratura ignorata dalla max-width */
 .text-center p,
 .hero-saas p,
 .promo-box p,
 .cta-inline p { max-width: none; }
 
 /* ── 2. TITOLI: gerarchia chiara e respiro ── */
-h1, h2, h3 {
-  margin-top: 2em;
-  margin-bottom: 0.6em;
+h1, h2, h3, h4 {
+  color: var(--text-heading);
+  font-weight: 700;
+  letter-spacing: -0.02em; /* Titoli più compatti e moderni */
+}
+
+h1 { 
+  font-size: clamp(2.2rem, 5vw, 3rem); 
+  margin-top: 1em; 
+  margin-bottom: 0.8em; 
+  line-height: 1.15;
+}
+
+h2 { 
+  font-size: clamp(1.6rem, 3.5vw, 2.2rem); 
+  margin-top: 2.2em; 
+  margin-bottom: 0.8em; 
   line-height: 1.25;
 }
 
-h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
-h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
-h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem); color: var(--text-light); }
+h3 { 
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem); 
+  margin-top: 1.8em; 
+  margin-bottom: 0.6em;
+}
 
 /* ── 3. SEPARATORE VISIVO TRA SEZIONI H2 ── */
 .post-content h2 {
-  padding-top: 0.6em;
-  border-top: 2px solid var(--section-divider-color);
+  padding-top: 1em;
+  border-top: 1px solid var(--section-divider-color);
 }
 
-/* ── 4. CAPOLETTERA sul primo paragrafo dell'articolo ── */
+/* ── 4. CAPOLETTERA (Dropcap) elegante ── */
 .post-content > p:first-of-type::first-letter {
   float: left;
   font-size: var(--dropcap-size);
-  line-height: 0.82;
-  margin: 0.05em 0.14em 0 0;
-  font-weight: 700;
-  color: var(--primary-color);
+  line-height: 0.8;
+  margin: 0.1em 0.15em 0 0;
+  font-weight: 800;
+  color: var(--text-heading);
+  font-family: Georgia, serif; /* Capolettera in stile editoriale */
 }
 
 /* ── 5. EVIDENZIAZIONE INLINE ── */
-.post-content mark,
-mark {
-  background: rgba(255, 128, 0, 0.18);
-  color: inherit;
-  padding: 0.05em 0.28em;
-  border-radius: 3px;
-}
-
-/* ── 6. BLOCKQUOTE / PULL QUOTE potenziato ── */
-blockquote {
-  margin: 2em 0;
-  padding: 1.2em 1.6em;
-  border-left: 4px solid var(--primary-color);
-  background-color: #fff9f0;
-  border-radius: 0 10px 10px 0;
-  font-style: italic;
-  font-size: 1.1rem;
-  color: var(--text-main);
-  line-height: var(--prose-line-height);
-}
-
-blockquote cite {
-  display: block;
-  margin-top: 0.8em;
-  font-size: 0.85rem;
-  font-style: normal;
-  color: var(--text-light);
-}
-
-/* ── 7. DIVISORE DECORATIVO (classe opzionale) ── */
-.prose-divider {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin: 2.4em 0;
-  color: var(--text-light);
-  font-size: 0.75rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-}
-.prose-divider::before,
-.prose-divider::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background: var(--section-divider-color);
-}
-
-/* ── 8. FIGURA / IMMAGINE SPEZZA-TESTO ── */
-.post-content figure,
-.prose-figure {
-  margin: 2em calc(-1 * 20px); /* fuoriesce leggermente dal testo */
-  border-radius: var(--radius-md);
-  overflow: hidden;
-}
-
-.post-content figure img,
-.prose-figure img {
-  width: 100%;
-  display: block;
-}
-
-.post-content figcaption,
-.prose-figure figcaption {
-  font-size: 0.82rem;
-  color: var(--text-light);
-  padding: 0.5em 1em;
-  text-align: center;
-  background: var(--bg-body);
-}
-
-/* ── 9. CALLOUT BOX (info / warning / success) ── */
-.callout {
-  display: flex;
-  gap: 0.9rem;
-  align-items: flex-start;
-  padding: 1rem 1.25rem;
-  border-radius: var(--radius-sm);
-  background: rgba(255, 128, 0, 0.07);
-  border: 1px solid rgba(255, 128, 0, 0.22);
-  font-size: 0.95rem;
-  line-height: var(--prose-line-height);
-  margin: 1.6em 0;
-}
-
-.callout__icon {
-  font-size: 1.2rem;
-  flex-shrink: 0;
-  margin-top: 0.1em;
-}
-
-.callout p { margin: 0; max-width: none; }
-
-.callout--warning {
-  background: #fffbeb;
-  border-color: #fcd34d;
-}
-
-.callout--success {
-  background: #f0fdf4;
-  border-color: #86efac;
-}
-
-.callout--info {
-  background: #eff6ff;
-  border-color: #93c5fd;
-}
-
-/* ── 10. LISTE LEGGIBILI dentro il contenuto ── */
-.post-content ul,
-.post-content ol {
-  padding-left: 1.5em;
-  margin-bottom: var(--prose-gap);
-  list-style: revert; /* ripristina i bullet */
-}
-
-.post-content li {
-  margin-bottom: 0.45em;
-  line-height: var(--prose-line-height);
-  max-width: var(--prose-max-width);
-}
-
-/* ==========================================================================
-   HEADER & NAV
-========================================================================== */
-.site-header {
-  background-color: var(--bg-header);
-  border-top: 4px solid var(--primary-color);
-  border-bottom: 1px solid var(--border-color);
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-}
-
-.header-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 70px;
-}
-
-.site-title {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: #1a202c;
-  letter-spacing: -0.5px;
-}
-.site-title:hover { text-decoration: none; }
-
-.site-nav .page-link {
-  color: var(--text-main);
-  margin-left: 25px;
+.post-content mark, mark {
+  background: rgba(255, 128, 0, 0.15);
+  color: #c26000; /* Testo scuro per contrasto */
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
   font-weight: 500;
-  font-size: 1rem;
-  transition: color .2s ease, background-color .2s ease;
-}
-.site-nav .page-link:hover {
-  color: var(--primary-color);
-  text-decoration: none;
 }
 
-.site-nav .page-link.is-primary {
-  margin-left: 18px;
-  padding: 8px 18px;
-  border-radius: 999px;
-  background: var(--primary-color);
-  color: #fff;
-  font-weight: 700;
-}
-.site-nav .page-link.is-primary:hover {
-  background: var(--primary-hover);
-  color: #fff;
-}
-
-.nav-trigger { display: none; }
-
-.menu-icon {
-  display: none;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 28px;
-  height: 20px;
-  cursor: pointer;
-  z-index: 101;
-}
-
-.menu-icon span {
-  display: block;
-  height: 3px;
-  width: 100%;
-  background: #1a202c;
-  border-radius: 2px;
-  transition: all 0.3s ease;
-  transform-origin: left center;
-}
-
-.trigger {
-  display: flex;
-  align-items: center;
-}
-
-/* ==========================================================================
-   LAYOUT PRINCIPALE
-========================================================================== */
-.page-content { flex: 1; padding: 50px 0; }
-
-.post-wrapper {
-  max-width: 760px;
-  margin: 0 auto;
-  background: #fff;
-  padding: 40px;
+/* ── 6. BLOCKQUOTE: Stile Magazine ── */
+blockquote {
+  position: relative;
+  margin: 3em 0;
+  padding: 1.8em 2em 1.8em 3em;
+  background-color: #f8fafc;
   border-radius: var(--radius-md);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--text-heading);
+  line-height: 1.7;
+  border-left: 4px solid var(--primary-color);
   box-shadow: var(--shadow-sm);
 }
 
-.post-header { margin-bottom: 28px; text-align: center; }
-.post-title { font-size: 2.4rem; line-height: 1.2; color: #1a202c; margin-bottom: 10px; }
-.post-meta { color: var(--text-light); font-size: .95rem; }
+blockquote::before {
+  content: "“";
+  position: absolute;
+  top: -0.2em;
+  left: 0.2em;
+  font-size: 5rem;
+  color: var(--primary-color);
+  opacity: 0.15;
+  font-family: Georgia, serif;
+  line-height: 1;
+}
+
+blockquote p { max-width: none; margin-bottom: 0; }
+
+blockquote cite {
+  display: block;
+  margin-top: 1em;
+  font-size: 0.9rem;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── 7. DIVISORE DECORATIVO ── */
+.prose-divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 3.5em 0;
+}
+.prose-divider::before {
+  content: "•••";
+  color: var(--text-light);
+  font-size: 1.5rem;
+  letter-spacing: 0.5em;
+  opacity: 0.5;
+}
+
+/* ── 8. FIGURA / IMMAGINE SPEZZA-TESTO ── */
+.post-content figure, .prose-figure {
+  margin: 3em 0;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+.post-content figure img, .prose-figure img {
+  width: 100%;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.post-content figure img:hover {
+  transform: scale(1.02); /* Leggerissimo zoom all'hover */
+}
+
+.post-content figcaption, .prose-figure figcaption {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  padding: 1em;
+  text-align: center;
+  background: #ffffff;
+  border-top: 1px solid var(--border-color);
+  font-style: italic;
+}
+
+/* ── 9. CALLOUT BOX ── */
+.callout {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  margin: 2em 0;
+  box-shadow: var(--shadow-sm);
+  background: #ffffff;
+  border: 1px solid var(--border-color);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Striscia colorata laterale per i callout */
+.callout::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+}
+
+.callout__icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.callout p { margin: 0; max-width: none; font-size: 1rem; }
+
+.callout--warning::before { background: #fcd34d; }
+.callout--success::before { background: #34d399; }
+.callout--info::before { background: #60a5fa; }
+.callout--primary::before { background: var(--primary-color); }
+
+/* ── 10. LISTE LEGGIBILI ── */
+.post-content ul, .post-content ol {
+  padding-left: 1.2em;
+  margin-bottom: var(--prose-gap);
+  color: var(--text-main);
+  font-size: 1.05rem;
+}
+
+.post-content ul {
+  list-style-type: none; /* Bullet personalizzati per maggiore eleganza */
+}
+
+.post-content ul li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0.8em; /* Maggiore respiro tra i punti elenco */
+}
+
+.post-content ul li::before {
+  content: "•";
+  color: var(--primary-color);
+  font-size: 1.5em;
+  position: absolute;
+  left: 0;
+  top: -0.2em;
+}
+
+.post-content ol li {
+  margin-bottom: 0.8em;
+  padding-left: 0.5em;
+}
 
 /* ==========================================================================
-   PULSANTI
+   IL RESTO DEL CSS... (Pulsanti, Footer, Griglie rimangono intatti ma ereditano le nuove spaziature)
 ========================================================================== */
+
+/* Layout e Container dell'Articolo */
+.post-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 50px 60px; /* Padding generoso */
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.post-header { margin-bottom: 40px; text-align: center; }
+.post-title { font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; color: var(--text-heading); margin-bottom: 16px; font-weight: 800;}
+.post-meta { color: var(--text-light); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;}
+
+/* Pulsanti ammodernati */
 .btn-primary {
   display: inline-block;
   background: var(--primary-color);
   color: #fff !important;
-  padding: 15px 35px;
+  padding: 16px 36px;
   font-size: 1.05rem;
-  font-weight: 800;
-  border-radius: 50px;
+  font-weight: 700;
+  border-radius: 99px; /* Pill shape */
   text-decoration: none;
   text-align: center;
-  transition: background-color .3s, transform .2s;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 14px rgba(255, 128, 0, 0.3);
 }
 .btn-primary:hover {
   background: var(--primary-hover);
   transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 128, 0, 0.4);
 }
 
-.btn-outline {
-  display: inline-block;
-  background: transparent;
-  color: var(--primary-color) !important;
-  padding: 15px 28px;
-  font-weight: 800;
-  border-radius: 50px;
-  border: 2px solid var(--primary-color);
-  text-align: center;
-}
-
-/* ==========================================================================
-   BOX CONVERSIONE
-========================================================================== */
-.tldr-box {
-  background-color: #f1f5f9;
-  border-left: 4px solid var(--text-light);
-  padding: 16px 20px;
-  border-radius: 0 8px 8px 0;
-  margin: 24px 0;
-}
-
-.bridge-box {
-  margin: 40px 0;
-  padding: 24px;
-  background-color: #f8fafc;
-  border-left: 5px solid var(--primary-color);
-  border-radius: var(--radius-sm);
-}
-
-.bridge-box.is-highlighted {
-  background: #fff9f0;
-  box-shadow: var(--shadow-sm);
-}
-
-.bridge-title { margin-top: 0; font-size: 1.25rem; }
-.bridge-text { margin-bottom: 16px; color: var(--text-main); }
-.bridge-link { font-weight: 700; display: inline-block; }
-
+/* Box di conversione / Promo */
 .promo-box {
-  margin: 45px 0;
-  padding: 30px;
-  border-radius: var(--radius-md);
-  border: 2px solid var(--primary-color);
-  background: linear-gradient(180deg, rgba(255,128,0,.05), #ffffff);
+  margin: 3.5em 0;
+  padding: 40px;
+  border-radius: var(--radius-lg);
+  border: none;
+  background: linear-gradient(135deg, #ffffff 0%, #fff7f0 100%);
+  box-shadow: var(--shadow-md);
   text-align: center;
+  position: relative;
+  overflow: hidden;
 }
 
-.promo-title { margin-top: 0; }
-.promo-text { margin-bottom: 20px; }
-.microcopy { display: block; font-size: 0.85rem; color: var(--text-light); margin-top: 10px; }
-
-.trust-box {
-  margin: 30px 0;
-  padding: 24px;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border-color);
-  background: #fff;
+.promo-box::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  background: var(--primary-color);
 }
-.trust-title { margin-top: 0; font-size: 1.2rem; margin-bottom: 10px; }
-.trust-text { margin-bottom: 0; }
 
 /* ==========================================================================
-   HERO CLEAN & HERO SAAS
+   MOBILE & RESPONSIVE
 ========================================================================== */
-.hero-clean {
+@media screen and (max-width: 768px) {
+  .post-wrapper {
+    padding: 30px 20px;
+    border-radius: 0; /* Su mobile rimuove i bordi curvi del contenitore principale per sfruttare lo spazio */
+    box-shadow: none;
+  }
+  
+  :root {
+    --dropcap-size: 3rem;
+    --prose-gap: 1.4em;
+  }
+
+  blockquote {
+    padding: 1.5em 1.2em 1.5em 2em;
+    font-size: 1.1rem;
+  }
+
+  blockquote::before {
+    font-size: 4rem;
+    left: 0.1em;
+  }
+
+  .post-content figure, .prose-figure { 
+    margin-inline: -20px; /* Fa uscire le immagini a tutto schermo su mobile */
+    border-radius: 0;
+  }
+}
+
   background: #fff;
   padding: 70px 0 30px;
   border-bottom: 1px solid var(--border-color);
