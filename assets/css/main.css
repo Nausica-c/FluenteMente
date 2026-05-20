@@ -2,33 +2,30 @@
   --primary-color: #ff8000;
   --primary-hover: #e67300;
 
-  /* Colori testo raffinati (palette Slate per ridurre l'affaticamento visivo) */
-  --text-heading: #0f172a; /* Molto scuro per i titoli */
-  --text-main: #334155;    /* Morbido per i paragrafi lunghi */
-  --text-light: #64748b;
+  --text-main: #2d3748;
+  --text-light: #718096;
 
   --bg-body: #f8fafc;
   --bg-header: #ffffff;
 
   --border-color: #e2e8f0;
 
-  /* Contenitore leggermente più stretto per centrare l'attenzione */
-  --content-width: 800px; 
+  --content-width: 840px;
 
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
 
-  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
-  --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.03);
-  --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.03);
+  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-md: 0 10px 20px rgba(0,0,0,0.05);
+  --shadow-lg: 0 18px 50px rgba(0,0,0,0.06);
 
-  /* ── TOKEN ANTI-MURO OTTIMIZZATI ── */
-  --prose-line-height: 1.85;       /* Interlinea editoriale molto ariosa */
-  --prose-gap: 1.8em;              /* Maggiore respiro tra paragrafi */
-  --prose-max-width: 65ch;         /* Lunghezza riga ideale (evita l'effetto tracking oculare stancante) */
-  --dropcap-size: 3.8rem;          /* Capolettera d'apertura bilanciato */
-  --section-divider-color: #f1f5f9;
+  /* ── NUOVI TOKEN ANTI-MURO ── */
+  --prose-line-height: 1.78;       /* interlinea generosa */
+  --prose-gap: 1.6em;              /* spazio tra paragrafi */
+  --prose-max-width: 68ch;         /* lunghezza riga ottimale */
+  --dropcap-size: 3.4rem;          /* capolettera d'apertura */
+  --section-divider-color: #e2e8f0;
 }
 
 /* ==========================================================================
@@ -38,22 +35,20 @@
 html:focus-within { scroll-behavior: smooth; }
 
 body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: var(--prose-line-height);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: var(--prose-line-height); /* ✦ più respiro di default */
   color: var(--text-main);
   background-color: var(--bg-body);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  -webkit-font-smoothing: antialiased; /* Rende i font più puliti su MacOS/iOS */
-  -moz-osx-font-smoothing: grayscale;
 }
 
-a { color: var(--primary-color); text-decoration: none; font-weight: 500; transition: color 0.2s; }
-a:hover { color: var(--primary-hover); text-decoration: underline; text-underline-offset: 4px; }
+a { color: var(--primary-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
 
 a:focus-visible, button:focus-visible, input:focus-visible {
-  outline: 3px solid rgba(255,128,0,0.4);
+  outline: 3px solid rgba(255,128,0,0.25);
   outline-offset: 3px;
   border-radius: 6px;
 }
@@ -63,7 +58,7 @@ ul { list-style: none; }
 .wrapper {
   max-width: var(--content-width);
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 20px;
 }
 
 /* ==========================================================================
@@ -75,311 +70,348 @@ p {
   margin-bottom: var(--prose-gap);
   max-width: var(--prose-max-width);
   line-height: var(--prose-line-height);
-  font-size: 1.05rem; /* Testo leggermente più grande e leggibile */
 }
 
-/* Centratura ignorata dalla max-width */
+/* Nei contesti centrati la max-width non si applica */
 .text-center p,
 .hero-saas p,
 .promo-box p,
 .cta-inline p { max-width: none; }
 
 /* ── 2. TITOLI: gerarchia chiara e respiro ── */
-h1, h2, h3, h4 {
-  color: var(--text-heading);
-  font-weight: 700;
-  letter-spacing: -0.02em; /* Titoli più compatti e moderni */
-}
-
-h1 { 
-  font-size: clamp(2.2rem, 5vw, 3rem); 
-  margin-top: 1em; 
-  margin-bottom: 0.8em; 
-  line-height: 1.15;
-}
-
-h2 { 
-  font-size: clamp(1.6rem, 3.5vw, 2.2rem); 
-  margin-top: 2.2em; 
-  margin-bottom: 0.8em; 
+h1, h2, h3 {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
   line-height: 1.25;
 }
 
-h3 { 
-  font-size: clamp(1.2rem, 2.5vw, 1.5rem); 
-  margin-top: 1.8em; 
-  margin-bottom: 0.6em;
-}
+h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
+h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
+h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem); color: var(--text-light); }
 
 /* ── 3. SEPARATORE VISIVO TRA SEZIONI H2 ── */
 .post-content h2 {
-  padding-top: 1em;
-  border-top: 1px solid var(--section-divider-color);
+  padding-top: 0.6em;
+  border-top: 2px solid var(--section-divider-color);
 }
 
-/* ── 4. CAPOLETTERA (Dropcap) elegante ── */
+/* ── 4. CAPOLETTERA sul primo paragrafo dell'articolo ── */
 .post-content > p:first-of-type::first-letter {
   float: left;
   font-size: var(--dropcap-size);
-  line-height: 0.8;
-  margin: 0.1em 0.15em 0 0;
-  font-weight: 800;
-  color: var(--text-heading);
-  font-family: Georgia, serif; /* Capolettera in stile editoriale */
+  line-height: 0.82;
+  margin: 0.05em 0.14em 0 0;
+  font-weight: 700;
+  color: var(--primary-color);
 }
 
 /* ── 5. EVIDENZIAZIONE INLINE ── */
-.post-content mark, mark {
-  background: rgba(255, 128, 0, 0.15);
-  color: #c26000; /* Testo scuro per contrasto */
-  padding: 0.1em 0.4em;
-  border-radius: 4px;
-  font-weight: 500;
+.post-content mark,
+mark {
+  background: rgba(255, 128, 0, 0.18);
+  color: inherit;
+  padding: 0.05em 0.28em;
+  border-radius: 3px;
 }
 
-/* ── 6. BLOCKQUOTE: Stile Magazine ── */
+/* ── 6. BLOCKQUOTE / PULL QUOTE potenziato ── */
 blockquote {
-  position: relative;
-  margin: 3em 0;
-  padding: 1.8em 2em 1.8em 3em;
-  background-color: #f8fafc;
-  border-radius: var(--radius-md);
-  font-style: italic;
-  font-size: 1.2rem;
-  color: var(--text-heading);
-  line-height: 1.7;
+  margin: 2em 0;
+  padding: 1.2em 1.6em;
   border-left: 4px solid var(--primary-color);
-  box-shadow: var(--shadow-sm);
+  background-color: #fff9f0;
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--text-main);
+  line-height: var(--prose-line-height);
 }
-
-blockquote::before {
-  content: "“";
-  position: absolute;
-  top: -0.2em;
-  left: 0.2em;
-  font-size: 5rem;
-  color: var(--primary-color);
-  opacity: 0.15;
-  font-family: Georgia, serif;
-  line-height: 1;
-}
-
-blockquote p { max-width: none; margin-bottom: 0; }
 
 blockquote cite {
   display: block;
-  margin-top: 1em;
-  font-size: 0.9rem;
+  margin-top: 0.8em;
+  font-size: 0.85rem;
   font-style: normal;
-  font-weight: 600;
   color: var(--text-light);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
-/* ── 7. DIVISORE DECORATIVO ── */
+/* ── 7. DIVISORE DECORATIVO (classe opzionale) ── */
 .prose-divider {
   display: flex;
-  justify-content: center;
   align-items: center;
   gap: 1rem;
-  margin: 3.5em 0;
-}
-.prose-divider::before {
-  content: "•••";
+  margin: 2.4em 0;
   color: var(--text-light);
-  font-size: 1.5rem;
-  letter-spacing: 0.5em;
-  opacity: 0.5;
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+.prose-divider::before,
+.prose-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--section-divider-color);
 }
 
 /* ── 8. FIGURA / IMMAGINE SPEZZA-TESTO ── */
-.post-content figure, .prose-figure {
-  margin: 3em 0;
+.post-content figure,
+.prose-figure {
+  margin: 2em calc(-1 * 20px); /* fuoriesce leggermente dal testo */
   border-radius: var(--radius-md);
   overflow: hidden;
-  box-shadow: var(--shadow-md);
 }
 
-.post-content figure img, .prose-figure img {
+.post-content figure img,
+.prose-figure img {
   width: 100%;
   display: block;
-  transition: transform 0.3s ease;
 }
 
-.post-content figure img:hover {
-  transform: scale(1.02); /* Leggerissimo zoom all'hover */
-}
-
-.post-content figcaption, .prose-figure figcaption {
-  font-size: 0.85rem;
+.post-content figcaption,
+.prose-figure figcaption {
+  font-size: 0.82rem;
   color: var(--text-light);
-  padding: 1em;
+  padding: 0.5em 1em;
   text-align: center;
-  background: #ffffff;
-  border-top: 1px solid var(--border-color);
-  font-style: italic;
+  background: var(--bg-body);
 }
 
-/* ── 9. CALLOUT BOX ── */
+/* ── 9. CALLOUT BOX (info / warning / success) ── */
 .callout {
   display: flex;
-  gap: 1rem;
+  gap: 0.9rem;
   align-items: flex-start;
-  padding: 1.5rem;
-  border-radius: var(--radius-md);
-  margin: 2em 0;
-  box-shadow: var(--shadow-sm);
-  background: #ffffff;
-  border: 1px solid var(--border-color);
-  position: relative;
-  overflow: hidden;
-}
-
-/* Striscia colorata laterale per i callout */
-.callout::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 4px;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 128, 0, 0.07);
+  border: 1px solid rgba(255, 128, 0, 0.22);
+  font-size: 0.95rem;
+  line-height: var(--prose-line-height);
+  margin: 1.6em 0;
 }
 
 .callout__icon {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   flex-shrink: 0;
+  margin-top: 0.1em;
 }
 
-.callout p { margin: 0; max-width: none; font-size: 1rem; }
+.callout p { margin: 0; max-width: none; }
 
-.callout--warning::before { background: #fcd34d; }
-.callout--success::before { background: #34d399; }
-.callout--info::before { background: #60a5fa; }
-.callout--primary::before { background: var(--primary-color); }
-
-/* ── 10. LISTE LEGGIBILI ── */
-.post-content ul, .post-content ol {
-  padding-left: 1.2em;
-  margin-bottom: var(--prose-gap);
-  color: var(--text-main);
-  font-size: 1.05rem;
+.callout--warning {
+  background: #fffbeb;
+  border-color: #fcd34d;
 }
 
-.post-content ul {
-  list-style-type: none; /* Bullet personalizzati per maggiore eleganza */
+.callout--success {
+  background: #f0fdf4;
+  border-color: #86efac;
 }
 
-.post-content ul li {
-  position: relative;
+.callout--info {
+  background: #eff6ff;
+  border-color: #93c5fd;
+}
+
+/* ── 10. LISTE LEGGIBILI dentro il contenuto ── */
+.post-content ul,
+.post-content ol {
   padding-left: 1.5em;
-  margin-bottom: 0.8em; /* Maggiore respiro tra i punti elenco */
+  margin-bottom: var(--prose-gap);
+  list-style: revert; /* ripristina i bullet */
 }
 
-.post-content ul li::before {
-  content: "•";
-  color: var(--primary-color);
-  font-size: 1.5em;
-  position: absolute;
-  left: 0;
-  top: -0.2em;
-}
-
-.post-content ol li {
-  margin-bottom: 0.8em;
-  padding-left: 0.5em;
+.post-content li {
+  margin-bottom: 0.45em;
+  line-height: var(--prose-line-height);
+  max-width: var(--prose-max-width);
 }
 
 /* ==========================================================================
-   IL RESTO DEL CSS... (Pulsanti, Footer, Griglie rimangono intatti ma ereditano le nuove spaziature)
+   HEADER & NAV
 ========================================================================== */
-
-/* Layout e Container dell'Articolo */
-.post-wrapper {
-  max-width: 800px;
-  margin: 0 auto;
-  background: #fff;
-  padding: 50px 60px; /* Padding generoso */
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
+.site-header {
+  background-color: var(--bg-header);
+  border-top: 4px solid var(--primary-color);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 
-.post-header { margin-bottom: 40px; text-align: center; }
-.post-title { font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.15; color: var(--text-heading); margin-bottom: 16px; font-weight: 800;}
-.post-meta { color: var(--text-light); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;}
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
 
-/* Pulsanti ammodernati */
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1a202c;
+  letter-spacing: -0.5px;
+}
+.site-title:hover { text-decoration: none; }
+
+.site-nav .page-link {
+  color: var(--text-main);
+  margin-left: 25px;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color .2s ease, background-color .2s ease;
+}
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.site-nav .page-link.is-primary {
+  margin-left: 18px;
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: var(--primary-color);
+  color: #fff;
+  font-weight: 700;
+}
+.site-nav .page-link.is-primary:hover {
+  background: var(--primary-hover);
+  color: #fff;
+}
+
+.nav-trigger { display: none; }
+
+.menu-icon {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 101;
+}
+
+.menu-icon span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: #1a202c;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  transform-origin: left center;
+}
+
+.trigger {
+  display: flex;
+  align-items: center;
+}
+
+/* ==========================================================================
+   LAYOUT PRINCIPALE
+========================================================================== */
+.page-content { flex: 1; padding: 50px 0; }
+
+.post-wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-header { margin-bottom: 28px; text-align: center; }
+.post-title { font-size: 2.4rem; line-height: 1.2; color: #1a202c; margin-bottom: 10px; }
+.post-meta { color: var(--text-light); font-size: .95rem; }
+
+/* ==========================================================================
+   PULSANTI
+========================================================================== */
 .btn-primary {
   display: inline-block;
   background: var(--primary-color);
   color: #fff !important;
-  padding: 16px 36px;
+  padding: 15px 35px;
   font-size: 1.05rem;
-  font-weight: 700;
-  border-radius: 99px; /* Pill shape */
+  font-weight: 800;
+  border-radius: 50px;
   text-decoration: none;
   text-align: center;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 14px rgba(255, 128, 0, 0.3);
+  transition: background-color .3s, transform .2s;
 }
 .btn-primary:hover {
   background: var(--primary-hover);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 128, 0, 0.4);
 }
 
-/* Box di conversione / Promo */
-.promo-box {
-  margin: 3.5em 0;
-  padding: 40px;
-  border-radius: var(--radius-lg);
-  border: none;
-  background: linear-gradient(135deg, #ffffff 0%, #fff7f0 100%);
-  box-shadow: var(--shadow-md);
+.btn-outline {
+  display: inline-block;
+  background: transparent;
+  color: var(--primary-color) !important;
+  padding: 15px 28px;
+  font-weight: 800;
+  border-radius: 50px;
+  border: 2px solid var(--primary-color);
   text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-.promo-box::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 4px;
-  background: var(--primary-color);
 }
 
 /* ==========================================================================
-   MOBILE & RESPONSIVE
+   BOX CONVERSIONE
 ========================================================================== */
-@media screen and (max-width: 768px) {
-  .post-wrapper {
-    padding: 30px 20px;
-    border-radius: 0; /* Su mobile rimuove i bordi curvi del contenitore principale per sfruttare lo spazio */
-    box-shadow: none;
-  }
-  
-  :root {
-    --dropcap-size: 3rem;
-    --prose-gap: 1.4em;
-  }
-
-  blockquote {
-    padding: 1.5em 1.2em 1.5em 2em;
-    font-size: 1.1rem;
-  }
-
-  blockquote::before {
-    font-size: 4rem;
-    left: 0.1em;
-  }
-
-  .post-content figure, .prose-figure { 
-    margin-inline: -20px; /* Fa uscire le immagini a tutto schermo su mobile */
-    border-radius: 0;
-  }
+.tldr-box {
+  background-color: #f1f5f9;
+  border-left: 4px solid var(--text-light);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 24px 0;
 }
 
+.bridge-box {
+  margin: 40px 0;
+  padding: 24px;
+  background-color: #f8fafc;
+  border-left: 5px solid var(--primary-color);
+  border-radius: var(--radius-sm);
+}
+
+.bridge-box.is-highlighted {
+  background: #fff9f0;
+  box-shadow: var(--shadow-sm);
+}
+
+.bridge-title { margin-top: 0; font-size: 1.25rem; }
+.bridge-text { margin-bottom: 16px; color: var(--text-main); }
+.bridge-link { font-weight: 700; display: inline-block; }
+
+.promo-box {
+  margin: 45px 0;
+  padding: 30px;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--primary-color);
+  background: linear-gradient(180deg, rgba(255,128,0,.05), #ffffff);
+  text-align: center;
+}
+
+.promo-title { margin-top: 0; }
+.promo-text { margin-bottom: 20px; }
+.microcopy { display: block; font-size: 0.85rem; color: var(--text-light); margin-top: 10px; }
+
+.trust-box {
+  margin: 30px 0;
+  padding: 24px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background: #fff;
+}
+.trust-title { margin-top: 0; font-size: 1.2rem; margin-bottom: 10px; }
+.trust-text { margin-bottom: 0; }
+
+/* ==========================================================================
+   HERO CLEAN & HERO SAAS
+========================================================================== */
+.hero-clean {
   background: #fff;
   padding: 70px 0 30px;
   border-bottom: 1px solid var(--border-color);
@@ -627,4 +659,668 @@ blockquote cite {
 
   /* Drop cap ridotto su schermi piccoli */
   :root { --dropcap-size: 2.6rem; }
+  }Https://nausica-c.github.io/FluenteMente/inglese/
+
+Analizza questa pagina e modifica il CSS per rendere la pagina più elegante e per evitare l'effetto "muro di testo"
+:root {
+  --primary-color: #ff8000;
+  --primary-hover: #e67300;
+
+  --text-main: #2d3748;
+  --text-light: #718096;
+
+  --bg-body: #f8fafc;
+  --bg-header: #ffffff;
+
+  --border-color: #e2e8f0;
+
+  --content-width: 840px;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  --shadow-sm: 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-md: 0 10px 20px rgba(0,0,0,0.05);
+  --shadow-lg: 0 18px 50px rgba(0,0,0,0.06);
+
+  /* ── NUOVI TOKEN ANTI-MURO ── */
+  --prose-line-height: 1.78;       /* interlinea generosa */
+  --prose-gap: 1.6em;              /* spazio tra paragrafi */
+  --prose-max-width: 68ch;         /* lunghezza riga ottimale */
+  --dropcap-size: 3.4rem;          /* capolettera d'apertura */
+  --section-divider-color: #e2e8f0;
+}
+
+/* ==========================================================================
+   BASE & RESET
+========================================================================== */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html:focus-within { scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: var(--prose-line-height); /* ✦ più respiro di default */
+  color: var(--text-main);
+  background-color: var(--bg-body);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+a { color: var(--primary-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+a:focus-visible, button:focus-visible, input:focus-visible {
+  outline: 3px solid rgba(255,128,0,0.25);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+ul { list-style: none; }
+
+.wrapper {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ==========================================================================
+   TIPOGRAFIA & SPAZIATURE TESTO  — ANTI MURO DI TESTO
+========================================================================== */
+
+/* ── 1. PARAGRAFI: respiro e larghezza leggibile ── */
+p {
+  margin-bottom: var(--prose-gap);
+  max-width: var(--prose-max-width);
+  line-height: var(--prose-line-height);
+}
+
+/* Nei contesti centrati la max-width non si applica */
+.text-center p,
+.hero-saas p,
+.promo-box p,
+.cta-inline p { max-width: none; }
+
+/* ── 2. TITOLI: gerarchia chiara e respiro ── */
+h1, h2, h3 {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  line-height: 1.25;
+}
+
+h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
+h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
+h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem); color: var(--text-light); }
+
+/* ── 3. SEPARATORE VISIVO TRA SEZIONI H2 ── */
+.post-content h2 {
+  padding-top: 0.6em;
+  border-top: 2px solid var(--section-divider-color);
+}
+
+/* ── 4. CAPOLETTERA sul primo paragrafo dell'articolo ── */
+.post-content > p:first-of-type::first-letter {
+  float: left;
+  font-size: var(--dropcap-size);
+  line-height: 0.82;
+  margin: 0.05em 0.14em 0 0;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+/* ── 5. EVIDENZIAZIONE INLINE ── */
+.post-content mark,
+mark {
+  background: rgba(255, 128, 0, 0.18);
+  color: inherit;
+  padding: 0.05em 0.28em;
+  border-radius: 3px;
+}
+
+/* ── 6. BLOCKQUOTE / PULL QUOTE potenziato ── */
+blockquote {
+  margin: 2em 0;
+  padding: 1.2em 1.6em;
+  border-left: 4px solid var(--primary-color);
+  background-color: #fff9f0;
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--text-main);
+  line-height: var(--prose-line-height);
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 0.8em;
+  font-size: 0.85rem;
+  font-style: normal;
+  color: var(--text-light);
+}
+
+/* ── 7. DIVISORE DECORATIVO (classe opzionale) ── */
+.prose-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.4em 0;
+  color: var(--text-light);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+.prose-divider::before,
+.prose-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--section-divider-color);
+}
+
+/* ── 8. FIGURA / IMMAGINE SPEZZA-TESTO ── */
+.post-content figure,
+.prose-figure {
+  margin: 2em calc(-1 * 20px); /* fuoriesce leggermente dal testo */
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.post-content figure img,
+.prose-figure img {
+  width: 100%;
+  display: block;
+}
+
+.post-content figcaption,
+.prose-figure figcaption {
+  font-size: 0.82rem;
+  color: var(--text-light);
+  padding: 0.5em 1em;
+  text-align: center;
+  background: var(--bg-body);
+}
+
+/* ── 9. CALLOUT BOX (info / warning / success) ── */
+.callout {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 128, 0, 0.07);
+  border: 1px solid rgba(255, 128, 0, 0.22);
+  font-size: 0.95rem;
+  line-height: var(--prose-line-height);
+  margin: 1.6em 0;
+}
+
+.callout__icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  margin-top: 0.1em;
+}
+
+.callout p { margin: 0; max-width: none; }
+
+.callout--warning {
+  background: #fffbeb;
+  border-color: #fcd34d;
+}
+
+.callout--success {
+  background: #f0fdf4;
+  border-color: #86efac;
+}
+
+.callout--info {
+  background: #eff6ff;
+  border-color: #93c5fd;
+}
+
+/* ── 10. LISTE LEGGIBILI dentro il contenuto ── */
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5em;
+  margin-bottom: var(--prose-gap);
+  list-style: revert; /* ripristina i bullet */
+}
+
+.post-content li {
+  margin-bottom: 0.45em;
+  line-height: var(--prose-line-height);
+  max-width: var(--prose-max-width);
+}
+
+/* ==========================================================================
+   HEADER & NAV
+========================================================================== */
+.site-header {
+  background-color: var(--bg-header);
+  border-top: 4px solid var(--primary-color);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1a202c;
+  letter-spacing: -0.5px;
+}
+.site-title:hover { text-decoration: none; }
+
+.site-nav .page-link {
+  color: var(--text-main);
+  margin-left: 25px;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color .2s ease, background-color .2s ease;
+}
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.site-nav .page-link.is-primary {
+  margin-left: 18px;
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: var(--primary-color);
+  color: #fff;
+  font-weight: 700;
+}
+.site-nav .page-link.is-primary:hover {
+  background: var(--primary-hover);
+  color: #fff;
+}
+
+.nav-trigger { display: none; }
+
+.menu-icon {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 101;
+}
+
+.menu-icon span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: #1a202c;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  transform-origin: left center;
+}
+
+.trigger {
+  display: flex;
+  align-items: center;
+}
+
+/* ==========================================================================
+   LAYOUT PRINCIPALE
+========================================================================== */
+.page-content { flex: 1; padding: 50px 0; }
+
+.post-wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-header { margin-bottom: 28px; text-align: center; }
+.post-title { font-size: 2.4rem; line-height: 1.2; color: #1a202c; margin-bottom: 10px; }
+.post-meta { color: var(--text-light); font-size: .95rem; }
+
+/* ==========================================================================
+   PULSANTI
+========================================================================== */
+.btn-primary {
+  display: inline-block;
+  background: var(--primary-color);
+  color: #fff !important;
+  padding: 15px 35px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  border-radius: 50px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color .3s, transform .2s;
+}
+.btn-primary:hover {
+  background: var(--primary-hover);
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  display: inline-block;
+  background: transparent;
+  color: var(--primary-color) !important;
+  padding: 15px 28px;
+  font-weight: 800;
+  border-radius: 50px;
+  border: 2px solid var(--primary-color);
+  text-align: center;
+}
+
+/* ==========================================================================
+   BOX CONVERSIONE
+========================================================================== */
+.tldr-box {
+  background-color: #f1f5f9;
+  border-left: 4px solid var(--text-light);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 24px 0;
+}
+
+.bridge-box {
+  margin: 40px 0;
+  padding: 24px;
+  background-color: #f8fafc;
+  border-left: 5px solid var(--primary-color);
+  border-radius: var(--radius-sm);
+}
+
+.bridge-box.is-highlighted {
+  background: #fff9f0;
+  box-shadow: var(--shadow-sm);
+}
+
+.bridge-title { margin-top: 0; font-size: 1.25rem; }
+.bridge-text { margin-bottom: 16px; color: var(--text-main); }
+.bridge-link { font-weight: 700; display: inline-block; }
+
+.promo-box {
+  margin: 45px 0;
+  padding: 30px;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--primary-color);
+  background: linear-gradient(180deg, rgba(255,128,0,.05), #ffffff);
+  text-align: center;
+}
+
+.promo-title { margin-top: 0; }
+.promo-text { margin-bottom: 20px; }
+.microcopy { display: block; font-size: 0.85rem; color: var(--text-light); margin-top: 10px; }
+
+.trust-box {
+  margin: 30px 0;
+  padding: 24px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background: #fff;
+}
+.trust-title { margin-top: 0; font-size: 1.2rem; margin-bottom: 10px; }
+.trust-text { margin-bottom: 0; }
+
+/* ==========================================================================
+   HERO CLEAN & HERO SAAS
+========================================================================== */
+.hero-clean {
+  background: #fff;
+  padding: 70px 0 30px;
+  border-bottom: 1px solid var(--border-color);
+}
+.hero-clean__title { font-size: 2.6rem; text-align: center; }
+.hero-clean__subtitle { text-align: center; color: var(--text-light); }
+
+.hero-saas {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  padding: 90px 0 70px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+}
+.hero-saas__inner { max-width: 720px; margin: 0 auto; }
+
+.hero-saas__badge {
+  display: inline-block;
+  background: rgba(255,128,0,0.1);
+  color: #1a202c;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.hero-saas__title {
+  font-size: 2.8rem;
+  line-height: 1.15;
+  color: #1a202c;
+  margin-bottom: 18px;
+}
+
+.hero-saas__subtitle {
+  font-size: 1.15rem;
+  color: var(--text-light);
+  margin-bottom: 30px;
+}
+
+.hero-saas__actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+
+.hero-saas__proof { font-size: 0.9rem; color: var(--text-light); }
+
+/* ==========================================================================
+   GRID & CARDS
+========================================================================== */
+.start-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.start-card {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 22px;
+}
+
+.cluster-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.cluster-box {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cluster-box:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary-color);
+}
+
+.cluster-box h3 { margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; }
+.cluster-box p  { margin: 0; color: var(--text-light); line-height: 1.5; }
+
+.text-orange { color: var(--primary-color); }
+
+/* ==========================================================================
+   SECTION IN BREVE (SIB)
+========================================================================== */
+.section-in-breve {
+  background: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  margin: 24px 0;
+}
+.sib-header { display: flex; align-items: center; margin-bottom: 12px; }
+.sib-icon   { margin-right: 10px; font-size: 1.5rem; }
+.sib-title  { margin: 0; font-size: 1.1rem; }
+
+.sib-list li {
+  margin-bottom: 8px;
+  padding-left: 20px;
+  position: relative;
+}
+.sib-list li::before {
+  content: "✓";
+  color: var(--primary-color);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* ==========================================================================
+   DISCLAIMER / AFFILIATE
+========================================================================== */
+.disclaimer-inline {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 12px !important;
+  background-color: #f1f5f9 !important;
+  border-left: 3px solid var(--text-light) !important;
+  padding: 16px 20px !important;
+  margin: 32px 0 !important;
+  border-radius: 0 8px 8px 0 !important;
+}
+
+.disclaimer-icon  { font-size: 1.4rem !important; line-height: 1.2 !important; }
+
+.disclaimer-text {
+  margin-bottom: 0 !important;
+  font-size: 0.9rem !important;
+  color: var(--text-light) !important;
+  line-height: 1.6 !important;
+}
+
+.disclaimer-text strong { color: var(--text-main) !important; }
+
+.disclaimer-text a {
+  color: inherit !important;
+  text-decoration: underline !important;
+  font-weight: 500 !important;
+  transition: color 0.2s ease;
+}
+.disclaimer-text a:hover { color: var(--primary-color) !important; }
+
+/* ==========================================================================
+   FOOTER
+========================================================================== */
+.site-footer {
+  background: #1a202c;
+  color: #cbd5e1;
+  padding: 35px 20px 25px;
+  margin-top: auto;
+  font-size: 0.95rem;
+}
+
+.site-footer p,
+.site-footer ul { margin-bottom: 8px; line-height: 1.5; }
+
+.site-footer li { margin-bottom: 4px; }
+
+.site-footer h3,
+.site-footer h4,
+.site-footer .footer-heading {
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  font-size: 1.05rem;
+}
+
+.site-footer a            { color: var(--primary-color); }
+.site-footer a:hover      { color: var(--primary-hover); }
+
+/* ==========================================================================
+   MOBILE & RESPONSIVE
+========================================================================== */
+@media screen and (max-width: 768px) {
+
+  .page-content,
+  .post-wrapper,
+  .wrapper,
+  main,
+  article {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    width: 100%;
   }
+
+  .menu-icon { display: flex; }
+
+  .trigger {
+    display: none;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    flex-direction: column;
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.05);
+  }
+
+  .nav-trigger:checked ~ .trigger { display: flex; }
+
+  .site-nav .page-link {
+    display: block;
+    padding: 16px 20px;
+    margin: 0;
+    border-top: 1px solid var(--border-color);
+    font-size: 1.1rem;
+  }
+
+  .site-nav .page-link.is-primary {
+    margin: 16px 20px;
+    text-align: center;
+    border-radius: 50px;
+  }
+
+  .nav-trigger:checked + .menu-icon span:nth-child(1) { transform: rotate(45deg); }
+  .nav-trigger:checked + .menu-icon span:nth-child(2) { opacity: 0; }
+  .nav-trigger:checked + .menu-icon span:nth-child(3) { transform: rotate(-45deg); }
+
+  .post-wrapper {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: var(--radius-sm);
+  }
+
+  .hero-clean__title { font-size: 2rem; }
+  .hero-saas { padding: 60px 0 40px; }
+  .hero-saas__title { font-size: 2rem; }
+  .hero-saas__subtitle { font-size: 1rem; }
+
+  /* Su mobile il break-out delle figure non esce dai bordi */
+  .post-content figure,
+  .prose-figure { margin-inline: 0; }
+
+  /* Drop cap ridotto su schermi piccoli */
+  :root { --dropcap-size: 2.6rem; }
+}
