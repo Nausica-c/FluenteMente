@@ -1,0 +1,796 @@
+/* ==========================================================================
+   FluenteMente — CSS UNIFICATO
+   Merge di: (1) CSS estratto dall'HTML  +  (2) CSS standalone
+   Regola: i token dell'HTML restano nel blocco :root principale;
+   i token aggiuntivi del CSS standalone sono aggiunti in append.
+   In caso di conflitto vince la versione più completa / generosa.
+========================================================================== */
+
+/* ==========================================================================
+   CUSTOM PROPERTIES
+========================================================================== */
+:root {
+  /* ── Palette colori ── */
+  --orange:           #ff6b00;   /* brand primario (HTML) */
+  --orange-d:         #e05e00;   /* hover scuro */
+  --orange-l:         #fff4ed;   /* sfondo leggero */
+  --primary-color:    #ff8000;   /* alias CSS standalone */
+  --primary-hover:    #e67300;
+
+  /* ── Testo ── */
+  --text:             #1a1a1a;   /* da HTML */
+  --text-main:        #2d3748;   /* da CSS standalone */
+  --text-light:       #718096;
+  --muted:            #555555;
+
+  /* ── Sfondi & bordi ── */
+  --white:            #ffffff;
+  --light:            #f8f8f8;
+  --bg-body:          #f8fafc;
+  --bg-header:        #ffffff;
+  --border:           #e8e8e8;
+  --border-color:     #e2e8f0;
+
+  /* ── Layout ── */
+  --max:              760px;     /* larghezza articolo HTML */
+  --content-width:    840px;     /* larghezza contenuto standalone */
+
+  /* ── Border-radius ── */
+  --radius-sm:        8px;
+  --radius-md:        12px;
+  --radius-lg:        16px;
+
+  /* ── Ombre ── */
+  --shadow-sm:        0 2px 6px rgba(0,0,0,0.04);
+  --shadow-md:        0 10px 20px rgba(0,0,0,0.05);
+  --shadow-lg:        0 18px 50px rgba(0,0,0,0.06);
+
+  /* ── Prosa anti-muro ── */
+  --prose-line-height:  1.78;
+  --prose-gap:          1.6em;
+  --prose-max-width:    68ch;
+  --dropcap-size:       3.4rem;
+  --section-divider-color: #e2e8f0;
+}
+
+/* ==========================================================================
+   RESET & BASE
+========================================================================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+html:focus-within { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  color: var(--text-main);
+  background-color: var(--bg-body);
+  line-height: var(--prose-line-height);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+a { color: var(--primary-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid rgba(255, 128, 0, 0.25);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+ul { list-style: none; }
+
+.wrapper {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ==========================================================================
+   TIPOGRAFIA & ANTI MURO DI TESTO
+========================================================================== */
+
+/* 1. Paragrafi */
+p {
+  margin-bottom: var(--prose-gap);
+  max-width: var(--prose-max-width);
+  line-height: var(--prose-line-height);
+}
+
+/* Nei contesti centrati la max-width non si applica */
+.text-center p,
+.hero-saas p,
+.promo-box p,
+.cta-inline p { max-width: none; }
+
+/* 2. Titoli */
+h1, h2, h3 {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  line-height: 1.25;
+}
+
+h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
+h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
+h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem); color: var(--text-light); }
+
+/* 3. Separatore visivo tra sezioni h2 nel contenuto articolo */
+.post-content h2 {
+  padding-top: 0.6em;
+  border-top: 2px solid var(--section-divider-color);
+}
+
+/* 4. Capolettera */
+.post-content > p:first-of-type::first-letter {
+  float: left;
+  font-size: var(--dropcap-size);
+  line-height: 0.82;
+  margin: 0.05em 0.14em 0 0;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+/* 5. Evidenziazione inline */
+.post-content mark,
+mark {
+  background: rgba(255, 128, 0, 0.18);
+  color: inherit;
+  padding: 0.05em 0.28em;
+  border-radius: 3px;
+}
+
+/* 6. Blockquote / pull-quote */
+blockquote {
+  margin: 2em 0;
+  padding: 1.2em 1.6em;
+  border-left: 4px solid var(--primary-color);
+  background-color: #fff9f0;
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--text-main);
+  line-height: var(--prose-line-height);
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 0.8em;
+  font-size: 0.85rem;
+  font-style: normal;
+  color: var(--text-light);
+}
+
+/* 7. Divisore decorativo */
+.prose-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.4em 0;
+  color: var(--text-light);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+.prose-divider::before,
+.prose-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--section-divider-color);
+}
+
+/* 8. Figura / immagine spezza-testo */
+.post-content figure,
+.prose-figure {
+  margin: 2em calc(-1 * 20px);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.post-content figure img,
+.prose-figure img { width: 100%; display: block; }
+
+.post-content figcaption,
+.prose-figure figcaption {
+  font-size: 0.82rem;
+  color: var(--text-light);
+  padding: 0.5em 1em;
+  text-align: center;
+  background: var(--bg-body);
+}
+
+/* 9. Callout box */
+.callout {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 128, 0, 0.07);
+  border: 1px solid rgba(255, 128, 0, 0.22);
+  font-size: 0.95rem;
+  line-height: var(--prose-line-height);
+  margin: 1.6em 0;
+}
+.callout__icon { font-size: 1.2rem; flex-shrink: 0; margin-top: 0.1em; }
+.callout p { margin: 0; max-width: none; }
+.callout--warning  { background: #fffbeb; border-color: #fcd34d; }
+.callout--success  { background: #f0fdf4; border-color: #86efac; }
+.callout--info     { background: #eff6ff; border-color: #93c5fd; }
+
+/* 10. Liste leggibili dentro il contenuto */
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5em;
+  margin-bottom: var(--prose-gap);
+  list-style: revert;
+}
+
+.post-content li {
+  margin-bottom: 0.45em;
+  line-height: var(--prose-line-height);
+  max-width: var(--prose-max-width);
+}
+
+/* ==========================================================================
+   NAVIGAZIONE
+========================================================================== */
+
+/* ── Variante HTML (sticky, semplice) ── */
+.site-nav {
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 24px;
+  background: var(--bg-header);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* ── Variante standalone (con border-top brand) ── */
+.site-header {
+  background-color: var(--bg-header);
+  border-top: 4px solid var(--primary-color);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.nav-inner,
+.header-wrapper {
+  max-width: var(--max);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+.header-wrapper { height: 70px; max-width: var(--content-width); }
+
+/* Logo */
+.site-logo {
+  font-family: 'Lora', serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+.site-logo span { color: var(--orange); }
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1a202c;
+  letter-spacing: -0.5px;
+}
+.site-title:hover { text-decoration: none; }
+
+/* Link nav */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  list-style: none;
+}
+.nav-links a {
+  font-size: 14px;
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.15s;
+}
+.nav-links a:hover { color: var(--orange); }
+
+.nav-cta {
+  background: var(--orange);
+  color: var(--white) !important;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 13px !important;
+  transition: background 0.2s !important;
+}
+.nav-cta:hover { background: var(--orange-d) !important; }
+
+/* Link standalone */
+.site-nav .page-link {
+  color: var(--text-main);
+  margin-left: 25px;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color .2s ease, background-color .2s ease;
+}
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.site-nav .page-link.is-primary {
+  margin-left: 18px;
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: var(--primary-color);
+  color: #fff;
+  font-weight: 700;
+}
+.site-nav .page-link.is-primary:hover {
+  background: var(--primary-hover);
+  color: #fff;
+}
+
+/* Menu hamburger (mobile) */
+.nav-trigger { display: none; }
+
+.menu-icon {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 101;
+}
+.menu-icon span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: #1a202c;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  transform-origin: left center;
+}
+.trigger {
+  display: flex;
+  align-items: center;
+}
+
+/* ==========================================================================
+   LAYOUT PRINCIPALE
+========================================================================== */
+.page-content { flex: 1; padding: 50px 0; }
+
+/* Contenitore articolo (HTML) */
+.article {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 24px 100px;
+}
+
+/* Wrapper post (standalone) */
+.post-wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-header { margin-bottom: 28px; text-align: center; }
+.post-title  { font-size: 2.4rem; line-height: 1.2; color: #1a202c; margin-bottom: 10px; }
+.post-meta   { color: var(--text-light); font-size: .95rem; }
+
+/* ==========================================================================
+   HERO
+========================================================================== */
+
+/* ── Hero articolo (da HTML) ── */
+.hero-area {
+  padding: 52px 0 40px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 40px;
+}
+
+.hero-badge {
+  display: inline-block;
+  background: var(--orange-l);
+  color: var(--orange-d);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 4px;
+  letter-spacing: 0.03em;
+  margin-bottom: 18px;
+}
+
+.hero-area h1 {
+  font-family: 'Lora', serif;
+  font-size: clamp(28px, 5vw, 40px);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.hero-area h1 em { font-style: italic; color: var(--orange); }
+
+.hero-area .lead {
+  font-size: 18px;
+  color: var(--muted);
+  font-weight: 300;
+  line-height: 1.65;
+  margin-bottom: 28px;
+}
+.hero-area .lead strong { color: var(--text); font-weight: 600; }
+
+.trust-row { font-size: 14px; color: var(--muted); margin-top: 14px; }
+.trust-row span { margin-right: 16px; }
+
+/* ── Hero clean ── */
+.hero-clean {
+  background: #fff;
+  padding: 70px 0 30px;
+  border-bottom: 1px solid var(--border-color);
+}
+.hero-clean__title    { font-size: 2.6rem; text-align: center; }
+.hero-clean__subtitle { text-align: center; color: var(--text-light); }
+
+/* ── Hero SaaS ── */
+.hero-saas {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  padding: 90px 0 70px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+}
+.hero-saas__inner    { max-width: 720px; margin: 0 auto; }
+
+.hero-saas__badge {
+  display: inline-block;
+  background: rgba(255, 128, 0, 0.1);
+  color: #1a202c;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.hero-saas__title {
+  font-size: 2.8rem;
+  line-height: 1.15;
+  color: #1a202c;
+  margin-bottom: 18px;
+}
+.hero-saas__subtitle {
+  font-size: 1.15rem;
+  color: var(--text-light);
+  margin-bottom: 30px;
+}
+.hero-saas__actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.hero-saas__proof { font-size: 0.9rem; color: var(--text-light); }
+
+/* ==========================================================================
+   HEADINGS NEL CORPO ARTICOLO
+========================================================================== */
+.article h2 {
+  font-family: 'Lora', serif;
+  font-size: clamp(22px, 3.5vw, 30px);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+  margin-top: 52px;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.article p { margin-bottom: 16px; }
+
+/* ==========================================================================
+   PULSANTI
+========================================================================== */
+
+/* ── Pulsante articolo HTML ── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--orange);
+  color: var(--white);
+  text-decoration: none;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  padding: 16px 32px;
+  border-radius: 8px;
+  transition: background 0.2s, transform 0.15s;
+  line-height: 1;
+}
+.btn:hover { background: var(--orange-d); transform: translateY(-1px); }
+.btn-sm    { font-size: 15px; padding: 12px 24px; }
+
+.btn-note {
+  display: block;
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* ── Pulsante standalone ── */
+.btn-primary {
+  display: inline-block;
+  background: var(--primary-color);
+  color: #fff !important;
+  padding: 15px 35px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  border-radius: 50px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color .3s, transform .2s;
+}
+.btn-primary:hover {
+  background: var(--primary-hover);
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  display: inline-block;
+  background: transparent;
+  color: var(--primary-color) !important;
+  padding: 15px 28px;
+  font-weight: 800;
+  border-radius: 50px;
+  border: 2px solid var(--primary-color);
+  text-align: center;
+}
+
+/* ==========================================================================
+   CTA BLOCK
+========================================================================== */
+.cta-block {
+  background: var(--orange-l);
+  border-left: 4px solid var(--orange);
+  border-radius: 0 8px 8px 0;
+  padding: 28px 28px 24px;
+  margin: 40px 0;
+  text-align: center;
+}
+.cta-block .cta-title {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.cta-block .cta-sub {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+/* ==========================================================================
+   BOX CONVERSIONE (standalone)
+========================================================================== */
+.tldr-box {
+  background-color: #f1f5f9;
+  border-left: 4px solid var(--text-light);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 24px 0;
+}
+
+.bridge-box {
+  margin: 40px 0;
+  padding: 24px;
+  background-color: #f8fafc;
+  border-left: 5px solid var(--primary-color);
+  border-radius: var(--radius-sm);
+}
+.bridge-box.is-highlighted { background: #fff9f0; box-shadow: var(--shadow-sm); }
+.bridge-title { margin-top: 0; font-size: 1.25rem; }
+.bridge-text  { margin-bottom: 16px; color: var(--text-main); }
+.bridge-link  { font-weight: 700; display: inline-block; }
+
+.promo-box {
+  margin: 45px 0;
+  padding: 30px;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--primary-color);
+  background: linear-gradient(180deg, rgba(255,128,0,.05), #ffffff);
+  text-align: center;
+}
+.promo-title  { margin-top: 0; }
+.promo-text   { margin-bottom: 20px; }
+.microcopy    { display: block; font-size: 0.85rem; color: var(--text-light); margin-top: 10px; }
+
+.trust-box {
+  margin: 30px 0;
+  padding: 24px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background: #fff;
+}
+.trust-title { margin-top: 0; font-size: 1.2rem; margin-bottom: 10px; }
+.trust-text  { margin-bottom: 0; }
+
+/* ==========================================================================
+   CARD GRIDS
+========================================================================== */
+
+/* Problem cards */
+.problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+.problem-card {
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px 18px;
+}
+.problem-card .prob-icon { font-size: 24px; margin-bottom: 8px; display: block; }
+.problem-card h3         { font-size: 15px; margin: 0 0 6px; font-weight: 700; color: var(--text-main); }
+.problem-card p          { font-size: 14px; color: var(--muted); margin: 0; line-height: 1.5; }
+
+/* Method / feature cards */
+.method-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+.method-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 22px 20px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.method-card:hover {
+  border-color: var(--orange);
+  box-shadow: 0 4px 18px rgba(255,107,0,0.1);
+}
+.method-card .m-icon { font-size: 28px; margin-bottom: 10px; display: block; }
+.method-card h3      { font-size: 16px; margin: 0 0 6px; font-weight: 700; color: var(--text-main); }
+.method-card p       { font-size: 14px; color: var(--muted); margin: 0; line-height: 1.5; }
+
+/* Start grid */
+.start-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}
+.start-card {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 22px;
+}
+
+/* Cluster grid */
+.cluster-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.cluster-box {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.cluster-box:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary-color);
+}
+.cluster-box h3 { margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; }
+.cluster-box p  { margin: 0; color: var(--text-light); line-height: 1.5; }
+
+/* ==========================================================================
+   INSIGHT BOX (2 colonne)
+========================================================================== */
+.insight-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 28px 0;
+}
+.insight-left {
+  background: var(--orange-l);
+  border-right: 1px solid var(--border);
+  padding: 28px 24px;
+}
+.insight-right {
+  background: var(--white);
+  padding: 28px 24px;
+}
+.insight-left h3,
+.insight-right h3 {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.insight-left p,
+.insight-right p {
+  font-size: 15px;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.6;
+}
+.insight-left p strong,
+.insight-right p strong { color: var(--text); }
+
+/* ==========================================================================
+   BENEFIT LIST
+========================================================================== */
+.benefit-list {
+  list-style: none;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.benefit-list li {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  font-size: 16px;
+  line-height: 1.55;
+}
+.benefit-list .bi {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  background: var(--orange);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 800;
+  margin-top: 2px;
+}
+
+/* ==========================================================================
+  
