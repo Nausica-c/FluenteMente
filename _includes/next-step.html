@@ -1,0 +1,24 @@
+<div class="fm-next-step {{ include.variant }}">
+
+  {% if include.badge %}
+    <div class="fm-next-step-badge">
+      {{ include.badge }}
+    </div>
+  {% endif %}
+
+  <h3>
+    {{ include.title | default: "🧭 Prossimo passo" }}
+  </h3>
+
+  <p>
+    {{ include.text | default: "Hai capito il problema, ora serve un metodo." }}
+  </p>
+
+  <a href="{{ include.link_url | relative_url }}"
+     class="fm-next-btn">
+
+    {{ include.link_text | default: "Vai alla guida →" }}
+
+  </a>
+
+</div>

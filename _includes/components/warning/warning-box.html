@@ -1,0 +1,75 @@
+{% assign t = page.type %}
+{% assign s = page.subtype %}
+
+{%- comment -%}
+========================
+DEFAULT
+========================
+{%- endcomment -%}
+
+{% assign title = "⚠️ Attenzione" %}
+{% assign text = "Questo è uno degli errori più comuni quando si impara l’inglese." %}
+
+{%- comment -%}
+========================
+TYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if t == "problem" %}
+
+  {% assign title = "⚠️ Qui è dove tutti si bloccano" %}
+  {% assign text = "Il problema non è capire l’inglese, ma usarlo sotto pressione." %}
+
+{% elsif t == "beginner" %}
+
+  {% assign title = "⚠️ Errore da evitare subito" %}
+  {% assign text = "Studiare troppo teoria senza pratica rallenta enormemente i progressi." %}
+
+{% elsif t == "review" %}
+
+  {% assign title = "⚠️ Punto critico" %}
+  {% assign text = "Se non applichi subito il metodo, l’effetto svanisce rapidamente." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES
+========================
+{%- endcomment -%}
+
+{% if s == "speaking" %}
+
+  {% assign title = "⚠️ Errore nello speaking" %}
+  {% assign text = "Tradurre mentalmente parola per parola è il motivo principale del blocco." %}
+
+{% elsif s == "confidence" %}
+
+  {% assign title = "⚠️ Blocco mentale comune" %}
+  {% assign text = "Aspettare di sentirsi pronti è la causa principale della mancata progressione." %}
+
+{% elsif s == "grammar" %}
+
+  {% assign title = "⚠️ Falsa sicurezza" %}
+  {% assign text = "Sapere le regole non significa saper parlare in tempo reale." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT
+========================
+{%- endcomment -%}
+
+<div class="fm-warning-box {{ include.class }}">
+
+  <div class="fm-warning-title">
+    {{ include.title | default: title }}
+  </div>
+
+  <p>
+    {{ include.text | default: text }}
+  </p>
+
+</div>

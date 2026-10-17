@@ -1,0 +1,18 @@
+.fm-diagnosis-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:18px;
+  margin:32px 0;
+}
+
+.fm-card{
+  background:white;
+  border:1px solid #ececec;
+  border-radius:18px;
+  padding:20px;
+}
+
+.fm-card strong{
+  display:block;
+  margin:12px 0 8px;
+}
