@@ -1,0 +1,75 @@
+{% assign t = page.type %}
+{% assign s = page.subtype %}
+
+{%- comment -%}
+========================
+DEFAULT
+========================
+{%- endcomment -%}
+
+{% assign title = "💡 Punto chiave" %}
+{% assign text = "Ecco la cosa importante da capire per sbloccarti davvero." %}
+
+{%- comment -%}
+========================
+TYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if t == "problem" %}
+
+  {% assign title = "🧠 Il vero problema" %}
+  {% assign text = "Non è una mancanza di studio, ma un blocco tra comprensione e produzione." %}
+
+{% elsif t == "beginner" %}
+
+  {% assign title = "🌱 Concetto base" %}
+  {% assign text = "Devi prima capire come funziona il meccanismo, poi applicarlo." %}
+
+{% elsif t == "review" %}
+
+  {% assign title = "🔥 Insight finale" %}
+  {% assign text = "Il metodo funziona solo se lo trasformi in pratica quotidiana." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES
+========================
+{%- endcomment -%}
+
+{% if s == "speaking" %}
+
+  {% assign title = "🗣️ Parla = abilità separata" %}
+  {% assign text = "Capire e parlare non usano lo stesso sistema nel cervello." %}
+
+{% elsif s == "confidence" %}
+
+  {% assign title = "💪 La paura è un sintomo" %}
+  {% assign text = "Il blocco non è linguistico, è psicologico e si allena." %}
+
+{% elsif s == "grammar" %}
+
+  {% assign title = "📘 Regole ≠ parlato" %}
+  {% assign text = "Conoscere la grammatica non significa saper parlare." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT
+========================
+{%- endcomment -%}
+
+<div class="fm-insight-box {{ include.class }}">
+
+  <div class="fm-insight-title">
+    {{ include.title | default: title }}
+  </div>
+
+  <p>
+    {{ include.text | default: text }}
+  </p>
+
+</div>

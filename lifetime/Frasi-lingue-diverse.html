@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Le frasi che ti servono davvero | FluenteMente</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --orange:    #ff6b00;
+  --orange-d:  #e05e00;
+  --orange-l:  #fff4ed;
+  --text:      #1a1a1a;
+  --muted:     #555555;
+  --light:     #f8f8f8;
+  --border:    #e8e8e8;
+  --white:     #ffffff;
+  --max:       760px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  color: var(--text);
+  background: var(--white);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* ── NAV ── */
+.site-nav {
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  background: var(--white);
+  position: sticky; top: 0; z-index: 100;
+}
+.nav-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  height: 56px;
+}
+.site-logo {
+  font-family: 'Lora', serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+.site-logo span { color: var(--orange); }
+
+.nav-links {
+  display: flex; align-items: center; gap: 24px;
+  list-style: none;
+}
+.nav-links a {
+  font-size: 14px;
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.15s;
+}
+.nav-links a:hover { color: var(--orange); }
+.nav-cta {
+  background: var(--orange);
+  color: var(--white) !important;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 13px !important;
+  transition: background 0.2s !important;
+}
+.nav-cta:hover { background: var(--orange-d) !important; }
+
+/* ── ARTICLE ── */
+.article {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 24px 100px;
+}
+
+/* ── HERO ── */
+.hero-area {
+  padding: 52px 0 40px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 40px;
+}
+.hero-badge {
+  display: inline-block;
+  background: var(--orange-l);
+  color: var(--orange-d);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 4px;
+  letter-spacing: 0.03em;
+  margin-bottom: 18px;
+}
+.hero-area h1 {
+  font-family: 'Lora', serif;
+  font-size: clamp(28px, 5vw, 40px);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.hero-area h1 em {
+  font-style: italic;
+  color: var(--orange);
+}
+.hero-area .lead {
+  font-size: 18px;
+  color: var(--muted);
+  font-weight: 300;
+  line-height: 1.65;
+  margin-bottom: 28px;
+}
+.hero-area .lead strong { color: var(--text); font-weight: 600; }
+
+.trust-row {
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 14px;
+}
+.trust-row span { margin-right: 16px; }
+
+/* ── BUTTONS ── */
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--orange);
+  color: var(--white);
+  text-decoration: none;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  padding: 16px 32px;
+  border-radius: 8px;
+  transition: background 0.2s, transform 0.15s;
+  line-height: 1;
+}
+.btn:hover { background: var(--orange-d); transform: translateY(-1px); }
+.btn-sm { font-size: 15px; padding: 12px 24px; }
+
+.btn-note {
+  display: block;
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* ── CTA BLOCK ── */
+.cta-block {
+  background: var(--orange-l);
+  border-left: 4px solid var(--orange);
+  border-radius: 0 8px 8px 0;
+  padding: 28px 28px 24px;
+  margin: 40px 0;
+  text-align: center;
+}
+.cta-block .cta-title {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.cta-block .cta-sub {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+/* ── HEADINGS ── */
+.article h2 {
+  font-family: 'Lora', serif;
+  font-size: clamp(22px, 3.5vw, 30px);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+  margin-top: 52px;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.article p { margin-bottom: 16px; }
+
+/* ── PHRASE LIST ── */
+.phrase-list {
+  list-style: none;
+  margin: 20px 0;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.phrase-list li {
+  display: flex; gap: 14px; align-items: flex-start;
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 18px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.phrase-list .flag {
+  flex-shrink: 0;
+  font-size: 20px;
+  margin-top: 1px;
+}
+.phrase-list .phrase-text strong {
+  display: block;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 2px;
+}
+.phrase-list .phrase-text span {
+  font-size: 14px;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ── PROBLEM CARDS ── */
+.problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+.problem-card {
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px 18px;
+}
+.problem-card .prob-icon { font-size: 24px; margin-bottom: 8px; display: block; }
+.problem-card h3 { font-size: 15px; margin: 0 0 6px; font-weight: 700; }
+.problem-card p { font-size: 14px; color: var(--muted); margin: 0; line-height: 1.5; }
+
+/* ── INSIGHT BOX ── */
+.insight-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 28px 0;
+}
+.insight-left {
+  background: var(--orange-l);
+  border-right: 1px solid var(--border);
+  padding: 28px 24px;
+}
+.insight-right {
+  background: var(--white);
+  padding: 28px 24px;
+}
+.insight-left h3, .insight-right h3 {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.insight-left p, .insight-right p {
+  font-size: 15px;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.6;
+}
+.insight-left p strong, .insight-right p strong { color: var(--text); }
+
+/* ── BENEFIT LIST ── */
+.benefit-list {
+  list-style: none;
+  margin: 20px 0;
+  display: flex; flex-direction: column; gap: 14px;
+}
+.benefit-list li {
+  display: flex; gap: 12px; align-items: flex-start;
+  font-size: 16px; line-height: 1.55;
+}
+.benefit-list .bi {
+  flex-shrink: 0;
+  width: 24px; height: 24px;
+  background: var(--orange);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 800;
+  margin-top: 2px;
+}
+
+/* ── DIVIDER ── */
+.divider { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+
+/* ── FOOTER ── */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px;
+  text-align: center;
+  background: var(--light);
+}
+.site-footer p {
+  font-size: 12px;
+  color: #999;
+  line-height: 1.6;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ── STICKY ── */
+.sticky-bar {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  background: var(--white);
+  border-top: 2px solid var(--orange);
+  box-shadow: 0 -2px 16px rgba(0,0,0,0.08);
+  padding: 12px 24px;
+  display: flex; justify-content: space-between; align-items: center;
+  z-index: 200;
+  transform: translateY(100%);
+  transition: transform 0.35s cubic-bezier(0.16,1,0.3,1);
+  gap: 12px;
+}
+.sticky-bar.show { transform: translateY(0); }
+.sticky-text { font-size: 14px; font-weight: 600; color: var(--text); }
+.sticky-text span { color: var(--orange); }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 600px) {
+  .nav-links { display: none; }
+  .sticky-bar { flex-direction: column; text-align: center; }
+  .problem-grid { grid-template-columns: 1fr; }
+  .insight-box { grid-template-columns: 1fr; }
+  .insight-left { border-right: none; border-bottom: 1px solid var(--border); }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="https://nausica-c.github.io/FluenteMente/" class="site-logo">Fluente<span>Mente</span></a>
+    <ul class="nav-links">
+      <li><a href="#">Metodo</a></li>
+      <li><a href="#">Lingue</a></li>
+      <li><a href="#">Blog</a></li>
+      <li>
+        <a href="https://www.awin1.com/cread.php?awinmid=9659&awinaffid=2764918&campaign=&ued=https%3A%2F%2Fgo.babbel.com%2Ft%3Futm_term%3Ddisplay_v1%26bsc%3Dznx-ita-all-ppf%26btp%3Ddefault"
+           target="_blank" rel="nofollow sponsored noopener" class="nav-cta">✈️ Prova Gratis</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- ARTICLE -->
+<main class="article">
+
+  <!-- HERO -->
+  <div class="hero-area">
+    <span class="hero-badge">✈️ Viaggi • Frasi utili</span>
+    <h1>Le frasi che ti servono<br><em>davvero</em> quando viaggi</h1>
+    <p class="lead">
+      Salvale prima di partire. O fai di meglio: <strong>imparale tutte in pochi giorni</strong> con Babbel Lifetime a 239€.
+    </p>
+    <a href="https://www.awin1.com/cread.php?awinmid=9659&awinaffid=2764918&campaign=&ued=https%3A%2F%2Fgo.babbel.com%2Ft%3Futm_term%3Ddisplay_v1%26bsc%3Dznx-ita-all-ppf%26btp%3Ddefault"
+       target="_blank" rel="nofollow sponsored noopener" class="btn">
+      📘 Accedi a tutte le lingue con Babbel Lifetime
+    </a>
+    <p class="btn-note">Un solo pagamento • Offerta fino al 5 maggio</p>
+    <p class="trust-row">
+      <span>✔️ Accesso immediato</span>
+      <span>✔️ Situazioni reali</span>
+      <span>✔️ Senza stress</span>
+    </p>
+  </div>
+
+  <!-- FRASI -->
+  <h2>Frasi fondamentali in viaggio</h2>
+  <p>Quelle che usi ogni giorno — al bar, in hotel, per strada.</p>
+
+  <ul class="phrase-list">
+    <li>
+      <span class="flag">🚻</span>
+      <div class="phrase-text">
+        <strong>Dov'è il bagno?</strong>
+        <span>Where is the bathroom? / ¿Dónde está el baño? / Où sont les toilettes?</span>
+      </div>
+    </li>
+    <li>
+      <span class="flag">🧾</span>
+      <div class="phrase-text">
+        <strong>Posso avere il conto?</strong>
+        <span>Can I have the bill? / ¿Me puede traer la cuenta? / L'addition, s'il vous plaît.</span>
+      </div>
+    </li>
+    <li>
+      <span class="flag">💶</span>
+      <div class="phrase-text">
+        <strong>Quanto costa?</strong>
+        <span>How much is it? / ¿Cuánto cuesta? / C'est combien?</span>
+      </div>
+    </li>
+    <li>
+      <span class="flag">🗣️</span>
+      <div class="phrase-text">
+        <strong>Parla inglese?</strong>
+        <span>Do you speak English? / ¿Habla inglés? / Vous parlez anglais?</span>
+      </div>
+    </li>
+    <li>
+      <span class="flag">🆘</span>
+      <div class="phrase-text">
+        <strong>Può aiutarmi?</strong>
+        <span>Can you help me? / ¿Puede ayudarme? / Pouvez-vous m'aider?</span>
+      </div>
+    </li>
+  </ul>
+
+  <!-- PROBLEMA -->
+  <h2>Il problema con queste frasi</h2>
+  <p>Non bastano. Appena la situazione cambia, ti blocchi di nuovo.</p>
+
+  <div class="problem-grid">
+    <div class="problem-card">
+      <span class="prob-icon">❌</span>
+      <h3>Non capisci la risposta</h3>
+      <p>Fai la domanda giusta. Poi il locale risponde e tu non capisci niente.</p>
+    </div>
+    <div class="problem-card">
+      <span class="prob-icon">❌</span>
+      <h3>Situazioni impreviste</h3>
+      <p>Il treno è cancellato. Il menu non ha foto. Il wifi non funziona. Le frasi non coprono tutto.</p>
+    </div>
+    <div class="problem-card">
+      <span class="prob-icon">❌</span>
+      <h3>Ogni viaggio da zero</h3>
+      <p>Spagna, Francia, Germania: ogni volta devi ricominciare a cercare frasi nuove.</p>
+    </div>
+  </div>
+
+  <!-- INSIGHT -->
+  <h2>La verità</h2>
+
+  <div class="insight-box">
+    <div class="insight-left">
+      <h3>Frasi isolate non bastano</h3>
+      <p>Non serve memorizzare un vocabolario infinito. Serve <strong>capire la lingua abbastanza da usarla davvero</strong>, in qualsiasi situazione.</p>
+    </div>
+    <div class="insight-right">
+      <h3>Il metodo che funziona</h3>
+      <p>Chi viaggia senza bloccarsi non ha un talento speciale. <strong>Si è preparato con il metodo giusto</strong> — situazioni reali, non teoria.</p>
+    </div>
+  </div>
+
+  <!-- CTA MID -->
+  <div class="cta-block">
+    <p class="cta-title">⚡ Inizia a parlare in modo semplice</p>
+    <p class="cta-sub">Babbel Lifetime a 239€ • Offerta valida solo fino al 5 maggio</p>
+    <a href="https://www.awin1.com/cread.php?awinmid=9659&awinaffid=2764918&campaign=&ued=https%3A%2F%2Fgo.babbel.com%2Ft%3Futm_term%3Ddisplay_v1%26bsc%3Dznx-ita-all-ppf%26btp%3Ddefault"
+       target="_blank" rel="nofollow sponsored noopener" class="btn btn-sm">
+      Accesso immediato • Tutte le lingue incluse →
+    </a>
+  </div>
+
+  <hr class="divider">
+
+  <!-- SOLUZIONE -->
+  <h2>La soluzione più semplice</h2>
+  <p>Con Babbel puoi prepararti prima di partire, anche se hai poco tempo.</p>
+
+  <ul class="benefit-list">
+    <li>
+      <span class="bi">✓</span>
+      <span><strong>Frasi utili per situazioni reali</strong> — al ristorante, in hotel, in aeroporto. Non grammatica astratta.</span>
+    </li>
+    <li>
+      <span class="bi">✓</span>
+      <span><strong>Lezioni da 10 minuti</strong> — si adattano alla tua vita, non il contrario.</span>
+    </li>
+    <li>
+      <span class="bi">✓</span>
+      <span><strong>Conversazione con Babbel Speak</strong> — pratica il parlato con AI, senza giudizi.</span>
+    </li>
+    <li>
+      <span class="bi">✓</span>
+      <span><strong>Tutte le 14 lingue in un solo accesso</strong> — cambi destinazione? Non paghi di nuovo.</span>
+    </li>
+    <li>
+      <span class="bi">✓</span>
+      <span><strong>20 giorni soddisfatti o rimborsati</strong> — zero rischi. Se non fa per te, riavrai i soldi.</span>
+    </li>
+  </ul>
+
+  <!-- CTA FINALE -->
+  <div class="cta-block" style="margin-top: 44px;">
+    <p class="cta-title">🚀 Impara davvero a comunicare</p>
+    <p class="cta-sub">Offerta valida fino al 5 maggio • Solo nuovi utenti • Link affiliato</p>
+    <a href="https://www.awin1.com/cread.php?awinmid=9659&awinaffid=2764918&campaign=&ued=https%3A%2F%2Fgo.babbel.com%2Ft%3Futm_term%3Ddisplay_v1%26bsc%3Dznx-ita-all-ppf%26btp%3Ddefault"
+       target="_blank" rel="nofollow sponsored noopener" class="btn">
+      🚀 Ottieni Babbel Lifetime a 239€
+    </a>
+    <span class="btn-note">Un solo pagamento • Tutte le lingue • Per sempre</span>
+  </div>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>Offerta valida fino al 5 maggio • Solo nuovi utenti • Link affiliato. FluenteMente non è affiliato con Babbel — recensioni basate su esperienza diretta.</p>
+</footer>
+
+<!-- STICKY -->
+<div class="sticky-bar" id="stickyBar">
+  <p class="sticky-text">⏰ Offerta scade il <span>5 maggio</span> — Babbel Lifetime a 239€</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=9659&awinaffid=2764918&campaign=&ued=https%3A%2F%2Fgo.babbel.com%2Ft%3Futm_term%3Ddisplay_v1%26bsc%3Dznx-ita-all-ppf%26btp%3Ddefault"
+     target="_blank" rel="nofollow sponsored noopener" class="btn btn-sm">
+    👉 Ottieni accesso a vita
+  </a>
+</div>
+
+<script>
+const bar = document.getElementById('stickyBar');
+window.addEventListener('scroll', () => {
+  bar.classList.toggle('show', window.scrollY > 300);
+}, { passive: true });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,156 @@
+{% assign t = page.type %}
+{% assign s = page.subtype %}
+{% assign level = page.intent_level %}
+
+{%- comment -%}
+========================
+DEFAULT FALLBACK
+========================
+{%- endcomment -%}
+
+{% assign title = "🚀 Inizia a parlare davvero" %}
+{% assign text = "Usa un metodo pratico per sbloccarti subito, senza perdere tempo con teoria inutile." %}
+{% assign link_text = "Inizia gratis con Babbel →" %}
+
+{%- comment -%}
+========================
+TYPE LOGIC (macro intent)
+========================
+{%- endcomment -%}
+
+{% if t == "beginner" %}
+
+  {% assign title = "🚀 Parti senza confusione" %}
+  {% assign text = "Il problema non è la lingua, ma non avere un percorso chiaro da seguire." %}
+
+{% elsif t == "problem" %}
+
+  {% assign title = "🧠 Non sei bloccato: è il metodo" %}
+  {% assign text = "Puoi iniziare a parlare più velocemente cambiando approccio, non studiando di più." %}
+
+{% elsif t == "vocab" %}
+
+  {% assign title = "🔁 Studiare liste non basta" %}
+  {% assign text = "Per ricordare davvero serve ripetizione nel tempo, non accumulo di parole." %}
+
+{% elsif t == "review" %}
+
+  {% assign title = "🔥 Ora hai tutte le informazioni" %}
+  {% assign text = "Il modo migliore per capire se funziona è provarlo direttamente." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES (contesto)
+========================
+{%- endcomment -%}
+
+{% if s == "travel" %}
+
+  {% assign title = "✈️ Non arrivare impreparato" %}
+  {% assign text = "Bastano poche frasi giuste per cavartela ovunque. Allenale prima di partire." %}
+  {% assign link_text = "Preparati con Babbel →" %}
+
+{% elsif s == "speaking" %}
+
+  {% assign title = "🗣️ Inizia finalmente a parlare" %}
+  {% assign text = "Non serve sapere tutto, serve allenare il parlato ogni giorno." %}
+  {% assign link_text = "Sblocca lo speaking →" %}
+
+{% elsif s == "confidence" %}
+
+  {% assign title = "💪 La paura si elimina con la pratica" %}
+  {% assign text = "Non devi essere perfetto, devi solo iniziare a usare la lingua." %}
+  {% assign link_text = "Inizia ora →" %}
+
+{% elsif s == "business" %}
+
+  {% assign title = "💼 Inglese per il lavoro reale" %}
+  {% assign text = "Email, call e riunioni: frasi pratiche subito utilizzabili." %}
+  {% assign link_text = "Migliora il tuo inglese professionale →" %}
+
+{% elsif s == "grammar" %}
+
+  {% assign title = "📘 La grammatica serve solo se la usi" %}
+  {% assign text = "Non imparare regole: impara frasi che funzionano davvero." %}
+  {% assign link_text = "Usala nella pratica →" %}
+
+{% elsif s == "fast-results" %}
+
+  {% assign title = "⚡ Risultati più veloci senza stress" %}
+  {% assign text = "Piccoli esercizi quotidiani battono ore di studio passivo." %}
+  {% assign link_text = "Inizia oggi →" %}
+
+{% elsif s == "beginner-core" %}
+
+  {% assign title = "🌱 Parti dalle basi giuste" %}
+  {% assign text = "Se inizi bene, tutto il resto diventa più semplice." %}
+  {% assign link_text = "Inizia da zero →" %}
+
+{% elsif s == "motivation" %}
+
+  {% assign title = "🔥 Non serve motivazione, serve sistema" %}
+  {% assign text = "La costanza arriva quando il metodo è semplice da seguire." %}
+  {% assign link_text = "Inizia il tuo percorso →" %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+INTENT LEVEL OVERRIDE (NUOVO SISTEMA)
+========================
+========================
+{%- endcomment -%}
+
+{% if level == "soft" %}
+
+  {% assign title = "💡 Un modo più semplice esiste" %}
+  {% assign text = "Se vuoi evitare confusione, esistono metodi guidati che ti fanno risparmiare tempo." %}
+  {% assign link_text = "Scopri come funziona →" %}
+
+{% elsif level == "medium" %}
+
+  {% assign title = "🚀 Potresti iniziare oggi stesso" %}
+  {% assign text = "Un sistema guidato ti fa progredire più velocemente rispetto allo studio improvvisato." %}
+  {% assign link_text = "Prova ora →" %}
+
+{% elsif level == "hard" %}
+
+  {% assign title = "🔥 Inizia subito a parlare" %}
+  {% assign text = "Lezioni brevi e guidate per usare la lingua nella vita reale fin da subito." %}
+  {% assign link_text = "Inizia gratis →" %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT — FUNNEL ROUTING
+Educational and discovery pages go to the on-site review first.
+Only explicit high-intent pages (funnel_offer: direct) open the affiliate offer.
+========================
+{%- endcomment -%}
+
+{% assign direct_offer = false %}
+{% if page.funnel_offer == "direct" %}
+  {% assign direct_offer = true %}
+{% endif %}
+
+<div class="cta-block promo-box {{ include.class }}">
+  <h3>{{ include.title | default: title }}</h3>
+  <p>{{ include.text | default: text }}</p>
+
+  {% if direct_offer %}
+    <a rel="sponsored noopener" target="_blank"
+       href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref="
+       class="btn-primary">
+       {{ include.link_text | default: "Consulta l’offerta Babbel →" }}
+    </a>
+    <span class="cta-micro">Controlla prezzi, condizioni e offerte aggiornate prima di scegliere.</span>
+  {% else %}
+    <a href="{{ '/recensione/babbel/' | relative_url }}" class="btn-primary">
+       {{ include.link_text | default: "Scopri se Babbel fa per te →" }}
+    </a>
+    <span class="cta-micro">Leggi pro, limiti e condizioni prima di decidere.</span>
+  {% endif %}
+</div>

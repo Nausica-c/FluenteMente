@@ -1,0 +1,92 @@
+{% assign t = page.type %}
+{% assign s = page.subtype %}
+
+{%- comment -%}
+========================
+DEFAULT STATE
+========================
+{%- endcomment -%}
+
+{% assign title = "🧭 Prossimo passo" %}
+{% assign text = "Hai capito il problema, ora serve un metodo chiaro per sbloccarti." %}
+{% assign link_text = "Vai alla guida →" %}
+
+{%- comment -%}
+========================
+TYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if t == "problem" %}
+
+  {% assign title = "🧠 Ora capisci il blocco" %}
+  {% assign text = "Il prossimo passo è trasformare la consapevolezza in pratica." %}
+
+{% elsif t == "beginner" %}
+
+  {% assign title = "🌱 Parti nel modo giusto" %}
+  {% assign text = "Se inizi con il metodo giusto, tutto diventa più semplice dopo." %}
+
+{% elsif t == "review" %}
+
+  {% assign title = "🔥 Vuoi passare all’azione?" %}
+  {% assign text = "Ora che hai le informazioni, è il momento di applicarle." %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE OVERRIDES
+========================
+{%- endcomment -%}
+
+{% if s == "speaking" %}
+
+  {% assign title = "🗣️ Porta l’inglese nella vita reale" %}
+  {% assign text = "Non serve altra teoria: serve pratica guidata e costante." %}
+  {% assign link_text = "Vai allo speaking →" %}
+
+{% elsif s == "confidence" %}
+
+  {% assign title = "💪 Sblocca la paura di parlare" %}
+  {% assign text = "La sicurezza arriva solo quando inizi a usare la lingua." %}
+  {% assign link_text = "Inizia ora →" %}
+
+{% elsif s == "travel" %}
+
+  {% assign title = "✈️ Preparati per il viaggio" %}
+  {% assign text = "Impara le frasi essenziali per cavartela ovunque." %}
+  {% assign link_text = "Preparati subito →" %}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT
+========================
+{%- endcomment -%}
+
+<div class="fm-next-step {{ include.class }}">
+
+  {% if include.badge %}
+    <div class="fm-next-badge">
+      {{ include.badge }}
+    </div>
+  {% endif %}
+
+  <h3>
+    {{ include.title | default: title }}
+  </h3>
+
+  <p>
+    {{ include.text | default: text }}
+  </p>
+
+  <a
+    href="{{ include.link_url | relative_url }}"
+    class="fm-next-btn"
+  >
+    {{ include.link_text | default: link_text }}
+  </a>
+
+</div>

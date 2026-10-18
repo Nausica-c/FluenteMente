@@ -1,0 +1,122 @@
+{%- assign t = page.type -%}
+{%- assign s = page.subtype -%}
+{%- assign level = page.intent_level -%}
+
+{%- comment -%}
+========================
+DEFAULT CONTENT
+========================
+{%- endcomment -%}
+
+{%- assign cta_title = "🚀 Inizia a parlare davvero" -%}
+{%- assign cta_text = "Usa un metodo pratico per sbloccarti subito senza perdere tempo con teoria inutile." -%}
+{%- assign cta_link_text = "Scopri se Babbel fa per te →" -%}
+{%- assign cta_badge = "✨ Consigliato" -%}
+{%- assign cta_class = "soft" -%}
+
+{%- comment -%}
+========================
+TYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if t == "beginner" %}
+
+  {%- assign cta_title = "🌱 Parti senza confusione" -%}
+  {%- assign cta_text = "Ti serve un percorso chiaro, non altro caos." -%}
+
+{% elsif t == "problem" %}
+
+  {%- assign cta_title = "🧠 Il problema non sei tu" -%}
+  {%- assign cta_text = "Spesso è il metodo a creare il blocco, non la tua capacità." -%}
+
+{% elsif t == "review" %}
+
+  {%- assign cta_title = "🔥 Ora puoi provarlo davvero" -%}
+  {%- assign cta_text = "Il modo migliore per capire se funziona è testarlo." -%}
+
+{% endif %}
+
+{%- comment -%}
+========================
+SUBTYPE LOGIC
+========================
+{%- endcomment -%}
+
+{% if s == "speaking" %}
+
+  {%- assign cta_badge = "🗣️ Speaking" -%}
+  {%- assign cta_title = "🗣️ Inizia finalmente a parlare" -%}
+  {%- assign cta_text = "Allenare il parlato ogni giorno vale più della teoria." -%}
+  {%- assign cta_link_text = "Sblocca il tuo speaking →" -%}
+
+{% elsif s == "confidence" %}
+
+  {%- assign cta_badge = "💪 Confidence" -%}
+  {%- assign cta_title = "💪 La sicurezza arriva usando la lingua" -%}
+  {%- assign cta_text = "Non devi essere perfetto. Devi iniziare a parlare." -%}
+  {%- assign cta_link_text = "Allenati senza stress →" -%}
+
+{% elsif s == "travel" %}
+
+  {%- assign cta_badge = "✈️ Travel" -%}
+  {%- assign cta_title = "✈️ Preparati prima di partire" -%}
+  {%- assign cta_text = "Poche frasi pratiche possono salvarti durante un viaggio." -%}
+  {%- assign cta_link_text = "Preparati con Babbel →" -%}
+
+{% endif %}
+
+{%- comment -%}
+========================
+INTENT LEVEL (UI INTENSITY)
+========================
+{%- endcomment -%}
+
+{% if level == "soft" %}
+  {%- assign cta_class = "fm-cta--soft" -%}
+
+{% elsif level == "medium" %}
+  {%- assign cta_class = "fm-cta--medium" -%}
+
+{% elsif level == "hard" %}
+  {%- assign cta_class = "fm-cta--hard" -%}
+
+{% endif %}
+
+{%- comment -%}
+========================
+OUTPUT (UI LAYER ONLY)
+========================
+{%- endcomment -%}
+
+<div class="fm-cta {{ cta_class }}">
+
+  {% if cta_badge %}
+  <div class="fm-cta__badge">
+    {{ cta_badge }}
+  </div>
+  {% endif %}
+
+  <h3 class="fm-cta__title">
+    {{ cta_title }}
+  </h3>
+
+  <p class="fm-cta__text">
+    {{ cta_text }}
+  </p>
+
+  {% if page.funnel_offer == "direct" %}
+  {% assign cta_link_text = "Consulta l’offerta Babbel →" %}
+  <a class="fm-cta__btn" rel="sponsored noopener" target="_blank"
+     href="https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038224&clickref=">
+    {{ cta_link_text | default: "Consulta l’offerta Babbel →" }}
+  </a>
+  <span class="fm-cta__micro">{{ include.microcopy | default: "Controlla prezzi, condizioni e offerte aggiornate." }}</span>
+  {% else %}
+  <a class="fm-cta__btn" href="{{ '/recensione/babbel/' | relative_url }}">
+    {{ cta_link_text | default: "Scopri se Babbel fa per te →" }}
+  </a>
+  <span class="fm-cta__micro">{{ include.microcopy | default: "Leggi pro, limiti e condizioni prima di decidere." }}</span>
+  {% endif %}
+
+</div>

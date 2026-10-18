@@ -1,0 +1,24 @@
+<div class="fm-cta-card {{ include.variant }}">
+
+  {% if include.badge %}
+    <div class="fm-cta-badge">
+      {{ include.badge }}
+    </div>
+  {% endif %}
+
+  <h3>
+    {{ include.title | default: "💡 Vuoi semplificarti la vita?" }}
+  </h3>
+
+  <p>
+    {{ include.text | default: "Un percorso guidato ti evita di perdere tempo." }}
+  </p>
+
+  <a href="{{ include.link_url | relative_url }}"
+     class="fm-btn">
+
+    {{ include.link_text | default: "Scopri di più →" }}
+
+  </a>
+
+</div>
