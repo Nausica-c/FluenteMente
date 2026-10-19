@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Inizia da qui: scegli il tuo percorso per imparare l’inglese"
-description: "Vuoi imparare l’inglese ma non sai da dove partire? Scegli il percorso più adatto tra basi, conversazione, viaggi e inglese per il lavoro."
+title: "Inizia da qui: scegli il tuo percorso di inglese"
+description: "Scegli il percorso FluenteMente più adatto: inglese da zero, conversazione, viaggi, lavoro o metodo di studio."
 permalink: /inizia-qui/
 redirect_from:
   - /benefici-cervello-lingue/
@@ -10,51 +10,32 @@ redirect_from:
 
 tldr: "Benvenuto su FluenteMente. Non siamo qui per farti memorizzare liste di verbi irregolari. Siamo qui per darti un metodo pratico adatto alla vita di un adulto. Trova il tuo percorso e inizia."
 ---
+Vuoi migliorare l’inglese ma non sai quale contenuto affrontare per primo? Parti dalla situazione che vuoi gestire meglio. FluenteMente offre guide pratiche, esempi e piccoli esercizi per trasformare lo studio in un’attività più concreta. Non è necessario leggere tutto il sito: scegli un obiettivo e comincia da una guida.
 
-Se sei atterrato su questa pagina, è altamente probabile che tu abbia già provato a imparare l'inglese in passato. Forse sui banchi di scuola, forse scaricando qualche app nei ritagli di tempo, o magari pagando un corso serale che hai abbandonato dopo due settimane per stanchezza.
+## Scegli il punto di partenza
 
-**Mettiamo in chiaro una cosa: il problema non sei tu. È il metodo.**
+### Devo ricominciare dalle basi
 
-Gli adulti non imparano come i bambini. Abbiamo pochissimo tempo libero, molte responsabilità aziendali o familiari, e una soglia di frustrazione molto più alta quando non vediamo un'utilità immediata in ciò che facciamo. 
+Se vuoi rivedere saluti, presentazioni e vocabolario essenziale, apri la [guida all’inglese da zero]({{ '/inglese/da-zero/' | relative_url }}). Per organizzare i primi passi, usa anche la [checklist di sette giorni]({{ '/inglese/da-zero/checklist-7-giorni/' | relative_url }}).
 
-*FluenteMente* nasce esattamente per questo: aiutarti a sbloccare l'inglese nel mondo reale, nel minor tempo possibile.
+### Capisco l’inglese, ma faccio fatica a parlare
 
-{% include trust-brand.html %}
+Parti dalla guida [Capisco l’inglese ma non riesco a parlare]({{ '/inglese/mindset/capisco-ma-non-parlo/' | relative_url }}), poi prova le attività di [Speaking]({{ '/inglese/speaking/' | relative_url }}).
 
-## Passo 1: Scegli il tuo Pillar di partenza
+### Sto preparando un viaggio
 
-L'inglese è un oceano vastissimo. Se provi a bere tutto il mare, annegherai. Scegli il tuo punto di partenza prioritario in base alla tua reale urgenza oggi:
+Consulta la [guida all’inglese per viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }}) e scegli la situazione più urgente: aeroporto, hotel, ristorante o spostamenti.
 
-### 🟢 Parto da Zero (o quasi)
-Se i tuoi ricordi si fermano a *"The cat is on the table"*, hai bisogno di fondamenta solide ma veloci, senza studiare tomi accademici.
-👉 **[Vai alla Guida: Inglese da Zero]({{ '/inglese/da-zero/' | relative_url }})**
+### Mi serve per il lavoro
 
-### 🔵 Capisco ma non parlo (Blocco dello Speaking)
-Conosci le regole, ma quando devi aprire bocca ti blocchi per paura di sbagliare o di essere giudicato.
-👉 **[Scopri come sbloccare lo speaking nel mondo reale]({{ '/inglese/mindset/capisco-ma-non-parlo/' | relative_url }})**
+Visita il [Business English]({{ '/inglese/business/' | relative_url }}) per frasi nelle email, video call e colloqui. Scegli la guida che corrisponde al compito concreto che devi affrontare.
 
-### 🟠 Voglio Viaggiare Sereno
-Il tuo obiettivo è ordinare al ristorante, gestire un imprevisto in aeroporto o fare amicizia all'estero senza provare imbarazzo sociale.
-👉 **[Vai al Pillar: Inglese per Viaggiare]({{ '/inglese/viaggio/inglese-per-viaggiare/' | relative_url }})**
+## Crea una routine sostenibile
 
-### 💼 Mi serve per Sopravvivere in Ufficio
-Devi rispondere a email internazionali, gestire call e non vuoi sembrare incompetente davanti ai colleghi o ai clienti.
-👉 **[Accedi al Business English Hub]({{ '/inglese/business/' | relative_url }})**
+Una routine utile include un obiettivo, un esercizio e un breve ripasso. Puoi alternare vocabolario, grammatica, ascolto e produzione; non devi concentrarti su tutto in ogni sessione. Leggi [come creare una routine di studio]({{ '/inglese/metodo/routine/' | relative_url }}) oppure segui la [routine da 15 minuti]({{ '/inglese/metodo/routine-15-minuti/' | relative_url }}).
 
----
+## Quando valutare una piattaforma
 
-## Passo 2: Applica il Metodo e la Routine
+Le risorse gratuite possono aiutarti a chiarire dubbi specifici. Una piattaforma strutturata può essere utile se desideri un percorso organizzato, ma la scelta dipende da livello, obiettivi, funzioni e budget. Prima di acquistare, confronta le condizioni e leggi la [recensione di Babbel]({{ '/recensione/babbel/' | relative_url }}) se stai valutando quel servizio.
 
-Nel mondo dell'apprendimento per adulti, la costanza batte l'intensità ogni singola volta. Non ti servono 2 ore al giorno. Ti servono **15 minuti protetti**. 
-
-Abbiamo codificato un protocollo operativo per aiutarti a inserire lo studio nella tua giornata frenetica senza impazzire.
-👉 **[Scopri il nostro Metodo Consigliato]({{ '/inglese/metodo/metodo-consigliato/' | relative_url }})**
-
----
-
-{% include bridge-box.html 
-   title="🚀 L'acceleratore: passa dalla teoria alla pratica" 
-   text="Non importa da quale pillar tu decida di iniziare. Per raggiungere l'obiettivo ti serve uno strumento che simuli la conversazione reale fin da oggi, senza farti perdere tempo con giochi infantili." 
-   link_url="/recensione/babbel/" 
-   link_text="Scopri perché usiamo e raccomandiamo Babbel ➔" %}
-   
+Il prossimo passo è semplice: apri una guida, completa un esercizio e annota cosa ripassare. Dopo qualche sessione, decidi quale argomento affrontare dopo sulla base delle difficoltà che hai incontrato.

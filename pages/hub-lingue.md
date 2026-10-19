@@ -1,60 +1,43 @@
 ---
 layout: post
-title: "Imparare una lingua da adulti: metodo, strumenti e percorsi"
-description: "Trova il percorso adatto per imparare inglese, spagnolo o tedesco da adulto: metodo di studio, strumenti e guide organizzati per obiettivo."
+title: "Imparare una lingua da adulti: metodo e percorsi"
+description: "Trova percorsi per imparare inglese, spagnolo, tedesco o portoghese da adulto, con guide sul metodo, strumenti e pratica quotidiana."
 date: 2026-03-26
 permalink: /hub-lingue/
 tldr: "Imparare una lingua da adulti richiede strategia, non sforzo titanico. Questa guida è il tuo punto di partenza: scopri il metodo per studiare in 15 minuti, scegli l'app giusta e trova le risorse specifiche per te."
 ---
+Imparare una lingua da adulti è più gestibile quando colleghi lo studio a un obiettivo reale e scegli poche risorse che riesci a usare con regolarità. Questo hub raccoglie i percorsi di FluenteMente e ti aiuta a scegliere da dove cominciare in base alla lingua e alla situazione che vuoi affrontare.
 
-Sei un adulto, hai una vita piena e il tuo tempo libero è preziosissimo. Se in passato hai mollato l'inglese perché i corsi serali erano noiosi o le app gratuite sembravano giochini per bambini, sei nel posto giusto. 
+## Prima di scegliere una risorsa
 
-Questa pagina è il **centro di comando** di *FluenteMente*: qui trovi la roadmap per resettare il tuo modo di studiare e iniziare a parlare sul serio.
+Definisci una cosa che vorresti riuscire a fare: presentarti, gestire una conversazione in viaggio, comprendere un audio breve o scrivere un messaggio professionale. Poi scegli materiali proporzionati al tuo livello. Una sessione breve può essere utile se contiene un compito chiaro; il tempo necessario per progredire varia in base a esperienza, intensità della pratica e obiettivi.
 
-{% include trust-brand.html %}
+### Metodo e organizzazione
 
-## FASE 1: Il Metodo (Prima di iniziare)
+- [Come creare una routine di studio]({{ '/inglese/metodo/routine/' | relative_url }}) — organizza attività diverse nella settimana.
+- [Ripetizione spaziata]({{ '/inglese/metodo/ripetizione-spaziata-lingue/' | relative_url }}) — pianifica il ripasso dei contenuti già incontrati.
+- [Imparare una lingua da soli]({{ '/metodo/imparare-lingua-da-soli/' | relative_url }}) — valuta come scegliere materiali e controllare i progressi.
 
-Imparare una lingua straniera non è un atto di memoria, è un atto di **organizzazione**. Senza un metodo sostenibile, anche la migliore app del mondo (o il miglior insegnante) fallirà.
+## Scegli la lingua
 
-* **[Il Protocollo dei 15 Minuti]({{ '/inglese/metodo/routine/' | relative_url }}):** Come infilare lo studio nella tua giornata senza sacrificare la famiglia o il tempo libero.
-* **[I 10 Errori degli Adulti]({{ '/inglese/metodo/metodo-consigliato/' | relative_url }}):** Perché i metodi scolastici falliscono e cosa fare invece.
-* **[Quanto tempo serve davvero?]({{ '/inglese/metodo/routine/' | relative_url }}):** Una stima matematica e realistica per raggiungere i tuoi obiettivi.
+### Inglese
 
----
+Per iniziare dalle basi, visita l’[hub dell’inglese]({{ '/inglese/' | relative_url }}). Se vuoi concentrarti sulla conversazione, apri la sezione [Speaking]({{ '/inglese/speaking/' | relative_url }}); se stai preparando un viaggio, parti dalla [guida all’inglese per viaggiare]({{ '/inglese/viaggio/' | relative_url }}); per esigenze professionali, consulta il [Business English]({{ '/inglese/business/' | relative_url }}).
 
-{% include bridge-box.html 
-   title="💡 Il metodo senza la pratica non serve" 
-   text="La motivazione può variare nel tempo: una routine semplice e materiali organizzati possono rendere più facile riprendere lo studio. Valuta gli strumenti anche in base a come gestiscono il ripasso e l’ascolto." 
-   link_url="/recensione/babbel/" 
-   link_text="Scopri il sistema di Babbel ➔" %}
+### Spagnolo
 
----
+L’[hub dello spagnolo]({{ '/spagnolo/' | relative_url }}) raccoglie le guide disponibili su saluti, frasi e vocabolario per principianti.
 
-## FASE 2: Gli Strumenti (Scegli la tua App)
+### Tedesco
 
-Prima di sottoscrivere un abbonamento, confronta il programma, le condizioni, le funzioni comprese e la compatibilità con il tuo modo di imparare.
+Nell’[hub del tedesco]({{ '/tedesco/' | relative_url }}) trovi le risorse presenti per parole, falsi amici e lessico.
 
-* **[Babbel vs Duolingo]({{ '/inglese/risorse/babbel-vs-duolingo/' | relative_url }}):** Il duello definitivo. Quale vince per un professionista?
-* **[Le 5 Migliori App 2026]({{ '/inglese/risorse/migliori-app-lingue/' | relative_url }}):** La nostra classifica e panoramica onesta sul mercato attuale.
-* **[Babbel: Opinioni Negative]({{ '/inglese/risorse/babbel-opinioni-negative/' | relative_url }}):** Quello che nessuno ti dice (e perché i suoi 'difetti' potrebbero non essere un problema per te).
+### Portoghese
 
-{% include promo-box.html %}
+L’[hub del portoghese]({{ '/portoghese/' | relative_url }}) introduce le differenze tra le principali varietà e le risorse attualmente disponibili.
 
-## FASE 3: Scegli il tuo Percorso
+## Come usare il sito
 
-Abbiamo creato delle sezioni verticali per guidarti passo dopo passo. Clicca sulla lingua che ti serve oggi per scoprire guide pratiche, vocabolario reale e risorse per sopravvivere.
+Scegli una guida, svolgi l’esercizio proposto e annota una cosa che vuoi riprendere. Se una risorsa non corrisponde al tuo livello o al tuo obiettivo, cambiala sulla base di un motivo preciso, non soltanto perché ne hai trovata una nuova.
 
-### 🇬🇧 [Imparare l'Inglese]({{ '/inglese/' | relative_url }})
-Dalla sopravvivenza al check-in in hotel, fino alle email professionali per il capo. La guida per chi vuole sbloccarsi subito.
-
-### 🇪🇸 [Imparare lo Spagnolo]({{ '/spagnolo/' | relative_url }})
-Molto più del semplice "itagnolo". Scopri come padroneggiare la lingua più parlata al mondo con il ritmo e gli accenti giusti.
-
-### 🇩🇪 [Imparare il Tedesco]({{ '/tedesco/' | relative_url }})
-Semplifichiamo una lingua apparentemente complessa con logica, geometria e un metodo strutturato.
-
----
-
-{% include orient-box.html 
-   text="Non restare bloccato nella fase di eterna ricerca. La paralisi da analisi è il nemico del successo. Scegli uno strumento oggi e fai la tua prima lezione di 15 minuti." %}
+FluenteMente propone anche strumenti e piattaforme di studio, tra cui Babbel per l’inglese. Se valuti un servizio a pagamento, confronta il programma, le funzioni incluse, il costo complessivo e le condizioni di rinnovo. La sezione [recensione di Babbel]({{ '/recensione/babbel/' | relative_url }}) offre un punto di partenza per valutare se un percorso guidato può essere adatto alle tue esigenze.
