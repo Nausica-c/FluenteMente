@@ -24,6 +24,8 @@ Studiare inglese ogni giorno non significa dover svolgere sempre la stessa quant
 
 ## Decidi che cosa vuoi allenare
 
+Se sei un principiante adulto e non sai quali basi affrontare per prime, puoi seguire anche questa guida pratica su [inglese da zero per adulti]({{ '/inglese-da-zero-adulti/' | relative_url }}): si concentra sull’ordine delle prime frasi e delle situazioni da imparare, mentre questa pagina tratta soprattutto la costanza.
+
 Non scegliere un obiettivo vago come “migliorare tutto l’inglese”. Per la prossima settimana scegli una priorità: capire dialoghi brevi, ampliare il lessico del lavoro, sentirti più sicuro quando ordini qualcosa o ripassare le strutture di base. Un obiettivo piccolo ti aiuta a scegliere le attività.
 
 ## Un piano normale e un piano minimo

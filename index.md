@@ -119,7 +119,7 @@ seo_title: "FluenteMente | Mini-lezioni di inglese in italiano"
 <section class="home-resource-box" aria-labelledby="home-resource-heading">
   <p class="home-eyebrow">IL TUO PROSSIMO PASSO</p>
   <h2 id="home-resource-heading">Vuoi organizzare meglio il tuo studio?</h2>
-  <p>Puoi cominciare da una <a href="{{ '/routine-inglese-15-minuti/' | relative_url }}">routine di 15 minuti divisa in tre passaggi</a> oppure leggere la guida per <a href="{{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}">scegliere un corso in base ai tuoi obiettivi</a>.</p>
+  <p>Se sei adulto e parti dalle basi, comincia dalla guida su <a href="{{ '/inglese-da-zero-adulti/' | relative_url }}">come imparare inglese da zero</a>. Per organizzare le sessioni, puoi poi provare una <a href="{{ '/routine-inglese-15-minuti/' | relative_url }}">routine di 15 minuti divisa in tre passaggi</a> oppure leggere la guida per <a href="{{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}">scegliere un corso in base ai tuoi obiettivi</a>.</p>
   <p>Tra le risorse che puoi valutare c’è anche <a href="{{ '/babbel-per-imparare-inglese/' | relative_url }}">Babbel per imparare inglese</a>. Considerala una possibilità da confrontare con le tue esigenze, non l’unica strada né una garanzia di risultato. Verifica sempre le informazioni e le condizioni correnti prima di acquistare.</p>
 </section>
 

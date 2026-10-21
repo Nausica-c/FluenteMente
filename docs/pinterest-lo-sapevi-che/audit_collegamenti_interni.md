@@ -1,15 +1,15 @@
 # Audit collegamenti interni — FluenteMente
 
 **Aggiornato:** 21 ottobre 2026  
-**Ambito:** home page, 30 articoli della rubrica Pinterest “Lo sapevi che…?”, quattro nuovi hub tematici, menu principale.  
+**Ambito:** home page, 31 articoli della rubrica Pinterest “Lo sapevi che…?”, quattro nuovi hub tematici, menu principale.  
 **Fonte:** repository ZIP fornito nel progetto; non è stata eseguita una verifica del sito pubblicato online.
 
 ## Risultato
 
-- Articoli inclusi: **30** (30 ID Pin univoci).
+- Articoli inclusi: **31** (31 ID Pin univoci).
 - Home page inclusa: **1**.
 - Hub nuovi creati: **4** — C2, C3, C4 e C5.
-- Pagine di contenuto nella mappa: **35**.
+- Pagine di contenuto nella mappa: **36**.
 - Destinazioni interne non risolte nel corpo della home, degli articoli e degli hub: **0**.
 - Articoli senza collegamento al proprio hub o guida centrale: **0**.
 
@@ -22,7 +22,7 @@
 | C4 — Parole inglesi che si confondono facilmente | `/parole-inglesi-confuse/` | 6 |
 | C5 — Errori comuni e differenze grammaticali | `/errori-comuni-inglese/` | 6 |
 
-I cluster C1 e C6 continuano ad avere una guida centrale già compresa nei 30 articoli: pin23 e pin30. Le guide centrali collegano i relativi articoli di supporto.
+I cluster C1 e C6 continuano ad avere una guida centrale già compresa negli articoli: pin23 e pin30 fanno parte del piano originario: pin23 e pin30. Le guide centrali collegano i relativi articoli di supporto.
 
 ## Collegamenti aggiunti
 
@@ -41,5 +41,10 @@ I cluster C1 e C6 continuano ad avere una guida centrale già compresa nei 30 ar
 
 ## Dettaglio anomalie
 
-Nessuna destinazione `relative_url` non risolta nei contenuti inclusi (home, 30 articoli e quattro hub).
-Tutti i 30 articoli sono collegati alla guida centrale o al rispettivo hub; le pagine centrali elencano gli articoli del proprio cluster.
+Nessuna destinazione `relative_url` non risolta nei contenuti inclusi (home, 31 articoli e quattro hub).
+Tutti i 31 articoli sono collegati alla guida centrale o al rispettivo hub; le pagine centrali elencano gli articoli del proprio cluster.
+
+
+## Integrazione pin31
+
+È stato aggiunto `/inglese-da-zero-adulti/`, collegato dalla home page e dalla guida centrale del cluster C1. L’intento è il percorso iniziale per adulti principianti (quali basi imparare e in quale ordine); la routine dettagliata continua a essere coperta da pin20 e la costanza generale da pin23. I collegamenti sono stati aggiornati nel manifest e nella mappa CSV; la compilazione Jekyll e il controllo online restano da eseguire.
