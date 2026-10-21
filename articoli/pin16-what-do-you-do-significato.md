@@ -76,6 +76,9 @@ Ricorda anche la differenza con *What are you doing?*. Se qualcuno ti telefona e
 **Il tuo prossimo passo:** prepara due risposte diverse alla domanda: una sul lavoro o sullo studio e una su un interesse. Puoi ripassare anche [come presentarsi in inglese]({{ '/come-presentarsi-in-inglese/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Dopo aver provato la domanda e la risposta, continua il dialogo con una domanda di ritorno. Se vuoi esercitarti con un percorso più strutturato oltre alle singole frasi, puoi valutare Babbel leggendo la nostra guida informativa." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Inglese pratico per parlare nelle situazioni quotidiane]({{ '/inglese-pratico-per-parlare/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

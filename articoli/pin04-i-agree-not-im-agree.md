@@ -70,6 +70,9 @@ Una pratica utile è completare questi tre inizi: *I agree with…*, *I don't ag
 **Il tuo prossimo passo:** pensa a un’opinione semplice e scrivi tre versioni: *I agree*, *I don't agree* e *I'm not sure I agree*. Per esercitarti con altre strutture utili, passa a [say e tell: la differenza]({{ '/say-vs-tell/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Per usare una struttura corretta senza tradurre parola per parola, prova a ripeterla in situazioni diverse. Se cerchi anche un percorso guidato per continuare a studiare, puoi valutare Babbel partendo dai criteri della nostra guida." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

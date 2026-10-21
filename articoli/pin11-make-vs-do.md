@@ -53,7 +53,7 @@ Scegli cinque combinazioni che puoi usare davvero. Per ogni combinazione scrivi 
 
 ## Mini-quiz
 
-Completa con *make* o *do* nella forma corretta.
+Completa con make o do nella forma corretta.
 
 1. I have to _____ my homework.
 2. We need to _____ a decision today.
@@ -61,16 +61,19 @@ Completa con *make* o *do* nella forma corretta.
 4. Could you _____ the dishes?
 5. She always tries to _____ her best.
 
-**Soluzioni:** 1. *do*; 2. *make*; 3. *make*; 4. *do*; 5. *do*. Sono collocazioni frequenti da memorizzare come unità, non prove di una regola valida senza eccezioni.
+**Soluzioni:** 1. do; 2. make; 3. make; 4. do; 5. do. Sono collocazioni frequenti da memorizzare come unità, non prove di una regola valida senza eccezioni.
 
 ## Come affrontare una collocazione che non conosci
 
-Se non sei sicuro tra *make* e *do*, evita di affidarti soltanto alla domanda “sto creando qualcosa?”. È un indizio, non una regola affidabile per ogni espressione. Cerca la combinazione in un dizionario o in una risorsa linguistica affidabile e poi aggiungila alla tua lista con un esempio. Se studi *make a mistake*, non memorizzare solo *mistake*: ripeti la coppia completa in una frase come *I made a mistake in the report*.
+Se non sei sicuro tra make e do, evita di affidarti soltanto alla domanda “sto creando qualcosa?”. È un indizio, non una regola affidabile per ogni espressione. Cerca la combinazione in un dizionario o in una risorsa linguistica affidabile e poi aggiungila alla tua lista con un esempio. Se studi *make a mistake*, non memorizzare solo *mistake*: ripeti la coppia completa in una frase come *I made a mistake in the report*.
 
 Puoi tenere due liste brevi, ma non competere per chi raccoglie più collocazioni. Cinque espressioni che sai usare in modo autonomo sono spesso più utili di cinquanta che riconosci soltanto quando le leggi. Ritorna sulle stesse combinazioni nei giorni successivi e prova a cambiare soggetto, tempo o situazione.
 
-**Il tuo prossimo passo:** scegli due combinazioni, una con *make* e una con *do*, e scrivi una frase personale per ciascuna. Puoi continuare con [say e tell]({{ '/say-vs-tell/' | relative_url }}).
+**Il tuo prossimo passo:** scegli due combinazioni, una con make e una con do, e scrivi una frase personale per ciascuna. Puoi continuare con [say e tell]({{ '/say-vs-tell/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Per imparare make e do, ripassa le espressioni complete e riusale in frasi personali. Se desideri affiancare alla pratica un corso organizzato, leggi la guida di FluenteMente per valutare Babbel e le alternative." %}
 
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.

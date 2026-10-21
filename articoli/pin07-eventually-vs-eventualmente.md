@@ -77,6 +77,9 @@ Quando invece leggi “eventualmente” in italiano, prova a riscrivere la frase
 **Il tuo prossimo passo:** non memorizzare soltanto le due parole: annota la frase italiana completa e la traduzione inglese. Per un altro falso amico, leggi [actually e attualmente]({{ '/actually-vs-attualmente/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Per distinguere parole simili, torna agli esempi dopo qualche giorno e inventa nuove frasi. Se vuoi dare continuità al ripasso, puoi valutare Babbel come una possibile risorsa da affiancare alla pratica personale." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

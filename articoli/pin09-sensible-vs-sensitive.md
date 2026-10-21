@@ -75,6 +75,9 @@ Per imparare queste parole, annota il nome che le accompagna e una frase intera.
 **Il tuo prossimo passo:** crea una frase tua per ogni parola. Poi confronta [bored e boring]({{ '/bored-vs-boring/' | relative_url }}), un’altra coppia in cui una piccola differenza cambia il senso.
 
 
+
+{% include babbel-next-step.html message="Le parole vicine per forma ma diverse per significato richiedono esempi ripetuti. Puoi continuare con altre mini-lezioni e, se cerchi una struttura per lo studio regolare, valutare Babbel usando i criteri della nostra guida." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

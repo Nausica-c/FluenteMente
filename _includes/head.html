@@ -3,15 +3,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{% if page.seo_title %}{{ page.seo_title | escape }}{% elsif page.title %}{{ page.title | escape }} | FluenteMente{% else %}FluenteMente | Inglese per la vita reale{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
-  {% if page.robots %}
-  <meta name="robots" content="{{ page.robots | escape }}" />
-  {% elsif site.launch_mode %}
+  {% if site.launch_mode %}
   <meta name="robots" content="noindex, nofollow" />
   {% else %}
   <meta name="robots" content="index, follow" />
   {% endif %}
   <meta name="theme-color" content="#1e3a5f" />
-  {% unless page.no_canonical %}<link rel="canonical" href="{{ page.url | absolute_url }}" />{% endunless %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
   <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}" />
   <meta property="og:site_name" content="FluenteMente" />

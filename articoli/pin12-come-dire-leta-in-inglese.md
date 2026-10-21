@@ -68,6 +68,9 @@ Se invece vuoi evitare di rispondere, puoi cambiare argomento con gentilezza opp
 **Il tuo prossimo passo:** aggiungi l’età soltanto se vuoi alla tua presentazione. Puoi ripassare il modello completo in [come presentarsi in inglese con tre frasi]({{ '/come-presentarsi-in-inglese/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="La struttura diventa più naturale quando la riutilizzi con età e persone diverse. Puoi continuare a esercitarti con le mini-lezioni oppure valutare Babbel come possibile supporto a una routine di studio più ampia." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

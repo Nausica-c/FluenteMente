@@ -67,6 +67,9 @@ Una volta aperta la domanda con *I have a question about…*, aggiungi il tema: 
 **Il tuo prossimo passo:** prova a chiedere un chiarimento in inglese usando *I have a question about…*. Poi crea due frasi con [say e tell]({{ '/say-vs-tell/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Prova a formulare una domanda reale che potresti fare al lavoro o durante un corso. Se vuoi costruire una routine per esercitare anche altre strutture, scopri come valutare Babbel in base al tuo obiettivo." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

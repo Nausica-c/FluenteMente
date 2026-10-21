@@ -82,6 +82,9 @@ Quando traduci, chiediti se vuoi correggere un’idea, indicare una situazione p
 **Il tuo prossimo passo:** scrivi una frase vera con *actually* e una con *currently*. Poi confrontale con [eventually ed eventualmente]({{ '/eventually-vs-eventualmente/' | relative_url }}), un altro falso amico frequente.
 
 
+
+{% include babbel-next-step.html message="Un falso amico si fissa meglio quando lo ritrovi in frasi diverse. Se vuoi affiancare alle mini-lezioni un percorso di studio guidato, puoi leggere come valutare Babbel rispetto ai tuoi obiettivi." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

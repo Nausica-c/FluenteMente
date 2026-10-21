@@ -58,6 +58,9 @@ Non cancellare una parola dalla lista appena la ricordi una volta. Prova a usarl
 **Il tuo prossimo passo:** crea oggi una lista di cinque espressioni e programma il primo ripasso per domani. Puoi rendere la pratica più concreta con [l’esercizio delle tre frasi al giorno]({{ '/esercizio-inglese-tre-frasi-al-giorno/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Il ripasso è più utile quando provi a recuperare le parole senza guardare la risposta. Se desideri organizzare anche un percorso più ampio di studio e revisione, scopri come valutare Babbel insieme alle tue altre risorse." %}
+
 ## Continua il percorso
 Per vedere il quadro generale, parti da [Come studiare inglese ogni giorno senza esaurire la motivazione]({{ '/come-studiare-inglese-ogni-giorno/' | relative_url }}).
 

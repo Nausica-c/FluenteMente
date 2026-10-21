@@ -9,7 +9,7 @@ Data revisione: 21 ottobre 2026.
 | `chi-siamo.md` | `/chi-siamo/` | Bozza editoriale completa; nome del responsabile e email da inserire. |
 | `privacy.md` | `/privacy/` | Informativa orientativa basata sul repository e sulla documentazione pubblica dell'hosting; titolare, recapiti, tempi di conservazione e trasferimenti da verificare. |
 | `cookie.md` | `/cookie/` | Bozza basata su ispezione statica; l'inventario reale va ottenuto testando il sito online. |
-| `disclaimer.md` | `/disclaimer/` | Pagina Affiliazioni collegata ai path del footer e dell'include; da aggiornare quando saranno attivi i link affiliati. |
+| `disclaimer.md` | `/disclaimer/` | Pagina Affiliazioni collegata al footer e all'include; aggiornata per dichiarare il link Awin verso Babbel, da verificare prima della pubblicazione live. |
 
 ## Risultati dal repository statico
 
@@ -18,7 +18,7 @@ Data revisione: 21 ottobre 2026.
 - Il footer contiene già i collegamenti a `/chi-siamo/`, `/privacy/`, `/cookie/` e `/disclaimer/`.
 - Il componente di disclosure viene ora mostrato solo se richiesto tramite `show_affiliate_disclosure: true`, invece di apparire indiscriminatamente sulle pagine ordinarie.
 - Il link del layout legacy `curiosita.html` è stato indirizzato all’articolo esistente `/come-studiare-inglese-ogni-giorno/`, evitando una destinazione senza pagina nel pacchetto.
-- Il repository esaminato non contiene un URL affiliato definitivo da attivare.
+- È configurato un URL affiliato Awin verso Babbel nell'articolo dedicato; prima della pubblicazione live vanno testati redirect e tracciamento.
 
 ## Limitazioni
 

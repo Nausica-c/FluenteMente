@@ -61,6 +61,9 @@ Dopo l’ascolto, separa le parole in due gruppi: quelle indispensabili per capi
 **Il tuo prossimo passo:** scegli oggi un dialogo corto e prova il metodo dei tre ascolti. Per rendere lo studio regolare, abbinalo a [una routine quotidiana sostenibile]({{ '/come-studiare-inglese-ogni-giorno/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="L’ascolto migliora con la pratica ricorrente: scegli un breve contenuto, ascoltalo più di una volta e osserva cosa capisci al secondo passaggio. Se cerchi una struttura da affiancare a questi esercizi, puoi valutare Babbel partendo dalla nostra guida." %}
+
 ## Continua il percorso
 Per vedere come questo tema si inserisce nel percorso completo, parti dalla guida centrale e poi scegli un esercizio da mettere in pratica.
 

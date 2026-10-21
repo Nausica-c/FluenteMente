@@ -81,6 +81,9 @@ Non devi raccontare tutta la tua storia. Una presentazione breve serve ad aprire
 **Il tuo prossimo passo:** prova a dire la presentazione senza leggere il testo. Per continuare con una domanda che spesso arriva subito dopo, leggi [come rispondere a “How are you?”]({{ '/come-rispondere-a-how-are-you/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Dopo aver preparato la tua presentazione, esercitati ad alta voce e ripetila con varianti. Se ti è utile seguire anche un percorso organizzato, leggi come valutare Babbel in base al tuo livello e ai tuoi obiettivi." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Inglese pratico per parlare nelle situazioni quotidiane]({{ '/inglese-pratico-per-parlare/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

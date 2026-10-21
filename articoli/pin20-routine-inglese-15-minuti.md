@@ -66,6 +66,9 @@ Non devi cronometrare ogni secondo con rigidità. I tre blocchi sono un promemor
 **Il tuo prossimo passo:** prova la struttura 5 + 5 + 5 per tre giorni e annota quale blocco ti aiuta di più. Per un piano settimanale più ampio, consulta [come studiare inglese ogni giorno]({{ '/come-studiare-inglese-ogni-giorno/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Puoi usare questa routine con materiali diversi e annotare cosa ti riesce meglio. Se preferisci un percorso guidato da affiancare ai tre blocchi, leggi come valutare Babbel in base al tempo che hai e alle attività che ti servono." %}
+
 ## Continua il percorso
 Per vedere come questo tema si inserisce nel percorso completo, parti dalla guida centrale e poi scegli un esercizio da mettere in pratica.
 

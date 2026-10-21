@@ -20,17 +20,17 @@ secondary_keywords:
 
 ## Bored è come ti senti; boring è ciò che annoia
 
-La differenza più utile da ricordare è questa: **bored** descrive lo stato di chi prova noia; **boring** descrive una persona, un’attività o una cosa che provoca noia.
+La differenza più utile da ricordare è questa: *bored* descrive lo stato di chi prova noia; *boring* descrive una persona, un’attività o una cosa che provoca noia.
 
 - *I'm bored.* — Mi annoio / Mi sto annoiando.
 - *The film is boring.* — Il film è noioso.
 - *The lesson is boring, so the students are bored.* — La lezione è noiosa, quindi gli studenti si annoiano.
 
-La distinzione vale anche per molte altre coppie di aggettivi in *-ed* e *-ing*, ma non trasformarla in una regola universale per ogni parola inglese.
+La distinzione vale anche per molte altre coppie di aggettivi in *-ed* e -ing, ma non trasformarla in una regola universale per ogni parola inglese.
 
 ## La differenza tra descrivere una sensazione e una causa
 
-Con *-ed*, spesso mettiamo l’attenzione sulla persona che prova un’emozione o una sensazione: *I'm interested*, *I'm tired*, *I'm excited*. Con *-ing*, spesso descriviamo ciò che suscita quella sensazione: *The topic is interesting*, *The journey is tiring*, *The news is exciting*.
+Con *-ed*, spesso mettiamo l’attenzione sulla persona che prova un’emozione o una sensazione: *I'm interested*, *I'm tired*, *I'm excited*. Con -ing, spesso descriviamo ciò che suscita quella sensazione: *The topic is interesting*, *The journey is tiring*, *The news is exciting*.
 
 - *I'm interested in art.* — Sono interessato all’arte.
 - *Art is interesting.* — L’arte è interessante.
@@ -53,7 +53,7 @@ Scegli la forma corretta.
 4. The trip was (tired / tiring), so we went to bed early.
 5. My job is sometimes (bored / boring), but I like my colleagues.
 
-**Soluzioni:** 1. *bored* — descrive la sensazione; 2. *boring* — descrive il libro; 3. *excited* — i bambini provano entusiasmo; 4. *tiring* — il viaggio causa stanchezza; 5. *boring* — descrive il lavoro.
+**Soluzioni:** 1. bored — descrive la sensazione; 2. boring — descrive il libro; 3. *excited* — i bambini provano entusiasmo; 4. *tiring* — il viaggio causa stanchezza; 5. boring — descrive il lavoro.
 
 ## Non tutte le coppie funzionano allo stesso modo
 
@@ -63,6 +63,9 @@ Usa questa relazione come indizio, non come algoritmo: gli aggettivi non sono tu
 
 **Il tuo prossimo passo:** quando incontri una coppia in *-ed/-ing*, scrivi due frasi: una sulla sensazione e una sulla causa. Per allenare altri dubbi grammaticali, leggi [I agree, non I’m agree]({{ '/i-agree-not-im-agree/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Per rendere più automatiche queste forme, crea una frase personale con bored e una con boring, poi riprendile tra qualche giorno. Se vuoi anche un percorso strutturato, scopri come valutare Babbel in base al tuo modo di studiare." %}
 
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.

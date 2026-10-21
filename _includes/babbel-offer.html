@@ -1,0 +1,13 @@
+{% assign babbel_affiliate_url = site.babbel_affiliate_url | default: "" %}
+{% assign babbel_official_url = site.babbel_official_url | default: "https://it.babbel.com/" %}
+<section class="fm-babbel-offer" aria-label="Valuta Babbel">
+  <p class="fm-babbel-offer__eyebrow">IL TUO PROSSIMO PASSO</p>
+  <h2>Valuta Babbel in base ai tuoi obiettivi</h2>
+  <p>Consulta le informazioni aggiornate, controlla il piano disponibile per l’inglese e verifica prezzo e condizioni prima di scegliere. Babbel è una possibile risorsa da valutare, non una garanzia di risultato né l’unico modo per imparare.</p>
+  {% if babbel_affiliate_url != "" %}
+    <a class="fm-babbel-offer__button" href="{{ babbel_affiliate_url | escape }}" rel="sponsored nofollow noopener" target="_blank">Quale lingua vorresti parlare? Prova subito Babbel e impara la lingua che hai sempre sognato di parlare! <span aria-hidden="true">→</span></a>
+    <p class="fm-babbel-offer__disclosure"><strong>Link affiliato:</strong> se acquisti tramite questo collegamento, FluenteMente potrebbe ricevere una commissione senza costi aggiuntivi per te.</p>
+  {% else %}
+    <a class="fm-babbel-offer__button" href="{{ babbel_official_url | escape }}" rel="noopener noreferrer" target="_blank">Visita il sito ufficiale di Babbel <span aria-hidden="true">→</span></a>
+  {% endif %}
+</section>

@@ -73,6 +73,9 @@ Impara le collocazioni come *say hello*, *tell a story*, *tell the truth* e *say
 **Il tuo prossimo passo:** scrivi due frasi, una con *say* e una con *tell*. Per completare il ripasso dei verbi frequenti, leggi anche [make e do]({{ '/make-vs-do/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Crea due frasi tue e controlla se stai nominando le parole dette o la persona a cui sono rivolte. Se vuoi organizzare meglio il ripasso di verbi ed espressioni, scopri come valutare Babbel in base al tuo obiettivo." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

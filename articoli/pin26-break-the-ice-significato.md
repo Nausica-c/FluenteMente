@@ -68,6 +68,9 @@ Se la risposta è molto breve, non significa per forza che hai sbagliato. L’al
 **Il tuo prossimo passo:** scegli una domanda tra le tre e adattala a un incontro che potresti avere davvero. Per allenare le presentazioni, leggi [come presentarsi in inglese]({{ '/come-presentarsi-in-inglese/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Le frasi per rompere il ghiaccio sono più facili da ricordare se le provi in un mini-dialogo ad alta voce. Se vuoi aggiungere un percorso guidato allo studio autonomo, consulta la guida di FluenteMente su come valutare Babbel." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Espressioni inglesi naturali: significato e uso]({{ '/espressioni-inglesi-naturali/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

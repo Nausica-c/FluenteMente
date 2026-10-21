@@ -73,6 +73,9 @@ Anche il tono cambia il significato. Detto con calore, *No worries!* comunica di
 **Il tuo prossimo passo:** inventa un mini-dialogo in cui *no worries* risponde a un ringraziamento. Poi scopri un’altra espressione quotidiana: [Sounds good: significato e uso]({{ '/sounds-good-significato/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Le espressioni informali si ricordano meglio quando le incontri in contesti diversi. Puoi affiancare a queste mini-lezioni una routine di studio: nella guida dedicata spieghiamo come valutare Babbel senza considerarlo una soluzione universale." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Espressioni inglesi naturali: significato e uso]({{ '/espressioni-inglesi-naturali/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

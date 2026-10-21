@@ -1621,64 +1621,168 @@ blockquote cite {
 }
 
 
-/* ==========================================================================
-   PAGINA 404 — RISTRUTTURAZIONE FLUENTEMENTE
-========================================================================== */
-.error-page {
-  max-width: 760px;
+/* ========================================================================
+   HOME PAGE REFINEMENT — MOBILE-FIRST CLARITY
+   Scoped to the root page so article and legal page layouts remain unchanged.
+======================================================================== */
+.home-page .post-wrapper {
+  padding-top: clamp(1.15rem, 3vw, 1.8rem);
+}
+.home-page .post-header {
+  margin-bottom: 1.45rem;
+}
+.home-page .post-title {
+  margin-top: 0;
+  margin-bottom: .75rem;
+  font-size: clamp(1.9rem, 5vw, 2.25rem);
+  line-height: 1.14;
+  letter-spacing: -.025em;
+}
+.home-page .post-meta {
+  max-width: 44ch;
   margin: 0 auto;
-  padding: clamp(1.5rem, 5vw, 3rem);
-  background: #ffffff;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
-  text-align: center;
+  color: #4b5563;
+  font-size: 1.02rem;
+  line-height: 1.6;
 }
-.error-page__eyebrow {
-  max-width: none;
-  margin: 0 auto .6rem;
-  color: var(--primary-hover);
-  font-size: .76rem;
-  font-weight: 800;
-  letter-spacing: .12em;
-  text-transform: uppercase;
+.home-page .home-hero {
+  margin-top: 0;
+  margin-bottom: 2.2rem;
+  padding: clamp(1.2rem, 3.2vw, 2rem);
 }
-.error-page__code {
-  max-width: none;
-  margin: 0 auto .1em;
-  color: #1e3a5f;
-  font-size: clamp(4.5rem, 18vw, 8rem);
-  font-weight: 900;
-  letter-spacing: -.07em;
-  line-height: .98;
+.home-page .home-hero h2 {
+  font-size: clamp(1.6rem, 4.2vw, 2.15rem);
+  line-height: 1.2;
 }
-.error-page h1 {
-  margin: .35em auto .55em;
-  color: #1a202c;
-  font-size: clamp(1.7rem, 5vw, 2.35rem);
+.home-page .home-hero__lead {
+  margin-bottom: 1.1rem;
+  font-size: 1rem;
+  line-height: 1.62;
 }
-.error-page__copy {
-  max-width: 60ch;
-  margin: 0 auto 1rem;
+.home-page .home-hero__actions {
+  margin: 0;
 }
-.error-page__actions {
-  display: flex;
-  flex-wrap: wrap;
+.home-page .home-hero .btn-primary {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: .9rem;
-  margin: 1.8rem 0 1.4rem;
+  gap: .45rem;
+  min-height: 52px;
+  padding: 14px 24px;
+  border-radius: 999px;
+  font-size: 1rem;
+  line-height: 1.35;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .16);
 }
-.error-page__actions a { max-width: 100%; }
-.error-page__note {
-  max-width: none;
-  margin: 0 auto;
-  color: var(--text-light);
+.home-page .home-hero .btn-primary:hover {
+  background: #ffc35f;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+.home-page .home-hero .btn-primary:focus-visible {
+  outline: 3px solid #ffffff;
+  outline-offset: 3px;
+}
+@media screen and (max-width: 600px) {
+  .home-page .post-wrapper {
+    padding-top: 1.15rem;
+    padding-bottom: 1.5rem;
+  }
+  .home-page .post-header {
+    margin-bottom: 1.25rem;
+  }
+  .home-page .post-title {
+    font-size: clamp(1.85rem, 6vw, 2.15rem);
+    line-height: 1.15;
+  }
+  .home-page .post-meta {
+    font-size: .98rem;
+    line-height: 1.6;
+  }
+  .home-page .home-hero {
+    padding: 1.2rem;
+    margin-bottom: 1.9rem;
+  }
+  .home-page .home-hero__actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .home-page .home-hero__actions .btn-primary {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+/* ========================================================================
+   FLUENTEMENTE — CONTEXTUAL BABBEL NEXT STEP
+   Internal links from lessons lead to the transparent evaluation guide.
+======================================================================== */
+.fm-babbel-next,
+.fm-babbel-offer {
+  margin: 2.25rem 0;
+  padding: clamp(1.2rem, 2.8vw, 1.8rem);
+  border: 1px solid var(--border-color, #d9e2ef);
+  border-left: 4px solid #f59e0b;
+  border-radius: 14px;
+  background: #f7f9fc;
+}
+.fm-babbel-next__eyebrow,
+.fm-babbel-offer__eyebrow {
+  margin: 0 0 .45rem;
+  color: #b76308;
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.fm-babbel-next h2,
+.fm-babbel-offer h2 {
+  margin: 0 0 .7rem;
+  color: #1c3558;
+  font-size: clamp(1.2rem, 2.5vw, 1.55rem);
+  line-height: 1.3;
+}
+.fm-babbel-next p:not(.fm-babbel-next__eyebrow),
+.fm-babbel-offer p:not(.fm-babbel-offer__eyebrow) {
+  max-width: 72ch;
+  line-height: 1.65;
+}
+.fm-babbel-next__link {
+  display: inline-block;
+  margin-top: .25rem;
+  font-weight: 750;
+  color: #1f477b;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.fm-babbel-offer__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .55rem;
+  width: fit-content;
+  max-width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
+  margin: .4rem 0 .8rem;
+  padding: .85rem 1.15rem;
+  text-align: center;
+  white-space: normal;
+  line-height: 1.45;
+  border-radius: 8px;
+  background: #1f477b;
+  color: #fff !important;
+  font-weight: 750;
+  text-decoration: none !important;
+}
+.fm-babbel-offer__button:hover,
+.fm-babbel-offer__button:focus-visible {
+  background: #17375f;
+  color: #fff !important;
+}
+.fm-babbel-offer__disclosure {
+  margin: .7rem 0 0;
   font-size: .9rem;
-}
-@media (max-width: 560px) {
-  .error-page { padding: 1.4rem 1.1rem; }
-  .error-page__actions { flex-direction: column; align-items: stretch; }
-  .error-page__actions .btn-primary,
-  .error-page__actions .btn-outline { width: 100%; padding-left: 1rem; padding-right: 1rem; }
+  color: #475569;
 }

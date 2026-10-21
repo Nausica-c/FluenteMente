@@ -72,6 +72,9 @@ Puoi esercitarti descrivendo un unico episodio in due modi: *I borrowed Luca's b
 **Il tuo prossimo passo:** descrivi un oggetto che hai preso in prestito o che hai prestato a qualcuno. Per un falso amico legato ai libri, puoi tornare a [library e libreria]({{ '/library-vs-libreria/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Ripeti la stessa situazione cambiando prospettiva: chi prende in prestito e chi presta? Per consolidare anche altre coppie di parole con una routine regolare, puoi valutare Babbel insieme alle altre risorse descritte nella nostra guida." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

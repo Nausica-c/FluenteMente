@@ -76,6 +76,9 @@ Puoi anche notare che *How are you?* non sempre è un invito a descrivere un pro
 **Il tuo prossimo passo:** recita il dialogo e cambia la risposta ogni volta. Poi esercitati a continuare una conversazione con [Sounds good: significato e uso]({{ '/sounds-good-significato/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Per rispondere con naturalezza, prova a cambiare la risposta in base alla situazione e ripeti il dialogo ad alta voce. Se ti serve una sequenza di studio da seguire, scopri come valutare Babbel nella nostra guida dedicata." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Inglese pratico per parlare nelle situazioni quotidiane]({{ '/inglese-pratico-per-parlare/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

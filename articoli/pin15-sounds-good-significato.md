@@ -20,7 +20,7 @@ secondary_keywords:
 
 ## Che cosa significa Sounds good?
 
-**Sounds good** significa spesso “va bene”, “mi sembra una buona idea” o “ottimo”, quando rispondi a una proposta o a un piano. Letteralmente fa riferimento a qualcosa che “suona bene”, ma nella conversazione esprime accordo o approvazione.
+*Sounds good* significa spesso “va bene”, “mi sembra una buona idea” o “ottimo”, quando rispondi a una proposta o a un piano. Letteralmente fa riferimento a qualcosa che “suona bene”, ma nella conversazione esprime accordo o approvazione.
 
 **A:** Let's meet at six.  
 **B:** Sounds good!  
@@ -49,7 +49,7 @@ Puoi usare *That sounds good* se vuoi una frase completa. Nel parlato spesso si 
 
 ## Attenzione alla sfumatura
 
-*Sounds good* è utile quando approvi una proposta, ma non sempre equivale a “sì” definitivo. Se il piano richiede una conferma precisa, puoi aggiungere dettagli: *Sounds good. I'll be there at six.* (“Va bene. Sarò lì alle sei.”)
+Sounds good è utile quando approvi una proposta, ma non sempre equivale a “sì” definitivo. Se il piano richiede una conferma precisa, puoi aggiungere dettagli: *Sounds good. I'll be there at six.* (“Va bene. Sarò lì alle sei.”)
 
 Altre risposte comuni:
 
@@ -70,12 +70,15 @@ Quale risposta è più adatta?
 
 ## Sounds good non sostituisce ogni tipo di conferma
 
-Se qualcuno propone un’idea, *Sounds good* esprime approvazione. Se devi confermare un dettaglio pratico, aggiungilo: *Sounds good. I'll meet you outside the station at six.* (“Va bene. Ci vediamo fuori dalla stazione alle sei”). Se invece non sei convinto, puoi dire *I'm not sure that will work for me* (“Non sono sicuro che per me vada bene”).
+Se qualcuno propone un’idea, Sounds good esprime approvazione. Se devi confermare un dettaglio pratico, aggiungilo: *Sounds good. I'll meet you outside the station at six.* (“Va bene. Ci vediamo fuori dalla stazione alle sei”). Se invece non sei convinto, puoi dire *I'm not sure that will work for me* (“Non sono sicuro che per me vada bene”).
 
 Anche *That works for me* è utile quando vuoi dire che un orario o un’organizzazione ti va bene. *Great* è più breve ed entusiasta. Impara queste formule come risposte a intenzioni diverse: accettare un piano, mostrare entusiasmo o esprimere un dubbio. In questo modo eviti di ripetere sempre la stessa frase e comunichi con più precisione.
 
-**Il tuo prossimo passo:** prova a rispondere con *Sounds good* a tre proposte diverse. Per imparare un’espressione che aiuta a rassicurare l’interlocutore, leggi [No worries]({{ '/no-worries-significato/' | relative_url }}).
+**Il tuo prossimo passo:** prova a rispondere con Sounds good a tre proposte diverse. Per imparare un’espressione che aiuta a rassicurare l’interlocutore, leggi [No worries]({{ '/no-worries-significato/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Per usare Sounds good con la sfumatura giusta, immagina tre contesti diversi e adatta la risposta. Se vuoi continuare con un percorso regolare di apprendimento, consulta la guida che ti aiuta a valutare Babbel." %}
 
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Espressioni inglesi naturali: significato e uso]({{ '/espressioni-inglesi-naturali/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.

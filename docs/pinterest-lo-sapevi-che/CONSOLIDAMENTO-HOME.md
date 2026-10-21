@@ -12,7 +12,8 @@ Dopo il commit, controlla che la home pubblicata sia quella nuova e non la prece
 
 ## Cosa mostra la nuova home
 
-- messaggio principale coerente con «Lo sapevi che…?»;
+- titolo e sottotitolo compattati su mobile, con maggiore contrasto e meno spazio vuoto sopra il titolo;
+- riquadro «Lo sapevi che…?» con testo abbreviato e un solo pulsante principale, «Scopri la prima mini-lezione»;
 - primi tre contenuti messi in evidenza (Pin 01, 02 e 03);
 - sei percorsi tematici con collegamenti ai rispettivi hub o guide centrali;
 - breve spiegazione del percorso didattico;
@@ -23,6 +24,7 @@ Dopo il commit, controlla che la home pubblicata sia quella nuova e non la prece
 
 - `index.md` è l'unico file della home nella radice del pacchetto;
 - i link interni della home sono stati confrontati con i permalink dei contenuti inclusi;
+- gli stili aggiunti sono circoscritti alla home tramite la classe `home-page` sul `body`, senza cambiare intenzionalmente la grafica delle pagine articolo;
 - il campo `seo_title` viene ora usato nel titolo HTML e nei titoli Open Graph/Twitter;
 - il `launch_mode: true` è rimasto attivo fino alla revisione finale.
 

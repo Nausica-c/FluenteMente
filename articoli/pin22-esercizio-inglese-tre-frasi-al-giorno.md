@@ -63,6 +63,9 @@ Se non sai scrivere una frase complessa, semplificala: una frase breve e corrett
 **Il tuo prossimo passo:** scrivi tre frasi oggi e tre domani, anche sullo stesso tema. Per organizzare questo esercizio dentro una routine più ampia, leggi [come studiare inglese ogni giorno]({{ '/come-studiare-inglese-ogni-giorno/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Conserva le tre frasi e rileggile dopo qualche giorno: noterai quali strutture ti vengono spontanee e quali hanno bisogno di ripasso. Se vuoi affiancare a questo esercizio un percorso guidato, puoi valutare Babbel seguendo la nostra guida." %}
+
 ## Continua il percorso
 Per vedere come questo tema si inserisce nel percorso completo, parti dalla guida centrale e poi scegli un esercizio da mettere in pratica.
 

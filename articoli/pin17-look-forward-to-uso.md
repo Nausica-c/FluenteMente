@@ -21,7 +21,7 @@ secondary_keywords:
 
 ## Che cosa significa look forward to?
 
-**To look forward to** significa aspettare qualcosa con piacere, cioè “non vedere l’ora di…”. Puoi usarlo per un evento, un incontro o un’attività futura. L’errore frequente è mettere un verbo nella forma base dopo *to*: in questa espressione, se segue un verbo, si usa normalmente la forma in **-ing**.
+**To look forward to** significa aspettare qualcosa con piacere, cioè “non vedere l’ora di…”. Puoi usarlo per un evento, un incontro o un’attività futura. L’errore frequente è mettere un verbo nella forma base dopo *to*: in questa espressione, se segue un verbo, si usa normalmente la forma in *-ing*.
 
 - *I'm looking forward to the weekend.* — Non vedo l’ora che arrivi il fine settimana.
 - *I look forward to meeting you.* — Attendo con piacere di incontrarti.
@@ -29,9 +29,9 @@ secondary_keywords:
 
 ## Perché si dice meeting e non meet?
 
-In molte costruzioni inglesi, *to* introduce un infinito (*to meet*). Ma in *look forward to*, *to* è una preposizione; quando dopo una preposizione metti un verbo, la forma è spesso in *-ing*. Perciò: *I look forward to meeting you*, non *I look forward to meet you*.
+In molte costruzioni inglesi, *to* introduce un infinito (*to meet*). Ma in look forward to, *to* è una preposizione; quando dopo una preposizione metti un verbo, la forma è spesso in -ing. Perciò: *I look forward to meeting you*, non *I look forward to meet you*.
 
-Puoi ricordare questa espressione come un blocco unico seguito da un nome o da un verbo in *-ing*:
+Puoi ricordare questa espressione come un blocco unico seguito da un nome o da un verbo in -ing:
 
 - *look forward to the trip*;
 - *look forward to your reply*;
@@ -51,16 +51,19 @@ Scegli la forma corretta.
 3. I'm looking forward to (the concert / go to the concert).
 4. She is looking forward to (start / starting) her new job.
 
-**Soluzioni:** 1. *seeing*; 2. *hearing*; 3. entrambe le idee possono essere espresse, ma con *go* la costruzione corretta è *going*: *looking forward to going to the concert*; 4. *starting*. Dopo *to* puoi usare direttamente un nome (*the concert*) oppure una forma in *-ing*.
+**Soluzioni:** 1. *seeing*; 2. *hearing*; 3. entrambe le idee possono essere espresse, ma con *go* la costruzione corretta è *going*: *looking forward to going to the concert*; 4. *starting*. Dopo *to* puoi usare direttamente un nome (*the concert*) oppure una forma in -ing.
 
 ## Usa la forma in -ing anche nelle email
 
 In una email puoi scrivere *I look forward to hearing from you* (“Resto in attesa di un suo riscontro”) oppure *I'm looking forward to working with you* (“Non vedo l’ora di lavorare con te”). La prima è una chiusura professionale frequente; la seconda può esprimere aspettativa positiva in un messaggio più conversazionale. Scegli la formula in base al rapporto, non soltanto perché l’hai vista in un modello.
 
-L’espressione può essere seguita da un nome senza cambiamenti: *I'm looking forward to the trip*. Se dopo *to* vuoi mettere un verbo, usa *-ing*: *looking forward to seeing you*. È utile imparare più esempi completi perché il piccolo *to* può indurre chi studia a usare automaticamente l’infinito. Qui, invece, fa parte dell’espressione *look forward to*.
+L’espressione può essere seguita da un nome senza cambiamenti: *I'm looking forward to the trip*. Se dopo *to* vuoi mettere un verbo, usa -ing: *looking forward to seeing you*. È utile imparare più esempi completi perché il piccolo *to* può indurre chi studia a usare automaticamente l’infinito. Qui, invece, fa parte dell’espressione look forward to.
 
 **Il tuo prossimo passo:** scrivi una frase su qualcosa che aspetti con piacere. Per esempio, *I'm looking forward to…*. Puoi arricchire l’inglese colloquiale anche con [gonna: significato e uso]({{ '/gonna-significato-inglese/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Per ricordare la struttura, crea un esempio personale e controlla che dopo look forward to ci sia un nome o una forma in -ing. Puoi affiancare questo ripasso a un percorso guidato: la nostra guida spiega come valutare Babbel senza dare per scontate funzioni o risultati." %}
 
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Espressioni inglesi naturali: significato e uso]({{ '/espressioni-inglesi-naturali/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.

@@ -21,7 +21,7 @@ secondary_keywords:
 
 ## Gonna è una forma informale di going to
 
-Nel parlato informale, **gonna** rappresenta spesso la pronuncia contratta di **going to**, soprattutto quando si parla di intenzioni o programmi: *I'm gonna call you* significa “Ti chiamerò” o “Ho intenzione di chiamarti”, secondo il contesto.
+Nel parlato informale, *gonna* rappresenta spesso la pronuncia contratta di **going to**, soprattutto quando si parla di intenzioni o programmi: *I'm gonna call you* significa “Ti chiamerò” o “Ho intenzione di chiamarti”, secondo il contesto.
 
 Esempi:
 
@@ -42,9 +42,9 @@ Entrambe possono comunicare l’intenzione. La prima segnala un registro più co
 
 ## Non confondere la pronuncia con la scrittura formale
 
-Quando ascolti una persona che parla velocemente, alcune sequenze di parole si riducono e sembrano quasi una parola sola. Riconoscere *gonna* può aiutarti a seguire il discorso. Quando scrivi, però, chiediti quale registro è richiesto e scegli la forma appropriata.
+Quando ascolti una persona che parla velocemente, alcune sequenze di parole si riducono e sembrano quasi una parola sola. Riconoscere gonna può aiutarti a seguire il discorso. Quando scrivi, però, chiediti quale registro è richiesto e scegli la forma appropriata.
 
-Non confondere questa forma con il sostantivo *gown* (“abito lungo” in alcuni contesti), e ricorda che *gonna* in italiano significa un indumento diverso: la somiglianza è soltanto grafica.
+Non confondere questa forma con il sostantivo *gown* (“abito lungo” in alcuni contesti), e ricorda che gonna in italiano significa un indumento diverso: la somiglianza è soltanto grafica.
 
 ## Mini-esercizio
 
@@ -64,10 +64,13 @@ Prova a leggere le coppie ad alta voce, prima nella forma completa e poi in quel
 - *What are you going to do?* / *What are you gonna do?* — Che cosa hai intenzione di fare?
 - *It's going to rain.* — Sta per piovere.
 
-La grafia informale *gonna* non è adatta a ogni testo. Se stai scrivendo un compito, un rapporto o un’email formale, usa la forma completa. Se trascrivi un dialogo colloquiale, invece, puoi mantenere la forma originale per rappresentare la voce del personaggio. La scelta dipende dallo scopo della scrittura.
+La grafia informale gonna non è adatta a ogni testo. Se stai scrivendo un compito, un rapporto o un’email formale, usa la forma completa. Se trascrivi un dialogo colloquiale, invece, puoi mantenere la forma originale per rappresentare la voce del personaggio. La scelta dipende dallo scopo della scrittura.
 
-**Il tuo prossimo passo:** quando guardi un dialogo, prova a identificare *gonna* e riscriverla mentalmente come *going to*. Poi scopri [look forward to: uso e significato]({{ '/look-forward-to-uso/' | relative_url }}).
+**Il tuo prossimo passo:** quando guardi un dialogo, prova a identificare gonna e riscriverla mentalmente come *going to*. Poi scopri [look forward to: uso e significato]({{ '/look-forward-to-uso/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Riconoscere gonna nei dialoghi è un buon esercizio di ascolto: prova a riscrivere la frase nella forma completa. Per mantenere una pratica regolare con materiali guidati, scopri come valutare Babbel in base alle tue esigenze." %}
 
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Espressioni inglesi naturali: significato e uso]({{ '/espressioni-inglesi-naturali/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.

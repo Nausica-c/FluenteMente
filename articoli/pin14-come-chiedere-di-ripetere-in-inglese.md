@@ -74,6 +74,9 @@ Al telefono o in un luogo rumoroso, puoi spiegare brevemente la difficoltà: *So
 **Il tuo prossimo passo:** scegli una frase e ripetila cinque volte, poi inseriscila in un dialogo inventato. Per fare pratica in una situazione quotidiana, visita [come ordinare un caffè in inglese]({{ '/ordinare-un-caffe-in-inglese/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Chiedere di ripetere è una frase da provare ad alta voce finché non ti viene spontanea. Per continuare ad allenare situazioni quotidiane con regolarità, puoi leggere come valutare Babbel come opzione complementare." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Inglese pratico per parlare nelle situazioni quotidiane]({{ '/inglese-pratico-per-parlare/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

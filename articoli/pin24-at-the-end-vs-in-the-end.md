@@ -70,6 +70,9 @@ Non sono sostituti automatici. Quando scegli, chiediti se stai raccontando l’e
 **Il tuo prossimo passo:** scrivi un esempio con *at the end of* e uno con *in the end*. Poi ripassa [eventually ed eventualmente]({{ '/eventually-vs-eventualmente/' | relative_url }}), che riguarda un’altra differenza di significato spesso confusa.
 
 
+
+{% include babbel-next-step.html message="Per fissare la differenza, scrivi due frasi personali e rileggile tra qualche giorno. Se vuoi un percorso organizzato per continuare a ripassare lessico e grammatica, puoi valutare Babbel attraverso i criteri spiegati nella guida dedicata." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Errori comuni in inglese: forme corrette ed esempi]({{ '/errori-comuni-inglese/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

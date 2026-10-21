@@ -73,6 +73,9 @@ Una distinzione collegata è *borrow* contro *lend*: in biblioteca tu di solito 
 **Il tuo prossimo passo:** inventa una frase con *library* e una con *bookstore*. Per distinguere un’altra coppia che sembra simile all’italiano, continua con [sensible e sensitive]({{ '/sensible-vs-sensitive/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Quando una parola assomiglia all’italiano, imparala dentro una frase e non da sola. Per continuare con una routine guidata oltre ai falsi amici, consulta la nostra guida su come valutare Babbel." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Parole inglesi che si confondono facilmente]({{ '/parole-inglesi-confuse/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

@@ -23,7 +23,7 @@ secondary_keywords:
 
 Babbel è una delle risorse che puoi prendere in considerazione se vuoi studiare inglese con un percorso strutturato. La domanda utile non è “è il migliore per tutti?”, ma **si adatta ai miei obiettivi, al mio livello, al mio tempo e al modo in cui preferisco imparare?** Nessuna app o corso garantisce da solo la fluidità: i progressi dipendono anche dalla pratica e dall’uso reale della lingua.
 
-> **Trasparenza:** questa pagina può contenere un link affiliato. Se acquisti tramite quel link, FluenteMente potrebbe ricevere una commissione senza costi aggiuntivi per te. La raccomandazione non sostituisce il confronto tra pro, limiti e condizioni. Il collegamento affiliato va inserito e controllato prima della pubblicazione.
+> **Trasparenza:** questa pagina contiene un link affiliato Awin verso Babbel. Se acquisti tramite questo collegamento, FluenteMente potrebbe ricevere una commissione senza costi aggiuntivi per te. La raccomandazione non sostituisce il confronto tra vantaggi, limiti e condizioni. La disclosure è riportata accanto alla CTA: verifica sempre prezzi e condizioni aggiornati prima di acquistare.
 
 ## Come valutare un percorso di studio
 
@@ -64,9 +64,11 @@ Prima di acquistare, prova a rispondere a tre domande: “Quale situazione concr
 
 ## Il prossimo passo
 
-Apri le informazioni ufficiali aggiornate, verifica le condizioni specifiche del piano e confrontale con il tuo obiettivo. **Prima della pubblicazione, aggiungere qui il link affiliato verificato e mantenere questa disclosure immediatamente vicino al collegamento.** Se preferisci partire dal metodo, leggi anche [come scegliere un corso di inglese adatto a te]({{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}).
+Confronta le informazioni aggiornate con i tuoi obiettivi e verifica le condizioni prima di prendere una decisione.
 
-<!-- TODO PUBBLICAZIONE: verificare le caratteristiche attuali su fonte ufficiale, prezzo e condizioni; inserire l'URL affiliato corretto; mantenere la disclosure vicino al link. Non pubblicare affermazioni su prezzi, sconti, prove o funzioni senza verifica aggiornata. -->
+{% include babbel-offer.html %}
+
+Se preferisci partire dai criteri generali, leggi anche [come scegliere un corso di inglese adatto a te]({{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}).
 
 
 ## Continua il percorso

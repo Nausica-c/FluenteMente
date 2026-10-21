@@ -78,6 +78,9 @@ Prova anche a sostituire la bevanda senza cambiare il resto della frase. In ques
 **Il tuo prossimo passo:** salva le cinque frasi più utili sul telefono e ripassale prima del prossimo viaggio. Puoi allenarti anche con [tre frasi per presentarti in inglese]({{ '/come-presentarsi-in-inglese/' | relative_url }}).
 
 
+
+{% include babbel-next-step.html message="Le frasi per ordinare diventano più naturali quando le ripassi e le riusi in dialoghi diversi. Per organizzare anche lo studio regolare, scopri come valutare Babbel come possibile risorsa complementare." %}
+
 ## Continua il percorso
 Questa spiegazione fa parte del percorso [Inglese pratico per parlare nelle situazioni quotidiane]({{ '/inglese-pratico-per-parlare/' | relative_url }}), dove trovi tutti gli articoli collegati e un ordine pratico per approfondire.
 

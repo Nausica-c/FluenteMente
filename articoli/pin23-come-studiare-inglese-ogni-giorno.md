@@ -24,8 +24,6 @@ Studiare inglese ogni giorno non significa dover svolgere sempre la stessa quant
 
 ## Decidi che cosa vuoi allenare
 
-Se sei un principiante adulto e non sai quali basi affrontare per prime, puoi seguire anche questa guida pratica su [inglese da zero per adulti]({{ '/inglese-da-zero-adulti/' | relative_url }}): si concentra sull’ordine delle prime frasi e delle situazioni da imparare, mentre questa pagina tratta soprattutto la costanza.
-
 Non scegliere un obiettivo vago come “migliorare tutto l’inglese”. Per la prossima settimana scegli una priorità: capire dialoghi brevi, ampliare il lessico del lavoro, sentirti più sicuro quando ordini qualcosa o ripassare le strutture di base. Un obiettivo piccolo ti aiuta a scegliere le attività.
 
 ## Un piano normale e un piano minimo
@@ -68,6 +66,9 @@ Puoi rivedere il piano ogni fine settimana: che cosa ti è piaciuto? Quale attiv
 
 **Il tuo prossimo passo:** scegli un orario e prepara sia la versione normale sia quella minima del tuo piano. Per una proposta organizzata al minuto, prova la [routine 5 + 5 + 5]({{ '/routine-inglese-15-minuti/' | relative_url }}).
 
+
+
+{% include babbel-next-step.html message="Una risorsa già organizzata può aiutarti a ridurre il tempo speso per decidere cosa fare, ma deve essere compatibile con i tuoi obiettivi e con il tuo budget. Leggi la nostra guida per valutare Babbel insieme alle alternative e scegliere in modo consapevole." %}
 
 ## Continua il percorso
 Se vuoi lavorare sul metodo, comincia dalla guida centrale e poi scegli una pratica breve da sperimentare.
