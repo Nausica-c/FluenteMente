@@ -1,6 +1,6 @@
 # Manifest della base grafica e delle integrazioni
 
-## File conservati dalla base grafica originaria
+## Base grafica conservata
 
 - `_config.yml`
 - `_includes/affiliate-disclosure.html`
@@ -16,12 +16,16 @@
 - `assets/css/main.css`
 - `assets/img/og-default.jpg`
 
-## Contenuti integrati successivamente
+## Contenuti integrati
 
-- `index.md`: home page.
-- `articoli/`: 30 articoli della rubrica Pinterest “Lo sapevi che…?”.
-- `percorsi/`: quattro hub SEO per i cluster C2–C5.
+- `index.md`: unica sorgente canonica della home consolidata.
+- `articoli/`: 30 articoli della rubrica Pinterest «Lo sapevi che…?».
+- `percorsi/`: quattro hub tematici SEO per i cluster C2–C5.
 - `chi-siamo.md`, `privacy.md`, `cookie.md`, `disclaimer.md`: pagine di servizio.
-- `docs/pinterest-lo-sapevi-che/`: manifest, mappe dei cluster, audit e controlli pre-pubblicazione.
+- `docs/pinterest-lo-sapevi-che/`: mappe, manifest, audit e checklist.
 
-La versione attuale contiene la base grafica più i contenuti indicati sopra. Le pagine privacy/cookie e gli altri contenuti sono bozze editoriali: i campi indicati come da completare devono essere compilati e il sito verificato prima della pubblicazione.
+## Nota sul repository online
+
+La versione GitHub online esaminata conteneva un vecchio `index.html` in radice, mentre l'archivio di partenza per questo aggiornamento non lo includeva. Prima del rilascio eliminare il vecchio `index.html` remoto e conservare soltanto `index.md` come sorgente della home. Istruzioni complete: `docs/pinterest-lo-sapevi-che/CONSOLIDAMENTO-HOME.md`.
+
+La modalità `launch_mode: true` resta attiva. Privacy e cookie sono bozze: completare i campi richiesti e verificare il sito prima di disattivare il noindex.
