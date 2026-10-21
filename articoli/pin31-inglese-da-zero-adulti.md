@@ -2,7 +2,7 @@
 layout: post
 title: "Inglese da zero da adulti: da dove partire e cosa imparare"
 description: "Vuoi imparare inglese da zero da adulto? Segui una progressione semplice: frasi essenziali, presentazioni, domande e mini-dialoghi, con una routine realistica di 15 minuti."
-permalink: /inglese/da-zero/
+permalink: /inglese-da-zero-adulti/
 pin_id: pin31
 cluster_id: C1
 cluster_name: "Metodo di studio, routine e costanza"
