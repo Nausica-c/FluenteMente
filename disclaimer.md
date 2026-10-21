@@ -26,7 +26,7 @@ Il testo va adattato alle condizioni effettive del singolo programma: non usare 
 
 ## Stato dei collegamenti affiliati in questa versione
 
-Nel repository esaminato non è stato trovato un URL affiliato definitivo da attivare. L'articolo [Babbel per imparare inglese]({{ '/babbel-per-imparare-inglese/' | relative_url }}) contiene indicazioni editoriali per una successiva verifica e non deve essere considerato un collegamento promozionale operativo finché il link non è stato inserito e controllato.
+In questa versione del repository è configurato un link affiliato Awin verso Babbel nell'articolo [Babbel per imparare inglese]({{ '/babbel-per-imparare-inglese/' | relative_url }}). Il collegamento è contrassegnato come sponsorizzato e accompagnato da una disclosure visibile. Prima della pubblicazione online occorre verificare il redirect, il tracciamento e la corrispondenza con le condizioni correnti del programma di affiliazione.
 
 Prima di attivare un link affiliato, verificare almeno:
 
@@ -46,7 +46,7 @@ I prodotti, le caratteristiche, le disponibilità, i piani e i prezzi possono ca
 
 Se in futuro verranno pubblicati contenuti sponsorizzati, prodotti forniti gratuitamente o altre collaborazioni retribuite, la natura del rapporto dovrà essere dichiarata in modo esplicito nel contenuto pertinente. Un rapporto commerciale non deve essere fatto passare per un'esperienza spontanea o per un giudizio indipendente privo di interessi economici.
 
-La versione corrente del repository non documenta accordi di sponsorizzazione né un link affiliato definitivo. Questa dichiarazione dovrà essere aggiornata se la situazione cambia.
+La versione corrente del repository documenta un link affiliato Awin verso Babbel; non documenta altri accordi di sponsorizzazione, prodotti forniti gratuitamente o collaborazioni retribuite. Questa dichiarazione dovrà essere aggiornata se la situazione cambia.
 
 ## Domande e contatti
 

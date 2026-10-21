@@ -18,7 +18,7 @@
 
 ## Contenuti integrati
 
-- `index.md`: unica sorgente canonica della home consolidata.
+- `index.md`: unica sorgente canonica della home consolidata e rifinita per smartphone (spaziatura, tipografia, contrasto e CTA principale).
 - `articoli/`: 30 articoli della rubrica Pinterest «Lo sapevi che…?».
 - `percorsi/`: quattro hub tematici SEO per i cluster C2–C5.
 - `chi-siamo.md`, `privacy.md`, `cookie.md`, `disclaimer.md`: pagine di servizio.

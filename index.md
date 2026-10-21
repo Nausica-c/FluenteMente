@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impara l’inglese con una scoperta alla volta
-subtitle: Mini-lezioni in italiano, falsi amici, espressioni naturali e frasi utili per la vita reale.
+subtitle: Mini-lezioni in italiano, falsi amici ed espressioni naturali per parlare inglese nella vita reale.
 description: "Scopri mini-lezioni di inglese in italiano: falsi amici, espressioni naturali, frasi quotidiane e metodi di studio realistici con FluenteMente."
 permalink: /
 seo_title: "FluenteMente | Mini-lezioni di inglese in italiano"
@@ -10,13 +10,11 @@ seo_title: "FluenteMente | Mini-lezioni di inglese in italiano"
 <section class="home-hero" aria-labelledby="home-hero-heading">
   <div class="home-hero__inner">
     <p class="home-hero__eyebrow">LA RUBRICA «LO SAPEVI CHE…?»</p>
-    <h2 id="home-hero-heading">Una curiosità può diventare il tuo prossimo passo in inglese.</h2>
-    <p class="home-hero__lead">Scopri perché alcune parole ingannano, come si parla nelle situazioni quotidiane e quali espressioni rendono l’inglese più naturale. Ogni mini-lezione parte da una domanda concreta e la spiega in italiano, con esempi che puoi provare.</p>
+    <h2 id="home-hero-heading">Una curiosità può cambiare il tuo modo di parlare inglese.</h2>
+    <p class="home-hero__lead">Scopri i falsi amici, le espressioni usate davvero e le frasi utili nelle situazioni quotidiane. Spiegazioni in italiano, con esempi pratici.</p>
     <div class="home-hero__actions">
-      <a class="btn-primary" href="#mini-lezioni">Parti da una mini-lezione</a>
-      <a class="btn-outline home-hero__outline" href="#percorsi">Esplora i percorsi</a>
+      <a class="btn-primary" href="#mini-lezioni">Scopri la prima mini-lezione <span aria-hidden="true">→</span></a>
     </div>
-    <p class="home-hero__note">Un argomento alla volta. Senza promesse miracolose e senza dover sapere già tutto.</p>
   </div>
 </section>
 
@@ -119,7 +117,7 @@ seo_title: "FluenteMente | Mini-lezioni di inglese in italiano"
 <section class="home-resource-box" aria-labelledby="home-resource-heading">
   <p class="home-eyebrow">IL TUO PROSSIMO PASSO</p>
   <h2 id="home-resource-heading">Vuoi organizzare meglio il tuo studio?</h2>
-  <p>Se sei adulto e parti dalle basi, comincia dalla guida su <a href="{{ '/inglese-da-zero-adulti/' | relative_url }}">come imparare inglese da zero</a>. Per organizzare le sessioni, puoi poi provare una <a href="{{ '/routine-inglese-15-minuti/' | relative_url }}">routine di 15 minuti divisa in tre passaggi</a> oppure leggere la guida per <a href="{{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}">scegliere un corso in base ai tuoi obiettivi</a>.</p>
+  <p>Puoi cominciare da una <a href="{{ '/routine-inglese-15-minuti/' | relative_url }}">routine di 15 minuti divisa in tre passaggi</a> oppure leggere la guida per <a href="{{ '/come-scegliere-un-corso-di-inglese/' | relative_url }}">scegliere un corso in base ai tuoi obiettivi</a>.</p>
   <p>Tra le risorse che puoi valutare c’è anche <a href="{{ '/babbel-per-imparare-inglese/' | relative_url }}">Babbel per imparare inglese</a>. Considerala una possibilità da confrontare con le tue esigenze, non l’unica strada né una garanzia di risultato. Verifica sempre le informazioni e le condizioni correnti prima di acquistare.</p>
 </section>
 

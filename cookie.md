@@ -30,7 +30,7 @@ La sola lettura del codice non consente di produrre un inventario esaustivo dei 
 | Analytics e misurazione delle visite | Non risultano script analytics espliciti nel codice esaminato. | Se aggiunti in futuro, identificare i cookie e valutare le regole applicabili prima di attivarli. |
 | Pubblicità e profilazione | Non risultano pixel pubblicitari o strumenti di retargeting espliciti nel codice esaminato. | Non integrarli senza adeguata informativa e, quando richiesto, consenso preventivo. |
 | Social e contenuti incorporati | Non risultano widget o contenuti social incorporati; è presente un collegamento esterno a Pinterest. | Dopo il clic si applicano anche le regole della piattaforma visitata. |
-| Link di affiliazione | Nel pacchetto esaminato non è stato inserito un URL affiliato definitivo. | Prima di attivarli, verificare l'eventuale tracciamento del merchant o del network e aggiornare questa pagina se necessario. |
+| Link di affiliazione | È configurato un collegamento Awin verso Babbel. Il clic passa attraverso la rete di affiliazione; gli eventuali cookie o altri strumenti usati devono essere verificati tecnicamente sulla versione online. | Testare le richieste di rete e il comportamento prima e dopo il clic; aggiornare questa informativa in base ai risultati e alle condizioni applicabili. |
 
 Questa tabella descrive la verifica del codice, non costituisce un registro certificato dei cookie del sito online.
 

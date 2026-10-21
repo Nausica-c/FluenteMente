@@ -34,7 +34,7 @@ Nel repository esaminato non sono presenti moduli di contatto, aree di registraz
 
 ### Dati relativi ai link esterni e affiliati
 
-Se selezioni un collegamento a una piattaforma esterna, il gestore della destinazione può ricevere dati tecnici sulla visita. Se in futuro saranno attivati link affiliati, il relativo operatore o network potrebbe trattare informazioni sul clic e sull'eventuale acquisto per attribuire una commissione, secondo la propria informativa. La pagina [Affiliazioni]({{ '/disclaimer/' | relative_url }}) spiega come riconoscere questi collegamenti.
+Se selezioni un collegamento a una piattaforma esterna, il gestore della destinazione può ricevere dati tecnici sulla visita. Il sito include un link affiliato Awin verso Babbel. Quando lo selezioni, il relativo operatore o network può trattare informazioni sul clic e, se pertinente, sull'eventuale acquisto per attribuire una commissione, secondo la propria informativa. La pagina [Affiliazioni]({{ '/disclaimer/' | relative_url }}) spiega come riconoscere questi collegamenti.
 
 ## 4. Finalità e basi giuridiche
 

@@ -7,7 +7,7 @@ Questo repository conserva la base grafica Jekyll originale e la integra con la 
 - `_config.yml`: configurazione del sito; `launch_mode: true` mantiene il sito in modalità noindex.
 - `_layouts/` e `_includes/`: struttura grafica condivisa e navigazione.
 - `assets/css/` e `assets/img/`: fogli di stile e immagine social.
-- `index.md`: unica sorgente canonica della nuova home page; eliminare dal repository online il vecchio `index.html` in radice prima del rilascio.
+- `index.md`: unica sorgente canonica della nuova home page, ottimizzata per mobile; eliminare dal repository online il vecchio `index.html` in radice prima del rilascio. Il CSS della home è isolato tramite `home-page`.
 - `articoli/`: i 30 articoli Pinterest, con permalink espliciti e metadati.
 - `percorsi/`: quattro hub tematici SEO.
 - `chi-siamo.md`, `privacy.md`, `cookie.md`, `disclaimer.md`: pagine di servizio.
