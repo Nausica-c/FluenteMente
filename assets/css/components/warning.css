@@ -1,0 +1,79 @@
+.fm-warning-box{
+  background:#fff1f2;
+  border:1px solid #fecdd3;
+  border-left:6px solid #ef4444;
+  border-radius:18px;
+  padding:24px;
+  margin:42px 0;
+  position:relative;
+}
+
+/* ========================
+TITLE
+======================== */
+
+.fm-warning-title{
+  font-size:1.2rem;
+  font-weight:800;
+  margin-bottom:10px;
+  color:#9f1239;
+}
+
+/* ========================
+TEXT
+======================== */
+
+.fm-warning-box p{
+  margin:0;
+  line-height:1.7;
+  color:#881337;
+  font-size:1rem;
+}
+
+/* ========================
+ICON ACCENT (OPTIONAL VISUAL DEPTH)
+======================== */
+
+.fm-warning-box::before{
+  content:"⚠️";
+  position:absolute;
+  top:16px;
+  right:18px;
+  font-size:1.4rem;
+  opacity:0.2;
+}
+
+/* ========================
+HOVER (subtle emphasis)
+======================== */
+
+.fm-warning-box:hover{
+  transform:translateY(-2px);
+  transition:all .2s ease;
+}
+
+/* ========================
+STRONG VARIANT (HIGH RISK WARNING)
+======================== */
+
+.fm-warning-box.critical{
+  background:#fee2e2;
+  border-left:6px solid #dc2626;
+}
+
+/* ========================
+MOBILE
+======================== */
+
+@media(max-width:768px){
+
+  .fm-warning-box{
+    padding:20px;
+    border-radius:16px;
+  }
+
+  .fm-warning-title{
+    font-size:1.1rem;
+  }
+
+}
