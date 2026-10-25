@@ -1,0 +1,15 @@
+{% assign babbel_affiliate_url = site.babbel_affiliate_url | default: "" %}
+{% assign babbel_official_url = site.babbel_official_url | default: "https://it.babbel.com/" %}
+{% assign babbel_clickref = page.pin_id | default: page.url | slugify %}
+{% assign babbel_affiliate_href = babbel_affiliate_url | append: babbel_clickref %}
+<section class="fm-babbel-offer" aria-label="Valuta Babbel per l’inglese">
+  <p class="fm-babbel-offer__eyebrow">VALUTA LA PROSSIMA OPZIONE</p>
+  <h2>Valuta Babbel in base ai tuoi obiettivi</h2>
+  <p>Consulta le informazioni aggiornate, verifica quali attività sono disponibili per l’inglese e controlla il prezzo totale e le condizioni del piano prima di scegliere. Babbel è una possibile risorsa per lo studio autonomo, non una garanzia di risultato né l’unico modo per imparare.</p>
+  {% if babbel_affiliate_url != "" %}
+    <a class="fm-babbel-offer__button" href="{{ babbel_affiliate_href | escape }}" rel="sponsored nofollow noopener" target="_blank" data-affiliate-network="awin" data-affiliate-content="{{ page.pin_id | default: 'babbel-guide' | escape }}" data-analytics-event="affiliate_click">Consulta Babbel e verifica i piani per l’inglese <span aria-hidden="true">→</span></a>
+    <p class="fm-babbel-offer__disclosure"><strong>Link affiliato:</strong> se acquisti tramite questo collegamento, FluenteMente potrebbe ricevere una commissione senza costi aggiuntivi per te.</p>
+  {% else %}
+    <a class="fm-babbel-offer__button" href="{{ babbel_official_url | escape }}" rel="noopener noreferrer" target="_blank">Consulta il sito ufficiale di Babbel <span aria-hidden="true">→</span></a>
+  {% endif %}
+</section>

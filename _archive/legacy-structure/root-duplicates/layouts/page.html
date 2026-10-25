@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="post-wrapper">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.subtitle %}<p class="post-meta">{{ page.subtitle | escape }}</p>{% endif %}
+  </header>
+  {% if page.show_affiliate_disclosure %}{% include affiliate-disclosure.html %}{% endif %}
+  <div class="post-content">{{ content }}</div>
+</article>
