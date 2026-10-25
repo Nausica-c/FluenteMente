@@ -26,6 +26,7 @@ Parlare inglese nella vita quotidiana non significa costruire frasi perfette al 
 
 - [Come ordinare un caffè in inglese senza bloccarti]({{ '/ordinare-un-caffe-in-inglese/' | relative_url }})
 - [Come presentarti in inglese con tre frasi semplici]({{ '/come-presentarsi-in-inglese/' | relative_url }})
+- [“Nice to meet you” o “Nice to see you”: qual è la differenza?]({{ '/nice-to-meet-you-vs-nice-to-see-you/' | relative_url }})
 - [Cosa rispondere quando ti chiedono “How are you?”]({{ '/come-rispondere-a-how-are-you/' | relative_url }})
 - [Come chiedere di ripetere in inglese con naturalezza]({{ '/come-chiedere-di-ripetere-in-inglese/' | relative_url }})
 - [What do you do? Che cosa significa davvero?]({{ '/what-do-you-do-significato/' | relative_url }})

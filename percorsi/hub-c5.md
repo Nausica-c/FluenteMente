@@ -30,6 +30,8 @@ Molti errori in inglese nascono dal trasferire direttamente una struttura italia
 - [At the end e in the end: qual è la differenza?]({{ '/at-the-end-vs-in-the-end/' | relative_url }})
 - [Borrow e lend: chi prende in prestito e chi presta?]({{ '/borrow-vs-lend/' | relative_url }})
 - [Say e tell: la differenza spiegata con esempi]({{ '/say-vs-tell/' | relative_url }})
+- [Present Simple vs Present Continuous: differenze, esempi ed esercizi]({{ '/inglese/grammatica/present-simple-vs-present-continuous/' | relative_url }})
+- [Past Simple vs Past Continuous: differenze, esempi ed esercizi]({{ '/inglese/grammatica/past-simple-vs-past-continuous/' | relative_url }})
 
 ## Un esercizio semplice per ogni articolo
 
