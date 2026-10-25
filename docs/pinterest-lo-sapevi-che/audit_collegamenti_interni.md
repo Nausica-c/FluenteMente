@@ -1,15 +1,15 @@
 # Audit collegamenti interni — FluenteMente
 
-**Aggiornato:** 21 ottobre 2026  
-**Ambito:** home page, 30 articoli della rubrica Pinterest “Lo sapevi che…?”, quattro nuovi hub tematici, menu principale.  
+**Aggiornato:** 25 ottobre 2026  
+**Ambito:** home page, 30 articoli principali PIN01–PIN30, due articoli grammaticali supplementari PIN33–PIN34, quattro hub tematici e menu principale.  
 **Fonte:** repository ZIP fornito nel progetto; non è stata eseguita una verifica del sito pubblicato online.
 
 ## Risultato
 
-- Articoli inclusi: **30** (30 ID Pin univoci).
+- Articoli inclusi: **32** (30 articoli principali PIN01–PIN30 e due contenuti supplementari PIN33–PIN34).
 - Home page inclusa: **1**.
 - Hub nuovi creati: **4** — C2, C3, C4 e C5.
-- Pagine di contenuto nella mappa: **35**.
+- Pagine di contenuto nella mappa: **37** (32 articoli, home page e quattro hub).
 - Destinazioni interne non risolte nel corpo della home, degli articoli e degli hub: **0**.
 - Articoli senza collegamento al proprio hub o guida centrale: **0**.
 
@@ -20,7 +20,7 @@
 | C2 — Inglese pratico per conversare | `/inglese-pratico-per-parlare/` | 5 |
 | C3 — Espressioni naturali e inglese parlato | `/espressioni-inglesi-naturali/` | 5 |
 | C4 — Parole inglesi che si confondono facilmente | `/parole-inglesi-confuse/` | 6 |
-| C5 — Errori comuni e differenze grammaticali | `/errori-comuni-inglese/` | 6 |
+| C5 — Errori comuni e differenze grammaticali | `/errori-comuni-inglese/` | 8 |
 
 I cluster C1 e C6 continuano ad avere una guida centrale già compresa nei 30 articoli: pin23 e pin30. Le guide centrali collegano i relativi articoli di supporto.
 
@@ -41,5 +41,4 @@ I cluster C1 e C6 continuano ad avere una guida centrale già compresa nei 30 ar
 
 ## Dettaglio anomalie
 
-Nessuna destinazione `relative_url` non risolta nei contenuti inclusi (home, 30 articoli e quattro hub).
-Tutti i 30 articoli sono collegati alla guida centrale o al rispettivo hub; le pagine centrali elencano gli articoli del proprio cluster.
+Le destinazioni dei nuovi collegamenti relativi sono state controllate staticamente nei file PIN33, PIN34 e nell’hub C5; non è stata eseguita una build Jekyll né verificato il sito remoto. Tutti i 30 articoli principali conservano il collegamento al proprio percorso; PIN32 rimanda all’hub C2 e l’hub C2 lo include nella raccolta. PIN33 e PIN34 si collegano tra loro e all’hub C5.

@@ -3,8 +3,8 @@
 ## Sorgenti attive
 
 - `index.md`: homepage canonica (`/`).
-- `articoli/`: 30 articoli Pinterest PIN01–PIN30, nelle versioni più recenti.
-- `percorsi/hub-c2.md` … `percorsi/hub-c5.md`: quattro hub SEO attivi; i permalink espliciti mantengono gli URL pubblici.
+- `articoli/`: 30 articoli principali PIN01–PIN30, l’articolo conversazionale PIN32 e i contenuti grammaticali supplementari PIN33–PIN34.
+- `percorsi/hub-c2.md` … `percorsi/hub-c5.md`: quattro hub SEO attivi; l’hub C2 include PIN32 e l’hub C5 include PIN33 e PIN34.
 - `pages/servizi/`: pagine Chi siamo, Privacy, Cookie e Affiliazioni, con permalink invariati e `noindex, follow` finché i dati e i controlli non sono completati.
 - `_includes/`, `_layouts/`, `assets/`: componenti e risorse grafiche canoniche.
 - `google37d5be4e95f838cc.html`: file di verifica Google mantenuto alla radice del progetto GitHub Pages.

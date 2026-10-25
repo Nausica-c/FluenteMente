@@ -1,16 +1,16 @@
-# FluenteMente — mappa dei 30 articoli in cluster SEO
+# FluenteMente — mappa SEO degli articoli e dei cluster
 
-Questa tassonomia assegna a ciascuno dei 30 articoli un solo cluster principale. È una proposta di architettura tematica costruita a partire dai titoli, dalle parole chiave e dagli intenti presenti nel piano editoriale fornito; non è una misurazione dei volumi di ricerca.
+La tassonomia organizza i 30 articoli principali PIN01–PIN30 e registra anche i due contenuti grammaticali supplementari PIN33–PIN34. È un'architettura tematica costruita a partire da titoli, parole chiave e intenti editoriali; non rappresenta una misurazione dei volumi di ricerca.
 
 ## Riepilogo
 
 | ID | Cluster | N. articoli | Hub/articolo centrale | Stato |
 |---|---|---:|---|---|
 | C1 | Metodo di studio, routine e costanza | 6 | Come studiare inglese ogni giorno senza esaurire la motivazione (pin23) | Articolo esistente (pin23) |
-| C2 | Inglese pratico per conversare | 5 | Inglese pratico per parlare nelle situazioni quotidiane (Da individuare/creare) | Hub consigliato da creare; non fa parte dei 30 articoli |
-| C3 | Espressioni naturali e inglese parlato | 5 | Espressioni inglesi naturali da capire e usare (Da individuare/creare) | Hub consigliato da creare; non fa parte dei 30 articoli |
-| C4 | Parole inglesi che si confondono facilmente | 6 | Parole inglesi che sembrano simili ma non significano la stessa cosa (Da individuare/creare) | Hub consigliato da creare; non fa parte dei 30 articoli |
-| C5 | Errori comuni e differenze grammaticali | 6 | Errori comuni in inglese: forme e coppie da distinguere (Da individuare/creare) | Hub consigliato da creare; non fa parte dei 30 articoli |
+| C2 | Inglese pratico per conversare | 5 | Inglese pratico per parlare nelle situazioni quotidiane (`hub-c2.md`) | Hub attivo; esterno ai 30 articoli principali |
+| C3 | Espressioni naturali e inglese parlato | 5 | Espressioni inglesi naturali da capire e usare (`hub-c3.md`) | Hub attivo; esterno ai 30 articoli principali |
+| C4 | Parole inglesi che si confondono facilmente | 6 | Parole inglesi che sembrano simili ma non significano la stessa cosa (`hub-c4.md`) | Hub attivo; esterno ai 30 articoli principali |
+| C5 | Errori comuni e differenze grammaticali | 8 | Errori comuni in inglese: forme corrette ed esempi (`hub-c5.md`) | Hub attivo; include i PIN grammaticali supplementari |
 | C6 | Corsi e strumenti per imparare inglese | 2 | Come scegliere un corso di inglese in base ai tuoi obiettivi (pin30) | Articolo esistente (pin30) |
 
 ## Dettaglio dei cluster
@@ -34,8 +34,8 @@ Organizzare lo studio, comprendere senza tradurre ogni parola, costruire una rou
 
 Frasi ed esempi per presentarsi, ordinare, rispondere alle domande comuni e chiedere chiarimenti.
 
-**Hub previsto:** `/inglese-pratico-per-parlare/`  
-**Stato:** Hub consigliato da creare; non fa parte dei 30 articoli
+**Hub attivo:** `/inglese-pratico-per-parlare/`  
+**File:** `percorsi/hub-c2.md`; hub aggiornato con PIN32
 
 **Articoli assegnati:**
 - pin03 — Come ordinare un caffè in inglese senza bloccarti — `/ordinare-un-caffe-in-inglese/` — Supporto
@@ -43,6 +43,7 @@ Frasi ed esempi per presentarsi, ordinare, rispondere alle domande comuni e chie
 - pin13 — Cosa rispondere quando ti chiedono “How are you?” — `/come-rispondere-a-how-are-you/` — Supporto
 - pin14 — Come chiedere di ripetere in inglese con naturalezza — `/come-chiedere-di-ripetere-in-inglese/` — Supporto
 - pin16 — What do you do? Che cosa significa davvero? — `/what-do-you-do-significato/` — Supporto
+- pin32 — “Nice to meet you” o “Nice to see you”: qual è la differenza? — `/nice-to-meet-you-vs-nice-to-see-you/` — Supporto
 
 ### C3 — Espressioni naturali e inglese parlato
 
@@ -77,8 +78,8 @@ Falsi amici, traduzioni ingannevoli e differenze di significato o uso che posson
 
 Strutture frequenti e coppie di verbi o locuzioni da scegliere in base al significato e alla frase.
 
-**Hub previsto:** `/errori-comuni-inglese/`  
-**Stato:** Hub consigliato da creare; non fa parte dei 30 articoli
+**Hub attivo:** `/errori-comuni-inglese/`  
+**File:** `percorsi/hub-c5.md`; l’hub è separato dagli articoli di supporto
 
 **Articoli assegnati:**
 - pin04 — Si dice “I agree”, non “I’m agree” — `/i-agree-not-im-agree/` — Supporto
@@ -87,6 +88,8 @@ Strutture frequenti e coppie di verbi o locuzioni da scegliere in base al signif
 - pin24 — At the end e in the end: qual è la differenza? — `/at-the-end-vs-in-the-end/` — Supporto
 - pin28 — Borrow e lend: chi prende in prestito e chi presta? — `/borrow-vs-lend/` — Supporto
 - pin29 — Say e tell: la differenza spiegata con esempi — `/say-vs-tell/` — Supporto
+- pin33 — Present Simple vs Present Continuous: differenze, esempi ed esercizi — `/inglese/grammatica/present-simple-vs-present-continuous/` — Supporto
+- pin34 — Past Simple vs Past Continuous: differenze, esempi ed esercizi — `/inglese/grammatica/past-simple-vs-past-continuous/` — Supporto
 
 ### C6 — Corsi e strumenti per imparare inglese
 
@@ -101,9 +104,9 @@ Valutare un corso o un’app in base agli obiettivi, al livello, alle modalità,
 
 ## Regole di collegamento interno consigliate
 
-1. La home page deve esporre tutti i 30 articoli raggruppati secondo questi sei cluster: è stato aggiornato il blocco “Da dove vuoi cominciare?”.
+1. La home page mantiene il percorso dei 30 articoli principali raggruppati per cluster. I contenuti supplementari PIN32–PIN34 sono raggiungibili dall’hub C5 e tra loro tramite link contestuali.
 2. Ogni articolo di supporto dovrebbe rimandare a 2–3 pagine dello stesso cluster, usando collegamenti contestuali nel corpo del testo, senza inserire elenchi artificiali ripetitivi.
-3. Gli articoli centrali individuati sono `pin23` per il cluster C1 e `pin30` per il cluster C6. Per C2–C5 si raccomanda una pagina hub dedicata; tali hub non sono inclusi nei 30 articoli e non sono stati creati in questa operazione.
+3. Gli articoli centrali individuati sono `pin23` per il cluster C1 e `pin30` per il cluster C6. Gli hub C2–C5 sono disponibili in `percorsi/hub-c2.md`–`percorsi/hub-c5.md` con permalink dedicati.
 4. I campi `cluster_id`, `cluster_name`, `cluster_role`, `cluster_hub` e `cluster_hub_status` sono stati aggiunti ai front matter dei 30 file Markdown per conservare la classificazione nei contenuti.
 5. Il cluster primario non impedisce collegamenti trasversali utili. Per esempio, l’articolo pin03 può rimandare a pin14 per chiedere di ripetere; pin01 può rimandare a pin27 e pin30 per approfondire la scelta di un corso.
 
