@@ -17,8 +17,6 @@ secondary_keywords:
   - Past Continuous esempi
 ---
 
-# Past Simple vs Past Continuous: qual è la differenza?
-
 Per raccontare qualcosa che è successo in inglese, spesso devi scegliere tra **Past Simple** e **Past Continuous**. Entrambi parlano del passato, ma mettono in evidenza aspetti diversi: il Past Simple presenta un evento come concluso; il Past Continuous mostra un'azione mentre era in corso in un preciso momento o faceva da sfondo a un altro evento.
 
 Confronta queste frasi:

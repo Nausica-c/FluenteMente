@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Present Simple vs Present Continuous: differenze, esempi ed esercizi"
 description: "Scopri quando usare Present Simple e Present Continuous in inglese: regole, esempi pratici, parole-spia ed esercizi con soluzioni."
 permalink: /inglese/grammatica/present-simple-vs-present-continuous/
@@ -10,8 +10,6 @@ tags:
   - present continuous
   - grammatica inglese
 ---
-
-# Present Simple vs Present Continuous: qual è la differenza?
 
 In inglese, **Present Simple** e **Present Continuous** possono sembrare simili, ma si usano per parlare di situazioni diverse. Il primo descrive soprattutto abitudini, fatti e situazioni generalmente stabili; il secondo mette in evidenza un'azione in corso o una situazione temporanea.
 
