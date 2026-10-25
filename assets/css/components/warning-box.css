@@ -1,0 +1,12 @@
+.fm-warning-box{
+  background:#fff8f1;
+  border-left:4px solid #ff9800;
+  padding:18px;
+  border-radius:14px;
+  margin:28px 0;
+}
+
+.fm-warning-title{
+  font-weight:700;
+  margin-bottom:8px;
+}

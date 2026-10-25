@@ -1,0 +1,38 @@
+title: "FluenteMente"
+description: "Mini-lezioni in italiano, falsi amici, espressioni naturali e frasi utili per imparare inglese un passo alla volta."
+url: "https://nausica-c.github.io"
+baseurl: "/FluenteMente"
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Indicizzazione attiva per i contenuti editoriali pubblici.
+# Le pagine di servizio con dati ancora da completare mantengono un noindex specifico nel front matter.
+launch_mode: false
+
+# File di lavoro editoriali e di pubblicazione: disponibili nel repository GitHub,
+# ma esclusi dall'output del sito.
+exclude:
+  - _archive
+  - docs
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# URL affiliato Awin configurato: verificare redirect e tracciamento prima della pubblicazione.
+babbel_affiliate_url: "https://www.awin1.com/awclick.php?gid=322314&mid=9659&awinaffid=2764918&linkid=2038278&clickref="
+babbel_official_url: "https://it.babbel.com/"
